@@ -1,0 +1,772 @@
+{
+	"content": [{
+		"line_name": "Helsinki Metro(Matinkylan-Itakeskus)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Matinkylan",
+			"uid": "1c6b1beb46f798e550e5c558",
+			"x": 2753971.73,
+			"y": 8398006.05
+		},
+		{
+			"is_practical": 1,
+			"name": "Niittykummun",
+			"uid": "61ab0dc41eab69ac1a94c658",
+			"x": 2756769.31,
+			"y": 8400502.01
+		},
+		{
+			"is_practical": 1,
+			"name": "Urheilupuiston",
+			"uid": "76845598efe223dd0a1cc758",
+			"x": 2758484.82,
+			"y": 8401141.07
+		},
+		{
+			"is_practical": 1,
+			"name": "Tapiolan",
+			"uid": "31d8a4d1a59333554351c058",
+			"x": 2761566.51,
+			"y": 8401297.32
+		},
+		{
+			"is_practical": 1,
+			"name": "Aalto University",
+			"uid": "c191eea0b51b7a184007c158",
+			"x": 2763902.62,
+			"y": 8403409.39
+		},
+		{
+			"is_practical": 1,
+			"name": "keilaniemen",
+			"uid": "88e0fe28fc56794e0582c258",
+			"x": 2763986.74,
+			"y": 8401347.8
+		},
+		{
+			"is_practical": 1,
+			"name": "koivusaaren",
+			"uid": "9968b765ff003ccb5c17c358",
+			"x": 2766826.73,
+			"y": 8398882.38
+		},
+		{
+			"is_practical": 1,
+			"name": "lauttasaaren",
+			"uid": "d725b433ba85655ecbe33c58",
+			"x": 2769862.37,
+			"y": 8397955.45
+		},
+		{
+			"is_practical": 1,
+			"name": "Ruoholahti",
+			"uid": "18b77d8191be753e06026f4c",
+			"x": 2773483.9,
+			"y": 8398729.35
+		},
+		{
+			"is_practical": 1,
+			"name": "Kamppi",
+			"uid": "a7dc6788f3703f4b9f9d684c",
+			"x": 2775193.04,
+			"y": 8400313.28
+		},
+		{
+			"is_practical": 1,
+			"name": "Central Railway Station",
+			"uid": "bad50546b905a6d47602694c",
+			"x": 2776504.67,
+			"y": 8400447.43
+		},
+		{
+			"is_practical": 1,
+			"name": "University of Helsinki",
+			"uid": "d91b4f33209a4f4bb15c6a4c",
+			"x": 2777174.41,
+			"y": 8400542.81
+		},
+		{
+			"is_practical": 1,
+			"name": "Hakaniemi",
+			"uid": "906ed6acc90588150d0e6b4c",
+			"x": 2777475.74,
+			"y": 8402346.84
+		},
+		{
+			"is_practical": 1,
+			"name": "Sornainen",
+			"uid": "08f13f330e5b3447a004644c",
+			"x": 2778658.97,
+			"y": 8404247.23
+		},
+		{
+			"is_practical": 1,
+			"name": "Kalasatama",
+			"uid": "ee6ef86db209994de7e9654c",
+			"x": 2780441.6,
+			"y": 8404172.71
+		},
+		{
+			"is_practical": 1,
+			"name": "Kulosaari",
+			"uid": "2830443f1f03dea0accb664c",
+			"x": 2783824.05,
+			"y": 8404509.55
+		},
+		{
+			"is_practical": 1,
+			"name": "Herttoniemi",
+			"uid": "9762e93558ee9582611c674c",
+			"x": 2786439.42,
+			"y": 8405830.17
+		},
+		{
+			"is_practical": 1,
+			"name": "Siilitie",
+			"uid": "3b68aed813cc58556d47604c",
+			"x": 2787963.73,
+			"y": 8408286.51
+		},
+		{
+			"is_practical": 1,
+			"name": "Itakeskus",
+			"uid": "7b85e5fade1b540ef92d614c",
+			"x": 2791658.2,
+			"y": 8409214.6
+		}]
+	},
+	{
+		"line_name": "Southern Branch(Vuosaari-Itakeskus)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Vuosaari",
+			"uid": "ff702476462a194bb9bd634c",
+			"x": 2798892.14,
+			"y": 8408671.06
+		},
+		{
+			"is_practical": 1,
+			"name": "Rastila",
+			"uid": "f22bb01c9f0580f47bb55c4c",
+			"x": 2796403.98,
+			"y": 8408224.91
+		},
+		{
+			"is_practical": 1,
+			"name": "Puotila",
+			"uid": "5941693306ba42fc8af15d4c",
+			"x": 2793486.56,
+			"y": 8410277.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Itakeskus",
+			"uid": "816ef08cc4b2b3b83e9a5e4c",
+			"x": 2791658.2,
+			"y": 8409214.6
+		}]
+	},
+	{
+		"line_name": "Line Airport Train I(Flygplatsen Airport-Flygplatsen Airport)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Flygplatsen Airport",
+			"uid": "6b49a43d8703c20b0b5cb374",
+			"x": 2779673.96,
+			"y": 8433272.35
+		},
+		{
+			"is_practical": 1,
+			"name": "Aviapolis",
+			"uid": "425f633744453215c256ac74",
+			"x": 2778012.11,
+			"y": 8430133.18
+		},
+		{
+			"is_practical": 1,
+			"name": "Kivisto",
+			"uid": "8655a071b45bfb1ff80cad74",
+			"x": 2765911.17,
+			"y": 8432585.96
+		},
+		{
+			"is_practical": 1,
+			"name": "Veckal",
+			"uid": "4413506f7d51c145374aae74",
+			"x": 2765629.92,
+			"y": 8428256.79
+		},
+		{
+			"is_practical": 1,
+			"name": "Vandaforsen",
+			"uid": "cb0d9965470b0e033210af74",
+			"x": 2766093.03,
+			"y": 8426157.55
+		},
+		{
+			"is_practical": 1,
+			"name": "Martensdal",
+			"uid": "0307a33f884d0b59b120a874",
+			"x": 2766606.8,
+			"y": 8424441.32
+		},
+		{
+			"is_practical": 1,
+			"name": "Klippsta",
+			"uid": "3a5d6c798d1788696040a974",
+			"x": 2766702.54,
+			"y": 8422794.17
+		},
+		{
+			"is_practical": 1,
+			"name": "Myrbacka",
+			"uid": "f41b69230e275909110daa74",
+			"x": 2766848.01,
+			"y": 8420702.33
+		},
+		{
+			"is_practical": 1,
+			"name": "Malmgard",
+			"uid": "f641ea13df4728442ad7ab74",
+			"x": 2767574.46,
+			"y": 8417940.19
+		},
+		{
+			"is_practical": 1,
+			"name": "Gamlas",
+			"uid": "74713b73ae0a139ece06a474",
+			"x": 2769337.62,
+			"y": 8415840.05
+		},
+		{
+			"is_practical": 1,
+			"name": "Norra Haga",
+			"uid": "a6114a3e95d0f74fefe4a574",
+			"x": 2770012.49,
+			"y": 8413680.53
+		},
+		{
+			"is_practical": 1,
+			"name": "Hoplax",
+			"uid": "d65c71e47101d6ad39e4a674",
+			"x": 2771136.68,
+			"y": 8411102.08
+		},
+		{
+			"is_practical": 1,
+			"name": "Ilmala",
+			"uid": "e286953550e300ad2cfaa774",
+			"x": 2774349.97,
+			"y": 8408583
+		},
+		{
+			"is_practical": 1,
+			"name": "Bole",
+			"uid": "0757b4d786e315b324e0a074",
+			"x": 2775663.85,
+			"y": 8406858.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Central Railway Station",
+			"uid": "25b562d793fd1da9c62ba174",
+			"x": 2776504.67,
+			"y": 8400447.43
+		},
+		{
+			"is_practical": 0,
+			"name": "Bole",
+			"uid": "f2b577c99be7ff62c07da274",
+			"x": 2775663.85,
+			"y": 8406858.52
+		},
+		{
+			"is_practical": 1,
+			"name": "Kottby",
+			"uid": "e0ab7fd3792cf934912ca374",
+			"x": 2777157.22,
+			"y": 8411532.96
+		},
+		{
+			"is_practical": 1,
+			"name": "Aggelby",
+			"uid": "e9b19d187f7aa865f7c59c74",
+			"x": 2779290.52,
+			"y": 8413314.53
+		},
+		{
+			"is_practical": 1,
+			"name": "Bocksbacka",
+			"uid": "087a9b4e2e2bce8caa059d74",
+			"x": 2782395.16,
+			"y": 8416479.04
+		},
+		{
+			"is_practical": 1,
+			"name": "Malm",
+			"uid": "0f2cca1f48c2934cd3f49e74",
+			"x": 2784201.12,
+			"y": 8418381.22
+		},
+		{
+			"is_practical": 1,
+			"name": "Mosabacka",
+			"uid": "417dacf61502eabd293a9f74",
+			"x": 2786307.73,
+			"y": 8421187.54
+		},
+		{
+			"is_practical": 1,
+			"name": "Parkstad",
+			"uid": "2694f1366cf31073266e9874",
+			"x": 2787023.56,
+			"y": 8423812.03
+		},
+		{
+			"is_practical": 1,
+			"name": "Dickursby",
+			"uid": "785488c7963d1f271ee99974",
+			"x": 2787941.04,
+			"y": 8427729.66
+		},
+		{
+			"is_practical": 1,
+			"name": "Sandkulla",
+			"uid": "00a57209996927a041ab9a74",
+			"x": 2788489.8,
+			"y": 8430070.1
+		},
+		{
+			"is_practical": 1,
+			"name": "Lejle",
+			"uid": "fd6b7d5da1ee78e232169b74",
+			"x": 2787331.54,
+			"y": 8434482.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Flygplatsen Airport",
+			"uid": "f33f45dafeac0b5f1d389474",
+			"x": 2779673.96,
+			"y": 8433272.35
+		}]
+	},
+	{
+		"line_name": "Northern Branch(Itakeskus-Mellunmaki)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Itakeskus",
+			"uid": "d8d9c3c0819df2b36068584c",
+			"x": 2791658.2,
+			"y": 8409214.6
+		},
+		{
+			"is_practical": 1,
+			"name": "Myllypuro",
+			"uid": "2e9d77ab74fd59214e3a594c",
+			"x": 2791514.13,
+			"y": 8412430.15
+		},
+		{
+			"is_practical": 1,
+			"name": "Kontula",
+			"uid": "9bf682cbdf6f7773a9175a4c",
+			"x": 2792251.4,
+			"y": 8415012.7
+		},
+		{
+			"is_practical": 1,
+			"name": "Mellunmaki",
+			"uid": "6d962959f13d905e73455b4c",
+			"x": 2795266.19,
+			"y": 8415662.55
+		}]
+	},
+	{
+		"line_name": "Northern Branch(Mellunmaki-Itakeskus)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Mellunmaki",
+			"uid": "e656e026cc428d06b626554c",
+			"x": 2795266.19,
+			"y": 8415662.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Kontula",
+			"uid": "007b3a740b488f6fa6c7564c",
+			"x": 2792251.4,
+			"y": 8415012.7
+		},
+		{
+			"is_practical": 0,
+			"name": "Myllypuro",
+			"uid": "d929fd7e09219f8eaf04574c",
+			"x": 2791514.13,
+			"y": 8412430.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Itakeskus",
+			"uid": "1f23ff1719c0964d9b00504c",
+			"x": 2791658.2,
+			"y": 8409214.6
+		}]
+	},
+	{
+		"line_name": "Helsinki Metro(Itakeskus-Matinkylan)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Itakeskus",
+			"uid": "0babe6352407fd57dd1e524c",
+			"x": 2791658.2,
+			"y": 8409214.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Siilitie",
+			"uid": "0168d2317b19e457ebf8534c",
+			"x": 2787963.73,
+			"y": 8408286.51
+		},
+		{
+			"is_practical": 0,
+			"name": "Herttoniemi",
+			"uid": "346c8d2f6219d2b192114c4c",
+			"x": 2786439.42,
+			"y": 8405830.17
+		},
+		{
+			"is_practical": 0,
+			"name": "Kulosaari",
+			"uid": "7472942f54ffab581cf74d4c",
+			"x": 2783824.05,
+			"y": 8404509.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Kalasatama",
+			"uid": "6c72a2c92d1625bed7b74e4c",
+			"x": 2780441.6,
+			"y": 8404172.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Sornainen",
+			"uid": "5994db20a3f0eefe00294f4c",
+			"x": 2778658.97,
+			"y": 8404247.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Hakaniemi",
+			"uid": "217d55c668b039602bfc484c",
+			"x": 2777475.74,
+			"y": 8402346.84
+		},
+		{
+			"is_practical": 0,
+			"name": "University of Helsinki",
+			"uid": "a89b9e86bf2e12b5b14c494c",
+			"x": 2777174.41,
+			"y": 8400542.81
+		},
+		{
+			"is_practical": 0,
+			"name": "Central Railway Station",
+			"uid": "62db491894fb88054acc4a4c",
+			"x": 2776504.67,
+			"y": 8400447.43
+		},
+		{
+			"is_practical": 0,
+			"name": "Kamppi",
+			"uid": "b64562cd0e4b738515b54b4c",
+			"x": 2775193.04,
+			"y": 8400313.28
+		},
+		{
+			"is_practical": 0,
+			"name": "Ruoholahti",
+			"uid": "9c90f87df5cb2cfcc236444c",
+			"x": 2773483.9,
+			"y": 8398729.35
+		},
+		{
+			"is_practical": 0,
+			"name": "lauttasaaren",
+			"uid": "d573f1b6e310f2aaca213d58",
+			"x": 2769862.37,
+			"y": 8397955.45
+		},
+		{
+			"is_practical": 0,
+			"name": "koivusaaren",
+			"uid": "93f6a82374e4f36840d63e58",
+			"x": 2766826.73,
+			"y": 8398882.38
+		},
+		{
+			"is_practical": 0,
+			"name": "keilaniemen",
+			"uid": "cb633fd77526799f48fd3f58",
+			"x": 2763986.74,
+			"y": 8401347.8
+		},
+		{
+			"is_practical": 0,
+			"name": "Aalto University",
+			"uid": "53973e15ffd171b4e4073858",
+			"x": 2763902.62,
+			"y": 8403409.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Tapiolan",
+			"uid": "5355b4e2f7fadd4ea4da3958",
+			"x": 2761566.51,
+			"y": 8401297.32
+		},
+		{
+			"is_practical": 0,
+			"name": "Urheilupuiston",
+			"uid": "daa2bcc95b009d930bb93a58",
+			"x": 2758484.82,
+			"y": 8401141.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Niittykummun",
+			"uid": "d38910331bdd32f0f6e73b58",
+			"x": 2756769.31,
+			"y": 8400502.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Matinkylan",
+			"uid": "787350eeb4becfaea3a93458",
+			"x": 2753971.73,
+			"y": 8398006.05
+		}]
+	},
+	{
+		"line_name": "Line Airport Train P(Flygplatsen Airport-Flygplatsen Airport)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Flygplatsen Airport",
+			"uid": "96fa6925a23ff2527af79674",
+			"x": 2779673.96,
+			"y": 8433272.35
+		},
+		{
+			"is_practical": 0,
+			"name": "Lejle",
+			"uid": "ea47460b741c43beea1e9774",
+			"x": 2787331.54,
+			"y": 8434482.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Sandkulla",
+			"uid": "c4699028c5f0d35717a19074",
+			"x": 2788489.8,
+			"y": 8430070.1
+		},
+		{
+			"is_practical": 0,
+			"name": "Dickursby",
+			"uid": "114a21c455192ee8dad89174",
+			"x": 2787941.04,
+			"y": 8427729.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Parkstad",
+			"uid": "a1a6b12da8a6e39141e19274",
+			"x": 2787023.56,
+			"y": 8423812.03
+		},
+		{
+			"is_practical": 0,
+			"name": "Mosabacka",
+			"uid": "364f4c9265df78a85a109374",
+			"x": 2786307.73,
+			"y": 8421187.54
+		},
+		{
+			"is_practical": 0,
+			"name": "Malm",
+			"uid": "caf081ebfee6635997f08c74",
+			"x": 2784201.12,
+			"y": 8418381.22
+		},
+		{
+			"is_practical": 0,
+			"name": "Bocksbacka",
+			"uid": "04891ad2e517aeb948fc8d74",
+			"x": 2782395.16,
+			"y": 8416479.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Aggelby",
+			"uid": "9eb0012328f771b516948e74",
+			"x": 2779290.52,
+			"y": 8413314.53
+		},
+		{
+			"is_practical": 0,
+			"name": "Kottby",
+			"uid": "ba41ccc3f7fb2fddbbdf8f74",
+			"x": 2777157.22,
+			"y": 8411532.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Bole",
+			"uid": "76a113cfa993829689b98874",
+			"x": 2775663.85,
+			"y": 8406858.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Central Railway Station",
+			"uid": "aaad4da704d8b0f08d1a8974",
+			"x": 2776504.67,
+			"y": 8400447.43
+		},
+		{
+			"is_practical": 0,
+			"name": "Bole",
+			"uid": "f5c5e0ec36beb45380288a74",
+			"x": 2775663.85,
+			"y": 8406858.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Ilmala",
+			"uid": "5f8ed28a321db961dcee8b74",
+			"x": 2774349.97,
+			"y": 8408583
+		},
+		{
+			"is_practical": 0,
+			"name": "Hoplax",
+			"uid": "6ce8d6293f2fe5a796ec8474",
+			"x": 2771136.68,
+			"y": 8411102.08
+		},
+		{
+			"is_practical": 0,
+			"name": "Norra Haga",
+			"uid": "6b4bdb1b63e9afa5fadc8574",
+			"x": 2770012.49,
+			"y": 8413680.53
+		},
+		{
+			"is_practical": 0,
+			"name": "Gamlas",
+			"uid": "677987dd29ebc3955ebe8674",
+			"x": 2769337.62,
+			"y": 8415840.05
+		},
+		{
+			"is_practical": 0,
+			"name": "Malmgard",
+			"uid": "34bfcddf45db67f7714b8774",
+			"x": 2767574.46,
+			"y": 8417940.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Myrbacka",
+			"uid": "7fbda1efe1b94802705e8074",
+			"x": 2766848.01,
+			"y": 8420702.33
+		},
+		{
+			"is_practical": 0,
+			"name": "Klippsta",
+			"uid": "108d058dce4c4917b03c8174",
+			"x": 2766702.54,
+			"y": 8422794.17
+		},
+		{
+			"is_practical": 0,
+			"name": "Martensdal",
+			"uid": "b5ef2a78cf598975e9e58274",
+			"x": 2766606.8,
+			"y": 8424441.32
+		},
+		{
+			"is_practical": 0,
+			"name": "Vandaforsen",
+			"uid": "9d1a2b6d0f3bd0acf12d8374",
+			"x": 2766093.03,
+			"y": 8426157.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Veckal",
+			"uid": "9d0feb0f56e2c864f5eafc74",
+			"x": 2765629.92,
+			"y": 8428256.79
+		},
+		{
+			"is_practical": 0,
+			"name": "Kivisto",
+			"uid": "5e6db2d64e2acca33813fd74",
+			"x": 2765911.17,
+			"y": 8432585.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Aviapolis",
+			"uid": "06b4aa1e4aed015a5ed4fe74",
+			"x": 2778012.11,
+			"y": 8430133.18
+		},
+		{
+			"is_practical": 0,
+			"name": "Flygplatsen Airport",
+			"uid": "017caed98714679d55bfff74",
+			"x": 2779673.96,
+			"y": 8433272.35
+		}]
+	},
+	{
+		"line_name": "Southern Branch(Itakeskus-Vuosaari)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Itakeskus",
+			"uid": "f3a05c847d31784b4d6d464c",
+			"x": 2791658.2,
+			"y": 8409214.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Puotila",
+			"uid": "afd98b07fe0574244c55474c",
+			"x": 2793486.56,
+			"y": 8410277.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Rastila",
+			"uid": "795a0833f26a751cbca2404c",
+			"x": 2796403.98,
+			"y": 8408224.91
+		},
+		{
+			"is_practical": 0,
+			"name": "Vuosaari",
+			"uid": "fd6e045cf35285eb8515414c",
+			"x": 2798892.14,
+			"y": 8408671.06
+		}]
+	}],
+	"result": {
+		"ccode": "51373",
+		"qt": "bsi"
+	}
+}

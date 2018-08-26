@@ -1,0 +1,814 @@
+{
+	"content": [{
+		"line_name": "Seagull Line(Reboleira-Santa Apolonia)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Reboleira",
+			"uid": "45737ce1266fb36677e5b676",
+			"x": -1026868.31,
+			"y": 4659276.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Amadora Este",
+			"uid": "9f9dc25b35284eacd718b776",
+			"x": -1026305.21,
+			"y": 4660138.3
+		},
+		{
+			"is_practical": 1,
+			"name": "Alfornelos",
+			"uid": "2027d11cc8e2ee51ff0eb076",
+			"x": -1024659.43,
+			"y": 4660416.51
+		},
+		{
+			"is_practical": 1,
+			"name": "Pontinha",
+			"uid": "30602cd6681fc6473804b176",
+			"x": -1023818.93,
+			"y": 4660671.24
+		},
+		{
+			"is_practical": 1,
+			"name": "Carnide",
+			"uid": "ccaa8c2b4009014dfb42b276",
+			"x": -1023338.79,
+			"y": 4660258.13
+		},
+		{
+			"is_practical": 1,
+			"name": "Colegio Militar\/Luz",
+			"uid": "6b57a43d8703c20b0b5cb376",
+			"x": -1022885.01,
+			"y": 4659395.01
+		},
+		{
+			"is_practical": 1,
+			"name": "Alto dos Moinhos",
+			"uid": "4241633744453215c256ac76",
+			"x": -1021932.66,
+			"y": 4658881.76
+		},
+		{
+			"is_practical": 1,
+			"name": "Laranjeiras",
+			"uid": "864ba071b45bfb1ff80cad76",
+			"x": -1021058.25,
+			"y": 4658705.35
+		},
+		{
+			"is_practical": 1,
+			"name": "Jardim Zoologico",
+			"uid": "440d506f7d51c145374aae76",
+			"x": -1020662.71,
+			"y": 4657814.6
+		},
+		{
+			"is_practical": 1,
+			"name": "Praca de Espanha",
+			"uid": "cb139965470b0e033210af76",
+			"x": -1019507.58,
+			"y": 4657170.2
+		},
+		{
+			"is_practical": 1,
+			"name": "Sao Sebastiao",
+			"uid": "0319a33f884d0b59b120a876",
+			"x": -1019065.94,
+			"y": 4656756.25
+		},
+		{
+			"is_practical": 1,
+			"name": "Parque",
+			"uid": "3a436c798d1788696040a976",
+			"x": -1018607.56,
+			"y": 4656048.14
+		},
+		{
+			"is_practical": 1,
+			"name": "Marques de Pombal",
+			"uid": "f40569230e275909110daa76",
+			"x": -1018678.17,
+			"y": 4655366.03
+		},
+		{
+			"is_practical": 1,
+			"name": "Avenida",
+			"uid": "f65fea13df4728442ad7ab76",
+			"x": -1018123.45,
+			"y": 4654682.24
+		},
+		{
+			"is_practical": 1,
+			"name": "Restauradores",
+			"uid": "746f3b73ae0a139ece06a476",
+			"x": -1017639.34,
+			"y": 4653964.1
+		},
+		{
+			"is_practical": 1,
+			"name": "Baixa Chiado",
+			"uid": "a60f4a3e95d0f74fefe4a576",
+			"x": -1017366.74,
+			"y": 4653338.97
+		},
+		{
+			"is_practical": 1,
+			"name": "Terreiro do Paco",
+			"uid": "d64271e47101d6ad39e4a676",
+			"x": -1016756.32,
+			"y": 4652847.5
+		},
+		{
+			"is_practical": 1,
+			"name": "Santa Apolonia",
+			"uid": "e298953550e300ad2cfaa776",
+			"x": -1015589.4,
+			"y": 4653750.42
+		}]
+	},
+	{
+		"line_name": "Orient Line(Aeroporto-Sao Sebastiao)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Aeroporto",
+			"uid": "25ab62d793fd1da9c62ba176",
+			"x": -1016191.29,
+			"y": 4661677.24
+		},
+		{
+			"is_practical": 1,
+			"name": "Encarnacao",
+			"uid": "f2ab77c99be7ff62c07da276",
+			"x": -1014679.61,
+			"y": 4662483.36
+		},
+		{
+			"is_practical": 1,
+			"name": "Moscavide",
+			"uid": "e0b57fd3792cf934912ca376",
+			"x": -1013363.57,
+			"y": 4662455.28
+		},
+		{
+			"is_practical": 1,
+			"name": "Oriente",
+			"uid": "e9af9d187f7aa865f7c59c76",
+			"x": -1012832.25,
+			"y": 4661451.4
+		},
+		{
+			"is_practical": 1,
+			"name": "Cabo Ruivo",
+			"uid": "08649b4e2e2bce8caa059d76",
+			"x": -1013462.43,
+			"y": 4660783.54
+		},
+		{
+			"is_practical": 1,
+			"name": "Olivais",
+			"uid": "0f32ca1f48c2934cd3f49e76",
+			"x": -1014348.18,
+			"y": 4660509.94
+		},
+		{
+			"is_practical": 1,
+			"name": "Chelas",
+			"uid": "4163acf61502eabd293a9f76",
+			"x": -1014584.47,
+			"y": 4659678.66
+		},
+		{
+			"is_practical": 1,
+			"name": "Bela Vista",
+			"uid": "268af1366cf31073266e9876",
+			"x": -1015070.5,
+			"y": 4658594.32
+		},
+		{
+			"is_practical": 1,
+			"name": "Olaias",
+			"uid": "784a88c7963d1f271ee99976",
+			"x": -1015646.19,
+			"y": 4657387.64
+		},
+		{
+			"is_practical": 1,
+			"name": "Alameda",
+			"uid": "00bb7209996927a041ab9a76",
+			"x": -1016807.17,
+			"y": 4657109.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Saldanha",
+			"uid": "fd757d5da1ee78e232169b76",
+			"x": -1018085.5,
+			"y": 4656838.36
+		},
+		{
+			"is_practical": 0,
+			"name": "Sao Sebastiao",
+			"uid": "f32145dafeac0b5f1d389476",
+			"x": -1019065.94,
+			"y": 4656756.25
+		}]
+	},
+	{
+		"line_name": "Caravel Line(Telheiras-Cais do Sodre)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Telheiras",
+			"uid": "96e46925a23ff2527af79676",
+			"x": -1020429.75,
+			"y": 4660433.27
+		},
+		{
+			"is_practical": 1,
+			"name": "Campo Grande",
+			"uid": "ea59460b741c43beea1e9776",
+			"x": -1019474.67,
+			"y": 4660327.27
+		},
+		{
+			"is_practical": 1,
+			"name": "Alvalade",
+			"uid": "c4779028c5f0d35717a19076",
+			"x": -1017896.54,
+			"y": 4659403.38
+		},
+		{
+			"is_practical": 1,
+			"name": "Roma",
+			"uid": "115421c455192ee8dad89176",
+			"x": -1017617.5,
+			"y": 4658705.35
+		},
+		{
+			"is_practical": 1,
+			"name": "Areeiro",
+			"uid": "a1b8b12da8a6e39141e19276",
+			"x": -1016777.03,
+			"y": 4657869.9
+		},
+		{
+			"is_practical": 0,
+			"name": "Alameda",
+			"uid": "36514c9265df78a85a109376",
+			"x": -1016807.17,
+			"y": 4657109.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Arroios",
+			"uid": "caee81ebfee6635997f08c76",
+			"x": -1016847.41,
+			"y": 4656586.12
+		},
+		{
+			"is_practical": 1,
+			"name": "Anjos",
+			"uid": "04971ad2e517aeb948fc8d76",
+			"x": -1016911.13,
+			"y": 4655609.88
+		},
+		{
+			"is_practical": 1,
+			"name": "Intendente",
+			"uid": "9eae012328f771b516948e76",
+			"x": -1016943.79,
+			"y": 4655010.73
+		},
+		{
+			"is_practical": 1,
+			"name": "Martim Moniz",
+			"uid": "ba5fccc3f7fb2fddbbdf8f76",
+			"x": -1016994.92,
+			"y": 4654226.39
+		},
+		{
+			"is_practical": 1,
+			"name": "Rossio",
+			"uid": "76bf13cfa993829689b98876",
+			"x": -1017366.94,
+			"y": 4653797.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Baixa Chiado",
+			"uid": "aab34da704d8b0f08d1a8976",
+			"x": -1017366.74,
+			"y": 4653338.97
+		},
+		{
+			"is_practical": 1,
+			"name": "Cais do Sodre",
+			"uid": "f5dbe0ec36beb45380288a76",
+			"x": -1018017.25,
+			"y": 4652597.37
+		}]
+	},
+	{
+		"line_name": "Sunflower Line(Rato-Odivelas)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Rato",
+			"uid": "6cf6d6293f2fe5a796ec8476",
+			"x": -1019037.89,
+			"y": 4654679.73
+		},
+		{
+			"is_practical": 0,
+			"name": "Marques de Pombal",
+			"uid": "6b55db1b63e9afa5fadc8576",
+			"x": -1018678.17,
+			"y": 4655366.03
+		},
+		{
+			"is_practical": 1,
+			"name": "Picoas",
+			"uid": "676787dd29ebc3955ebe8676",
+			"x": -1018204.96,
+			"y": 4656173.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Saldanha",
+			"uid": "34a1cddf45db67f7714b8776",
+			"x": -1018085.5,
+			"y": 4656838.36
+		},
+		{
+			"is_practical": 1,
+			"name": "Campo Pequeno",
+			"uid": "7fa3a1efe1b94802705e8076",
+			"x": -1018239.31,
+			"y": 4657703.14
+		},
+		{
+			"is_practical": 1,
+			"name": "Entre Campos",
+			"uid": "1093058dce4c4917b03c8176",
+			"x": -1018417.36,
+			"y": 4658632.45
+		},
+		{
+			"is_practical": 1,
+			"name": "Cidade Universitaria",
+			"uid": "b5f12a78cf598975e9e58276",
+			"x": -1019541.92,
+			"y": 4659208.99
+		},
+		{
+			"is_practical": 0,
+			"name": "Campo Grande",
+			"uid": "9d042b6d0f3bd0acf12d8376",
+			"x": -1019474.67,
+			"y": 4660327.27
+		},
+		{
+			"is_practical": 1,
+			"name": "Quinta das Conchas",
+			"uid": "9d11eb0f56e2c864f5eafc76",
+			"x": -1019191.46,
+			"y": 4661362.16
+		},
+		{
+			"is_practical": 1,
+			"name": "Lumiar",
+			"uid": "5e73b2d64e2acca33813fd76",
+			"x": -1019672.45,
+			"y": 4662174.98
+		},
+		{
+			"is_practical": 1,
+			"name": "Ameixoeira",
+			"uid": "06aaaa1e4aed015a5ed4fe76",
+			"x": -1019685.83,
+			"y": 4663178.89
+		},
+		{
+			"is_practical": 1,
+			"name": "Senhor Roubado",
+			"uid": "0162aed98714679d55bfff76",
+			"x": -1021004.79,
+			"y": 4663974.97
+		},
+		{
+			"is_practical": 1,
+			"name": "Odivelas",
+			"uid": "04a56320e1d36cf6ef74f876",
+			"x": -1021175.76,
+			"y": 4665168.24
+		}]
+	},
+	{
+		"line_name": "Seagull Line(Santa Apolonia-Reboleira)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Santa Apolonia",
+			"uid": "ad9b0e8c5073da5cea56fa76",
+			"x": -1015589.4,
+			"y": 4653750.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Terreiro do Paco",
+			"uid": "a1f0b4475c12d31fc7effb76",
+			"x": -1016756.32,
+			"y": 4652847.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Baixa Chiado",
+			"uid": "1a3bb8265551fea63786f476",
+			"x": -1017366.74,
+			"y": 4653338.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Restauradores",
+			"uid": "155ab16578e80ecf05fef576",
+			"x": -1017639.34,
+			"y": 4653964.1
+		},
+		{
+			"is_practical": 0,
+			"name": "Avenida",
+			"uid": "1d199cdc88813cb716c8f676",
+			"x": -1018123.45,
+			"y": 4654682.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Marques de Pombal",
+			"uid": "3fa06cb5baf92f819e09f776",
+			"x": -1018678.17,
+			"y": 4655366.03
+		},
+		{
+			"is_practical": 0,
+			"name": "Parque",
+			"uid": "cec95ecda9cfa740cb09f076",
+			"x": -1018607.56,
+			"y": 4656048.14
+		},
+		{
+			"is_practical": 0,
+			"name": "Sao Sebastiao",
+			"uid": "ffb14dfb210ef240754ff176",
+			"x": -1019065.94,
+			"y": 4656756.25
+		},
+		{
+			"is_practical": 0,
+			"name": "Praca de Espanha",
+			"uid": "ed87c53a740e4c06203bf276",
+			"x": -1019507.58,
+			"y": 4657170.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Jardim Zoologico",
+			"uid": "6246903aca4819726949f376",
+			"x": -1020662.71,
+			"y": 4657814.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Laranjeiras",
+			"uid": "36462e7c9f3c50008d55ec76",
+			"x": -1021058.25,
+			"y": 4658705.35
+		},
+		{
+			"is_practical": 0,
+			"name": "Alto dos Moinhos",
+			"uid": "8b007b08d64eb41cdaeced76",
+			"x": -1021932.66,
+			"y": 4658881.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Colegio Militar\/Luz",
+			"uid": "df74327a3252e3a58b36ee76",
+			"x": -1022885.01,
+			"y": 4659395.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Carnide",
+			"uid": "6919d66665ebb27fcc04ef76",
+			"x": -1023338.79,
+			"y": 4660258.13
+		},
+		{
+			"is_practical": 0,
+			"name": "Pontinha",
+			"uid": "8c0581df3431f54d057ce876",
+			"x": -1023818.93,
+			"y": 4660671.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Alfornelos",
+			"uid": "d8bcd00573033c35a31de976",
+			"x": -1024659.43,
+			"y": 4660416.51
+		},
+		{
+			"is_practical": 0,
+			"name": "Amadora Este",
+			"uid": "88669737ba7b9a549c82ea76",
+			"x": -1026305.21,
+			"y": 4660138.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Reboleira",
+			"uid": "c8545e4f1c1aa5cb09f5eb76",
+			"x": -1026868.31,
+			"y": 4659276.85
+		}]
+	},
+	{
+		"line_name": "Orient Line(Sao Sebastiao-Aeroporto)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Sao Sebastiao",
+			"uid": "a54dc7b1b6f2d35bac31e576",
+			"x": -1019065.94,
+			"y": 4656756.25
+		},
+		{
+			"is_practical": 0,
+			"name": "Saldanha",
+			"uid": "9bd252c65515957842afe676",
+			"x": -1018085.5,
+			"y": 4656838.36
+		},
+		{
+			"is_practical": 0,
+			"name": "Alameda",
+			"uid": "01a5b12113367be6b917e776",
+			"x": -1016807.17,
+			"y": 4657109.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Olaias",
+			"uid": "e342f702fda8805e9022e076",
+			"x": -1015646.19,
+			"y": 4657387.64
+		},
+		{
+			"is_practical": 0,
+			"name": "Bela Vista",
+			"uid": "a661199c0610a96b2802e176",
+			"x": -1015070.5,
+			"y": 4658594.32
+		},
+		{
+			"is_practical": 0,
+			"name": "Chelas",
+			"uid": "49ffe2242f25114bd52ce276",
+			"x": -1014584.47,
+			"y": 4659678.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Olivais",
+			"uid": "b547cb119705ec65d33ce376",
+			"x": -1014348.18,
+			"y": 4660509.94
+		},
+		{
+			"is_practical": 0,
+			"name": "Cabo Ruivo",
+			"uid": "9d7273316a2bea753717dc76",
+			"x": -1013462.43,
+			"y": 4660783.54
+		},
+		{
+			"is_practical": 0,
+			"name": "Oriente",
+			"uid": "26528e1f6c3b0e5e09ccdd76",
+			"x": -1012832.25,
+			"y": 4661451.4
+		},
+		{
+			"is_practical": 0,
+			"name": "Moscavide",
+			"uid": "da7c880f881030859f95de76",
+			"x": -1013363.57,
+			"y": 4662455.28
+		},
+		{
+			"is_practical": 0,
+			"name": "Encarnacao",
+			"uid": "c36c6c24b6cba6dc4f2fdf76",
+			"x": -1014679.61,
+			"y": 4662483.36
+		},
+		{
+			"is_practical": 0,
+			"name": "Aeroporto",
+			"uid": "264752ff20927666a90dd876",
+			"x": -1016191.29,
+			"y": 4661677.24
+		}]
+	},
+	{
+		"line_name": "Sunflower Line(Odivelas-Rato)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Odivelas",
+			"uid": "8cc5141c160a30200c3dda76",
+			"x": -1021175.76,
+			"y": 4665168.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Senhor Roubado",
+			"uid": "5b7ff23eb66e3574c8c3db76",
+			"x": -1021004.79,
+			"y": 4663974.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Ameixoeira",
+			"uid": "bc5d525ab33af18a08a8d476",
+			"x": -1019685.83,
+			"y": 4663178.89
+		},
+		{
+			"is_practical": 0,
+			"name": "Lumiar",
+			"uid": "1f39570e77c431e11911d576",
+			"x": -1019672.45,
+			"y": 4662174.98
+		},
+		{
+			"is_practical": 0,
+			"name": "Quinta das Conchas",
+			"uid": "1b6d93f0b7af2058d02dd676",
+			"x": -1019191.46,
+			"y": 4661362.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Campo Grande",
+			"uid": "d093539ba616e9644154d776",
+			"x": -1019474.67,
+			"y": 4660327.27
+		},
+		{
+			"is_practical": 0,
+			"name": "Cidade Universitaria",
+			"uid": "11f842226f2a781d240bd076",
+			"x": -1019541.92,
+			"y": 4659208.99
+		},
+		{
+			"is_practical": 0,
+			"name": "Entre Campos",
+			"uid": "03418b1efe531d422911d176",
+			"x": -1018417.36,
+			"y": 4658632.45
+		},
+		{
+			"is_practical": 0,
+			"name": "Campo Pequeno",
+			"uid": "cb7d1a679b0c105878dbd276",
+			"x": -1018239.31,
+			"y": 4657703.14
+		},
+		{
+			"is_practical": 0,
+			"name": "Saldanha",
+			"uid": "5d047f38961641927269d376",
+			"x": -1018085.5,
+			"y": 4656838.36
+		},
+		{
+			"is_practical": 0,
+			"name": "Picoas",
+			"uid": "395b7222c7dc4b206da3cc76",
+			"x": -1018204.96,
+			"y": 4656173.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Marques de Pombal",
+			"uid": "374123e8cd6e54eaaaf0cd76",
+			"x": -1018678.17,
+			"y": 4655366.03
+		},
+		{
+			"is_practical": 0,
+			"name": "Rato",
+			"uid": "678b295ad2a493b92a06ce76",
+			"x": -1019037.89,
+			"y": 4654679.73
+		}]
+	},
+	{
+		"line_name": "Caravel Line(Cais do Sodre-Telheiras)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Cais do Sodre",
+			"uid": "4cf3f1c39501fab8583ac876",
+			"x": -1018017.25,
+			"y": 4652597.37
+		},
+		{
+			"is_practical": 0,
+			"name": "Baixa Chiado",
+			"uid": "88a071357cf66173911fc976",
+			"x": -1017366.74,
+			"y": 4653338.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Rossio",
+			"uid": "095698c2e73da856efdfca76",
+			"x": -1017366.94,
+			"y": 4653797.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Martim Moniz",
+			"uid": "e7a103092e18d696f9f0cb76",
+			"x": -1016994.92,
+			"y": 4654226.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Intendente",
+			"uid": "7d6aca2c50d8c0b9a1acc476",
+			"x": -1016943.79,
+			"y": 4655010.73
+		},
+		{
+			"is_practical": 0,
+			"name": "Anjos",
+			"uid": "b74fb4ec46f798e550e5c576",
+			"x": -1016911.13,
+			"y": 4655609.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Arroios",
+			"uid": "c88fa2c31eab69ac1a94c676",
+			"x": -1016847.41,
+			"y": 4656586.12
+		},
+		{
+			"is_practical": 0,
+			"name": "Alameda",
+			"uid": "d1a0fa9fefe223dd0a1cc776",
+			"x": -1016807.17,
+			"y": 4657109.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Areeiro",
+			"uid": "88fc0bd6a59333554351c076",
+			"x": -1016777.03,
+			"y": 4657869.9
+		},
+		{
+			"is_practical": 0,
+			"name": "Roma",
+			"uid": "7ab541a7b51b7a184007c176",
+			"x": -1017617.5,
+			"y": 4658705.35
+		},
+		{
+			"is_practical": 0,
+			"name": "Alvalade",
+			"uid": "31c4512ffc56794e0582c276",
+			"x": -1017896.54,
+			"y": 4659403.38
+		},
+		{
+			"is_practical": 0,
+			"name": "Campo Grande",
+			"uid": "264c1862ff003ccb5c17c376",
+			"x": -1019474.67,
+			"y": 4660327.27
+		},
+		{
+			"is_practical": 0,
+			"name": "Telheiras",
+			"uid": "6e011b34ba85655ecbe33c76",
+			"x": -1020429.75,
+			"y": 4660433.27
+		}]
+	}],
+	"result": {
+		"ccode": "51944",
+		"qt": "bsi"
+	}
+}

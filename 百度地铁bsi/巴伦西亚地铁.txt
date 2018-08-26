@@ -1,0 +1,3040 @@
+{
+	"content": [{
+		"line_name": "M4(Mas del Rosari-Les Arenes)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Mas del Rosari",
+			"uid": "cf3c5d31209a4f4bb15c6a6d",
+			"x": -48506.41,
+			"y": 4769696.36
+		},
+		{
+			"is_practical": 1,
+			"name": "La Coma",
+			"uid": "8249c4aec90588150d0e6b6d",
+			"x": -48063.57,
+			"y": 4769210.16
+		},
+		{
+			"is_practical": 1,
+			"name": "Tomas y Valiente",
+			"uid": "1ad62d310e5b3447a004646d",
+			"x": -47405.01,
+			"y": 4768972.84
+		},
+		{
+			"is_practical": 1,
+			"name": "Santa Gemma Parc Cientific UV",
+			"uid": "f049ea6fb209994de7e9656d",
+			"x": -47052.71,
+			"y": 4768277.48
+		},
+		{
+			"is_practical": 1,
+			"name": "Tvv",
+			"uid": "3617563d1f03dea0accb666d",
+			"x": -47278.73,
+			"y": 4767863.5
+		},
+		{
+			"is_practical": 1,
+			"name": "Vicent Andres Estelles",
+			"uid": "8545fb3758ee9582611c676d",
+			"x": -46745.13,
+			"y": 4767346.78
+		},
+		{
+			"is_practical": 1,
+			"name": "Campus",
+			"uid": "294fbcda13cc58556d47606d",
+			"x": -46469.33,
+			"y": 4767147.77
+		},
+		{
+			"is_practical": 1,
+			"name": "Sant Joan",
+			"uid": "6da2f7f8de1b540ef92d616d",
+			"x": -46347.06,
+			"y": 4766875.48
+		},
+		{
+			"is_practical": 1,
+			"name": "La Granja",
+			"uid": "27803a2fd240c0642002626d",
+			"x": -45910.2,
+			"y": 4766689.2
+		},
+		{
+			"is_practical": 1,
+			"name": "Empalme",
+			"uid": "ed573674462a194bb9bd636d",
+			"x": -44763.56,
+			"y": 4766053.17
+		},
+		{
+			"is_practical": 1,
+			"name": "Palau de Congressos",
+			"uid": "e00ca21e9f0580f47bb55c6d",
+			"x": -44548.63,
+			"y": 4765698.19
+		},
+		{
+			"is_practical": 1,
+			"name": "Florista",
+			"uid": "77667b3106ba42fc8af15d6d",
+			"x": -44170,
+			"y": 4765322.67
+		},
+		{
+			"is_practical": 1,
+			"name": "Garbi",
+			"uid": "af49e28ec4b2b3b83e9a5e6d",
+			"x": -43914.76,
+			"y": 4765016.1
+		},
+		{
+			"is_practical": 1,
+			"name": "Benicalap",
+			"uid": "29f6208635f607d3cbfa5f6d",
+			"x": -43518.21,
+			"y": 4764675.04
+		},
+		{
+			"is_practical": 1,
+			"name": "Transits",
+			"uid": "eafed1c2819df2b36068586d",
+			"x": -43112.53,
+			"y": 4764606.58
+		},
+		{
+			"is_practical": 1,
+			"name": "Marxalenes",
+			"uid": "18ba65a974fd59214e3a596d",
+			"x": -42713.66,
+			"y": 4764375.9
+		},
+		{
+			"is_practical": 1,
+			"name": "Reus",
+			"uid": "add190c9df6f7773a9175a6d",
+			"x": -42487.59,
+			"y": 4764108.78
+		},
+		{
+			"is_practical": 1,
+			"name": "Sagunt",
+			"uid": "5fb13b5bf13d905e73455b6d",
+			"x": -41737.18,
+			"y": 4764174.22
+		},
+		{
+			"is_practical": 1,
+			"name": "Pont de Fusta",
+			"uid": "f523150916104a0cb44f546d",
+			"x": -41547.1,
+			"y": 4763494.11
+		},
+		{
+			"is_practical": 1,
+			"name": "Primado Reig",
+			"uid": "d871f224cc428d06b626556d",
+			"x": -40937.28,
+			"y": 4764143.75
+		},
+		{
+			"is_practical": 1,
+			"name": "Benimaclet",
+			"uid": "3e5c28760b488f6fa6c7566d",
+			"x": -40330.65,
+			"y": 4763938.3
+		},
+		{
+			"is_practical": 1,
+			"name": "Vicente Zaragoza",
+			"uid": "eb0eef7c09219f8eaf04576d",
+			"x": -39844.7,
+			"y": 4763726.78
+		},
+		{
+			"is_practical": 1,
+			"name": "Universitat Politecnica",
+			"uid": "2d04ed1519c0964d9b00506d",
+			"x": -39013.73,
+			"y": 4763429.3
+		},
+		{
+			"is_practical": 1,
+			"name": "La Carrasca",
+			"uid": "2c6dfdf41003a249c41e516d",
+			"x": -38373.77,
+			"y": 4763188.02
+		},
+		{
+			"is_practical": 1,
+			"name": "Tarongers",
+			"uid": "3d8cf4372407fd57dd1e526d",
+			"x": -37806.66,
+			"y": 4762977.23
+		},
+		{
+			"is_practical": 1,
+			"name": "Serreria",
+			"uid": "334fc0337b19e457ebf8536d",
+			"x": -37209.06,
+			"y": 4762745.21
+		},
+		{
+			"is_practical": 1,
+			"name": "La Cadena",
+			"uid": "064b9f2d6219d2b192114c6d",
+			"x": -36671.44,
+			"y": 4762550.33
+		},
+		{
+			"is_practical": 1,
+			"name": "Eugenia Vines",
+			"uid": "5a55862d54ffab581cf74d6d",
+			"x": -36258.15,
+			"y": 4762338.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Les Arenes",
+			"uid": "4255b0cb2d1625bed7b74e6d",
+			"x": -36270.05,
+			"y": 4761647.83
+		}]
+	},
+	{
+		"line_name": "M2(Lliria-Torrent Avinguda)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Lliria",
+			"uid": "335a47c468b039602bfc486d",
+			"x": -65707.03,
+			"y": 4783786.35
+		},
+		{
+			"is_practical": 1,
+			"name": "Benaguasil 2n",
+			"uid": "bebc8c84bf2e12b5b14c496d",
+			"x": -64993.97,
+			"y": 4780324.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Benaguasil 1r",
+			"uid": "74fc5b1a94fb88054acc4a6d",
+			"x": -64380.73,
+			"y": 4779451
+		},
+		{
+			"is_practical": 1,
+			"name": "La Pobla de Vallbona",
+			"uid": "a46270cf0e4b738515b54b6d",
+			"x": -62606.95,
+			"y": 4778014.36
+		},
+		{
+			"is_practical": 1,
+			"name": "Torre del Virrei",
+			"uid": "8eb7ea7ff5cb2cfcc236446d",
+			"x": -60325.86,
+			"y": 4775980.41
+		},
+		{
+			"is_practical": 1,
+			"name": "L'Eliana",
+			"uid": "170711ffaab2fb7f4102456d",
+			"x": -59647.46,
+			"y": 4774988.74
+		},
+		{
+			"is_practical": 1,
+			"name": "Montesol",
+			"uid": "ed874e867d31784b4d6d466d",
+			"x": -59186.59,
+			"y": 4774102.16
+		},
+		{
+			"is_practical": 1,
+			"name": "El Clot",
+			"uid": "bdfe9905fe0574244c55476d",
+			"x": -58771.41,
+			"y": 4773285.33
+		},
+		{
+			"is_practical": 1,
+			"name": "Entrepins",
+			"uid": "6b7d1a31f26a751cbca2406d",
+			"x": -57207.15,
+			"y": 4772342.73
+		},
+		{
+			"is_practical": 1,
+			"name": "La Vallesa",
+			"uid": "eb49165ef35285eb8515416d",
+			"x": -55437.82,
+			"y": 4771550.34
+		},
+		{
+			"is_practical": 1,
+			"name": "La Canyada",
+			"uid": "e626176603a5bc5cbc48426d",
+			"x": -54226.06,
+			"y": 4769971.68
+		},
+		{
+			"is_practical": 1,
+			"name": "Fuente del Jarro",
+			"uid": "e01ee7913a1285011776436d",
+			"x": -51655.05,
+			"y": 4767691.19
+		},
+		{
+			"is_practical": 1,
+			"name": "Santa Rita",
+			"uid": "11e9de26034f2e3f58bbbc72",
+			"x": -50656.73,
+			"y": 4766922.75
+		},
+		{
+			"is_practical": 1,
+			"name": "Paterna",
+			"uid": "2b5ee77ba87161f27e29bd72",
+			"x": -49200.07,
+			"y": 4765939.03
+		},
+		{
+			"is_practical": 1,
+			"name": "Campament",
+			"uid": "13034c45e7bc47605af6be72",
+			"x": -48474.55,
+			"y": 4765522.08
+		},
+		{
+			"is_practical": 1,
+			"name": "Les Carolines\/Fira",
+			"uid": "a73d0388c12e63bf8405bf72",
+			"x": -47360.25,
+			"y": 4765944.02
+		},
+		{
+			"is_practical": 1,
+			"name": "Benimamet",
+			"uid": "e9f0251ae5f1bd4cf703b872",
+			"x": -46677.44,
+			"y": 4766382.83
+		},
+		{
+			"is_practical": 1,
+			"name": "Cantereria",
+			"uid": "cc6201c53b02ce4a6c20b972",
+			"x": -45868.72,
+			"y": 4766453.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Empalme",
+			"uid": "e9bddf3648045569f23cba72",
+			"x": -44763.56,
+			"y": 4766053.17
+		},
+		{
+			"is_practical": 1,
+			"name": "Beniferri",
+			"uid": "304eac30d327cb7527d2bb72",
+			"x": -44443.32,
+			"y": 4764835.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Campanar",
+			"uid": "424837134d3b1e9b9968b472",
+			"x": -43979.56,
+			"y": 4763917.82
+		},
+		{
+			"is_practical": 1,
+			"name": "Estacio de Turia",
+			"uid": "da6ba90f98d5a0218a2fb572",
+			"x": -43509.36,
+			"y": 4763115.55
+		},
+		{
+			"is_practical": 1,
+			"name": "Angel Guimera",
+			"uid": "45777ce1266fb36677e5b672",
+			"x": -42895.64,
+			"y": 4761895.2
+		},
+		{
+			"is_practical": 1,
+			"name": "Pl.Espanya",
+			"uid": "9f99c25b35284eacd718b772",
+			"x": -42485.35,
+			"y": 4761241.19
+		},
+		{
+			"is_practical": 1,
+			"name": "Jesus",
+			"uid": "2023d11cc8e2ee51ff0eb072",
+			"x": -42809,
+			"y": 4760260.87
+		},
+		{
+			"is_practical": 1,
+			"name": "Patraix",
+			"uid": "30642cd6681fc6473804b172",
+			"x": -43435.94,
+			"y": 4759848.9
+		},
+		{
+			"is_practical": 1,
+			"name": "Safranar",
+			"uid": "ccae8c2b4009014dfb42b272",
+			"x": -44216.17,
+			"y": 4759700.62
+		},
+		{
+			"is_practical": 1,
+			"name": "Sant Isidre",
+			"uid": "6b53a43d8703c20b0b5cb372",
+			"x": -44834.97,
+			"y": 4759082.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Valencia Sud",
+			"uid": "4245633744453215c256ac72",
+			"x": -45729.7,
+			"y": 4757627.23
+		},
+		{
+			"is_practical": 1,
+			"name": "Paiporta",
+			"uid": "864fa071b45bfb1ff80cad72",
+			"x": -46524.51,
+			"y": 4756382.19
+		},
+		{
+			"is_practical": 1,
+			"name": "Picanya",
+			"uid": "4409506f7d51c145374aae72",
+			"x": -48674.08,
+			"y": 4756494.57
+		},
+		{
+			"is_practical": 1,
+			"name": "Torrent",
+			"uid": "cb179965470b0e033210af72",
+			"x": -51308.36,
+			"y": 4756933.29
+		},
+		{
+			"is_practical": 1,
+			"name": "Torrent Avinguda",
+			"uid": "031da33f884d0b59b120a872",
+			"x": -52528.42,
+			"y": 4756165.14
+		}]
+	},
+	{
+		"line_name": "M9(Alboraya Peris Arago-Riba roja de Turia)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Alboraya Peris Arago",
+			"uid": "f40169230e275909110daa72",
+			"x": -39221.93,
+			"y": 4766217.9
+		},
+		{
+			"is_practical": 1,
+			"name": "Alboraya Palmaret",
+			"uid": "f65bea13df4728442ad7ab72",
+			"x": -39556.32,
+			"y": 4765456.91
+		},
+		{
+			"is_practical": 1,
+			"name": "Machado",
+			"uid": "746b3b73ae0a139ece06a472",
+			"x": -39935.03,
+			"y": 4765020.41
+		},
+		{
+			"is_practical": 0,
+			"name": "Benimaclet",
+			"uid": "a60b4a3e95d0f74fefe4a572",
+			"x": -40330.65,
+			"y": 4763938.3
+		},
+		{
+			"is_practical": 1,
+			"name": "Facultats",
+			"uid": "d64671e47101d6ad39e4a672",
+			"x": -40284.17,
+			"y": 4762952.04
+		},
+		{
+			"is_practical": 1,
+			"name": "Alameda",
+			"uid": "e29c953550e300ad2cfaa772",
+			"x": -40689.21,
+			"y": 4762317.66
+		},
+		{
+			"is_practical": 1,
+			"name": "Colon",
+			"uid": "074db4d786e315b324e0a072",
+			"x": -41298.4,
+			"y": 4761828.46
+		},
+		{
+			"is_practical": 1,
+			"name": "Xativa",
+			"uid": "25af62d793fd1da9c62ba172",
+			"x": -41937.44,
+			"y": 4761391.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Angel Guimera",
+			"uid": "f2af77c99be7ff62c07da272",
+			"x": -42895.64,
+			"y": 4761895.2
+		},
+		{
+			"is_practical": 1,
+			"name": "Avinguda del Cid",
+			"uid": "e0b17fd3792cf934912ca372",
+			"x": -44263.78,
+			"y": 4761543.42
+		},
+		{
+			"is_practical": 1,
+			"name": "Nou d'Octubre",
+			"uid": "e9ab9d187f7aa865f7c59c72",
+			"x": -45207.31,
+			"y": 4761861.26
+		},
+		{
+			"is_practical": 1,
+			"name": "Mislata",
+			"uid": "08609b4e2e2bce8caa059d72",
+			"x": -46437.31,
+			"y": 4762329.76
+		},
+		{
+			"is_practical": 1,
+			"name": "Mislata Almassil",
+			"uid": "0f36ca1f48c2934cd3f49e72",
+			"x": -47234.41,
+			"y": 4762664.52
+		},
+		{
+			"is_practical": 1,
+			"name": "Faitanar",
+			"uid": "4167acf61502eabd293a9f72",
+			"x": -48226.76,
+			"y": 4762893.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Quart de Poblet",
+			"uid": "268ef1366cf31073266e9872",
+			"x": -49204.84,
+			"y": 4763369.15
+		},
+		{
+			"is_practical": 1,
+			"name": "Salt de l'Aigua",
+			"uid": "784e88c7963d1f271ee99972",
+			"x": -50072.23,
+			"y": 4763987.97
+		},
+		{
+			"is_practical": 1,
+			"name": "Manises",
+			"uid": "00bf7209996927a041ab9a72",
+			"x": -51103.34,
+			"y": 4764622.01
+		},
+		{
+			"is_practical": 1,
+			"name": "Rosas",
+			"uid": "fd717d5da1ee78e232169b72",
+			"x": -52020.74,
+			"y": 4765066.14
+		},
+		{
+			"is_practical": 1,
+			"name": "La Cova",
+			"uid": "f32545dafeac0b5f1d389472",
+			"x": -53935.15,
+			"y": 4765956.47
+		},
+		{
+			"is_practical": 1,
+			"name": "La Presa",
+			"uid": "c8a21a988d112471cb1b9572",
+			"x": -57437.82,
+			"y": 4768554.31
+		},
+		{
+			"is_practical": 1,
+			"name": "Masia de Traver",
+			"uid": "96e06925a23ff2527af79672",
+			"x": -60860.27,
+			"y": 4771587.01
+		},
+		{
+			"is_practical": 1,
+			"name": "Riba roja de Turia",
+			"uid": "ea5d460b741c43beea1e9772",
+			"x": -62264.11,
+			"y": 4772339.21
+		}]
+	},
+	{
+		"line_name": "M9(Riba roja de Turia-Alboraya Peris Arago)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Riba roja de Turia",
+			"uid": "115021c455192ee8dad89172",
+			"x": -62264.11,
+			"y": 4772339.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Masia de Traver",
+			"uid": "a1bcb12da8a6e39141e19272",
+			"x": -60860.27,
+			"y": 4771587.01
+		},
+		{
+			"is_practical": 0,
+			"name": "La Presa",
+			"uid": "36554c9265df78a85a109372",
+			"x": -57437.82,
+			"y": 4768554.31
+		},
+		{
+			"is_practical": 0,
+			"name": "La Cova",
+			"uid": "caea81ebfee6635997f08c72",
+			"x": -53935.15,
+			"y": 4765956.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Rosas",
+			"uid": "04931ad2e517aeb948fc8d72",
+			"x": -52020.74,
+			"y": 4765066.14
+		},
+		{
+			"is_practical": 0,
+			"name": "Manises",
+			"uid": "9eaa012328f771b516948e72",
+			"x": -51103.34,
+			"y": 4764622.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Salt de l'Aigua",
+			"uid": "ba5bccc3f7fb2fddbbdf8f72",
+			"x": -50072.23,
+			"y": 4763987.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Quart de Poblet",
+			"uid": "76bb13cfa993829689b98872",
+			"x": -49204.84,
+			"y": 4763369.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Faitanar",
+			"uid": "aab74da704d8b0f08d1a8972",
+			"x": -48226.76,
+			"y": 4762893.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Mislata Almassil",
+			"uid": "f5dfe0ec36beb45380288a72",
+			"x": -47234.41,
+			"y": 4762664.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Mislata",
+			"uid": "5f94d28a321db961dcee8b72",
+			"x": -46437.31,
+			"y": 4762329.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Nou d'Octubre",
+			"uid": "6cf2d6293f2fe5a796ec8472",
+			"x": -45207.31,
+			"y": 4761861.26
+		},
+		{
+			"is_practical": 0,
+			"name": "Avinguda del Cid",
+			"uid": "6b51db1b63e9afa5fadc8572",
+			"x": -44263.78,
+			"y": 4761543.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Angel Guimera",
+			"uid": "676387dd29ebc3955ebe8672",
+			"x": -42895.64,
+			"y": 4761895.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Xativa",
+			"uid": "34a5cddf45db67f7714b8772",
+			"x": -41937.44,
+			"y": 4761391.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Colon",
+			"uid": "7fa7a1efe1b94802705e8072",
+			"x": -41298.4,
+			"y": 4761828.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Alameda",
+			"uid": "1097058dce4c4917b03c8172",
+			"x": -40689.21,
+			"y": 4762317.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Facultats",
+			"uid": "b5f52a78cf598975e9e58272",
+			"x": -40284.17,
+			"y": 4762952.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Benimaclet",
+			"uid": "9d002b6d0f3bd0acf12d8372",
+			"x": -40330.65,
+			"y": 4763938.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Machado",
+			"uid": "9d15eb0f56e2c864f5eafc72",
+			"x": -39935.03,
+			"y": 4765020.41
+		},
+		{
+			"is_practical": 0,
+			"name": "Alboraya Palmaret",
+			"uid": "5e77b2d64e2acca33813fd72",
+			"x": -39556.32,
+			"y": 4765456.91
+		},
+		{
+			"is_practical": 0,
+			"name": "Alboraya Peris Arago",
+			"uid": "06aeaa1e4aed015a5ed4fe72",
+			"x": -39221.93,
+			"y": 4766217.9
+		}]
+	},
+	{
+		"line_name": "M7(Maritim Serreria-Torrent Avinguda)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Maritim Serreria",
+			"uid": "04a16320e1d36cf6ef74f872",
+			"x": -37618.07,
+			"y": 4761036.14
+		},
+		{
+			"is_practical": 1,
+			"name": "Estacion Metro Ayora",
+			"uid": "ca5805e7eab8d63de315f972",
+			"x": -38190.78,
+			"y": 4761415.97
+		},
+		{
+			"is_practical": 1,
+			"name": "Amistat Casa de Salud",
+			"uid": "ad9f0e8c5073da5cea56fa72",
+			"x": -39005.48,
+			"y": 4761853.47
+		},
+		{
+			"is_practical": 1,
+			"name": "Aragon",
+			"uid": "a1f4b4475c12d31fc7effb72",
+			"x": -39875.16,
+			"y": 4762183.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Alameda",
+			"uid": "1a3fb8265551fea63786f472",
+			"x": -40689.21,
+			"y": 4762317.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Colon",
+			"uid": "155eb16578e80ecf05fef572",
+			"x": -41298.4,
+			"y": 4761828.46
+		},
+		{
+			"is_practical": 1,
+			"name": "Estacio de Bailen",
+			"uid": "1d1d9cdc88813cb716c8f672",
+			"x": -42234.64,
+			"y": 4760938.43
+		},
+		{
+			"is_practical": 0,
+			"name": "Jesus",
+			"uid": "3fa46cb5baf92f819e09f772",
+			"x": -42809,
+			"y": 4760260.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Patraix",
+			"uid": "cecd5ecda9cfa740cb09f072",
+			"x": -43435.94,
+			"y": 4759848.9
+		},
+		{
+			"is_practical": 0,
+			"name": "Safranar",
+			"uid": "ffb54dfb210ef240754ff172",
+			"x": -44216.17,
+			"y": 4759700.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Sant Isidre",
+			"uid": "ed83c53a740e4c06203bf272",
+			"x": -44834.97,
+			"y": 4759082.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Valencia Sud",
+			"uid": "6242903aca4819726949f372",
+			"x": -45729.7,
+			"y": 4757627.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Paiporta",
+			"uid": "36422e7c9f3c50008d55ec72",
+			"x": -46524.51,
+			"y": 4756382.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Picanya",
+			"uid": "8b047b08d64eb41cdaeced72",
+			"x": -48674.08,
+			"y": 4756494.57
+		},
+		{
+			"is_practical": 0,
+			"name": "Torrent",
+			"uid": "df70327a3252e3a58b36ee72",
+			"x": -51308.36,
+			"y": 4756933.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Torrent Avinguda",
+			"uid": "6905d66665ebb27fcc04ef72",
+			"x": -52528.42,
+			"y": 4756165.14
+		}]
+	},
+	{
+		"line_name": "M3(Rafelbunyol-Aeroport)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Rafelbunyol",
+			"uid": "d8a0d00573033c35a31de972",
+			"x": -36855.39,
+			"y": 4778839.02
+		},
+		{
+			"is_practical": 1,
+			"name": "La Pobla de Farnals",
+			"uid": "887a9737ba7b9a549c82ea72",
+			"x": -36741.9,
+			"y": 4777447.96
+		},
+		{
+			"is_practical": 1,
+			"name": "Massamagrell",
+			"uid": "c8485e4f1c1aa5cb09f5eb72",
+			"x": -37069.87,
+			"y": 4776262.39
+		},
+		{
+			"is_practical": 1,
+			"name": "Museros",
+			"uid": "0030f82e238530bcea12e472",
+			"x": -37930.61,
+			"y": 4774994.46
+		},
+		{
+			"is_practical": 1,
+			"name": "Albalat dels Sorells",
+			"uid": "a551c7b1b6f2d35bac31e572",
+			"x": -38764.5,
+			"y": 4772619.53
+		},
+		{
+			"is_practical": 1,
+			"name": "Foios",
+			"uid": "9bce52c65515957842afe672",
+			"x": -39391.4,
+			"y": 4771473.07
+		},
+		{
+			"is_practical": 1,
+			"name": "Meliana",
+			"uid": "01b9b12113367be6b917e772",
+			"x": -39156.96,
+			"y": 4770139.5
+		},
+		{
+			"is_practical": 1,
+			"name": "Almassera",
+			"uid": "e35ef702fda8805e9022e072",
+			"x": -39434.01,
+			"y": 4767877.11
+		},
+		{
+			"is_practical": 0,
+			"name": "Alboraya Peris Arago",
+			"uid": "a67d199c0610a96b2802e172",
+			"x": -39221.93,
+			"y": 4766217.9
+		},
+		{
+			"is_practical": 0,
+			"name": "Alboraya Palmaret",
+			"uid": "49e3e2242f25114bd52ce272",
+			"x": -39556.32,
+			"y": 4765456.91
+		},
+		{
+			"is_practical": 0,
+			"name": "Machado",
+			"uid": "b55bcb119705ec65d33ce372",
+			"x": -39935.03,
+			"y": 4765020.41
+		},
+		{
+			"is_practical": 0,
+			"name": "Benimaclet",
+			"uid": "9d6e73316a2bea753717dc72",
+			"x": -40330.65,
+			"y": 4763938.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Facultats",
+			"uid": "264e8e1f6c3b0e5e09ccdd72",
+			"x": -40284.17,
+			"y": 4762952.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Alameda",
+			"uid": "da60880f881030859f95de72",
+			"x": -40689.21,
+			"y": 4762317.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Colon",
+			"uid": "c3706c24b6cba6dc4f2fdf72",
+			"x": -41298.4,
+			"y": 4761828.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Xativa",
+			"uid": "265b52ff20927666a90dd872",
+			"x": -41937.44,
+			"y": 4761391.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Angel Guimera",
+			"uid": "1b80c4a6f02890440969d972",
+			"x": -42895.64,
+			"y": 4761895.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Avinguda del Cid",
+			"uid": "8cd9141c160a30200c3dda72",
+			"x": -44263.78,
+			"y": 4761543.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Nou d'Octubre",
+			"uid": "5b63f23eb66e3574c8c3db72",
+			"x": -45207.31,
+			"y": 4761861.26
+		},
+		{
+			"is_practical": 0,
+			"name": "Mislata",
+			"uid": "bc41525ab33af18a08a8d472",
+			"x": -46437.31,
+			"y": 4762329.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Mislata Almassil",
+			"uid": "1f25570e77c431e11911d572",
+			"x": -47234.41,
+			"y": 4762664.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Faitanar",
+			"uid": "1b7193f0b7af2058d02dd672",
+			"x": -48226.76,
+			"y": 4762893.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Quart de Poblet",
+			"uid": "d08f539ba616e9644154d772",
+			"x": -49204.84,
+			"y": 4763369.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Salt de l'Aigua",
+			"uid": "11e442226f2a781d240bd072",
+			"x": -50072.23,
+			"y": 4763987.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Manises",
+			"uid": "035d8b1efe531d422911d172",
+			"x": -51103.34,
+			"y": 4764622.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Rosas",
+			"uid": "cb611a679b0c105878dbd272",
+			"x": -52020.74,
+			"y": 4765066.14
+		},
+		{
+			"is_practical": 1,
+			"name": "Aeroport",
+			"uid": "5d187f38961641927269d372",
+			"x": -52833.47,
+			"y": 4765041.93
+		}]
+	},
+	{
+		"line_name": "M6(Tossal del Rei-Maritim Serreria)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Tossal del Rei",
+			"uid": "375d23e8cd6e54eaaaf0cd72",
+			"x": -41468.19,
+			"y": 4765529.91
+		},
+		{
+			"is_practical": 1,
+			"name": "Sant Miquel dels Reis",
+			"uid": "6797295ad2a493b92a06ce72",
+			"x": -41013.78,
+			"y": 4765704.27
+		},
+		{
+			"is_practical": 1,
+			"name": "Estadi del Llevant",
+			"uid": "5225369015f7134fc3f1cf72",
+			"x": -40699.31,
+			"y": 4765374.39
+		},
+		{
+			"is_practical": 1,
+			"name": "Orriols",
+			"uid": "4ceff1c39501fab8583ac872",
+			"x": -40921.73,
+			"y": 4765135.42
+		},
+		{
+			"is_practical": 1,
+			"name": "Alfauir",
+			"uid": "88bc71357cf66173911fc972",
+			"x": -40747.56,
+			"y": 4764575.45
+		},
+		{
+			"is_practical": 0,
+			"name": "Primado Reig",
+			"uid": "094a98c2e73da856efdfca72",
+			"x": -40937.28,
+			"y": 4764143.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Benimaclet",
+			"uid": "e7bd03092e18d696f9f0cb72",
+			"x": -40330.65,
+			"y": 4763938.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Vicente Zaragoza",
+			"uid": "7d76ca2c50d8c0b9a1acc472",
+			"x": -39844.7,
+			"y": 4763726.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Universitat Politecnica",
+			"uid": "b753b4ec46f798e550e5c572",
+			"x": -39013.73,
+			"y": 4763429.3
+		},
+		{
+			"is_practical": 0,
+			"name": "La Carrasca",
+			"uid": "c893a2c31eab69ac1a94c672",
+			"x": -38373.77,
+			"y": 4763188.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Tarongers",
+			"uid": "d1bcfa9fefe223dd0a1cc772",
+			"x": -37806.66,
+			"y": 4762977.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Serreria",
+			"uid": "88e00bd6a59333554351c072",
+			"x": -37209.06,
+			"y": 4762745.21
+		},
+		{
+			"is_practical": 0,
+			"name": "La Cadena",
+			"uid": "7aa941a7b51b7a184007c172",
+			"x": -36671.44,
+			"y": 4762550.33
+		},
+		{
+			"is_practical": 0,
+			"name": "Eugenia Vines",
+			"uid": "31d8512ffc56794e0582c272",
+			"x": -36258.15,
+			"y": 4762338.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Les Arenes",
+			"uid": "26501862ff003ccb5c17c372",
+			"x": -36270.05,
+			"y": 4761647.83
+		},
+		{
+			"is_practical": 1,
+			"name": "Mediterrani",
+			"uid": "6e1d1b34ba85655ecbe33c72",
+			"x": -36501.92,
+			"y": 4761314.91
+		},
+		{
+			"is_practical": 1,
+			"name": "Grau Canyamelar",
+			"uid": "6e4b5eb1e310f2aaca213d72",
+			"x": -36680.74,
+			"y": 4760810.77
+		},
+		{
+			"is_practical": 1,
+			"name": "Francesc Cubells",
+			"uid": "2ace072474e4f36840d63e72",
+			"x": -37177.76,
+			"y": 4760849.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Maritim Serreria",
+			"uid": "6c5b90d07526799f48fd3f72",
+			"x": -37618.07,
+			"y": 4761036.14
+		}]
+	},
+	{
+		"line_name": "M4(Ll.Llarga Terramelar-Tvv)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Ll.Llarga Terramelar",
+			"uid": "f86d1be5f7fadd4ea4da3972",
+			"x": -47912.45,
+			"y": 4767540.35
+		},
+		{
+			"is_practical": 0,
+			"name": "Tvv",
+			"uid": "739a13ce5b009d930bb93a72",
+			"x": -47278.73,
+			"y": 4767863.5
+		}]
+	},
+	{
+		"line_name": "M4(Dr.Lluch-Mas del Rosari)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Dr.Lluch",
+			"uid": "d14bffe9b4becfaea3a93472",
+			"x": -36523.81,
+			"y": 4761714.27
+		},
+		{
+			"is_practical": 1,
+			"name": "La Marina",
+			"uid": "9296508a49e09ae012293572",
+			"x": -36462.29,
+			"y": 4762223.53
+		},
+		{
+			"is_practical": 0,
+			"name": "La Cadena",
+			"uid": "3cf5add41cae2b60b31e3672",
+			"x": -36671.44,
+			"y": 4762550.33
+		},
+		{
+			"is_practical": 0,
+			"name": "Serreria",
+			"uid": "ceabf89aad2e8a57f3193772",
+			"x": -37209.06,
+			"y": 4762745.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Tarongers",
+			"uid": "9ae5491a0c19ca50a3d23072",
+			"x": -37806.66,
+			"y": 4762977.23
+		},
+		{
+			"is_practical": 0,
+			"name": "La Carrasca",
+			"uid": "2865e82d4c1e9a9b3de23172",
+			"x": -38373.77,
+			"y": 4763188.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Universitat Politecnica",
+			"uid": "8852a82a1cd504ab461a3272",
+			"x": -39013.73,
+			"y": 4763429.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Vicente Zaragoza",
+			"uid": "cf55f8e182e57f532f473372",
+			"x": -39844.7,
+			"y": 4763726.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Benimaclet",
+			"uid": "9e9e66d1f91d160e6dc02c72",
+			"x": -40330.65,
+			"y": 4763938.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Primado Reig",
+			"uid": "03ae1d299040548902ff2d72",
+			"x": -40937.28,
+			"y": 4764143.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Pont de Fusta",
+			"uid": "79567474d2c73bb683a12e72",
+			"x": -41547.1,
+			"y": 4763494.11
+		},
+		{
+			"is_practical": 0,
+			"name": "Sagunt",
+			"uid": "6f0b36f3bdf8bae8b7f42f72",
+			"x": -41737.18,
+			"y": 4764174.22
+		},
+		{
+			"is_practical": 0,
+			"name": "Reus",
+			"uid": "2c8c59cc3ca68ebddb2f2872",
+			"x": -42487.59,
+			"y": 4764108.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Marxalenes",
+			"uid": "40b3d89208f3e266aaf72972",
+			"x": -42713.66,
+			"y": 4764375.9
+		},
+		{
+			"is_practical": 0,
+			"name": "Transits",
+			"uid": "c0edecc7642893beafb22a72",
+			"x": -43112.53,
+			"y": 4764606.58
+		},
+		{
+			"is_practical": 0,
+			"name": "Benicalap",
+			"uid": "f3b8801c15f096fb9eec2b72",
+			"x": -43518.21,
+			"y": 4764675.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Garbi",
+			"uid": "9e63f1c410b5a7a510882472",
+			"x": -43914.76,
+			"y": 4765016.1
+		},
+		{
+			"is_practical": 0,
+			"name": "Florista",
+			"uid": "ecbbf48121eb29c1c5f02572",
+			"x": -44170,
+			"y": 4765322.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Palau de Congressos",
+			"uid": "e8fec5dfaf8ffcb944572672",
+			"x": -44548.63,
+			"y": 4765698.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Empalme",
+			"uid": "d6a04bbb7af77d1e8c772772",
+			"x": -44763.56,
+			"y": 4766053.17
+		},
+		{
+			"is_practical": 0,
+			"name": "La Granja",
+			"uid": "59c49ec3fb50b53e20022072",
+			"x": -45910.2,
+			"y": 4766689.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Sant Joan",
+			"uid": "8fbc1f643370194b9ce32172",
+			"x": -46347.06,
+			"y": 4766875.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Campus",
+			"uid": "0f1bd7449f05a5aabea82272",
+			"x": -46469.33,
+			"y": 4767147.77
+		},
+		{
+			"is_practical": 0,
+			"name": "Vicent Andres Estelles",
+			"uid": "c03b7b3123e487e1d1ff2372",
+			"x": -46745.13,
+			"y": 4767346.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Tvv",
+			"uid": "6d4ec7d001afe8b63a221c72",
+			"x": -47278.73,
+			"y": 4767863.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Santa Gemma Parc Cientific UV",
+			"uid": "d2afe59b6ef8036b33f71d72",
+			"x": -47052.71,
+			"y": 4768277.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Tomas y Valiente",
+			"uid": "f1e48acc85250abeb65f1e72",
+			"x": -47405.01,
+			"y": 4768972.84
+		},
+		{
+			"is_practical": 0,
+			"name": "La Coma",
+			"uid": "81b361118cf08f16d5851f72",
+			"x": -48063.57,
+			"y": 4769210.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Mas del Rosari",
+			"uid": "6b6e68c40958ecccda131872",
+			"x": -48506.41,
+			"y": 4769696.36
+		}]
+	},
+	{
+		"line_name": "M5(Maritim Serreria-Aeroport)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Maritim Serreria",
+			"uid": "e5138eb66514af4a29201a72",
+			"x": -37618.07,
+			"y": 4761036.14
+		},
+		{
+			"is_practical": 0,
+			"name": "Estacion Metro Ayora",
+			"uid": "81c98120290410696e3e1b72",
+			"x": -38190.78,
+			"y": 4761415.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Amistat Casa de Salud",
+			"uid": "8f5fcd3096275777c06c1472",
+			"x": -39005.48,
+			"y": 4761853.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Aragon",
+			"uid": "c04f7213d139f925c8291572",
+			"x": -39875.16,
+			"y": 4762183.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Alameda",
+			"uid": "7e6c350d7f6bf160f5b91672",
+			"x": -40689.21,
+			"y": 4762317.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Colon",
+			"uid": "36729b5f772eccf023f01772",
+			"x": -41298.4,
+			"y": 4761828.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Xativa",
+			"uid": "9920931a4abe1ab9f5231072",
+			"x": -41937.44,
+			"y": 4761391.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Angel Guimera",
+			"uid": "9265ae8a9cf7cc6a1c1d1172",
+			"x": -42895.64,
+			"y": 4761895.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Avinguda del Cid",
+			"uid": "aef578c34a24255432621272",
+			"x": -44263.78,
+			"y": 4761543.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Nou d'Octubre",
+			"uid": "7fbcae10a31a0b2bfa221372",
+			"x": -45207.31,
+			"y": 4761861.26
+		},
+		{
+			"is_practical": 0,
+			"name": "Mislata",
+			"uid": "a86f472e8d65c36b82a00c72",
+			"x": -46437.31,
+			"y": 4762329.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Mislata Almassil",
+			"uid": "425169514525bbe9c5f50d72",
+			"x": -47234.41,
+			"y": 4762664.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Faitanar",
+			"uid": "6d2ea1113da7fcbc87420e72",
+			"x": -48226.76,
+			"y": 4762893.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Quart de Poblet",
+			"uid": "9a6ed9937af2be0baf080f72",
+			"x": -49204.84,
+			"y": 4763369.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Salt de l'Aigua",
+			"uid": "e3ec9ec6384596412eb90872",
+			"x": -50072.23,
+			"y": 4763987.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Manises",
+			"uid": "a7b9dc71100f17f061180972",
+			"x": -51103.34,
+			"y": 4764622.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Rosas",
+			"uid": "e40ef43b91be585133870a72",
+			"x": -52020.74,
+			"y": 4765066.14
+		},
+		{
+			"is_practical": 0,
+			"name": "Aeroport",
+			"uid": "cb44758ade1f0ace70210b72",
+			"x": -52833.47,
+			"y": 4765041.93
+		}]
+	},
+	{
+		"line_name": "M4(Tvv-Ll.Llarga Terramelar)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Tvv",
+			"uid": "075468b4cf26bf7a14c90572",
+			"x": -47278.73,
+			"y": 4767863.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Ll.Llarga Terramelar",
+			"uid": "54cb2b1239342d808afc0672",
+			"x": -47912.45,
+			"y": 4767540.35
+		}]
+	},
+	{
+		"line_name": "M2(Torrent Avinguda-Lliria)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Torrent Avinguda",
+			"uid": "ef7f4ffa35fbae831c580072",
+			"x": -52528.42,
+			"y": 4756165.14
+		},
+		{
+			"is_practical": 0,
+			"name": "Torrent",
+			"uid": "7e85d1cf28cd251102ec0172",
+			"x": -51308.36,
+			"y": 4756933.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Picanya",
+			"uid": "e1b0ccf9a35f3ba55c0d0272",
+			"x": -48674.08,
+			"y": 4756494.57
+		},
+		{
+			"is_practical": 0,
+			"name": "Paiporta",
+			"uid": "fb86476bbdeb6544e1110372",
+			"x": -46524.51,
+			"y": 4756382.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Valencia Sud",
+			"uid": "711459dfe30ad8582ab97c72",
+			"x": -45729.7,
+			"y": 4757627.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Sant Isidre",
+			"uid": "6ca0073e5e1613f0b3077d72",
+			"x": -44834.97,
+			"y": 4759082.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Safranar",
+			"uid": "3341ba2295be8a4e2db17e72",
+			"x": -44216.17,
+			"y": 4759700.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Patraix",
+			"uid": "915d718a0c0014f8b7147f72",
+			"x": -43435.94,
+			"y": 4759848.9
+		},
+		{
+			"is_practical": 0,
+			"name": "Jesus",
+			"uid": "5bf5e83492b68e5dffa77872",
+			"x": -42809,
+			"y": 4760260.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Pl.Espanya",
+			"uid": "c14b76820813c6ee9ef77972",
+			"x": -42485.35,
+			"y": 4761241.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Angel Guimera",
+			"uid": "5efdec2740a0a7beadee7a72",
+			"x": -42895.64,
+			"y": 4761895.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Estacio de Turia",
+			"uid": "c358a49421f094a72de67b72",
+			"x": -43509.36,
+			"y": 4763115.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Campanar",
+			"uid": "8aebc5c412e914af44e27472",
+			"x": -43979.56,
+			"y": 4763917.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Beniferri",
+			"uid": "e8bbf6dd92e17dabc71b7572",
+			"x": -44443.32,
+			"y": 4764835.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Empalme",
+			"uid": "daa276d5fbe5fe527fc87672",
+			"x": -44763.56,
+			"y": 4766053.17
+		},
+		{
+			"is_practical": 0,
+			"name": "Cantereria",
+			"uid": "55aa1fd1781c4681f70e7772",
+			"x": -45868.72,
+			"y": 4766453.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Benimamet",
+			"uid": "3dae9c28c0cfce470e0a7072",
+			"x": -46677.44,
+			"y": 4766382.83
+		},
+		{
+			"is_practical": 0,
+			"name": "Les Carolines\/Fira",
+			"uid": "bd5724fb48093743353a7172",
+			"x": -47360.25,
+			"y": 4765944.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Campament",
+			"uid": "0484ac3db10d0c7303897272",
+			"x": -48474.55,
+			"y": 4765522.08
+		},
+		{
+			"is_practical": 0,
+			"name": "Paterna",
+			"uid": "8b4255398a3d3ac08adb7372",
+			"x": -49200.07,
+			"y": 4765939.03
+		},
+		{
+			"is_practical": 0,
+			"name": "Santa Rita",
+			"uid": "73466e09bc8eb39234b06c72",
+			"x": -50656.73,
+			"y": 4766922.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Fuente del Jarro",
+			"uid": "4b7658ba35dc0df92eb96d72",
+			"x": -51655.05,
+			"y": 4767691.19
+		},
+		{
+			"is_practical": 0,
+			"name": "La Canyada",
+			"uid": "7cc5d1e88bb717f04c776e72",
+			"x": -54226.06,
+			"y": 4769971.68
+		},
+		{
+			"is_practical": 0,
+			"name": "La Vallesa",
+			"uid": "0a976f8391be753e06026f72",
+			"x": -55437.82,
+			"y": 4771550.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Entrepins",
+			"uid": "b5fc758af3703f4b9f9d6872",
+			"x": -57207.15,
+			"y": 4772342.73
+		},
+		{
+			"is_practical": 0,
+			"name": "El Clot",
+			"uid": "acf51744b905a6d476026972",
+			"x": -58771.41,
+			"y": 4773285.33
+		},
+		{
+			"is_practical": 0,
+			"name": "Montesol",
+			"uid": "cf3b5d31209a4f4bb15c6a72",
+			"x": -59186.59,
+			"y": 4774102.16
+		},
+		{
+			"is_practical": 0,
+			"name": "L'Eliana",
+			"uid": "824ec4aec90588150d0e6b72",
+			"x": -59647.46,
+			"y": 4774988.74
+		},
+		{
+			"is_practical": 0,
+			"name": "Torre del Virrei",
+			"uid": "1ad12d310e5b3447a0046472",
+			"x": -60325.86,
+			"y": 4775980.41
+		},
+		{
+			"is_practical": 0,
+			"name": "La Pobla de Vallbona",
+			"uid": "f04eea6fb209994de7e96572",
+			"x": -62606.95,
+			"y": 4778014.36
+		},
+		{
+			"is_practical": 0,
+			"name": "Benaguasil 1r",
+			"uid": "3610563d1f03dea0accb6672",
+			"x": -64380.73,
+			"y": 4779451
+		},
+		{
+			"is_practical": 0,
+			"name": "Benaguasil 2n",
+			"uid": "8542fb3758ee9582611c6772",
+			"x": -64993.97,
+			"y": 4780324.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Lliria",
+			"uid": "2948bcda13cc58556d476072",
+			"x": -65707.03,
+			"y": 4783786.35
+		}]
+	},
+	{
+		"line_name": "M5(Aeroport-Maritim Serreria)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Aeroport",
+			"uid": "27873a2fd240c06420026272",
+			"x": -52833.47,
+			"y": 4765041.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Rosas",
+			"uid": "ed503674462a194bb9bd6372",
+			"x": -52020.74,
+			"y": 4765066.14
+		},
+		{
+			"is_practical": 0,
+			"name": "Manises",
+			"uid": "e00ba21e9f0580f47bb55c72",
+			"x": -51103.34,
+			"y": 4764622.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Salt de l'Aigua",
+			"uid": "77617b3106ba42fc8af15d72",
+			"x": -50072.23,
+			"y": 4763987.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Quart de Poblet",
+			"uid": "af4ee28ec4b2b3b83e9a5e72",
+			"x": -49204.84,
+			"y": 4763369.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Faitanar",
+			"uid": "29f1208635f607d3cbfa5f72",
+			"x": -48226.76,
+			"y": 4762893.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Mislata Almassil",
+			"uid": "eaf9d1c2819df2b360685872",
+			"x": -47234.41,
+			"y": 4762664.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Mislata",
+			"uid": "18bd65a974fd59214e3a5972",
+			"x": -46437.31,
+			"y": 4762329.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Nou d'Octubre",
+			"uid": "add690c9df6f7773a9175a72",
+			"x": -45207.31,
+			"y": 4761861.26
+		},
+		{
+			"is_practical": 0,
+			"name": "Avinguda del Cid",
+			"uid": "5fb63b5bf13d905e73455b72",
+			"x": -44263.78,
+			"y": 4761543.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Angel Guimera",
+			"uid": "f524150916104a0cb44f5472",
+			"x": -42895.64,
+			"y": 4761895.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Xativa",
+			"uid": "d876f224cc428d06b6265572",
+			"x": -41937.44,
+			"y": 4761391.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Colon",
+			"uid": "3e5b28760b488f6fa6c75672",
+			"x": -41298.4,
+			"y": 4761828.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Alameda",
+			"uid": "eb09ef7c09219f8eaf045772",
+			"x": -40689.21,
+			"y": 4762317.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Aragon",
+			"uid": "2d03ed1519c0964d9b005072",
+			"x": -39875.16,
+			"y": 4762183.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Amistat Casa de Salud",
+			"uid": "2c6afdf41003a249c41e5172",
+			"x": -39005.48,
+			"y": 4761853.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Estacion Metro Ayora",
+			"uid": "3d8bf4372407fd57dd1e5272",
+			"x": -38190.78,
+			"y": 4761415.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Maritim Serreria",
+			"uid": "3348c0337b19e457ebf85372",
+			"x": -37618.07,
+			"y": 4761036.14
+		}]
+	},
+	{
+		"line_name": "M8(Maritim Serreria-Marina Reial Joan Carles I)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Maritim Serreria",
+			"uid": "5a52862d54ffab581cf74d72",
+			"x": -37618.07,
+			"y": 4761036.14
+		},
+		{
+			"is_practical": 0,
+			"name": "Francesc Cubells",
+			"uid": "4252b0cb2d1625bed7b74e72",
+			"x": -37177.76,
+			"y": 4760849.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Grau Canyamelar",
+			"uid": "4bb4c922a3f0eefe00294f72",
+			"x": -36680.74,
+			"y": 4760810.77
+		},
+		{
+			"is_practical": 1,
+			"name": "Marina Reial Joan Carles I",
+			"uid": "335d47c468b039602bfc4872",
+			"x": -36273.61,
+			"y": 4760826.91
+		}]
+	},
+	{
+		"line_name": "M3(Aeroport-Rafelbunyol)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Aeroport",
+			"uid": "74fb5b1a94fb88054acc4a72",
+			"x": -52833.47,
+			"y": 4765041.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Rosas",
+			"uid": "a46570cf0e4b738515b54b72",
+			"x": -52020.74,
+			"y": 4765066.14
+		},
+		{
+			"is_practical": 0,
+			"name": "Manises",
+			"uid": "8eb0ea7ff5cb2cfcc2364472",
+			"x": -51103.34,
+			"y": 4764622.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Salt de l'Aigua",
+			"uid": "170011ffaab2fb7f41024572",
+			"x": -50072.23,
+			"y": 4763987.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Quart de Poblet",
+			"uid": "ed804e867d31784b4d6d4672",
+			"x": -49204.84,
+			"y": 4763369.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Faitanar",
+			"uid": "bdf99905fe0574244c554772",
+			"x": -48226.76,
+			"y": 4762893.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Mislata Almassil",
+			"uid": "6b7a1a31f26a751cbca24072",
+			"x": -47234.41,
+			"y": 4762664.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Mislata",
+			"uid": "eb4e165ef35285eb85154172",
+			"x": -46437.31,
+			"y": 4762329.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Nou d'Octubre",
+			"uid": "e621176603a5bc5cbc484272",
+			"x": -45207.31,
+			"y": 4761861.26
+		},
+		{
+			"is_practical": 0,
+			"name": "Avinguda del Cid",
+			"uid": "e019e7913a12850117764372",
+			"x": -44263.78,
+			"y": 4761543.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Angel Guimera",
+			"uid": "11eede26034f2e3f58bbbc73",
+			"x": -42895.64,
+			"y": 4761895.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Xativa",
+			"uid": "2b59e77ba87161f27e29bd73",
+			"x": -41937.44,
+			"y": 4761391.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Colon",
+			"uid": "13044c45e7bc47605af6be73",
+			"x": -41298.4,
+			"y": 4761828.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Alameda",
+			"uid": "a73a0388c12e63bf8405bf73",
+			"x": -40689.21,
+			"y": 4762317.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Facultats",
+			"uid": "e9f7251ae5f1bd4cf703b873",
+			"x": -40284.17,
+			"y": 4762952.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Benimaclet",
+			"uid": "cc6501c53b02ce4a6c20b973",
+			"x": -40330.65,
+			"y": 4763938.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Machado",
+			"uid": "e9badf3648045569f23cba73",
+			"x": -39935.03,
+			"y": 4765020.41
+		},
+		{
+			"is_practical": 0,
+			"name": "Alboraya Palmaret",
+			"uid": "3049ac30d327cb7527d2bb73",
+			"x": -39556.32,
+			"y": 4765456.91
+		},
+		{
+			"is_practical": 0,
+			"name": "Alboraya Peris Arago",
+			"uid": "424f37134d3b1e9b9968b473",
+			"x": -39221.93,
+			"y": 4766217.9
+		},
+		{
+			"is_practical": 0,
+			"name": "Almassera",
+			"uid": "da6ca90f98d5a0218a2fb573",
+			"x": -39434.01,
+			"y": 4767877.11
+		},
+		{
+			"is_practical": 0,
+			"name": "Meliana",
+			"uid": "45707ce1266fb36677e5b673",
+			"x": -39156.96,
+			"y": 4770139.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Foios",
+			"uid": "9f9ec25b35284eacd718b773",
+			"x": -39391.4,
+			"y": 4771473.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Albalat dels Sorells",
+			"uid": "2024d11cc8e2ee51ff0eb073",
+			"x": -38764.5,
+			"y": 4772619.53
+		},
+		{
+			"is_practical": 0,
+			"name": "Museros",
+			"uid": "30632cd6681fc6473804b173",
+			"x": -37930.61,
+			"y": 4774994.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Massamagrell",
+			"uid": "cca98c2b4009014dfb42b273",
+			"x": -37069.87,
+			"y": 4776262.39
+		},
+		{
+			"is_practical": 0,
+			"name": "La Pobla de Farnals",
+			"uid": "6b54a43d8703c20b0b5cb373",
+			"x": -36741.9,
+			"y": 4777447.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Rafelbunyol",
+			"uid": "4242633744453215c256ac73",
+			"x": -36855.39,
+			"y": 4778839.02
+		}]
+	},
+	{
+		"line_name": "M8(Marina Reial Joan Carles I-Maritim Serreria)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Marina Reial Joan Carles I",
+			"uid": "440e506f7d51c145374aae73",
+			"x": -36273.61,
+			"y": 4760826.91
+		},
+		{
+			"is_practical": 0,
+			"name": "Grau Canyamelar",
+			"uid": "cb109965470b0e033210af73",
+			"x": -36680.74,
+			"y": 4760810.77
+		},
+		{
+			"is_practical": 0,
+			"name": "Francesc Cubells",
+			"uid": "031aa33f884d0b59b120a873",
+			"x": -37177.76,
+			"y": 4760849.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Maritim Serreria",
+			"uid": "3a406c798d1788696040a973",
+			"x": -37618.07,
+			"y": 4761036.14
+		}]
+	},
+	{
+		"line_name": "M6(Maritim Serreria-Tossal del Rei)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Maritim Serreria",
+			"uid": "f65cea13df4728442ad7ab73",
+			"x": -37618.07,
+			"y": 4761036.14
+		},
+		{
+			"is_practical": 0,
+			"name": "Francesc Cubells",
+			"uid": "746c3b73ae0a139ece06a473",
+			"x": -37177.76,
+			"y": 4760849.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Grau Canyamelar",
+			"uid": "a60c4a3e95d0f74fefe4a573",
+			"x": -36680.74,
+			"y": 4760810.77
+		},
+		{
+			"is_practical": 0,
+			"name": "Mediterrani",
+			"uid": "d64171e47101d6ad39e4a673",
+			"x": -36501.92,
+			"y": 4761314.91
+		},
+		{
+			"is_practical": 0,
+			"name": "Dr.Lluch",
+			"uid": "e29b953550e300ad2cfaa773",
+			"x": -36523.81,
+			"y": 4761714.27
+		},
+		{
+			"is_practical": 0,
+			"name": "La Marina",
+			"uid": "074ab4d786e315b324e0a073",
+			"x": -36462.29,
+			"y": 4762223.53
+		},
+		{
+			"is_practical": 0,
+			"name": "La Cadena",
+			"uid": "25a862d793fd1da9c62ba173",
+			"x": -36671.44,
+			"y": 4762550.33
+		},
+		{
+			"is_practical": 0,
+			"name": "Serreria",
+			"uid": "f2a877c99be7ff62c07da273",
+			"x": -37209.06,
+			"y": 4762745.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Tarongers",
+			"uid": "e0b67fd3792cf934912ca373",
+			"x": -37806.66,
+			"y": 4762977.23
+		},
+		{
+			"is_practical": 0,
+			"name": "La Carrasca",
+			"uid": "e9ac9d187f7aa865f7c59c73",
+			"x": -38373.77,
+			"y": 4763188.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Universitat Politecnica",
+			"uid": "08679b4e2e2bce8caa059d73",
+			"x": -39013.73,
+			"y": 4763429.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Vicente Zaragoza",
+			"uid": "0f31ca1f48c2934cd3f49e73",
+			"x": -39844.7,
+			"y": 4763726.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Benimaclet",
+			"uid": "4160acf61502eabd293a9f73",
+			"x": -40330.65,
+			"y": 4763938.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Primado Reig",
+			"uid": "2689f1366cf31073266e9873",
+			"x": -40937.28,
+			"y": 4764143.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Alfauir",
+			"uid": "784988c7963d1f271ee99973",
+			"x": -40747.56,
+			"y": 4764575.45
+		},
+		{
+			"is_practical": 0,
+			"name": "Orriols",
+			"uid": "00b87209996927a041ab9a73",
+			"x": -40921.73,
+			"y": 4765135.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Estadi del Llevant",
+			"uid": "fd767d5da1ee78e232169b73",
+			"x": -40699.31,
+			"y": 4765374.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Sant Miquel dels Reis",
+			"uid": "f32245dafeac0b5f1d389473",
+			"x": -41013.78,
+			"y": 4765704.27
+		},
+		{
+			"is_practical": 0,
+			"name": "Tossal del Rei",
+			"uid": "c8a51a988d112471cb1b9573",
+			"x": -41468.19,
+			"y": 4765529.91
+		}]
+	},
+	{
+		"line_name": "M7(Torrent Avinguda-Maritim Serreria)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Torrent Avinguda",
+			"uid": "ea5a460b741c43beea1e9773",
+			"x": -52528.42,
+			"y": 4756165.14
+		},
+		{
+			"is_practical": 0,
+			"name": "Torrent",
+			"uid": "c4749028c5f0d35717a19073",
+			"x": -51308.36,
+			"y": 4756933.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Picanya",
+			"uid": "115721c455192ee8dad89173",
+			"x": -48674.08,
+			"y": 4756494.57
+		},
+		{
+			"is_practical": 0,
+			"name": "Paiporta",
+			"uid": "a1bbb12da8a6e39141e19273",
+			"x": -46524.51,
+			"y": 4756382.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Valencia Sud",
+			"uid": "36524c9265df78a85a109373",
+			"x": -45729.7,
+			"y": 4757627.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Sant Isidre",
+			"uid": "caed81ebfee6635997f08c73",
+			"x": -44834.97,
+			"y": 4759082.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Safranar",
+			"uid": "04941ad2e517aeb948fc8d73",
+			"x": -44216.17,
+			"y": 4759700.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Patraix",
+			"uid": "9ead012328f771b516948e73",
+			"x": -43435.94,
+			"y": 4759848.9
+		},
+		{
+			"is_practical": 0,
+			"name": "Jesus",
+			"uid": "ba5cccc3f7fb2fddbbdf8f73",
+			"x": -42809,
+			"y": 4760260.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Estacio de Bailen",
+			"uid": "76bc13cfa993829689b98873",
+			"x": -42234.64,
+			"y": 4760938.43
+		},
+		{
+			"is_practical": 0,
+			"name": "Colon",
+			"uid": "aab04da704d8b0f08d1a8973",
+			"x": -41298.4,
+			"y": 4761828.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Alameda",
+			"uid": "f5d8e0ec36beb45380288a73",
+			"x": -40689.21,
+			"y": 4762317.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Aragon",
+			"uid": "5f93d28a321db961dcee8b73",
+			"x": -39875.16,
+			"y": 4762183.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Amistat Casa de Salud",
+			"uid": "6cf5d6293f2fe5a796ec8473",
+			"x": -39005.48,
+			"y": 4761853.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Estacion Metro Ayora",
+			"uid": "6b56db1b63e9afa5fadc8573",
+			"x": -38190.78,
+			"y": 4761415.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Maritim Serreria",
+			"uid": "676487dd29ebc3955ebe8673",
+			"x": -37618.07,
+			"y": 4761036.14
+		}]
+	},
+	{
+		"line_name": "M4(Fira Valencia-Vicent Andres Estelles)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Fira Valencia",
+			"uid": "7fa0a1efe1b94802705e8073",
+			"x": -47356.96,
+			"y": 4766697.49
+		},
+		{
+			"is_practical": 0,
+			"name": "Vicent Andres Estelles",
+			"uid": "1090058dce4c4917b03c8173",
+			"x": -46745.13,
+			"y": 4767346.78
+		}]
+	},
+	{
+		"line_name": "M1(Villanueva de Castellon-Betera)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Villanueva de Castellon",
+			"uid": "9d072b6d0f3bd0acf12d8373",
+			"x": -57100.67,
+			"y": 4705966.89
+		},
+		{
+			"is_practical": 1,
+			"name": "Alberic",
+			"uid": "9d12eb0f56e2c864f5eafc73",
+			"x": -58270.43,
+			"y": 4711230.77
+		},
+		{
+			"is_practical": 1,
+			"name": "Massalaves",
+			"uid": "5e70b2d64e2acca33813fd73",
+			"x": -57766.52,
+			"y": 4715054.26
+		},
+		{
+			"is_practical": 1,
+			"name": "Montortal",
+			"uid": "06a9aa1e4aed015a5ed4fe73",
+			"x": -57425.32,
+			"y": 4719365.4
+		},
+		{
+			"is_practical": 1,
+			"name": "L'Alcudia",
+			"uid": "0161aed98714679d55bfff73",
+			"x": -56776.38,
+			"y": 4722136.15
+		},
+		{
+			"is_practical": 1,
+			"name": "Benimodo",
+			"uid": "04a66320e1d36cf6ef74f873",
+			"x": -57827.84,
+			"y": 4725428.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Carlet",
+			"uid": "ca5f05e7eab8d63de315f973",
+			"x": -58452.69,
+			"y": 4727023.93
+		},
+		{
+			"is_practical": 1,
+			"name": "Ausias March",
+			"uid": "ad980e8c5073da5cea56fa73",
+			"x": -54692.49,
+			"y": 4730417.18
+		},
+		{
+			"is_practical": 1,
+			"name": "Alginet",
+			"uid": "a1f3b4475c12d31fc7effb73",
+			"x": -52859.44,
+			"y": 4732103.33
+		},
+		{
+			"is_practical": 1,
+			"name": "Font Almaguer",
+			"uid": "1a38b8265551fea63786f473",
+			"x": -51656.02,
+			"y": 4735893.66
+		},
+		{
+			"is_practical": 1,
+			"name": "Espioca",
+			"uid": "1559b16578e80ecf05fef573",
+			"x": -52169.22,
+			"y": 4741228.63
+		},
+		{
+			"is_practical": 1,
+			"name": "Omet",
+			"uid": "1d1a9cdc88813cb716c8f673",
+			"x": -52723.71,
+			"y": 4745041.3
+		},
+		{
+			"is_practical": 1,
+			"name": "Picassent",
+			"uid": "3fa36cb5baf92f819e09f773",
+			"x": -51734.2,
+			"y": 4746452.24
+		},
+		{
+			"is_practical": 1,
+			"name": "Sant Ramon",
+			"uid": "ceca5ecda9cfa740cb09f073",
+			"x": -52016.9,
+			"y": 4749585.51
+		},
+		{
+			"is_practical": 1,
+			"name": "Realon",
+			"uid": "ffb24dfb210ef240754ff173",
+			"x": -51657.74,
+			"y": 4750888.11
+		},
+		{
+			"is_practical": 1,
+			"name": "Col\u00b7legi El Vedat",
+			"uid": "ed84c53a740e4c06203bf273",
+			"x": -51286.04,
+			"y": 4755072.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Torrent",
+			"uid": "6245903aca4819726949f373",
+			"x": -51308.36,
+			"y": 4756933.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Picanya",
+			"uid": "36452e7c9f3c50008d55ec73",
+			"x": -48674.08,
+			"y": 4756494.57
+		},
+		{
+			"is_practical": 0,
+			"name": "Paiporta",
+			"uid": "8b037b08d64eb41cdaeced73",
+			"x": -46524.51,
+			"y": 4756382.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Valencia Sud",
+			"uid": "df77327a3252e3a58b36ee73",
+			"x": -45729.7,
+			"y": 4757627.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Sant Isidre",
+			"uid": "6904d66665ebb27fcc04ef73",
+			"x": -44834.97,
+			"y": 4759082.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Safranar",
+			"uid": "8c1881df3431f54d057ce873",
+			"x": -44216.17,
+			"y": 4759700.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Patraix",
+			"uid": "d8a1d00573033c35a31de973",
+			"x": -43435.94,
+			"y": 4759848.9
+		},
+		{
+			"is_practical": 0,
+			"name": "Jesus",
+			"uid": "887b9737ba7b9a549c82ea73",
+			"x": -42809,
+			"y": 4760260.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Pl.Espanya",
+			"uid": "c8495e4f1c1aa5cb09f5eb73",
+			"x": -42485.35,
+			"y": 4761241.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Angel Guimera",
+			"uid": "0031f82e238530bcea12e473",
+			"x": -42895.64,
+			"y": 4761895.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Estacio de Turia",
+			"uid": "a550c7b1b6f2d35bac31e573",
+			"x": -43509.36,
+			"y": 4763115.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Campanar",
+			"uid": "9bcf52c65515957842afe673",
+			"x": -43979.56,
+			"y": 4763917.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Beniferri",
+			"uid": "01b8b12113367be6b917e773",
+			"x": -44443.32,
+			"y": 4764835.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Empalme",
+			"uid": "e35ff702fda8805e9022e073",
+			"x": -44763.56,
+			"y": 4766053.17
+		},
+		{
+			"is_practical": 1,
+			"name": "Burjassot",
+			"uid": "a67c199c0610a96b2802e173",
+			"x": -45274.04,
+			"y": 4767317.18
+		},
+		{
+			"is_practical": 1,
+			"name": "Burjassot Godella",
+			"uid": "49e2e2242f25114bd52ce273",
+			"x": -45830.57,
+			"y": 4767998.93
+		},
+		{
+			"is_practical": 1,
+			"name": "Godella",
+			"uid": "b55acb119705ec65d33ce373",
+			"x": -46131.82,
+			"y": 4768910.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Rocafort",
+			"uid": "9d6f73316a2bea753717dc73",
+			"x": -45367.5,
+			"y": 4770254.79
+		},
+		{
+			"is_practical": 1,
+			"name": "Massarrojos",
+			"uid": "264f8e1f6c3b0e5e09ccdd73",
+			"x": -44867.15,
+			"y": 4771394.91
+		},
+		{
+			"is_practical": 1,
+			"name": "Moncada Alfara",
+			"uid": "da61880f881030859f95de73",
+			"x": -43240.25,
+			"y": 4772367.78
+		},
+		{
+			"is_practical": 1,
+			"name": "Seminari CEU",
+			"uid": "c3716c24b6cba6dc4f2fdf73",
+			"x": -43389.89,
+			"y": 4773316.3
+		},
+		{
+			"is_practical": 1,
+			"name": "Masies",
+			"uid": "265a52ff20927666a90dd873",
+			"x": -45081.08,
+			"y": 4775684.54
+		},
+		{
+			"is_practical": 1,
+			"name": "S.Psiquiatric",
+			"uid": "1b81c4a6f02890440969d973",
+			"x": -49316.57,
+			"y": 4777899.79
+		},
+		{
+			"is_practical": 1,
+			"name": "Betera",
+			"uid": "8cd8141c160a30200c3dda73",
+			"x": -50926.52,
+			"y": 4779174.63
+		}]
+	},
+	{
+		"line_name": "M1(Betera-Villanueva de Castellon)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Betera",
+			"uid": "bc40525ab33af18a08a8d473",
+			"x": -50926.52,
+			"y": 4779174.63
+		},
+		{
+			"is_practical": 0,
+			"name": "S.Psiquiatric",
+			"uid": "1f24570e77c431e11911d573",
+			"x": -49316.57,
+			"y": 4777899.79
+		},
+		{
+			"is_practical": 0,
+			"name": "Masies",
+			"uid": "1b7093f0b7af2058d02dd673",
+			"x": -45081.08,
+			"y": 4775684.54
+		},
+		{
+			"is_practical": 0,
+			"name": "Seminari CEU",
+			"uid": "d08e539ba616e9644154d773",
+			"x": -43389.89,
+			"y": 4773316.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Moncada Alfara",
+			"uid": "11e542226f2a781d240bd073",
+			"x": -43240.25,
+			"y": 4772367.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Massarrojos",
+			"uid": "035c8b1efe531d422911d173",
+			"x": -44867.15,
+			"y": 4771394.91
+		},
+		{
+			"is_practical": 0,
+			"name": "Rocafort",
+			"uid": "cb601a679b0c105878dbd273",
+			"x": -45367.5,
+			"y": 4770254.79
+		},
+		{
+			"is_practical": 0,
+			"name": "Godella",
+			"uid": "5d197f38961641927269d373",
+			"x": -46131.82,
+			"y": 4768910.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Burjassot Godella",
+			"uid": "39467222c7dc4b206da3cc73",
+			"x": -45830.57,
+			"y": 4767998.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Burjassot",
+			"uid": "375c23e8cd6e54eaaaf0cd73",
+			"x": -45274.04,
+			"y": 4767317.18
+		},
+		{
+			"is_practical": 0,
+			"name": "Empalme",
+			"uid": "6796295ad2a493b92a06ce73",
+			"x": -44763.56,
+			"y": 4766053.17
+		},
+		{
+			"is_practical": 0,
+			"name": "Beniferri",
+			"uid": "5224369015f7134fc3f1cf73",
+			"x": -44443.32,
+			"y": 4764835.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Campanar",
+			"uid": "4ceef1c39501fab8583ac873",
+			"x": -43979.56,
+			"y": 4763917.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Estacio de Turia",
+			"uid": "88bd71357cf66173911fc973",
+			"x": -43509.36,
+			"y": 4763115.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Angel Guimera",
+			"uid": "094b98c2e73da856efdfca73",
+			"x": -42895.64,
+			"y": 4761895.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Pl.Espanya",
+			"uid": "e7bc03092e18d696f9f0cb73",
+			"x": -42485.35,
+			"y": 4761241.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Jesus",
+			"uid": "7d77ca2c50d8c0b9a1acc473",
+			"x": -42809,
+			"y": 4760260.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Patraix",
+			"uid": "b752b4ec46f798e550e5c573",
+			"x": -43435.94,
+			"y": 4759848.9
+		},
+		{
+			"is_practical": 0,
+			"name": "Safranar",
+			"uid": "c892a2c31eab69ac1a94c673",
+			"x": -44216.17,
+			"y": 4759700.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Sant Isidre",
+			"uid": "d1bdfa9fefe223dd0a1cc773",
+			"x": -44834.97,
+			"y": 4759082.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Valencia Sud",
+			"uid": "88e10bd6a59333554351c073",
+			"x": -45729.7,
+			"y": 4757627.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Paiporta",
+			"uid": "7aa841a7b51b7a184007c173",
+			"x": -46524.51,
+			"y": 4756382.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Picanya",
+			"uid": "31d9512ffc56794e0582c273",
+			"x": -48674.08,
+			"y": 4756494.57
+		},
+		{
+			"is_practical": 0,
+			"name": "Torrent",
+			"uid": "26511862ff003ccb5c17c373",
+			"x": -51308.36,
+			"y": 4756933.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Col\u00b7legi El Vedat",
+			"uid": "6e1c1b34ba85655ecbe33c73",
+			"x": -51286.04,
+			"y": 4755072.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Realon",
+			"uid": "6e4a5eb1e310f2aaca213d73",
+			"x": -51657.74,
+			"y": 4750888.11
+		},
+		{
+			"is_practical": 0,
+			"name": "Sant Ramon",
+			"uid": "2acf072474e4f36840d63e73",
+			"x": -52016.9,
+			"y": 4749585.51
+		},
+		{
+			"is_practical": 0,
+			"name": "Picassent",
+			"uid": "6c5a90d07526799f48fd3f73",
+			"x": -51734.2,
+			"y": 4746452.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Omet",
+			"uid": "faae9112ffd171b4e4073873",
+			"x": -52723.71,
+			"y": 4745041.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Espioca",
+			"uid": "f86c1be5f7fadd4ea4da3973",
+			"x": -52169.22,
+			"y": 4741228.63
+		},
+		{
+			"is_practical": 0,
+			"name": "Font Almaguer",
+			"uid": "739b13ce5b009d930bb93a73",
+			"x": -51656.02,
+			"y": 4735893.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Alginet",
+			"uid": "7cb0bf341bdd32f0f6e73b73",
+			"x": -52859.44,
+			"y": 4732103.33
+		},
+		{
+			"is_practical": 0,
+			"name": "Ausias March",
+			"uid": "d14affe9b4becfaea3a93473",
+			"x": -54692.49,
+			"y": 4730417.18
+		},
+		{
+			"is_practical": 0,
+			"name": "Carlet",
+			"uid": "9297508a49e09ae012293573",
+			"x": -58452.69,
+			"y": 4727023.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Benimodo",
+			"uid": "3cf4add41cae2b60b31e3673",
+			"x": -57827.84,
+			"y": 4725428.85
+		},
+		{
+			"is_practical": 0,
+			"name": "L'Alcudia",
+			"uid": "ceaaf89aad2e8a57f3193773",
+			"x": -56776.38,
+			"y": 4722136.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Montortal",
+			"uid": "9ae4491a0c19ca50a3d23073",
+			"x": -57425.32,
+			"y": 4719365.4
+		},
+		{
+			"is_practical": 0,
+			"name": "Massalaves",
+			"uid": "2864e82d4c1e9a9b3de23173",
+			"x": -57766.52,
+			"y": 4715054.26
+		},
+		{
+			"is_practical": 0,
+			"name": "Alberic",
+			"uid": "8853a82a1cd504ab461a3273",
+			"x": -58270.43,
+			"y": 4711230.77
+		},
+		{
+			"is_practical": 0,
+			"name": "Villanueva de Castellon",
+			"uid": "cf54f8e182e57f532f473373",
+			"x": -57100.67,
+			"y": 4705966.89
+		}]
+	},
+	{
+		"line_name": "M4(Vicent Andres Estelles-Fira Valencia)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Vicent Andres Estelles",
+			"uid": "03af1d299040548902ff2d73",
+			"x": -46745.13,
+			"y": 4767346.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Fira Valencia",
+			"uid": "79577474d2c73bb683a12e73",
+			"x": -47356.96,
+			"y": 4766697.49
+		}]
+	}],
+	"result": {
+		"ccode": "51305",
+		"qt": "bsi"
+	}
+}

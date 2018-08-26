@@ -1,0 +1,424 @@
+{
+	"content": [{
+		"line_name": "Line 1(Malinauka-Urucca)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Malinauka",
+			"uid": "819e8fe8b4becfaea2a934be",
+			"x": 3058541.24,
+			"y": 7106846.99
+		},
+		{
+			"is_practical": 1,
+			"name": "Piatrouscyna",
+			"uid": "c243208b49e09ae0132935be",
+			"x": 3059698.26,
+			"y": 7109602.97
+		},
+		{
+			"is_practical": 1,
+			"name": "Michalova",
+			"uid": "6c20ddd51cae2b60b21e36be",
+			"x": 3060975.82,
+			"y": 7112067.19
+		},
+		{
+			"is_practical": 1,
+			"name": "Hrusauka",
+			"uid": "9e7e889bad2e8a57f21937be",
+			"x": 3062978.55,
+			"y": 7113852.94
+		},
+		{
+			"is_practical": 1,
+			"name": "Instytut Kultury",
+			"uid": "ca30391b0c19ca50a2d230be",
+			"x": 3065724.97,
+			"y": 7113598.35
+		},
+		{
+			"is_practical": 1,
+			"name": "Plosca Lienina",
+			"uid": "78b0982c4c1e9a9b3ce231be",
+			"x": 3066695.67,
+			"y": 7115394.67
+		},
+		{
+			"is_practical": 1,
+			"name": "Kastrycnickaja\/Kupalauskaja",
+			"uid": "d887d82b1cd504ab471a32be",
+			"x": 3068110.78,
+			"y": 7116619.96
+		},
+		{
+			"is_practical": 1,
+			"name": "Plosca Pieramohi",
+			"uid": "9f8088e082e57f532e4733be",
+			"x": 3069700.25,
+			"y": 7117930.17
+		},
+		{
+			"is_practical": 1,
+			"name": "Plosca Jakuba Kolasa",
+			"uid": "ce4b16d0f91d160e6cc02cbe",
+			"x": 3070552.98,
+			"y": 7119280.04
+		},
+		{
+			"is_practical": 1,
+			"name": "Akademija Navuk",
+			"uid": "537b6d289040548903ff2dbe",
+			"x": 3072505.45,
+			"y": 7120525.46
+		},
+		{
+			"is_practical": 1,
+			"name": "Park Caliuskincau",
+			"uid": "29830475d2c73bb682a12ebe",
+			"x": 3073814.16,
+			"y": 7120856.9
+		},
+		{
+			"is_practical": 1,
+			"name": "Maskouskaja",
+			"uid": "5fde46f2bdf8bae8b6f42fbe",
+			"x": 3075563.73,
+			"y": 7121640.31
+		},
+		{
+			"is_practical": 1,
+			"name": "Uschod",
+			"uid": "1c5929cd3ca68ebdda2f28be",
+			"x": 3078157.01,
+			"y": 7122895.78
+		},
+		{
+			"is_practical": 1,
+			"name": "Barysauski Trakt",
+			"uid": "7066a89308f3e266abf729be",
+			"x": 3079727.85,
+			"y": 7123671.15
+		},
+		{
+			"is_practical": 1,
+			"name": "Urucca",
+			"uid": "f0389cc6642893beaeb22abe",
+			"x": 3082221.71,
+			"y": 7124915.56
+		}]
+	},
+	{
+		"line_name": "Line 2(Kamiennaja Horka-Mahiliouskaja)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Kamiennaja Horka",
+			"uid": "aeb681c510b5a7a5118824be",
+			"x": 3054389.18,
+			"y": 7117641.42
+		},
+		{
+			"is_practical": 1,
+			"name": "Kuncauscyna",
+			"uid": "dc6e848021eb29c1c4f025be",
+			"x": 3056250.29,
+			"y": 7117661.01
+		},
+		{
+			"is_practical": 1,
+			"name": "Spartyunaja",
+			"uid": "d82bb5deaf8ffcb9455726be",
+			"x": 3059065.51,
+			"y": 7117982.91
+		},
+		{
+			"is_practical": 1,
+			"name": "Puskinskaja",
+			"uid": "e6753bba7af77d1e8d7727be",
+			"x": 3060913.55,
+			"y": 7118127.53
+		},
+		{
+			"is_practical": 1,
+			"name": "Maladzioznaja",
+			"uid": "6911eec2fb50b53e210220be",
+			"x": 3063855.33,
+			"y": 7117594.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Frunzienskaja",
+			"uid": "bf696f653370194b9de321be",
+			"x": 3065647.14,
+			"y": 7117363.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Niamiha",
+			"uid": "3fcea7459f05a5aabfa822be",
+			"x": 3067320.41,
+			"y": 7117471.69
+		},
+		{
+			"is_practical": 0,
+			"name": "Kastrycnickaja\/Kupalauskaja",
+			"uid": "f0ee0b3023e487e1d0ff23be",
+			"x": 3068110.82,
+			"y": 7116619.98
+		},
+		{
+			"is_practical": 1,
+			"name": "Piersamajskaja",
+			"uid": "5d9bb7d101afe8b63b221cbe",
+			"x": 3069166.45,
+			"y": 7115241
+		},
+		{
+			"is_practical": 1,
+			"name": "Pralietarskaja",
+			"uid": "e27a959a6ef8036b32f71dbe",
+			"x": 3070849.77,
+			"y": 7114409.38
+		},
+		{
+			"is_practical": 1,
+			"name": "Traktarny Zavod",
+			"uid": "c131facd85250abeb75f1ebe",
+			"x": 3074109.91,
+			"y": 7114353.12
+		},
+		{
+			"is_practical": 1,
+			"name": "Partyzanskaja",
+			"uid": "516611108cf08f16d4851fbe",
+			"x": 3075745.03,
+			"y": 7111701.59
+		},
+		{
+			"is_practical": 1,
+			"name": "Auazavodskaja",
+			"uid": "bbbb18c50958ecccdb1318be",
+			"x": 3078017.91,
+			"y": 7110567.17
+		},
+		{
+			"is_practical": 1,
+			"name": "Mahiliouskaja",
+			"uid": "b16e9d6d6a82e35a970319be",
+			"x": 3080756.83,
+			"y": 7109172.6
+		}]
+	},
+	{
+		"line_name": "Line 1(Urucca-Malinauka)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Urucca",
+			"uid": "511cf121290410696f3e1bbe",
+			"x": 3082221.71,
+			"y": 7124915.56
+		},
+		{
+			"is_practical": 0,
+			"name": "Barysauski Trakt",
+			"uid": "5f8abd3196275777c16c14be",
+			"x": 3079727.85,
+			"y": 7123671.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Uschod",
+			"uid": "109a0212d139f925c92915be",
+			"x": 3078157.01,
+			"y": 7122895.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Maskouskaja",
+			"uid": "aeb9450c7f6bf160f4b916be",
+			"x": 3075563.73,
+			"y": 7121640.31
+		},
+		{
+			"is_practical": 0,
+			"name": "Park Caliuskincau",
+			"uid": "e6a7eb5e772eccf022f017be",
+			"x": 3073814.16,
+			"y": 7120856.9
+		},
+		{
+			"is_practical": 0,
+			"name": "Akademija Navuk",
+			"uid": "49f5e31b4abe1ab9f42310be",
+			"x": 3072505.45,
+			"y": 7120525.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Plosca Jakuba Kolasa",
+			"uid": "42b0de8b9cf7cc6a1d1d11be",
+			"x": 3070552.98,
+			"y": 7119280.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Plosca Pieramohi",
+			"uid": "7e2008c24a242554336212be",
+			"x": 3069700.25,
+			"y": 7117930.17
+		},
+		{
+			"is_practical": 0,
+			"name": "Kastrycnickaja\/Kupalauskaja",
+			"uid": "af69de11a31a0b2bfb2213be",
+			"x": 3068110.78,
+			"y": 7116619.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Plosca Lienina",
+			"uid": "78ba372f8d65c36b83a00cbe",
+			"x": 3066695.67,
+			"y": 7115394.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Instytut Kultury",
+			"uid": "928419504525bbe9c4f50dbe",
+			"x": 3065724.97,
+			"y": 7113598.35
+		},
+		{
+			"is_practical": 0,
+			"name": "Hrusauka",
+			"uid": "bdfbd1103da7fcbc86420ebe",
+			"x": 3062978.55,
+			"y": 7113852.94
+		},
+		{
+			"is_practical": 0,
+			"name": "Michalova",
+			"uid": "6abba9927af2be0bae080fbe",
+			"x": 3060975.82,
+			"y": 7112067.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Piatrouscyna",
+			"uid": "1339eec7384596412fb908be",
+			"x": 3059698.26,
+			"y": 7109602.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Malinauka",
+			"uid": "576cac70100f17f0601809be",
+			"x": 3058541.24,
+			"y": 7106846.99
+		}]
+	},
+	{
+		"line_name": "Line 2(Mahiliouskaja-Kamiennaja Horka)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Mahiliouskaja",
+			"uid": "3b91058bde1f0ace71210bbe",
+			"x": 3080756.83,
+			"y": 7109172.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Auazavodskaja",
+			"uid": "bb204a2a8c804968873304be",
+			"x": 3078017.91,
+			"y": 7110567.17
+		},
+		{
+			"is_practical": 0,
+			"name": "Partyzanskaja",
+			"uid": "f78118b5cf26bf7a15c905be",
+			"x": 3075745.03,
+			"y": 7111701.59
+		},
+		{
+			"is_practical": 0,
+			"name": "Traktarny Zavod",
+			"uid": "a41e5b1339342d808bfc06be",
+			"x": 3074109.91,
+			"y": 7114353.12
+		},
+		{
+			"is_practical": 0,
+			"name": "Pralietarskaja",
+			"uid": "e8b8ad01abceb3b596ca07be",
+			"x": 3070849.77,
+			"y": 7114409.38
+		},
+		{
+			"is_practical": 0,
+			"name": "Piersamajskaja",
+			"uid": "1faa3ffb35fbae831d5800be",
+			"x": 3069166.45,
+			"y": 7115241
+		},
+		{
+			"is_practical": 0,
+			"name": "Kastrycnickaja\/Kupalauskaja",
+			"uid": "8e50a1ce28cd251103ec01be",
+			"x": 3068110.82,
+			"y": 7116619.98
+		},
+		{
+			"is_practical": 0,
+			"name": "Niamiha",
+			"uid": "1165bcf8a35f3ba55d0d02be",
+			"x": 3067320.41,
+			"y": 7117471.69
+		},
+		{
+			"is_practical": 0,
+			"name": "Frunzienskaja",
+			"uid": "0b53376abdeb6544e01103be",
+			"x": 3065647.14,
+			"y": 7117363.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Maladzioznaja",
+			"uid": "81c129dee30ad8582bb97cbe",
+			"x": 3063855.33,
+			"y": 7117594.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Puskinskaja",
+			"uid": "9c75773f5e1613f0b2077dbe",
+			"x": 3060913.55,
+			"y": 7118127.53
+		},
+		{
+			"is_practical": 0,
+			"name": "Spartyunaja",
+			"uid": "c394ca2395be8a4e2cb17ebe",
+			"x": 3059065.51,
+			"y": 7117982.91
+		},
+		{
+			"is_practical": 0,
+			"name": "Kuncauscyna",
+			"uid": "4188018b0c0014f8b6147fbe",
+			"x": 3056250.29,
+			"y": 7117661.01
+		},
+		{
+			"is_practical": 0,
+			"name": "KamiennajaHorka",
+			"uid": "8b20983592b68e5dfea778be",
+			"x": 3054389.18,
+			"y": 7117641.42
+		}]
+	}],
+	"result": {
+		"ccode": "84562",
+		"qt": "bsi"
+	}
+}

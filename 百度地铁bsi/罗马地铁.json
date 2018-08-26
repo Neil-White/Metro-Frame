@@ -1,0 +1,1408 @@
+{
+	"content": [{
+		"line_name": "Line B(Rebibbia-Bologna)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Rebibbia",
+			"uid": "0a4bcf02abceb3b597ca074e",
+			"x": 1399620.56,
+			"y": 5121071.36
+		},
+		{
+			"is_practical": 1,
+			"name": "Ponte Mammolo",
+			"uid": "fd595df835fbae831c58004e",
+			"x": 1398768.31,
+			"y": 5120348.67
+		},
+		{
+			"is_practical": 1,
+			"name": "Santa Maria del Soccorso",
+			"uid": "68a3c3cd28cd251102ec014e",
+			"x": 1398341.99,
+			"y": 5119467.33
+		},
+		{
+			"is_practical": 1,
+			"name": "Pietralata",
+			"uid": "f796defba35f3ba55c0d024e",
+			"x": 1397616.47,
+			"y": 5119418.55
+		},
+		{
+			"is_practical": 1,
+			"name": "Monti Tiburtini",
+			"uid": "e9a05569bdeb6544e111034e",
+			"x": 1396833.07,
+			"y": 5119516.12
+		},
+		{
+			"is_practical": 1,
+			"name": "Quintiliani",
+			"uid": "63324bdde30ad8582ab97c4e",
+			"x": 1395820.97,
+			"y": 5119484.55
+		},
+		{
+			"is_practical": 1,
+			"name": "Roma Tiburtina",
+			"uid": "8286153c5e1613f0b3077d4e",
+			"x": 1395011.8,
+			"y": 5118825.4
+		},
+		{
+			"is_practical": 1,
+			"name": "Bologna",
+			"uid": "dd67a82095be8a4e2db17e4e",
+			"x": 1393834.06,
+			"y": 5119238.19
+		}]
+	},
+	{
+		"line_name": "FL1(Fiumicino Aeroporto-Collevecchio\/Poggio Sommavilla)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Fiumicino Aeroporto",
+			"uid": "e413f43b91be585133870a77",
+			"x": 1363855.54,
+			"y": 5101385.47
+		},
+		{
+			"is_practical": 1,
+			"name": "Parco Leonardo",
+			"uid": "cb59758ade1f0ace70210b77",
+			"x": 1368741.34,
+			"y": 5102291.6
+		},
+		{
+			"is_practical": 1,
+			"name": "Fiera di Roma",
+			"uid": "4be83a2b8c80496886330477",
+			"x": 1371344.76,
+			"y": 5103780.22
+		},
+		{
+			"is_practical": 1,
+			"name": "Ponte Galeria",
+			"uid": "074968b4cf26bf7a14c90577",
+			"x": 1374208.96,
+			"y": 5105042.76
+		},
+		{
+			"is_practical": 1,
+			"name": "Muratella",
+			"uid": "54d62b1239342d808afc0677",
+			"x": 1381308.4,
+			"y": 5106000.26
+		},
+		{
+			"is_practical": 1,
+			"name": "Magliana",
+			"uid": "1870dd00abceb3b597ca0777",
+			"x": 1383843.78,
+			"y": 5107416.96
+		},
+		{
+			"is_practical": 1,
+			"name": "Villa Bonelli",
+			"uid": "ef624ffa35fbae831c580077",
+			"x": 1386548.03,
+			"y": 5109464.24
+		},
+		{
+			"is_practical": 1,
+			"name": "Roma Trastevere",
+			"uid": "7e98d1cf28cd251102ec0177",
+			"x": 1387729.01,
+			"y": 5113086.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Roma Ostiense",
+			"uid": "e1adccf9a35f3ba55c0d0277",
+			"x": 1389785.32,
+			"y": 5113120.25
+		},
+		{
+			"is_practical": 1,
+			"name": "Roma Tuscolana",
+			"uid": "fb9b476bbdeb6544e1110377",
+			"x": 1394153.51,
+			"y": 5114181.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Roma Tiburtina",
+			"uid": "710959dfe30ad8582ab97c77",
+			"x": 1395011.8,
+			"y": 5118825.4
+		},
+		{
+			"is_practical": 1,
+			"name": "Roma Nomentana",
+			"uid": "6cbd073e5e1613f0b3077d77",
+			"x": 1394104.05,
+			"y": 5122059.56
+		},
+		{
+			"is_practical": 1,
+			"name": "Nuovo Salario",
+			"uid": "9140718a0c0014f8b7147f77",
+			"x": 1392632.16,
+			"y": 5125441.96
+		},
+		{
+			"is_practical": 1,
+			"name": "Fidene",
+			"uid": "5be8e83492b68e5dffa77877",
+			"x": 1392447.17,
+			"y": 5129017.7
+		},
+		{
+			"is_practical": 1,
+			"name": "Settebagni",
+			"uid": "c15676820813c6ee9ef77977",
+			"x": 1393733.52,
+			"y": 5133074.42
+		},
+		{
+			"is_practical": 1,
+			"name": "Monterotondo\/Mentana",
+			"uid": "5ee0ec2740a0a7beadee7a77",
+			"x": 1402344.01,
+			"y": 5141785.12
+		},
+		{
+			"is_practical": 1,
+			"name": "Piana Bella di Montelibretti",
+			"uid": "c345a49421f094a72de67b77",
+			"x": 1406296.09,
+			"y": 5147671.45
+		},
+		{
+			"is_practical": 1,
+			"name": "Fara Sabina\/Montelibretti",
+			"uid": "8af6c5c412e914af44e27477",
+			"x": 1408006.87,
+			"y": 5155402.16
+		},
+		{
+			"is_practical": 1,
+			"name": "Poggio Mirteto",
+			"uid": "e8a6f6dd92e17dabc71b7577",
+			"x": 1406305.71,
+			"y": 5168508.65
+		},
+		{
+			"is_practical": 1,
+			"name": "Gavignano Sabino",
+			"uid": "dabf76d5fbe5fe527fc87677",
+			"x": 1403405.57,
+			"y": 5173212.07
+		},
+		{
+			"is_practical": 1,
+			"name": "Stimigliano",
+			"uid": "55b71fd1781c4681f70e7777",
+			"x": 1398864.01,
+			"y": 5175513.67
+		},
+		{
+			"is_practical": 1,
+			"name": "Collevecchio\/Poggio Sommavilla",
+			"uid": "3db39c28c0cfce470e0a7077",
+			"x": 1394065.54,
+			"y": 5176643.94
+		}]
+	},
+	{
+		"line_name": "Line B(Jonio-Laurentina)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Jonio",
+			"uid": "a9d3fa3692b68e5dffa7784e",
+			"x": 1394533.82,
+			"y": 5124188.01
+		},
+		{
+			"is_practical": 1,
+			"name": "Conca d'Oro",
+			"uid": "376d64800813c6ee9ef7794e",
+			"x": 1394671.16,
+			"y": 5123231.24
+		},
+		{
+			"is_practical": 1,
+			"name": "Libia",
+			"uid": "a8dbfe2540a0a7beadee7a4e",
+			"x": 1393647.55,
+			"y": 5121925.63
+		},
+		{
+			"is_practical": 1,
+			"name": "Sant'Agnese\/Annibaliano",
+			"uid": "317eb69621f094a72de67b4e",
+			"x": 1393291.36,
+			"y": 5120828.28
+		},
+		{
+			"is_practical": 0,
+			"name": "Bologna",
+			"uid": "78cdd7c612e914af44e2744e",
+			"x": 1393834.06,
+			"y": 5119238.19
+		},
+		{
+			"is_practical": 1,
+			"name": "Policlinico",
+			"uid": "169de4df92e17dabc71b754e",
+			"x": 1392874.46,
+			"y": 5118504.84
+		},
+		{
+			"is_practical": 1,
+			"name": "Castro Pretorio",
+			"uid": "248464d7fbe5fe527fc8764e",
+			"x": 1392122.24,
+			"y": 5118135.9
+		},
+		{
+			"is_practical": 1,
+			"name": "Termini",
+			"uid": "a78c0dd3781c4681f70e774e",
+			"x": 1391469.81,
+			"y": 5117380.47
+		},
+		{
+			"is_practical": 1,
+			"name": "Cavour",
+			"uid": "cf888e2ac0cfce470e0a704e",
+			"x": 1390822.8,
+			"y": 5116481.45
+		},
+		{
+			"is_practical": 1,
+			"name": "Colosseo",
+			"uid": "4b7136f948093743353a714e",
+			"x": 1390558.42,
+			"y": 5115941.6
+		},
+		{
+			"is_practical": 1,
+			"name": "Circo Massimo",
+			"uid": "f2a2be3fb10d0c730389724e",
+			"x": 1390161.99,
+			"y": 5114730.67
+		},
+		{
+			"is_practical": 1,
+			"name": "Piramide",
+			"uid": "7964473b8a3d3ac08adb734e",
+			"x": 1389495.3,
+			"y": 5113580.27
+		},
+		{
+			"is_practical": 1,
+			"name": "Garbatella",
+			"uid": "81607c0bbc8eb39234b06c4e",
+			"x": 1389607.63,
+			"y": 5112221.79
+		},
+		{
+			"is_practical": 1,
+			"name": "Basilica San Paolo",
+			"uid": "a5504ab835dc0df92eb96d4e",
+			"x": 1389115.7,
+			"y": 5110662.45
+		},
+		{
+			"is_practical": 1,
+			"name": "Marconi",
+			"uid": "92e3c3ea8bb717f04c776e4e",
+			"x": 1388759.11,
+			"y": 5109664.71
+		},
+		{
+			"is_practical": 1,
+			"name": "EUR Magliana",
+			"uid": "18b17d8191be753e06026f4e",
+			"x": 1387444.07,
+			"y": 5108201.28
+		},
+		{
+			"is_practical": 1,
+			"name": "EUR Palasport",
+			"uid": "a7da6788f3703f4b9f9d684e",
+			"x": 1387716.23,
+			"y": 5106829.27
+		},
+		{
+			"is_practical": 1,
+			"name": "EUR Fermi",
+			"uid": "bad30546b905a6d47602694e",
+			"x": 1388276.2,
+			"y": 5106575.12
+		},
+		{
+			"is_practical": 1,
+			"name": "Laurentina",
+			"uid": "d91d4f33209a4f4bb15c6a4e",
+			"x": 1389386.25,
+			"y": 5106358.69
+		}]
+	},
+	{
+		"line_name": "Line C(Monte Compatri\/Pantano-Lodi)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Monte Compatri\/Pantano",
+			"uid": "08f73f330e5b3447a004644e",
+			"x": 1414607.34,
+			"y": 5112086.28
+		},
+		{
+			"is_practical": 1,
+			"name": "Graniti",
+			"uid": "ee68f86db209994de7e9654e",
+			"x": 1413508.75,
+			"y": 5112120.69
+		},
+		{
+			"is_practical": 1,
+			"name": "Finocchio",
+			"uid": "2836443f1f03dea0accb664e",
+			"x": 1412406.03,
+			"y": 5112069.88
+		},
+		{
+			"is_practical": 1,
+			"name": "Bolognetta",
+			"uid": "9764e93558ee9582611c674e",
+			"x": 1411643.6,
+			"y": 5112012.48
+		},
+		{
+			"is_practical": 1,
+			"name": "Borghesiana",
+			"uid": "3b6eaed813cc58556d47604e",
+			"x": 1410075.2,
+			"y": 5111949.34
+		},
+		{
+			"is_practical": 1,
+			"name": "Due Leoni\/Fontana Candida",
+			"uid": "7b83e5fade1b540ef92d614e",
+			"x": 1409139.76,
+			"y": 5111982.97
+		},
+		{
+			"is_practical": 1,
+			"name": "Grotte Celoni",
+			"uid": "31a1282dd240c0642002624e",
+			"x": 1407775.55,
+			"y": 5111673.07
+		},
+		{
+			"is_practical": 1,
+			"name": "Torre Gaia",
+			"uid": "ff762476462a194bb9bd634e",
+			"x": 1406575.73,
+			"y": 5111875.17
+		},
+		{
+			"is_practical": 1,
+			"name": "Torre Angela",
+			"uid": "f22db01c9f0580f47bb55c4e",
+			"x": 1405494.34,
+			"y": 5111882.94
+		},
+		{
+			"is_practical": 1,
+			"name": "Torrenova",
+			"uid": "5947693306ba42fc8af15d4e",
+			"x": 1404538.38,
+			"y": 5111741.94
+		},
+		{
+			"is_practical": 1,
+			"name": "Giardinetti",
+			"uid": "8168f08cc4b2b3b83e9a5e4e",
+			"x": 1403767.77,
+			"y": 5111880.49
+		},
+		{
+			"is_practical": 1,
+			"name": "Torre Maura",
+			"uid": "1bd7328435f607d3cbfa5f4e",
+			"x": 1402306.78,
+			"y": 5112230.56
+		},
+		{
+			"is_practical": 1,
+			"name": "Torre Spaccata",
+			"uid": "d8dfc3c0819df2b36068584e",
+			"x": 1401195.08,
+			"y": 5112604.41
+		},
+		{
+			"is_practical": 1,
+			"name": "Alessandrino",
+			"uid": "2e9b77ab74fd59214e3a594e",
+			"x": 1400230.91,
+			"y": 5112943
+		},
+		{
+			"is_practical": 1,
+			"name": "Parco di Centocelle",
+			"uid": "9bf082cbdf6f7773a9175a4e",
+			"x": 1399140.54,
+			"y": 5113402.94
+		},
+		{
+			"is_practical": 1,
+			"name": "Mirti",
+			"uid": "6d902959f13d905e73455b4e",
+			"x": 1398892.11,
+			"y": 5114418.33
+		},
+		{
+			"is_practical": 1,
+			"name": "Gardenie",
+			"uid": "c702070b16104a0cb44f544e",
+			"x": 1398416.21,
+			"y": 5115142.25
+		},
+		{
+			"is_practical": 1,
+			"name": "Teano",
+			"uid": "e650e026cc428d06b626554e",
+			"x": 1397213.91,
+			"y": 5115653.82
+		},
+		{
+			"is_practical": 1,
+			"name": "Malatesta",
+			"uid": "007d3a740b488f6fa6c7564e",
+			"x": 1396013.65,
+			"y": 5115324.24
+		},
+		{
+			"is_practical": 1,
+			"name": "Pigneto",
+			"uid": "d92ffd7e09219f8eaf04574e",
+			"x": 1394642.03,
+			"y": 5115511.17
+		},
+		{
+			"is_practical": 1,
+			"name": "Lodi",
+			"uid": "1f25ff1719c0964d9b00504e",
+			"x": 1393597.58,
+			"y": 5115265.63
+		},
+		{
+			"is_practical": 0,
+			"name": "San Giovanni",
+			"uid": "f0ab7d8d321db961dcee8b58",
+			"x": 1392573.33,
+			"y": 5115079.99
+		}]
+	},
+	{
+		"line_name": "Line C(Lodi-Monte Compatri\/Pantano)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "San Giovanni",
+			"uid": "c5cd792e3f2fe5a796ec8458",
+			"x": 1392573.33,
+			"y": 5115079.99
+		},
+		{
+			"is_practical": 0,
+			"name": "Lodi",
+			"uid": "0bade6352407fd57dd1e524e",
+			"x": 1393597.58,
+			"y": 5115265.63
+		},
+		{
+			"is_practical": 0,
+			"name": "Pigneto",
+			"uid": "bd4a24fb48093743353a7177",
+			"x": 1394642.03,
+			"y": 5115511.17
+		},
+		{
+			"is_practical": 0,
+			"name": "Malatesta",
+			"uid": "346a8d2f6219d2b192114c4e",
+			"x": 1396013.65,
+			"y": 5115324.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Teano",
+			"uid": "7474942f54ffab581cf74d4e",
+			"x": 1397213.91,
+			"y": 5115653.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Gardenie",
+			"uid": "6c74a2c92d1625bed7b74e4e",
+			"x": 1398416.21,
+			"y": 5115142.25
+		},
+		{
+			"is_practical": 0,
+			"name": "Mirti",
+			"uid": "5992db20a3f0eefe00294f4e",
+			"x": 1398892.11,
+			"y": 5114418.33
+		},
+		{
+			"is_practical": 0,
+			"name": "Parco di Centocelle",
+			"uid": "217b55c668b039602bfc484e",
+			"x": 1399140.54,
+			"y": 5113402.94
+		},
+		{
+			"is_practical": 0,
+			"name": "Alessandrino",
+			"uid": "a89d9e86bf2e12b5b14c494e",
+			"x": 1400230.91,
+			"y": 5112943
+		},
+		{
+			"is_practical": 0,
+			"name": "Torre Spaccata",
+			"uid": "62dd491894fb88054acc4a4e",
+			"x": 1401195.08,
+			"y": 5112604.41
+		},
+		{
+			"is_practical": 0,
+			"name": "Torre Maura",
+			"uid": "b64362cd0e4b738515b54b4e",
+			"x": 1402306.78,
+			"y": 5112230.56
+		},
+		{
+			"is_practical": 0,
+			"name": "Giardinetti",
+			"uid": "9c96f87df5cb2cfcc236444e",
+			"x": 1403767.77,
+			"y": 5111880.49
+		},
+		{
+			"is_practical": 0,
+			"name": "Torrenova",
+			"uid": "092603fdaab2fb7f4102454e",
+			"x": 1404538.38,
+			"y": 5111741.94
+		},
+		{
+			"is_practical": 0,
+			"name": "Torre Angela",
+			"uid": "f3a65c847d31784b4d6d464e",
+			"x": 1405494.34,
+			"y": 5111882.94
+		},
+		{
+			"is_practical": 0,
+			"name": "Torre Gaia",
+			"uid": "afdf8b07fe0574244c55474e",
+			"x": 1406575.73,
+			"y": 5111875.17
+		},
+		{
+			"is_practical": 0,
+			"name": "Grotte Celoni",
+			"uid": "795c0833f26a751cbca2404e",
+			"x": 1407775.55,
+			"y": 5111673.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Due Leoni\/Fontana Candida",
+			"uid": "fd68045cf35285eb8515414e",
+			"x": 1409139.76,
+			"y": 5111982.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Borghesiana",
+			"uid": "f007056403a5bc5cbc48424e",
+			"x": 1410075.2,
+			"y": 5111949.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Bolognetta",
+			"uid": "f23ff5933a1285011776434e",
+			"x": 1411643.6,
+			"y": 5112012.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Finocchio",
+			"uid": "03c8cc24034f2e3f58bbbc4f",
+			"x": 1412406.03,
+			"y": 5112069.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Graniti",
+			"uid": "457ff579a87161f27e29bd4f",
+			"x": 1413508.75,
+			"y": 5112120.69
+		},
+		{
+			"is_practical": 0,
+			"name": "Monte Compatri\/Pantano",
+			"uid": "7d225e47e7bc47605af6be4f",
+			"x": 1414607.34,
+			"y": 5112086.28
+		}]
+	},
+	{
+		"line_name": "Line A(Battistini-Anagnina)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Battistini",
+			"uid": "9bd13718e5f1bd4cf703b84f",
+			"x": 1382060.98,
+			"y": 5118102.14
+		},
+		{
+			"is_practical": 1,
+			"name": "Cornelia",
+			"uid": "ba4313c73b02ce4a6c20b94f",
+			"x": 1383331.69,
+			"y": 5117215.06
+		},
+		{
+			"is_practical": 1,
+			"name": "Baldo degli Ubaldi",
+			"uid": "9f9ccd3448045569f23cba4f",
+			"x": 1384201.57,
+			"y": 5117073.64
+		},
+		{
+			"is_practical": 1,
+			"name": "Valle Aurelia",
+			"uid": "426fbe32d327cb7527d2bb4f",
+			"x": 1384960.76,
+			"y": 5117607.78
+		},
+		{
+			"is_practical": 1,
+			"name": "Cipro",
+			"uid": "306925114d3b1e9b9968b44f",
+			"x": 1385671.54,
+			"y": 5118350.55
+		},
+		{
+			"is_practical": 1,
+			"name": "Ottaviano",
+			"uid": "a44abb0d98d5a0218a2fb54f",
+			"x": 1386831.2,
+			"y": 5118600.8
+		},
+		{
+			"is_practical": 1,
+			"name": "Lepanto",
+			"uid": "3b566ee3266fb36677e5b64f",
+			"x": 1387748.65,
+			"y": 5118898.3
+		},
+		{
+			"is_practical": 1,
+			"name": "Flaminio",
+			"uid": "edb8d05935284eacd718b74f",
+			"x": 1388866.91,
+			"y": 5119101.64
+		},
+		{
+			"is_practical": 1,
+			"name": "Spagna",
+			"uid": "5202c31ec8e2ee51ff0eb04f",
+			"x": 1389641.45,
+			"y": 5118130.94
+		},
+		{
+			"is_practical": 1,
+			"name": "Barberini",
+			"uid": "46453ed4681fc6473804b14f",
+			"x": 1390287.19,
+			"y": 5117737.52
+		},
+		{
+			"is_practical": 1,
+			"name": "Repubblica",
+			"uid": "ba8f9e294009014dfb42b24f",
+			"x": 1391045.13,
+			"y": 5117533.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Termini",
+			"uid": "1972b63f8703c20b0b5cb34f",
+			"x": 1391469.81,
+			"y": 5117380.47
+		},
+		{
+			"is_practical": 1,
+			"name": "Vittorio Emanuele",
+			"uid": "3064713544453215c256ac4f",
+			"x": 1391903.51,
+			"y": 5116330.25
+		},
+		{
+			"is_practical": 1,
+			"name": "Manzoni",
+			"uid": "e86eb273b45bfb1ff80cad4f",
+			"x": 1392284.75,
+			"y": 5115768.65
+		},
+		{
+			"is_practical": 1,
+			"name": "San Giovanni",
+			"uid": "2a28426d7d51c145374aae4f",
+			"x": 1392573.33,
+			"y": 5115079.99
+		},
+		{
+			"is_practical": 1,
+			"name": "Re di Roma",
+			"uid": "d9368b67470b0e033210af4f",
+			"x": 1393049.23,
+			"y": 5114552.41
+		},
+		{
+			"is_practical": 1,
+			"name": "Ponte Lungo",
+			"uid": "113cb13d884d0b59b120a84f",
+			"x": 1393618.62,
+			"y": 5113931.78
+		},
+		{
+			"is_practical": 1,
+			"name": "Furio Camillo",
+			"uid": "2c667e7b8d1788696040a94f",
+			"x": 1394073.19,
+			"y": 5113454.24
+		},
+		{
+			"is_practical": 1,
+			"name": "Colli Albani",
+			"uid": "e2207b210e275909110daa4f",
+			"x": 1394789.38,
+			"y": 5112699.15
+		},
+		{
+			"is_practical": 1,
+			"name": "Arco di Travertino",
+			"uid": "e47af811df4728442ad7ab4f",
+			"x": 1395411.23,
+			"y": 5112240.45
+		},
+		{
+			"is_practical": 1,
+			"name": "Porta Furba",
+			"uid": "664a2971ae0a139ece06a44f",
+			"x": 1396855.15,
+			"y": 5111780.33
+		},
+		{
+			"is_practical": 1,
+			"name": "Numidio Quadrato",
+			"uid": "b82a583c95d0f74fefe4a54f",
+			"x": 1397370.64,
+			"y": 5111550.55
+		},
+		{
+			"is_practical": 1,
+			"name": "Lucio Sestio",
+			"uid": "c86763e67101d6ad39e4a64f",
+			"x": 1397868.9,
+			"y": 5111205.4
+		},
+		{
+			"is_practical": 1,
+			"name": "Giulio Agricola",
+			"uid": "f0bd873750e300ad2cfaa74f",
+			"x": 1398492.4,
+			"y": 5110746.07
+		},
+		{
+			"is_practical": 1,
+			"name": "Subaugusta",
+			"uid": "156ca6d586e315b324e0a04f",
+			"x": 1399024.48,
+			"y": 5110310.13
+		},
+		{
+			"is_practical": 1,
+			"name": "Cinecitta",
+			"uid": "338e70d593fd1da9c62ba14f",
+			"x": 1399740.18,
+			"y": 5109676.8
+		},
+		{
+			"is_practical": 1,
+			"name": "Anagnina",
+			"uid": "e48e65cb9be7ff62c07da24f",
+			"x": 1401117.54,
+			"y": 5108663.06
+		}]
+	},
+	{
+		"line_name": "FL1(Collevecchio\/Poggio Sommavilla-Fiumicino Aeroporto)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Collevecchio\/Poggio Sommavilla",
+			"uid": "8b5f55398a3d3ac08adb7377",
+			"x": 1394065.54,
+			"y": 5176643.94
+		},
+		{
+			"is_practical": 0,
+			"name": "Stimigliano",
+			"uid": "735b6e09bc8eb39234b06c77",
+			"x": 1398864.01,
+			"y": 5175513.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Gavignano Sabino",
+			"uid": "4b6b58ba35dc0df92eb96d77",
+			"x": 1403405.57,
+			"y": 5173212.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Poggio Mirteto",
+			"uid": "7cd8d1e88bb717f04c776e77",
+			"x": 1406305.71,
+			"y": 5168508.65
+		},
+		{
+			"is_practical": 0,
+			"name": "Fara Sabina\/Montelibretti",
+			"uid": "0a8a6f8391be753e06026f77",
+			"x": 1408006.87,
+			"y": 5155402.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Piana Bella di Montelibretti",
+			"uid": "b5e1758af3703f4b9f9d6877",
+			"x": 1406296.09,
+			"y": 5147671.45
+		},
+		{
+			"is_practical": 0,
+			"name": "Monterotondo\/Mentana",
+			"uid": "ace81744b905a6d476026977",
+			"x": 1402344.01,
+			"y": 5141785.12
+		},
+		{
+			"is_practical": 0,
+			"name": "Settebagni",
+			"uid": "cf265d31209a4f4bb15c6a77",
+			"x": 1393733.52,
+			"y": 5133074.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Fidene",
+			"uid": "8253c4aec90588150d0e6b77",
+			"x": 1392447.17,
+			"y": 5129017.7
+		},
+		{
+			"is_practical": 0,
+			"name": "Nuovo Salario",
+			"uid": "1acc2d310e5b3447a0046477",
+			"x": 1392632.16,
+			"y": 5125441.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Roma Nomentana",
+			"uid": "360d563d1f03dea0accb6677",
+			"x": 1394104.05,
+			"y": 5122059.56
+		},
+		{
+			"is_practical": 0,
+			"name": "Roma Tiburtina",
+			"uid": "855ffb3758ee9582611c6777",
+			"x": 1395011.8,
+			"y": 5118825.4
+		},
+		{
+			"is_practical": 0,
+			"name": "Roma Tuscolana",
+			"uid": "2955bcda13cc58556d476077",
+			"x": 1394153.51,
+			"y": 5114181.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Roma Ostiense",
+			"uid": "6db8f7f8de1b540ef92d6177",
+			"x": 1389785.32,
+			"y": 5113120.25
+		},
+		{
+			"is_practical": 0,
+			"name": "Roma Trastevere",
+			"uid": "279a3a2fd240c06420026277",
+			"x": 1387729.01,
+			"y": 5113086.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Villa Bonelli",
+			"uid": "ed4d3674462a194bb9bd6377",
+			"x": 1386548.03,
+			"y": 5109464.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Magliana",
+			"uid": "e016a21e9f0580f47bb55c77",
+			"x": 1383843.78,
+			"y": 5107416.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Muratella",
+			"uid": "777c7b3106ba42fc8af15d77",
+			"x": 1381308.4,
+			"y": 5106000.26
+		},
+		{
+			"is_practical": 0,
+			"name": "Ponte Galeria",
+			"uid": "af53e28ec4b2b3b83e9a5e77",
+			"x": 1374208.96,
+			"y": 5105042.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Fiera di Roma",
+			"uid": "29ec208635f607d3cbfa5f77",
+			"x": 1371344.76,
+			"y": 5103780.22
+		},
+		{
+			"is_practical": 0,
+			"name": "Parco Leonardo",
+			"uid": "eae4d1c2819df2b360685877",
+			"x": 1368741.34,
+			"y": 5102291.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Fiumicino Aeroporto",
+			"uid": "18a065a974fd59214e3a5977",
+			"x": 1363855.54,
+			"y": 5101385.47
+		}]
+	},
+	{
+		"line_name": "Line B(Laurentina-Jonio)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Laurentina",
+			"uid": "fb8a8f1a7f7aa865f7c59c4f",
+			"x": 1389386.25,
+			"y": 5106358.69
+		},
+		{
+			"is_practical": 0,
+			"name": "EUR Fermi",
+			"uid": "2641894c2e2bce8caa059d4f",
+			"x": 1388276.2,
+			"y": 5106575.12
+		},
+		{
+			"is_practical": 0,
+			"name": "EUR Palasport",
+			"uid": "2117d81d48c2934cd3f49e4f",
+			"x": 1387716.23,
+			"y": 5106829.27
+		},
+		{
+			"is_practical": 0,
+			"name": "EUR Magliana",
+			"uid": "7346bef41502eabd293a9f4f",
+			"x": 1387444.07,
+			"y": 5108201.28
+		},
+		{
+			"is_practical": 0,
+			"name": "Marconi",
+			"uid": "14afe3346cf31073266e984f",
+			"x": 1388858.78,
+			"y": 5109717.32
+		},
+		{
+			"is_practical": 0,
+			"name": "Basilica San Paolo",
+			"uid": "4e6f9ac5963d1f271ee9994f",
+			"x": 1389115.7,
+			"y": 5110662.45
+		},
+		{
+			"is_practical": 0,
+			"name": "Garbatella",
+			"uid": "369e600b996927a041ab9a4f",
+			"x": 1389607.63,
+			"y": 5112221.79
+		},
+		{
+			"is_practical": 0,
+			"name": "Piramide",
+			"uid": "cf506f5fa1ee78e232169b4f",
+			"x": 1389495.3,
+			"y": 5113580.27
+		},
+		{
+			"is_practical": 0,
+			"name": "Circo Massimo",
+			"uid": "c10457d8feac0b5f1d38944f",
+			"x": 1390161.99,
+			"y": 5114730.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Colosseo",
+			"uid": "f683089a8d112471cb1b954f",
+			"x": 1390558.42,
+			"y": 5115941.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Cavour",
+			"uid": "a8c17b27a23ff2527af7964f",
+			"x": 1390822.8,
+			"y": 5116481.45
+		},
+		{
+			"is_practical": 0,
+			"name": "Termini",
+			"uid": "d87c5409741c43beea1e974f",
+			"x": 1391469.81,
+			"y": 5117380.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Castro Pretorio",
+			"uid": "f652822ac5f0d35717a1904f",
+			"x": 1392122.24,
+			"y": 5118135.9
+		},
+		{
+			"is_practical": 0,
+			"name": "Policlinico",
+			"uid": "277133c655192ee8dad8914f",
+			"x": 1392874.46,
+			"y": 5118504.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Bologna",
+			"uid": "979da32fa8a6e39141e1924f",
+			"x": 1393834.06,
+			"y": 5119238.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Sant'Agnese\/Annibaliano",
+			"uid": "04745e9065df78a85a10934f",
+			"x": 1393291.36,
+			"y": 5120828.28
+		},
+		{
+			"is_practical": 0,
+			"name": "Libia",
+			"uid": "f8cb93e9fee6635997f08c4f",
+			"x": 1393647.55,
+			"y": 5121925.63
+		},
+		{
+			"is_practical": 0,
+			"name": "Conca d'Oro",
+			"uid": "2ab208d0e517aeb948fc8d4f",
+			"x": 1394671.16,
+			"y": 5123231.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Jonio",
+			"uid": "b08b132128f771b516948e4f",
+			"x": 1394533.82,
+			"y": 5124188.01
+		}]
+	},
+	{
+		"line_name": "Line B(Bologna-Rebibbia)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Bologna",
+			"uid": "649a01cda993829689b9884f",
+			"x": 1393834.06,
+			"y": 5119238.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Roma Tiburtina",
+			"uid": "bc965fa504d8b0f08d1a894f",
+			"x": 1395011.8,
+			"y": 5118825.4
+		},
+		{
+			"is_practical": 0,
+			"name": "Quintiliani",
+			"uid": "e3fef2ee36beb45380288a4f",
+			"x": 1395820.97,
+			"y": 5119484.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Monti Tiburtini",
+			"uid": "4db5c088321db961dcee8b4f",
+			"x": 1396833.07,
+			"y": 5119516.12
+		},
+		{
+			"is_practical": 0,
+			"name": "Pietralata",
+			"uid": "7ed3c42b3f2fe5a796ec844f",
+			"x": 1397616.47,
+			"y": 5119418.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Santa Maria del Soccorso",
+			"uid": "7570c91963e9afa5fadc854f",
+			"x": 1398341.99,
+			"y": 5119467.33
+		},
+		{
+			"is_practical": 0,
+			"name": "Ponte Mammolo",
+			"uid": "794295df29ebc3955ebe864f",
+			"x": 1398768.31,
+			"y": 5120348.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Rebibbia",
+			"uid": "2684dfdd45db67f7714b874f",
+			"x": 1399620.56,
+			"y": 5121071.36
+		}]
+	},
+	{
+		"line_name": "Line A(Anagnina-Battistini)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Anagnina",
+			"uid": "06b6178fce4c4917b03c814f",
+			"x": 1401117.54,
+			"y": 5108663.06
+		},
+		{
+			"is_practical": 0,
+			"name": "Cinecitta",
+			"uid": "a3d4387acf598975e9e5824f",
+			"x": 1399740.18,
+			"y": 5109676.8
+		},
+		{
+			"is_practical": 0,
+			"name": "Subaugusta",
+			"uid": "8f21396f0f3bd0acf12d834f",
+			"x": 1399024.48,
+			"y": 5110310.13
+		},
+		{
+			"is_practical": 0,
+			"name": "Giulio Agricola",
+			"uid": "8f34f90d56e2c864f5eafc4f",
+			"x": 1398492.4,
+			"y": 5110746.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Lucio Sestio",
+			"uid": "b057a0d44e2acca33813fd4f",
+			"x": 1397868.9,
+			"y": 5111205.4
+		},
+		{
+			"is_practical": 0,
+			"name": "Numidio Quadrato",
+			"uid": "e88eb81c4aed015a5ed4fe4f",
+			"x": 1397370.64,
+			"y": 5111550.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Porta Furba",
+			"uid": "f346bcdb8714679d55bfff4f",
+			"x": 1396855.15,
+			"y": 5111780.33
+		},
+		{
+			"is_practical": 0,
+			"name": "Arco di Travertino",
+			"uid": "f6817122e1d36cf6ef74f84f",
+			"x": 1395411.23,
+			"y": 5112240.45
+		},
+		{
+			"is_practical": 0,
+			"name": "Colli Albani",
+			"uid": "3c7817e5eab8d63de315f94f",
+			"x": 1394789.38,
+			"y": 5112699.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Furio Camillo",
+			"uid": "5bbf1c8e5073da5cea56fa4f",
+			"x": 1394073.19,
+			"y": 5113454.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Ponte Lungo",
+			"uid": "53d4a6455c12d31fc7effb4f",
+			"x": 1393618.62,
+			"y": 5113931.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Re di Roma",
+			"uid": "e81faa245551fea63786f44f",
+			"x": 1393049.23,
+			"y": 5114552.41
+		},
+		{
+			"is_practical": 0,
+			"name": "San Giovanni",
+			"uid": "eb7ea36778e80ecf05fef54f",
+			"x": 1392573.33,
+			"y": 5115079.99
+		},
+		{
+			"is_practical": 0,
+			"name": "Manzoni",
+			"uid": "e33d8ede88813cb716c8f64f",
+			"x": 1392284.75,
+			"y": 5115768.65
+		},
+		{
+			"is_practical": 0,
+			"name": "Vittorio Emanuele",
+			"uid": "cd847eb7baf92f819e09f74f",
+			"x": 1391903.51,
+			"y": 5116330.25
+		},
+		{
+			"is_practical": 0,
+			"name": "Termini",
+			"uid": "3ced4ccfa9cfa740cb09f04f",
+			"x": 1391469.81,
+			"y": 5117380.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Repubblica",
+			"uid": "09955ff9210ef240754ff14f",
+			"x": 1391045.13,
+			"y": 5117533.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Barberini",
+			"uid": "1ba3d738740e4c06203bf24f",
+			"x": 1390287.19,
+			"y": 5117737.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Spagna",
+			"uid": "90628238ca4819726949f34f",
+			"x": 1389641.45,
+			"y": 5118130.94
+		},
+		{
+			"is_practical": 0,
+			"name": "Flaminio",
+			"uid": "c4623c7e9f3c50008d55ec4f",
+			"x": 1388866.91,
+			"y": 5119101.64
+		},
+		{
+			"is_practical": 0,
+			"name": "Lepanto",
+			"uid": "6524690ad64eb41cdaeced4f",
+			"x": 1387748.65,
+			"y": 5118898.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Ottaviano",
+			"uid": "315020783252e3a58b36ee4f",
+			"x": 1386831.2,
+			"y": 5118600.8
+		},
+		{
+			"is_practical": 0,
+			"name": "Cipro",
+			"uid": "7b22c46465ebb27fcc04ef4f",
+			"x": 1385671.54,
+			"y": 5118350.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Valle Aurelia",
+			"uid": "9e3e93dd3431f54d057ce84f",
+			"x": 1384960.76,
+			"y": 5117607.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Baldo degli Ubaldi",
+			"uid": "ce87c20773033c35a31de94f",
+			"x": 1384201.57,
+			"y": 5117073.64
+		},
+		{
+			"is_practical": 0,
+			"name": "Cornelia",
+			"uid": "9e5d8535ba7b9a549c82ea4f",
+			"x": 1383331.69,
+			"y": 5117215.06
+		},
+		{
+			"is_practical": 0,
+			"name": "Battistini",
+			"uid": "da6f4c4d1c1aa5cb09f5eb4f",
+			"x": 1382060.98,
+			"y": 5118102.14
+		}]
+	}],
+	"result": {
+		"ccode": "50059",
+		"qt": "bsi"
+	}
+}

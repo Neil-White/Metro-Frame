@@ -1,0 +1,452 @@
+{
+	"content": [{
+		"line_name": "M1(Vanlose-Vestamager)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Vanlose",
+			"uid": "8ae8c5c412e914af44e27471",
+			"x": 1390583.5,
+			"y": 7460766.75
+		},
+		{
+			"is_practical": 1,
+			"name": "Flintholm",
+			"uid": "e8b8f6dd92e17dabc71b7571",
+			"x": 1391411.78,
+			"y": 7460470.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Lindevang",
+			"uid": "daa176d5fbe5fe527fc87671",
+			"x": 1392901.39,
+			"y": 7460050.95
+		},
+		{
+			"is_practical": 1,
+			"name": "Fasanvej",
+			"uid": "55a91fd1781c4681f70e7771",
+			"x": 1394039.85,
+			"y": 7459686.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Frederiksberg",
+			"uid": "3dad9c28c0cfce470e0a7071",
+			"x": 1395311.29,
+			"y": 7459604.4
+		},
+		{
+			"is_practical": 1,
+			"name": "Forum",
+			"uid": "bd5424fb48093743353a7171",
+			"x": 1397404.15,
+			"y": 7459669.19
+		},
+		{
+			"is_practical": 1,
+			"name": "Norreport",
+			"uid": "0487ac3db10d0c7303897271",
+			"x": 1399466.39,
+			"y": 7460044.13
+		},
+		{
+			"is_practical": 1,
+			"name": "Kongens Nytorv",
+			"uid": "8b4155398a3d3ac08adb7371",
+			"x": 1400995.19,
+			"y": 7459239.68
+		},
+		{
+			"is_practical": 1,
+			"name": "Christianshavn",
+			"uid": "73456e09bc8eb39234b06c71",
+			"x": 1401695.67,
+			"y": 7457797.83
+		},
+		{
+			"is_practical": 1,
+			"name": "Islands Brygge",
+			"uid": "4b7558ba35dc0df92eb96d71",
+			"x": 1401005.37,
+			"y": 7456154.87
+		},
+		{
+			"is_practical": 1,
+			"name": "DR Byen",
+			"uid": "7cc6d1e88bb717f04c776e71",
+			"x": 1401428.08,
+			"y": 7454585.2
+		},
+		{
+			"is_practical": 1,
+			"name": "Sundby",
+			"uid": "0a946f8391be753e06026f71",
+			"x": 1401055.42,
+			"y": 7452450.45
+		},
+		{
+			"is_practical": 1,
+			"name": "Bella Center",
+			"uid": "b5ff758af3703f4b9f9d6871",
+			"x": 1400722.51,
+			"y": 7451072.6
+		},
+		{
+			"is_practical": 1,
+			"name": "Orestad",
+			"uid": "acf61744b905a6d476026971",
+			"x": 1400337.31,
+			"y": 7449278.79
+		},
+		{
+			"is_practical": 1,
+			"name": "Vestamager",
+			"uid": "cf385d31209a4f4bb15c6a71",
+			"x": 1399880.53,
+			"y": 7447396.38
+		}]
+	},
+	{
+		"line_name": "M2(Lufthavnen-Vanlose)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Lufthavnen",
+			"uid": "1ad22d310e5b3447a0046471",
+			"x": 1408113.23,
+			"y": 7449530.18
+		},
+		{
+			"is_practical": 1,
+			"name": "Kastrup",
+			"uid": "f04dea6fb209994de7e96571",
+			"x": 1407828.61,
+			"y": 7450651.62
+		},
+		{
+			"is_practical": 1,
+			"name": "Femoren",
+			"uid": "3613563d1f03dea0accb6671",
+			"x": 1406897.22,
+			"y": 7452511.89
+		},
+		{
+			"is_practical": 1,
+			"name": "Amager Strand",
+			"uid": "8541fb3758ee9582611c6771",
+			"x": 1406154.98,
+			"y": 7454729.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Oresund",
+			"uid": "294bbcda13cc58556d476071",
+			"x": 1405805.6,
+			"y": 7455744.99
+		},
+		{
+			"is_practical": 1,
+			"name": "Lergravsparken",
+			"uid": "6da6f7f8de1b540ef92d6171",
+			"x": 1404451.53,
+			"y": 7455825.08
+		},
+		{
+			"is_practical": 1,
+			"name": "Amagerbro",
+			"uid": "27843a2fd240c06420026271",
+			"x": 1403002.85,
+			"y": 7456038.98
+		},
+		{
+			"is_practical": 0,
+			"name": "Christianshavn",
+			"uid": "ed533674462a194bb9bd6371",
+			"x": 1401695.67,
+			"y": 7457797.83
+		},
+		{
+			"is_practical": 0,
+			"name": "Kongens Nytorv",
+			"uid": "e008a21e9f0580f47bb55c71",
+			"x": 1400995.19,
+			"y": 7459239.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Norreport",
+			"uid": "77627b3106ba42fc8af15d71",
+			"x": 1399466.39,
+			"y": 7460044.13
+		},
+		{
+			"is_practical": 0,
+			"name": "Forum",
+			"uid": "af4de28ec4b2b3b83e9a5e71",
+			"x": 1397404.15,
+			"y": 7459669.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Frederiksberg",
+			"uid": "29f2208635f607d3cbfa5f71",
+			"x": 1395311.29,
+			"y": 7459604.4
+		},
+		{
+			"is_practical": 0,
+			"name": "Fasanvej",
+			"uid": "eafad1c2819df2b360685871",
+			"x": 1394039.85,
+			"y": 7459686.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Lindevang",
+			"uid": "18be65a974fd59214e3a5971",
+			"x": 1392901.39,
+			"y": 7460050.95
+		},
+		{
+			"is_practical": 0,
+			"name": "Flintholm",
+			"uid": "add590c9df6f7773a9175a71",
+			"x": 1391411.78,
+			"y": 7460470.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Vanlose",
+			"uid": "5fb53b5bf13d905e73455b71",
+			"x": 1390583.5,
+			"y": 7460766.75
+		}]
+	},
+	{
+		"line_name": "M1(Vestamager-Vanlose)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Vestamager",
+			"uid": "d875f224cc428d06b6265571",
+			"x": 1399880.53,
+			"y": 7447396.38
+		},
+		{
+			"is_practical": 0,
+			"name": "Orestad",
+			"uid": "3e5828760b488f6fa6c75671",
+			"x": 1400337.31,
+			"y": 7449278.79
+		},
+		{
+			"is_practical": 0,
+			"name": "Bella Center",
+			"uid": "eb0aef7c09219f8eaf045771",
+			"x": 1400722.51,
+			"y": 7451072.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Sundby",
+			"uid": "2d00ed1519c0964d9b005071",
+			"x": 1401055.42,
+			"y": 7452450.45
+		},
+		{
+			"is_practical": 0,
+			"name": "DR Byen",
+			"uid": "2c69fdf41003a249c41e5171",
+			"x": 1401428.08,
+			"y": 7454585.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Islands Brygge",
+			"uid": "3d88f4372407fd57dd1e5271",
+			"x": 1401005.37,
+			"y": 7456154.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Christianshavn",
+			"uid": "334bc0337b19e457ebf85371",
+			"x": 1401695.67,
+			"y": 7457797.83
+		},
+		{
+			"is_practical": 0,
+			"name": "Kongens Nytorv",
+			"uid": "064f9f2d6219d2b192114c71",
+			"x": 1400995.19,
+			"y": 7459239.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Norreport",
+			"uid": "5a51862d54ffab581cf74d71",
+			"x": 1399466.39,
+			"y": 7460044.13
+		},
+		{
+			"is_practical": 0,
+			"name": "Forum",
+			"uid": "4251b0cb2d1625bed7b74e71",
+			"x": 1397404.15,
+			"y": 7459669.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Frederiksberg",
+			"uid": "4bb7c922a3f0eefe00294f71",
+			"x": 1395311.29,
+			"y": 7459604.4
+		},
+		{
+			"is_practical": 0,
+			"name": "Fasanvej",
+			"uid": "335e47c468b039602bfc4871",
+			"x": 1394039.85,
+			"y": 7459686.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Lindevang",
+			"uid": "beb88c84bf2e12b5b14c4971",
+			"x": 1392901.39,
+			"y": 7460050.95
+		},
+		{
+			"is_practical": 0,
+			"name": "Flintholm",
+			"uid": "74f85b1a94fb88054acc4a71",
+			"x": 1391411.78,
+			"y": 7460470.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Vanlose",
+			"uid": "a46670cf0e4b738515b54b71",
+			"x": 1390583.5,
+			"y": 7460766.75
+		}]
+	},
+	{
+		"line_name": "M2(Vanlose-Lufthavnen)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Vanlose",
+			"uid": "170311ffaab2fb7f41024571",
+			"x": 1390583.5,
+			"y": 7460766.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Flintholm",
+			"uid": "ed834e867d31784b4d6d4671",
+			"x": 1391411.78,
+			"y": 7460470.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Lindevang",
+			"uid": "bdfa9905fe0574244c554771",
+			"x": 1392901.39,
+			"y": 7460050.95
+		},
+		{
+			"is_practical": 0,
+			"name": "Fasanvej",
+			"uid": "6b791a31f26a751cbca24071",
+			"x": 1394039.85,
+			"y": 7459686.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Frederiksberg",
+			"uid": "eb4d165ef35285eb85154171",
+			"x": 1395311.29,
+			"y": 7459604.4
+		},
+		{
+			"is_practical": 0,
+			"name": "Forum",
+			"uid": "e622176603a5bc5cbc484271",
+			"x": 1397404.15,
+			"y": 7459669.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Norreport",
+			"uid": "e01ae7913a12850117764371",
+			"x": 1399466.39,
+			"y": 7460044.13
+		},
+		{
+			"is_practical": 0,
+			"name": "Kongens Nytorv",
+			"uid": "11edde26034f2e3f58bbbc76",
+			"x": 1400995.19,
+			"y": 7459239.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Christianshavn",
+			"uid": "2b5ae77ba87161f27e29bd76",
+			"x": 1401695.67,
+			"y": 7457797.83
+		},
+		{
+			"is_practical": 0,
+			"name": "Amagerbro",
+			"uid": "13074c45e7bc47605af6be76",
+			"x": 1403002.85,
+			"y": 7456038.98
+		},
+		{
+			"is_practical": 0,
+			"name": "Lergravsparken",
+			"uid": "a7390388c12e63bf8405bf76",
+			"x": 1404451.53,
+			"y": 7455825.08
+		},
+		{
+			"is_practical": 0,
+			"name": "Oresund",
+			"uid": "e9f4251ae5f1bd4cf703b876",
+			"x": 1405805.6,
+			"y": 7455744.99
+		},
+		{
+			"is_practical": 0,
+			"name": "Amager Strand",
+			"uid": "cc6601c53b02ce4a6c20b976",
+			"x": 1406154.98,
+			"y": 7454729.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Femoren",
+			"uid": "e9b9df3648045569f23cba76",
+			"x": 1406897.22,
+			"y": 7452511.89
+		},
+		{
+			"is_practical": 0,
+			"name": "Kastrup",
+			"uid": "304aac30d327cb7527d2bb76",
+			"x": 1407828.61,
+			"y": 7450651.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Lufthavnen",
+			"uid": "424c37134d3b1e9b9968b476",
+			"x": 1408113.23,
+			"y": 7449530.18
+		}]
+	}],
+	"result": {
+		"ccode": "51833",
+		"qt": "bsi"
+	}
+}

@@ -1,0 +1,2224 @@
+{
+	"content": [{
+		"line_name": "Line T11(Kungstradgarden-Akalla)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Kungstradgarden",
+			"uid": "f227f5933a12850117764356",
+			"x": 2011927.95,
+			"y": 8215120.09
+		},
+		{
+			"is_practical": 1,
+			"name": "T-Centralen",
+			"uid": "03d0cc24034f2e3f58bbbc57",
+			"x": 2010253.44,
+			"y": 8215457.89
+		},
+		{
+			"is_practical": 1,
+			"name": "Radhuset",
+			"uid": "4567f579a87161f27e29bd57",
+			"x": 2008422.39,
+			"y": 8214920.42
+		},
+		{
+			"is_practical": 1,
+			"name": "Fridhemsplan",
+			"uid": "7d3a5e47e7bc47605af6be57",
+			"x": 2007217.68,
+			"y": 8215569.75
+		},
+		{
+			"is_practical": 1,
+			"name": "Stadshagen",
+			"uid": "d504118ac12e63bf8405bf57",
+			"x": 2005317.27,
+			"y": 8216766.6
+		},
+		{
+			"is_practical": 1,
+			"name": "Vastra skogen",
+			"uid": "9bc93718e5f1bd4cf703b857",
+			"x": 2004223.29,
+			"y": 8218777.78
+		},
+		{
+			"is_practical": 1,
+			"name": "Solna centrum",
+			"uid": "ba5b13c73b02ce4a6c20b957",
+			"x": 2003689.2,
+			"y": 8221282.23
+		},
+		{
+			"is_practical": 1,
+			"name": "Nackrosen",
+			"uid": "9f84cd3448045569f23cba57",
+			"x": 2001894.98,
+			"y": 8222951.13
+		},
+		{
+			"is_practical": 1,
+			"name": "Hallonbergen",
+			"uid": "4277be32d327cb7527d2bb57",
+			"x": 2000331.24,
+			"y": 8224857.15
+		},
+		{
+			"is_practical": 1,
+			"name": "Kista",
+			"uid": "307125114d3b1e9b9968b457",
+			"x": 1997364.81,
+			"y": 8230901.87
+		},
+		{
+			"is_practical": 1,
+			"name": "Husby",
+			"uid": "a452bb0d98d5a0218a2fb557",
+			"x": 1995499.06,
+			"y": 8232467.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Akalla",
+			"uid": "3b4e6ee3266fb36677e5b657",
+			"x": 1994264.17,
+			"y": 8233449.95
+		}]
+	},
+	{
+		"line_name": "Line T18(Alvik-Farsta strand)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Alvik",
+			"uid": "521ac31ec8e2ee51ff0eb057",
+			"x": 2001620.38,
+			"y": 8215710.69
+		},
+		{
+			"is_practical": 1,
+			"name": "Kristineberg",
+			"uid": "465d3ed4681fc6473804b157",
+			"x": 2004122.62,
+			"y": 8215560.8
+		},
+		{
+			"is_practical": 1,
+			"name": "Thorildsplan",
+			"uid": "ba979e294009014dfb42b257",
+			"x": 2005446.99,
+			"y": 8215277.81
+		},
+		{
+			"is_practical": 0,
+			"name": "Fridhemsplan",
+			"uid": "196ab63f8703c20b0b5cb357",
+			"x": 2007217.68,
+			"y": 8215569.75
+		},
+		{
+			"is_practical": 1,
+			"name": "St. Eriksplan",
+			"uid": "307c713544453215c256ac57",
+			"x": 2007868.67,
+			"y": 8217084.27
+		},
+		{
+			"is_practical": 1,
+			"name": "Odenplan",
+			"uid": "e876b273b45bfb1ff80cad57",
+			"x": 2009323.93,
+			"y": 8217765.48
+		},
+		{
+			"is_practical": 1,
+			"name": "Radmansgatan",
+			"uid": "2a30426d7d51c145374aae57",
+			"x": 2010308.26,
+			"y": 8217174.87
+		},
+		{
+			"is_practical": 1,
+			"name": "Hotorget",
+			"uid": "d92e8b67470b0e033210af57",
+			"x": 2010803.75,
+			"y": 8216096.59
+		},
+		{
+			"is_practical": 0,
+			"name": "T-Centralen",
+			"uid": "1124b13d884d0b59b120a857",
+			"x": 2010489.44,
+			"y": 8215097.71
+		},
+		{
+			"is_practical": 1,
+			"name": "Gamla stan",
+			"uid": "2c7e7e7b8d1788696040a957",
+			"x": 2011236.65,
+			"y": 8213463.5
+		},
+		{
+			"is_practical": 1,
+			"name": "Slussen",
+			"uid": "e2387b210e275909110daa57",
+			"x": 2011792.58,
+			"y": 8212648.06
+		},
+		{
+			"is_practical": 1,
+			"name": "Medborgarplatsen",
+			"uid": "e462f811df4728442ad7ab57",
+			"x": 2011945.83,
+			"y": 8211551.89
+		},
+		{
+			"is_practical": 1,
+			"name": "Skanstull",
+			"uid": "66522971ae0a139ece06a457",
+			"x": 2012236.65,
+			"y": 8210134.66
+		},
+		{
+			"is_practical": 1,
+			"name": "Gullmarsplan",
+			"uid": "b832583c95d0f74fefe4a557",
+			"x": 2012795.91,
+			"y": 8208208.5
+		},
+		{
+			"is_practical": 1,
+			"name": "Skarmarbrink",
+			"uid": "c87f63e67101d6ad39e4a657",
+			"x": 2013846.2,
+			"y": 8207400.64
+		},
+		{
+			"is_practical": 1,
+			"name": "Blasut",
+			"uid": "f0a5873750e300ad2cfaa757",
+			"x": 2013901.27,
+			"y": 8206279
+		},
+		{
+			"is_practical": 1,
+			"name": "Sandsborg",
+			"uid": "1574a6d586e315b324e0a057",
+			"x": 2014039.97,
+			"y": 8205178.34
+		},
+		{
+			"is_practical": 1,
+			"name": "Skogskyrkogarden",
+			"uid": "339670d593fd1da9c62ba157",
+			"x": 2014404.61,
+			"y": 8203878.57
+		},
+		{
+			"is_practical": 1,
+			"name": "Tallkrogen",
+			"uid": "e49665cb9be7ff62c07da257",
+			"x": 2013333.04,
+			"y": 8202191.78
+		},
+		{
+			"is_practical": 1,
+			"name": "Gubbangen",
+			"uid": "f2886dd1792cf934912ca357",
+			"x": 2012896.82,
+			"y": 8200563.15
+		},
+		{
+			"is_practical": 1,
+			"name": "Hokarangen",
+			"uid": "fb928f1a7f7aa865f7c59c57",
+			"x": 2012957.21,
+			"y": 8199234.3
+		},
+		{
+			"is_practical": 1,
+			"name": "Farsta",
+			"uid": "2659894c2e2bce8caa059d57",
+			"x": 2014201.07,
+			"y": 8196104.57
+		},
+		{
+			"is_practical": 1,
+			"name": "Farsta strand",
+			"uid": "210fd81d48c2934cd3f49e57",
+			"x": 2014807.29,
+			"y": 8194478.17
+		}]
+	},
+	{
+		"line_name": "Line T17(Skarpnack-Akeshov)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Skarpnack",
+			"uid": "14b7e3346cf31073266e9857",
+			"x": 2018624.68,
+			"y": 8201170.26
+		},
+		{
+			"is_practical": 1,
+			"name": "Bagarmossen",
+			"uid": "4e779ac5963d1f271ee99957",
+			"x": 2018355.13,
+			"y": 8203246.3
+		},
+		{
+			"is_practical": 1,
+			"name": "Karrtorp",
+			"uid": "3686600b996927a041ab9a57",
+			"x": 2016510.58,
+			"y": 8205062.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Bjorkhagen",
+			"uid": "cf486f5fa1ee78e232169b57",
+			"x": 2016624.67,
+			"y": 8206490.13
+		},
+		{
+			"is_practical": 1,
+			"name": "Hammarbyhojden",
+			"uid": "c11c57d8feac0b5f1d389457",
+			"x": 2015409.95,
+			"y": 8207248.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Skarmarbrink",
+			"uid": "f69b089a8d112471cb1b9557",
+			"x": 2013846.2,
+			"y": 8207400.64
+		},
+		{
+			"is_practical": 0,
+			"name": "Gullmarsplan",
+			"uid": "a8d97b27a23ff2527af79657",
+			"x": 2012795.91,
+			"y": 8208208.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Skanstull",
+			"uid": "d8645409741c43beea1e9757",
+			"x": 2012236.65,
+			"y": 8210134.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Medborgarplatsen",
+			"uid": "f64a822ac5f0d35717a19057",
+			"x": 2011945.83,
+			"y": 8211551.89
+		},
+		{
+			"is_practical": 0,
+			"name": "Slussen",
+			"uid": "276933c655192ee8dad89157",
+			"x": 2011792.58,
+			"y": 8212648.06
+		},
+		{
+			"is_practical": 0,
+			"name": "Gamla stan",
+			"uid": "9785a32fa8a6e39141e19257",
+			"x": 2011236.65,
+			"y": 8213463.5
+		},
+		{
+			"is_practical": 0,
+			"name": "T-Centralen",
+			"uid": "046c5e9065df78a85a109357",
+			"x": 2010489.44,
+			"y": 8215097.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Hotorget",
+			"uid": "f8d393e9fee6635997f08c57",
+			"x": 2010803.75,
+			"y": 8216096.59
+		},
+		{
+			"is_practical": 0,
+			"name": "Radmansgatan",
+			"uid": "2aaa08d0e517aeb948fc8d57",
+			"x": 2010308.26,
+			"y": 8217174.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Odenplan",
+			"uid": "b093132128f771b516948e57",
+			"x": 2009323.93,
+			"y": 8217765.48
+		},
+		{
+			"is_practical": 0,
+			"name": "St. Eriksplan",
+			"uid": "a862dec1f7fb2fddbbdf8f57",
+			"x": 2007868.67,
+			"y": 8217084.27
+		},
+		{
+			"is_practical": 0,
+			"name": "Fridhemsplan",
+			"uid": "648201cda993829689b98857",
+			"x": 2007217.68,
+			"y": 8215569.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Thorildsplan",
+			"uid": "bc8e5fa504d8b0f08d1a8957",
+			"x": 2005446.99,
+			"y": 8215277.81
+		},
+		{
+			"is_practical": 0,
+			"name": "Kristineberg",
+			"uid": "e3e6f2ee36beb45380288a57",
+			"x": 2004122.62,
+			"y": 8215560.8
+		},
+		{
+			"is_practical": 0,
+			"name": "Alvik",
+			"uid": "4dadc088321db961dcee8b57",
+			"x": 2001620.38,
+			"y": 8215710.69
+		},
+		{
+			"is_practical": 1,
+			"name": "Stora Mossen",
+			"uid": "7ecbc42b3f2fe5a796ec8457",
+			"x": 1999942.55,
+			"y": 8215953.42
+		},
+		{
+			"is_practical": 1,
+			"name": "Abrahamsberg",
+			"uid": "7568c91963e9afa5fadc8557",
+			"x": 1998539.86,
+			"y": 8216398.6
+		},
+		{
+			"is_practical": 1,
+			"name": "Brommaplan",
+			"uid": "795a95df29ebc3955ebe8657",
+			"x": 1997047.7,
+			"y": 8216772.2
+		},
+		{
+			"is_practical": 1,
+			"name": "Akeshov",
+			"uid": "269cdfdd45db67f7714b8757",
+			"x": 1995410.13,
+			"y": 8217588.75
+		}]
+	},
+	{
+		"line_name": "Line T18(Farsta strand-Alvik)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Farsta strand",
+			"uid": "06ae178fce4c4917b03c8157",
+			"x": 2014807.29,
+			"y": 8194478.17
+		},
+		{
+			"is_practical": 0,
+			"name": "Farsta",
+			"uid": "a3cc387acf598975e9e58257",
+			"x": 2014201.07,
+			"y": 8196104.57
+		},
+		{
+			"is_practical": 0,
+			"name": "Hokarangen",
+			"uid": "8f39396f0f3bd0acf12d8357",
+			"x": 2012957.21,
+			"y": 8199234.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Gubbangen",
+			"uid": "8f2cf90d56e2c864f5eafc57",
+			"x": 2012896.82,
+			"y": 8200563.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Tallkrogen",
+			"uid": "b04fa0d44e2acca33813fd57",
+			"x": 2013333.04,
+			"y": 8202191.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Skogskyrkogarden",
+			"uid": "e896b81c4aed015a5ed4fe57",
+			"x": 2014404.61,
+			"y": 8203878.57
+		},
+		{
+			"is_practical": 0,
+			"name": "Sandsborg",
+			"uid": "f35ebcdb8714679d55bfff57",
+			"x": 2014039.97,
+			"y": 8205178.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Blasut",
+			"uid": "f6997122e1d36cf6ef74f857",
+			"x": 2013901.27,
+			"y": 8206279
+		},
+		{
+			"is_practical": 0,
+			"name": "Skarmarbrink",
+			"uid": "3c6017e5eab8d63de315f957",
+			"x": 2013846.2,
+			"y": 8207400.64
+		},
+		{
+			"is_practical": 0,
+			"name": "Gullmarsplan",
+			"uid": "5ba71c8e5073da5cea56fa57",
+			"x": 2012795.91,
+			"y": 8208208.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Skanstull",
+			"uid": "53cca6455c12d31fc7effb57",
+			"x": 2012236.65,
+			"y": 8210134.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Medborgarplatsen",
+			"uid": "e807aa245551fea63786f457",
+			"x": 2011945.83,
+			"y": 8211551.89
+		},
+		{
+			"is_practical": 0,
+			"name": "Slussen",
+			"uid": "eb66a36778e80ecf05fef557",
+			"x": 2011792.58,
+			"y": 8212648.06
+		},
+		{
+			"is_practical": 0,
+			"name": "Gamla stan",
+			"uid": "e3258ede88813cb716c8f657",
+			"x": 2011236.65,
+			"y": 8213463.5
+		},
+		{
+			"is_practical": 0,
+			"name": "T-Centralen",
+			"uid": "cd9c7eb7baf92f819e09f757",
+			"x": 2010489.44,
+			"y": 8215097.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Hotorget",
+			"uid": "3cf54ccfa9cfa740cb09f057",
+			"x": 2010803.75,
+			"y": 8216096.59
+		},
+		{
+			"is_practical": 0,
+			"name": "Radmansgatan",
+			"uid": "098d5ff9210ef240754ff157",
+			"x": 2010308.26,
+			"y": 8217174.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Odenplan",
+			"uid": "1bbbd738740e4c06203bf257",
+			"x": 2009323.93,
+			"y": 8217765.48
+		},
+		{
+			"is_practical": 0,
+			"name": "St. Eriksplan",
+			"uid": "907a8238ca4819726949f357",
+			"x": 2007868.67,
+			"y": 8217084.27
+		},
+		{
+			"is_practical": 0,
+			"name": "Fridhemsplan",
+			"uid": "c47a3c7e9f3c50008d55ec57",
+			"x": 2007217.68,
+			"y": 8215569.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Thorildsplan",
+			"uid": "653c690ad64eb41cdaeced57",
+			"x": 2005446.99,
+			"y": 8215277.81
+		},
+		{
+			"is_practical": 0,
+			"name": "Kristineberg",
+			"uid": "314820783252e3a58b36ee57",
+			"x": 2004122.62,
+			"y": 8215560.8
+		},
+		{
+			"is_practical": 0,
+			"name": "Alvik",
+			"uid": "7b3ac46465ebb27fcc04ef57",
+			"x": 2001620.38,
+			"y": 8215710.69
+		}]
+	},
+	{
+		"line_name": "Line T11(Akalla-Kungstradgarden)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Akalla",
+			"uid": "ce9fc20773033c35a31de957",
+			"x": 1994264.17,
+			"y": 8233449.95
+		},
+		{
+			"is_practical": 0,
+			"name": "Husby",
+			"uid": "9e458535ba7b9a549c82ea57",
+			"x": 1995499.06,
+			"y": 8232467.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Kista",
+			"uid": "da774c4d1c1aa5cb09f5eb57",
+			"x": 1997364.81,
+			"y": 8230901.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Hallonbergen",
+			"uid": "120fea2c238530bcea12e457",
+			"x": 2000331.24,
+			"y": 8224857.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Nackrosen",
+			"uid": "bb6ed5b3b6f2d35bac31e557",
+			"x": 2001894.98,
+			"y": 8222951.13
+		},
+		{
+			"is_practical": 0,
+			"name": "Solna centrum",
+			"uid": "85f140c45515957842afe657",
+			"x": 2003689.2,
+			"y": 8221282.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Vastra skogen",
+			"uid": "1386a32313367be6b917e757",
+			"x": 2004223.29,
+			"y": 8218777.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Stadshagen",
+			"uid": "f161e500fda8805e9022e057",
+			"x": 2005317.27,
+			"y": 8216766.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Fridhemsplan",
+			"uid": "b0420b9e0610a96b2802e157",
+			"x": 2007217.68,
+			"y": 8215569.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Radhuset",
+			"uid": "5fdcf0262f25114bd52ce257",
+			"x": 2008422.39,
+			"y": 8214920.42
+		},
+		{
+			"is_practical": 0,
+			"name": "T-Centralen",
+			"uid": "a764d9139705ec65d33ce357",
+			"x": 2010253.44,
+			"y": 8215457.89
+		},
+		{
+			"is_practical": 0,
+			"name": "Kungstradgarden",
+			"uid": "8f5161336a2bea753717dc57",
+			"x": 2011927.95,
+			"y": 8215120.09
+		}]
+	},
+	{
+		"line_name": "Line T19(Hagsatra-Hasselby Strand)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Hagsatra",
+			"uid": "f45f9a0d881030859f95de57",
+			"x": 2005160.65,
+			"y": 8200302.52
+		},
+		{
+			"is_practical": 1,
+			"name": "Ragsved",
+			"uid": "f14f7e26b6cba6dc4f2fdf57",
+			"x": 2006898.84,
+			"y": 8198975.88
+		},
+		{
+			"is_practical": 1,
+			"name": "Hogdalen",
+			"uid": "146440fd20927666a90dd857",
+			"x": 2008536.45,
+			"y": 8200530.7
+		},
+		{
+			"is_practical": 1,
+			"name": "Bandhagen",
+			"uid": "2dbfd6a4f02890440969d957",
+			"x": 2009301.57,
+			"y": 8202007.18
+		},
+		{
+			"is_practical": 1,
+			"name": "Stureby",
+			"uid": "bae6061e160a30200c3dda57",
+			"x": 2009917.89,
+			"y": 8202887.5
+		},
+		{
+			"is_practical": 1,
+			"name": "Svedmyra",
+			"uid": "695ce03cb66e3574c8c3db57",
+			"x": 2011243.34,
+			"y": 8203544.1
+		},
+		{
+			"is_practical": 1,
+			"name": "Sockenplan",
+			"uid": "8e7e4058b33af18a08a8d457",
+			"x": 2011624.78,
+			"y": 8204766.69
+		},
+		{
+			"is_practical": 1,
+			"name": "Enskede gard",
+			"uid": "211a450c77c431e11911d557",
+			"x": 2011586.75,
+			"y": 8206134.69
+		},
+		{
+			"is_practical": 1,
+			"name": "Globen",
+			"uid": "254e81f2b7af2058d02dd657",
+			"x": 2012421.24,
+			"y": 8207163.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Gullmarsplan",
+			"uid": "e2b04199a616e9644154d757",
+			"x": 2012795.91,
+			"y": 8208208.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Skanstull",
+			"uid": "23db50206f2a781d240bd057",
+			"x": 2012236.65,
+			"y": 8210134.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Medborgarplatsen",
+			"uid": "3562991cfe531d422911d157",
+			"x": 2011945.83,
+			"y": 8211551.89
+		},
+		{
+			"is_practical": 0,
+			"name": "Slussen",
+			"uid": "fd5e08659b0c105878dbd257",
+			"x": 2011792.58,
+			"y": 8212648.06
+		},
+		{
+			"is_practical": 0,
+			"name": "Gamla stan",
+			"uid": "6f276d3a961641927269d357",
+			"x": 2011236.65,
+			"y": 8213463.5
+		},
+		{
+			"is_practical": 0,
+			"name": "T-Centralen",
+			"uid": "0b786020c7dc4b206da3cc57",
+			"x": 2010489.44,
+			"y": 8215097.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Hotorget",
+			"uid": "196231eacd6e54eaaaf0cd57",
+			"x": 2010803.75,
+			"y": 8216096.59
+		},
+		{
+			"is_practical": 0,
+			"name": "Radmansgatan",
+			"uid": "49a83b58d2a493b92a06ce57",
+			"x": 2010308.26,
+			"y": 8217174.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Odenplan",
+			"uid": "401a249215f7134fc3f1cf57",
+			"x": 2009323.93,
+			"y": 8217765.48
+		},
+		{
+			"is_practical": 0,
+			"name": "St. Eriksplan",
+			"uid": "5ed0e3c19501fab8583ac857",
+			"x": 2007868.67,
+			"y": 8217084.27
+		},
+		{
+			"is_practical": 0,
+			"name": "Fridhemsplan",
+			"uid": "9e8363377cf66173911fc957",
+			"x": 2007217.68,
+			"y": 8215569.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Thorildsplan",
+			"uid": "1f758ac0e73da856efdfca57",
+			"x": 2005446.99,
+			"y": 8215277.81
+		},
+		{
+			"is_practical": 0,
+			"name": "Kristineberg",
+			"uid": "f582110b2e18d696f9f0cb57",
+			"x": 2004122.62,
+			"y": 8215560.8
+		},
+		{
+			"is_practical": 0,
+			"name": "Alvik",
+			"uid": "6f49d82e50d8c0b9a1acc457",
+			"x": 2001620.38,
+			"y": 8215710.69
+		},
+		{
+			"is_practical": 0,
+			"name": "Stora Mossen",
+			"uid": "a96ca6ee46f798e550e5c557",
+			"x": 1999942.55,
+			"y": 8215953.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Abrahamsberg",
+			"uid": "d6acb0c11eab69ac1a94c657",
+			"x": 1998539.86,
+			"y": 8216398.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Brommaplan",
+			"uid": "c383e89defe223dd0a1cc757",
+			"x": 1997047.7,
+			"y": 8216772.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Akeshov",
+			"uid": "9adf19d4a59333554351c057",
+			"x": 1995410.13,
+			"y": 8217588.75
+		},
+		{
+			"is_practical": 1,
+			"name": "Angbyplan",
+			"uid": "6c9653a5b51b7a184007c157",
+			"x": 1993430.28,
+			"y": 8217514.92
+		},
+		{
+			"is_practical": 1,
+			"name": "Islandstorget",
+			"uid": "27e7432dfc56794e0582c257",
+			"x": 1991967.21,
+			"y": 8218396.36
+		},
+		{
+			"is_practical": 1,
+			"name": "Blackeberg",
+			"uid": "346f0a60ff003ccb5c17c357",
+			"x": 1990811.75,
+			"y": 8218873.97
+		},
+		{
+			"is_practical": 1,
+			"name": "Racksta",
+			"uid": "7c220936ba85655ecbe33c57",
+			"x": 1990629.41,
+			"y": 8220318.05
+		},
+		{
+			"is_practical": 1,
+			"name": "Vallingby",
+			"uid": "00744cb3e310f2aaca213d57",
+			"x": 1989506.38,
+			"y": 8222190.52
+		},
+		{
+			"is_practical": 1,
+			"name": "Johannelund",
+			"uid": "44f1152674e4f36840d63e57",
+			"x": 1987913.54,
+			"y": 8223228.54
+		},
+		{
+			"is_practical": 1,
+			"name": "Hasselby Gard",
+			"uid": "1e6482d27526799f48fd3f57",
+			"x": 1986381.09,
+			"y": 8223002.58
+		},
+		{
+			"is_practical": 1,
+			"name": "Hasselby Strand",
+			"uid": "88908310ffd171b4e4073857",
+			"x": 1985119.36,
+			"y": 8221776.65
+		}]
+	},
+	{
+		"line_name": "Line Arlanda Express(Stockholm Central-Arlanda North)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Stockholm Central",
+			"uid": "ca4205e7eab8d63de315f974",
+			"x": 2010244.26,
+			"y": 8215109.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Arlanda South",
+			"uid": "ad850e8c5073da5cea56fa74",
+			"x": 1995814.53,
+			"y": 8284091.15
+		},
+		{
+			"is_practical": 1,
+			"name": "Arlanda North",
+			"uid": "a1eeb4475c12d31fc7effb74",
+			"x": 1996064.72,
+			"y": 8285344.86
+		}]
+	},
+	{
+		"line_name": "Line T17(Akeshov-Skarpnack)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Akeshov",
+			"uid": "05a501cc5b009d930bb93a57",
+			"x": 1995410.13,
+			"y": 8217588.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Brommaplan",
+			"uid": "0e8ead361bdd32f0f6e73b57",
+			"x": 1997047.7,
+			"y": 8216772.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Abrahamsberg",
+			"uid": "a374edebb4becfaea3a93457",
+			"x": 1998539.86,
+			"y": 8216398.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Stora Mossen",
+			"uid": "eca9428849e09ae012293557",
+			"x": 1999942.55,
+			"y": 8215953.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Alvik",
+			"uid": "42cabfd61cae2b60b31e3657",
+			"x": 2001620.38,
+			"y": 8215710.69
+		},
+		{
+			"is_practical": 0,
+			"name": "Kristineberg",
+			"uid": "bc94ea98ad2e8a57f3193757",
+			"x": 2004122.62,
+			"y": 8215560.8
+		},
+		{
+			"is_practical": 0,
+			"name": "Thorildsplan",
+			"uid": "e8da5b180c19ca50a3d23057",
+			"x": 2005446.99,
+			"y": 8215277.81
+		},
+		{
+			"is_practical": 0,
+			"name": "Fridhemsplan",
+			"uid": "5e5afa2f4c1e9a9b3de23157",
+			"x": 2007217.68,
+			"y": 8215569.75
+		},
+		{
+			"is_practical": 0,
+			"name": "St. Eriksplan",
+			"uid": "fe6dba281cd504ab461a3257",
+			"x": 2007868.67,
+			"y": 8217084.27
+		},
+		{
+			"is_practical": 0,
+			"name": "Odenplan",
+			"uid": "bd6aeae382e57f532f473357",
+			"x": 2009323.93,
+			"y": 8217765.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Radmansgatan",
+			"uid": "eca174d3f91d160e6dc02c57",
+			"x": 2010308.26,
+			"y": 8217174.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Hotorget",
+			"uid": "6d910f2b9040548902ff2d57",
+			"x": 2010803.75,
+			"y": 8216096.59
+		},
+		{
+			"is_practical": 0,
+			"name": "T-Centralen",
+			"uid": "17696676d2c73bb683a12e57",
+			"x": 2010489.44,
+			"y": 8215097.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Gamla stan",
+			"uid": "7d3424f1bdf8bae8b7f42f57",
+			"x": 2011236.65,
+			"y": 8213463.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Slussen",
+			"uid": "3eb34bce3ca68ebddb2f2857",
+			"x": 2011792.58,
+			"y": 8212648.06
+		},
+		{
+			"is_practical": 0,
+			"name": "Medborgarplatsen",
+			"uid": "568cca9008f3e266aaf72957",
+			"x": 2011945.83,
+			"y": 8211551.89
+		},
+		{
+			"is_practical": 0,
+			"name": "Skanstull",
+			"uid": "d6d2fec5642893beafb22a57",
+			"x": 2012236.65,
+			"y": 8210134.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Gullmarsplan",
+			"uid": "e187921e15f096fb9eec2b57",
+			"x": 2012795.91,
+			"y": 8208208.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Skarmarbrink",
+			"uid": "8c5ce3c610b5a7a510882457",
+			"x": 2013846.2,
+			"y": 8207400.64
+		},
+		{
+			"is_practical": 0,
+			"name": "Hammarbyhojden",
+			"uid": "f284e68321eb29c1c5f02557",
+			"x": 2015409.95,
+			"y": 8207248.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Bjorkhagen",
+			"uid": "f6c1d7ddaf8ffcb944572657",
+			"x": 2016624.67,
+			"y": 8206490.13
+		},
+		{
+			"is_practical": 0,
+			"name": "Karrtorp",
+			"uid": "c49f59b97af77d1e8c772757",
+			"x": 2016510.58,
+			"y": 8205062.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Bagarmossen",
+			"uid": "4bfb8cc1fb50b53e20022057",
+			"x": 2018355.13,
+			"y": 8203246.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Skarpnack",
+			"uid": "99830d663370194b9ce32157",
+			"x": 2018624.68,
+			"y": 8201170.26
+		}]
+	},
+	{
+		"line_name": "Line Arlanda Express(Arlanda North-Stockholm Central)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Arlanda North",
+			"uid": "1544b16578e80ecf05fef574",
+			"x": 1996064.72,
+			"y": 8285344.86
+		},
+		{
+			"is_practical": 0,
+			"name": "Arlanda South",
+			"uid": "1d079cdc88813cb716c8f674",
+			"x": 1995814.53,
+			"y": 8284091.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Stockholm Central",
+			"uid": "3fbe6cb5baf92f819e09f774",
+			"x": 2010244.26,
+			"y": 8215109.21
+		}]
+	},
+	{
+		"line_name": "Line T14(Morby centrum-Fruangen)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Morby centrum",
+			"uid": "d204693323e487e1d1ff2357",
+			"x": 2007810.48,
+			"y": 8229834.78
+		},
+		{
+			"is_practical": 1,
+			"name": "Danderyds sjukhus",
+			"uid": "7f71d5d201afe8b63a221c57",
+			"x": 2008378.75,
+			"y": 8228472.35
+		},
+		{
+			"is_practical": 1,
+			"name": "Bergshamra",
+			"uid": "fc90f7996ef8036b33f71d57",
+			"x": 2007835.13,
+			"y": 8226215.09
+		},
+		{
+			"is_practical": 1,
+			"name": "Universitetet",
+			"uid": "dfdb98ce85250abeb65f1e57",
+			"x": 2009854.13,
+			"y": 8222616.68
+		},
+		{
+			"is_practical": 1,
+			"name": "Tekniska hogskolan",
+			"uid": "b38c73138cf08f16d5851f57",
+			"x": 2011614.72,
+			"y": 8218300.16
+		},
+		{
+			"is_practical": 1,
+			"name": "Stadion",
+			"uid": "59517ac60958ecccda131857",
+			"x": 2012732.15,
+			"y": 8217640.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Ostermalmstorg",
+			"uid": "5784ff6e6a82e35a96031957",
+			"x": 2012125.88,
+			"y": 8215884.07
+		},
+		{
+			"is_practical": 0,
+			"name": "T-Centralen",
+			"uid": "d32c9cb46514af4a29201a57",
+			"x": 2010489.44,
+			"y": 8215097.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Gamla stan",
+			"uid": "b3f69322290410696e3e1b57",
+			"x": 2011236.65,
+			"y": 8213463.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Slussen",
+			"uid": "bd60df3296275777c06c1457",
+			"x": 2011792.58,
+			"y": 8212648.06
+		},
+		{
+			"is_practical": 1,
+			"name": "Mariatorget",
+			"uid": "fe706011d139f925c8291557",
+			"x": 2010685.21,
+			"y": 8212315.86
+		},
+		{
+			"is_practical": 1,
+			"name": "Zinkensdamm",
+			"uid": "4053270f7f6bf160f5b91657",
+			"x": 2009304.89,
+			"y": 8212280.07
+		},
+		{
+			"is_practical": 1,
+			"name": "Hornstull",
+			"uid": "044d895d772eccf023f01757",
+			"x": 2007597.96,
+			"y": 8211855.01
+		},
+		{
+			"is_practical": 1,
+			"name": "Liljeholmen",
+			"uid": "ab1f81184abe1ab9f5231057",
+			"x": 2006215.44,
+			"y": 8210668.22
+		},
+		{
+			"is_practical": 1,
+			"name": "Midsommarkransen",
+			"uid": "a45abc889cf7cc6a1c1d1157",
+			"x": 2005034.25,
+			"y": 8208832.66
+		},
+		{
+			"is_practical": 1,
+			"name": "Telefonplan",
+			"uid": "98ca6ac14a24255432621257",
+			"x": 2003474.96,
+			"y": 8208045.18
+		},
+		{
+			"is_practical": 1,
+			"name": "Hagerstensasen",
+			"uid": "4d83bc12a31a0b2bfa221357",
+			"x": 2001441.41,
+			"y": 8207425.49
+		},
+		{
+			"is_practical": 1,
+			"name": "Vastertorp",
+			"uid": "9a50552c8d65c36b82a00c57",
+			"x": 2000070.07,
+			"y": 8206537.36
+		},
+		{
+			"is_practical": 1,
+			"name": "Fruangen",
+			"uid": "6c6e7b534525bbe9c5f50d57",
+			"x": 1999886.6,
+			"y": 8205369.6
+		}]
+	},
+	{
+		"line_name": "Line T10(Kungstradgarden-Hjulsta)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Kungstradgarden",
+			"uid": "8851cb917af2be0baf080f57",
+			"x": 2011927.95,
+			"y": 8215120.09
+		},
+		{
+			"is_practical": 0,
+			"name": "T-Centralen",
+			"uid": "f1d38cc4384596412eb90857",
+			"x": 2010253.44,
+			"y": 8215457.89
+		},
+		{
+			"is_practical": 0,
+			"name": "Radhuset",
+			"uid": "b186ce73100f17f061180957",
+			"x": 2008422.39,
+			"y": 8214920.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Fridhemsplan",
+			"uid": "f231e63991be585133870a57",
+			"x": 2007217.68,
+			"y": 8215569.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Stadshagen",
+			"uid": "d97b6788de1f0ace70210b57",
+			"x": 2005317.27,
+			"y": 8216766.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Vastra skogen",
+			"uid": "59ca28298c80496886330457",
+			"x": 2004223.29,
+			"y": 8218777.78
+		},
+		{
+			"is_practical": 1,
+			"name": "Huvudsta",
+			"uid": "196b7ab6cf26bf7a14c90557",
+			"x": 2002193.1,
+			"y": 8219259.88
+		},
+		{
+			"is_practical": 1,
+			"name": "Solna strand",
+			"uid": "4af4391039342d808afc0657",
+			"x": 2000857.55,
+			"y": 8220281.12
+		},
+		{
+			"is_practical": 1,
+			"name": "Sundbybergs centrum",
+			"uid": "0a52cf02abceb3b597ca0757",
+			"x": 2000664.02,
+			"y": 8222146.89
+		},
+		{
+			"is_practical": 1,
+			"name": "Duvbo",
+			"uid": "fd405df835fbae831c580057",
+			"x": 1999810.54,
+			"y": 8223207.29
+		},
+		{
+			"is_practical": 1,
+			"name": "Rissne",
+			"uid": "68bac3cd28cd251102ec0157",
+			"x": 1997122.68,
+			"y": 8224899.68
+		},
+		{
+			"is_practical": 1,
+			"name": "Rinkeby",
+			"uid": "f78fdefba35f3ba55c0d0257",
+			"x": 1995724.44,
+			"y": 8227684.88
+		},
+		{
+			"is_practical": 1,
+			"name": "Tensta",
+			"uid": "e9b95569bdeb6544e1110357",
+			"x": 1992771.44,
+			"y": 8229021.55
+		},
+		{
+			"is_practical": 1,
+			"name": "Hjulsta",
+			"uid": "632b4bdde30ad8582ab97c57",
+			"x": 1991263.61,
+			"y": 8229366.09
+		}]
+	},
+	{
+		"line_name": "Line T13(Ropsten-Norsborg)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Ropsten",
+			"uid": "dd7ea82095be8a4e2db17e57",
+			"x": 2015149.42,
+			"y": 8220910.88
+		},
+		{
+			"is_practical": 1,
+			"name": "Gardet",
+			"uid": "636263880c0014f8b7147f57",
+			"x": 2014980.5,
+			"y": 8218763.25
+		},
+		{
+			"is_practical": 1,
+			"name": "Karlaplan",
+			"uid": "a9cafa3692b68e5dffa77857",
+			"x": 2013863.03,
+			"y": 8216780.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Ostermalmstorg",
+			"uid": "377464800813c6ee9ef77957",
+			"x": 2012125.88,
+			"y": 8215884.07
+		},
+		{
+			"is_practical": 0,
+			"name": "T-Centralen",
+			"uid": "a8c2fe2540a0a7beadee7a57",
+			"x": 2010489.44,
+			"y": 8215097.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Gamla stan",
+			"uid": "3167b69621f094a72de67b57",
+			"x": 2011236.65,
+			"y": 8213463.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Slussen",
+			"uid": "78d4d7c612e914af44e27457",
+			"x": 2011792.58,
+			"y": 8212648.06
+		},
+		{
+			"is_practical": 0,
+			"name": "Mariatorget",
+			"uid": "1684e4df92e17dabc71b7557",
+			"x": 2010685.21,
+			"y": 8212315.86
+		},
+		{
+			"is_practical": 0,
+			"name": "Zinkensdamm",
+			"uid": "249d64d7fbe5fe527fc87657",
+			"x": 2009304.89,
+			"y": 8212280.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Hornstull",
+			"uid": "a7950dd3781c4681f70e7757",
+			"x": 2007597.96,
+			"y": 8211855.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Liljeholmen",
+			"uid": "cf918e2ac0cfce470e0a7057",
+			"x": 2006215.44,
+			"y": 8210668.22
+		},
+		{
+			"is_practical": 1,
+			"name": "Aspudden",
+			"uid": "4b6836f948093743353a7157",
+			"x": 2003906.73,
+			"y": 8209808.04
+		},
+		{
+			"is_practical": 1,
+			"name": "Ornsberg",
+			"uid": "f2bbbe3fb10d0c7303897257",
+			"x": 2002546.57,
+			"y": 8209662.62
+		},
+		{
+			"is_practical": 1,
+			"name": "Axelsberg",
+			"uid": "797d473b8a3d3ac08adb7357",
+			"x": 2000995.13,
+			"y": 8209358.36
+		},
+		{
+			"is_practical": 1,
+			"name": "Malarhojden",
+			"uid": "81797c0bbc8eb39234b06c57",
+			"x": 1999018.61,
+			"y": 8208602.22
+		},
+		{
+			"is_practical": 1,
+			"name": "Bredang",
+			"uid": "a5494ab835dc0df92eb96d57",
+			"x": 1996385.53,
+			"y": 8207287.92
+		},
+		{
+			"is_practical": 1,
+			"name": "Satra",
+			"uid": "92fac3ea8bb717f04c776e57",
+			"x": 1995033.18,
+			"y": 8205139.16
+		},
+		{
+			"is_practical": 1,
+			"name": "Skarholmen",
+			"uid": "18a87d8191be753e06026f57",
+			"x": 1993379.95,
+			"y": 8203441.19
+		},
+		{
+			"is_practical": 1,
+			"name": "Varberg",
+			"uid": "a7c36788f3703f4b9f9d6857",
+			"x": 1991534.32,
+			"y": 8203228.67
+		},
+		{
+			"is_practical": 1,
+			"name": "Varby gard",
+			"uid": "baca0546b905a6d476026957",
+			"x": 1990764.75,
+			"y": 8200732.04
+		},
+		{
+			"is_practical": 1,
+			"name": "Masmo",
+			"uid": "d9044f33209a4f4bb15c6a57",
+			"x": 1990453.76,
+			"y": 8197480.37
+		},
+		{
+			"is_practical": 1,
+			"name": "Fittja",
+			"uid": "9071d6acc90588150d0e6b57",
+			"x": 1988265.88,
+			"y": 8196984.86
+		},
+		{
+			"is_practical": 1,
+			"name": "Alby",
+			"uid": "08ee3f330e5b3447a0046457",
+			"x": 1986558.95,
+			"y": 8195175.01
+		},
+		{
+			"is_practical": 1,
+			"name": "Hallunda",
+			"uid": "ee71f86db209994de7e96557",
+			"x": 1984357.64,
+			"y": 8196043.01
+		},
+		{
+			"is_practical": 1,
+			"name": "Norsborg",
+			"uid": "282f443f1f03dea0accb6657",
+			"x": 1983089.17,
+			"y": 8196190.67
+		}]
+	},
+	{
+		"line_name": "Line T13(Norsborg-Ropsten)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Norsborg",
+			"uid": "3b77aed813cc58556d476057",
+			"x": 1983089.17,
+			"y": 8196190.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Hallunda",
+			"uid": "7b9ae5fade1b540ef92d6157",
+			"x": 1984357.64,
+			"y": 8196043.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Alby",
+			"uid": "31b8282dd240c06420026257",
+			"x": 1986558.95,
+			"y": 8195175.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Fittja",
+			"uid": "ff6f2476462a194bb9bd6357",
+			"x": 1988265.88,
+			"y": 8196984.86
+		},
+		{
+			"is_practical": 0,
+			"name": "Masmo",
+			"uid": "f234b01c9f0580f47bb55c57",
+			"x": 1990453.76,
+			"y": 8197480.37
+		},
+		{
+			"is_practical": 0,
+			"name": "Varby gard",
+			"uid": "595e693306ba42fc8af15d57",
+			"x": 1990764.75,
+			"y": 8200732.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Varberg",
+			"uid": "8171f08cc4b2b3b83e9a5e57",
+			"x": 1991534.32,
+			"y": 8203228.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Skarholmen",
+			"uid": "1bce328435f607d3cbfa5f57",
+			"x": 1993379.95,
+			"y": 8203441.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Satra",
+			"uid": "d8c6c3c0819df2b360685857",
+			"x": 1995033.18,
+			"y": 8205139.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Bredang",
+			"uid": "2e8277ab74fd59214e3a5957",
+			"x": 1996385.53,
+			"y": 8207287.92
+		},
+		{
+			"is_practical": 0,
+			"name": "Malarhojden",
+			"uid": "9be982cbdf6f7773a9175a57",
+			"x": 1999018.61,
+			"y": 8208602.22
+		},
+		{
+			"is_practical": 0,
+			"name": "Axelsberg",
+			"uid": "6d892959f13d905e73455b57",
+			"x": 2000995.13,
+			"y": 8209358.36
+		},
+		{
+			"is_practical": 0,
+			"name": "Ornsberg",
+			"uid": "c71b070b16104a0cb44f5457",
+			"x": 2002546.57,
+			"y": 8209662.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Aspudden",
+			"uid": "e649e026cc428d06b6265557",
+			"x": 2003906.73,
+			"y": 8209808.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Liljeholmen",
+			"uid": "00643a740b488f6fa6c75657",
+			"x": 2006215.44,
+			"y": 8210668.22
+		},
+		{
+			"is_practical": 0,
+			"name": "Hornstull",
+			"uid": "d936fd7e09219f8eaf045757",
+			"x": 2007597.96,
+			"y": 8211855.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Zinkensdamm",
+			"uid": "1f3cff1719c0964d9b005057",
+			"x": 2009304.89,
+			"y": 8212280.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Mariatorget",
+			"uid": "1a55eff61003a249c41e5157",
+			"x": 2010685.21,
+			"y": 8212315.86
+		},
+		{
+			"is_practical": 0,
+			"name": "Slussen",
+			"uid": "0bb4e6352407fd57dd1e5257",
+			"x": 2011792.58,
+			"y": 8212648.06
+		},
+		{
+			"is_practical": 0,
+			"name": "Gamla stan",
+			"uid": "0177d2317b19e457ebf85357",
+			"x": 2011236.65,
+			"y": 8213463.5
+		},
+		{
+			"is_practical": 0,
+			"name": "T-Centralen",
+			"uid": "34738d2f6219d2b192114c57",
+			"x": 2010489.44,
+			"y": 8215097.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Ostermalmstorg",
+			"uid": "746d942f54ffab581cf74d57",
+			"x": 2012125.88,
+			"y": 8215884.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Karlaplan",
+			"uid": "6c6da2c92d1625bed7b74e57",
+			"x": 2013863.03,
+			"y": 8216780.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Gardet",
+			"uid": "598bdb20a3f0eefe00294f57",
+			"x": 2014980.5,
+			"y": 8218763.25
+		},
+		{
+			"is_practical": 0,
+			"name": "Ropsten",
+			"uid": "216255c668b039602bfc4857",
+			"x": 2015149.42,
+			"y": 8220910.88
+		}]
+	},
+	{
+		"line_name": "Line T19(Hasselby Strand-Hagsatra)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Hasselby Strand",
+			"uid": "62c4491894fb88054acc4a57",
+			"x": 1985119.36,
+			"y": 8221776.65
+		},
+		{
+			"is_practical": 0,
+			"name": "Hasselby Gard",
+			"uid": "b65a62cd0e4b738515b54b57",
+			"x": 1986381.09,
+			"y": 8223002.58
+		},
+		{
+			"is_practical": 0,
+			"name": "Johannelund",
+			"uid": "9c8ff87df5cb2cfcc2364457",
+			"x": 1987913.54,
+			"y": 8223228.54
+		},
+		{
+			"is_practical": 0,
+			"name": "Vallingby",
+			"uid": "093f03fdaab2fb7f41024557",
+			"x": 1989506.38,
+			"y": 8222190.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Racksta",
+			"uid": "f3bf5c847d31784b4d6d4657",
+			"x": 1990629.41,
+			"y": 8220318.05
+		},
+		{
+			"is_practical": 0,
+			"name": "Blackeberg",
+			"uid": "afc68b07fe0574244c554757",
+			"x": 1990811.75,
+			"y": 8218873.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Islandstorget",
+			"uid": "79450833f26a751cbca24057",
+			"x": 1991967.21,
+			"y": 8218396.36
+		},
+		{
+			"is_practical": 0,
+			"name": "Angbyplan",
+			"uid": "fd71045cf35285eb85154157",
+			"x": 1993430.28,
+			"y": 8217514.92
+		},
+		{
+			"is_practical": 0,
+			"name": "Akeshov",
+			"uid": "f01e056403a5bc5cbc484257",
+			"x": 1995410.13,
+			"y": 8217588.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Brommaplan",
+			"uid": "f226f5933a12850117764357",
+			"x": 1997047.7,
+			"y": 8216772.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Abrahamsberg",
+			"uid": "03d1cc24034f2e3f58bbbc54",
+			"x": 1998539.86,
+			"y": 8216398.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Stora Mossen",
+			"uid": "4566f579a87161f27e29bd54",
+			"x": 1999942.55,
+			"y": 8215953.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Alvik",
+			"uid": "7d3b5e47e7bc47605af6be54",
+			"x": 2001620.38,
+			"y": 8215710.69
+		},
+		{
+			"is_practical": 0,
+			"name": "Kristineberg",
+			"uid": "d505118ac12e63bf8405bf54",
+			"x": 2004122.62,
+			"y": 8215560.8
+		},
+		{
+			"is_practical": 0,
+			"name": "Thorildsplan",
+			"uid": "9bc83718e5f1bd4cf703b854",
+			"x": 2005446.99,
+			"y": 8215277.81
+		},
+		{
+			"is_practical": 0,
+			"name": "Fridhemsplan",
+			"uid": "ba5a13c73b02ce4a6c20b954",
+			"x": 2007217.68,
+			"y": 8215569.75
+		},
+		{
+			"is_practical": 0,
+			"name": "St. Eriksplan",
+			"uid": "9f85cd3448045569f23cba54",
+			"x": 2007868.67,
+			"y": 8217084.27
+		},
+		{
+			"is_practical": 0,
+			"name": "Odenplan",
+			"uid": "4276be32d327cb7527d2bb54",
+			"x": 2009323.93,
+			"y": 8217765.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Radmansgatan",
+			"uid": "307025114d3b1e9b9968b454",
+			"x": 2010308.26,
+			"y": 8217174.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Hotorget",
+			"uid": "a453bb0d98d5a0218a2fb554",
+			"x": 2010803.75,
+			"y": 8216096.59
+		},
+		{
+			"is_practical": 0,
+			"name": "T-Centralen",
+			"uid": "3b4f6ee3266fb36677e5b654",
+			"x": 2010489.44,
+			"y": 8215097.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Gamla stan",
+			"uid": "eda1d05935284eacd718b754",
+			"x": 2011236.65,
+			"y": 8213463.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Slussen",
+			"uid": "521bc31ec8e2ee51ff0eb054",
+			"x": 2011792.58,
+			"y": 8212648.06
+		},
+		{
+			"is_practical": 0,
+			"name": "Medborgarplatsen",
+			"uid": "465c3ed4681fc6473804b154",
+			"x": 2011945.83,
+			"y": 8211551.89
+		},
+		{
+			"is_practical": 0,
+			"name": "Skanstull",
+			"uid": "ba969e294009014dfb42b254",
+			"x": 2012236.65,
+			"y": 8210134.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Gullmarsplan",
+			"uid": "196bb63f8703c20b0b5cb354",
+			"x": 2012795.91,
+			"y": 8208208.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Globen",
+			"uid": "307d713544453215c256ac54",
+			"x": 2012421.24,
+			"y": 8207163.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Enskede gard",
+			"uid": "e877b273b45bfb1ff80cad54",
+			"x": 2011586.75,
+			"y": 8206134.69
+		},
+		{
+			"is_practical": 0,
+			"name": "Sockenplan",
+			"uid": "2a31426d7d51c145374aae54",
+			"x": 2011624.78,
+			"y": 8204766.69
+		},
+		{
+			"is_practical": 0,
+			"name": "Svedmyra",
+			"uid": "d92f8b67470b0e033210af54",
+			"x": 2011243.34,
+			"y": 8203544.1
+		},
+		{
+			"is_practical": 0,
+			"name": "Stureby",
+			"uid": "1125b13d884d0b59b120a854",
+			"x": 2009917.89,
+			"y": 8202887.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Bandhagen",
+			"uid": "2c7f7e7b8d1788696040a954",
+			"x": 2009301.57,
+			"y": 8202007.18
+		},
+		{
+			"is_practical": 0,
+			"name": "Hogdalen",
+			"uid": "e2397b210e275909110daa54",
+			"x": 2008536.45,
+			"y": 8200530.7
+		},
+		{
+			"is_practical": 0,
+			"name": "Ragsved",
+			"uid": "e463f811df4728442ad7ab54",
+			"x": 2006898.84,
+			"y": 8198975.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Hagsatra",
+			"uid": "66532971ae0a139ece06a454",
+			"x": 2005160.65,
+			"y": 8200302.52
+		}]
+	},
+	{
+		"line_name": "Line T14(Fruangen-Morby centrum)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Fruangen",
+			"uid": "c87e63e67101d6ad39e4a654",
+			"x": 1999886.6,
+			"y": 8205369.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Vastertorp",
+			"uid": "f0a4873750e300ad2cfaa754",
+			"x": 2000070.07,
+			"y": 8206537.36
+		},
+		{
+			"is_practical": 0,
+			"name": "Hagerstensasen",
+			"uid": "1575a6d586e315b324e0a054",
+			"x": 2001441.41,
+			"y": 8207425.49
+		},
+		{
+			"is_practical": 0,
+			"name": "Telefonplan",
+			"uid": "339770d593fd1da9c62ba154",
+			"x": 2003474.96,
+			"y": 8208045.18
+		},
+		{
+			"is_practical": 0,
+			"name": "Midsommarkransen",
+			"uid": "e49765cb9be7ff62c07da254",
+			"x": 2005034.25,
+			"y": 8208832.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Liljeholmen",
+			"uid": "f2896dd1792cf934912ca354",
+			"x": 2006215.44,
+			"y": 8210668.22
+		},
+		{
+			"is_practical": 0,
+			"name": "Hornstull",
+			"uid": "fb938f1a7f7aa865f7c59c54",
+			"x": 2007597.96,
+			"y": 8211855.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Zinkensdamm",
+			"uid": "2658894c2e2bce8caa059d54",
+			"x": 2009304.89,
+			"y": 8212280.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Mariatorget",
+			"uid": "210ed81d48c2934cd3f49e54",
+			"x": 2010685.21,
+			"y": 8212315.86
+		},
+		{
+			"is_practical": 0,
+			"name": "Slussen",
+			"uid": "735fbef41502eabd293a9f54",
+			"x": 2011792.58,
+			"y": 8212648.06
+		},
+		{
+			"is_practical": 0,
+			"name": "Gamla stan",
+			"uid": "14b6e3346cf31073266e9854",
+			"x": 2011236.65,
+			"y": 8213463.5
+		},
+		{
+			"is_practical": 0,
+			"name": "T-Centralen",
+			"uid": "4e769ac5963d1f271ee99954",
+			"x": 2010489.44,
+			"y": 8215097.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Ostermalmstorg",
+			"uid": "3687600b996927a041ab9a54",
+			"x": 2012125.88,
+			"y": 8215884.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Stadion",
+			"uid": "cf496f5fa1ee78e232169b54",
+			"x": 2012732.15,
+			"y": 8217640.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Tekniska hogskolan",
+			"uid": "c11d57d8feac0b5f1d389454",
+			"x": 2011614.72,
+			"y": 8218300.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Universitetet",
+			"uid": "f69a089a8d112471cb1b9554",
+			"x": 2009854.13,
+			"y": 8222616.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Bergshamra",
+			"uid": "a8d87b27a23ff2527af79654",
+			"x": 2007835.13,
+			"y": 8226215.09
+		},
+		{
+			"is_practical": 0,
+			"name": "Danderyds sjukhus",
+			"uid": "d8655409741c43beea1e9754",
+			"x": 2008378.75,
+			"y": 8228472.35
+		},
+		{
+			"is_practical": 0,
+			"name": "Morby centrum",
+			"uid": "f64b822ac5f0d35717a19054",
+			"x": 2007810.48,
+			"y": 8229834.78
+		}]
+	},
+	{
+		"line_name": "Line T10(Hjulsta-Kungstradgarden)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Hjulsta",
+			"uid": "9784a32fa8a6e39141e19254",
+			"x": 1991263.61,
+			"y": 8229366.09
+		},
+		{
+			"is_practical": 0,
+			"name": "Tensta",
+			"uid": "046d5e9065df78a85a109354",
+			"x": 1992771.44,
+			"y": 8229021.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Rinkeby",
+			"uid": "f8d293e9fee6635997f08c54",
+			"x": 1995724.44,
+			"y": 8227684.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Rissne",
+			"uid": "2aab08d0e517aeb948fc8d54",
+			"x": 1997122.68,
+			"y": 8224899.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Duvbo",
+			"uid": "b092132128f771b516948e54",
+			"x": 1999810.54,
+			"y": 8223207.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Sundbybergs centrum",
+			"uid": "a863dec1f7fb2fddbbdf8f54",
+			"x": 2000664.02,
+			"y": 8222146.89
+		},
+		{
+			"is_practical": 0,
+			"name": "Solna strand",
+			"uid": "648301cda993829689b98854",
+			"x": 2000857.55,
+			"y": 8220281.12
+		},
+		{
+			"is_practical": 0,
+			"name": "Huvudsta",
+			"uid": "bc8f5fa504d8b0f08d1a8954",
+			"x": 2002193.1,
+			"y": 8219259.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Vastra skogen",
+			"uid": "e3e7f2ee36beb45380288a54",
+			"x": 2004223.29,
+			"y": 8218777.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Stadshagen",
+			"uid": "4dacc088321db961dcee8b54",
+			"x": 2005317.27,
+			"y": 8216766.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Fridhemsplan",
+			"uid": "7ecac42b3f2fe5a796ec8454",
+			"x": 2007217.68,
+			"y": 8215569.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Radhuset",
+			"uid": "7569c91963e9afa5fadc8554",
+			"x": 2008422.39,
+			"y": 8214920.42
+		},
+		{
+			"is_practical": 0,
+			"name": "T-Centralen",
+			"uid": "795b95df29ebc3955ebe8654",
+			"x": 2010253.44,
+			"y": 8215457.89
+		},
+		{
+			"is_practical": 0,
+			"name": "Kungstradgarden",
+			"uid": "269ddfdd45db67f7714b8754",
+			"x": 2011927.95,
+			"y": 8215120.09
+		}]
+	}],
+	"result": {
+		"ccode": "51758",
+		"qt": "bsi"
+	}
+}

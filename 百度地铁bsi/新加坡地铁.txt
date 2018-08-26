@@ -1,0 +1,2902 @@
+{
+	"content": [{
+		"line_name": "North South Line(Marina South Pier-Jurong East)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Marina South Pier",
+			"uid": "59464edb82e57f532f473318",
+			"x": 11562071.21,
+			"y": 140625.59
+		},
+		{
+			"is_practical": 0,
+			"name": "Marina Bay",
+			"uid": "e9dde4fc5515957842afe618",
+			"x": 11561183.73,
+			"y": 141003.92
+		},
+		{
+			"is_practical": 0,
+			"name": "Raffles Place",
+			"uid": "ccee5a1d40a0a7beadee7a18",
+			"x": 11560821.01,
+			"y": 142024.99
+		},
+		{
+			"is_practical": 0,
+			"name": "City Hall",
+			"uid": "5358c0b80813c6ee9ef77918",
+			"x": 11560943.04,
+			"y": 142979.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Dhoby Ghaut",
+			"uid": "f5e65e0e92b68e5dffa77818",
+			"x": 11560095.69,
+			"y": 143613.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Somerset",
+			"uid": "17da371a290410696e3e1b18",
+			"x": 11559375.13,
+			"y": 143786.1
+		},
+		{
+			"is_practical": 0,
+			"name": "Orchard",
+			"uid": "3628cd0b23e487e1d1ff2318",
+			"x": 11558678.46,
+			"y": 144105.37
+		},
+		{
+			"is_practical": 0,
+			"name": "Newton",
+			"uid": "1a411e101cd504ab461a3218",
+			"x": 11559414.28,
+			"y": 145189.1
+		},
+		{
+			"is_practical": 0,
+			"name": "Novena",
+			"uid": "fd08617e9f05a5aabea82218",
+			"x": 11559934.14,
+			"y": 145963.81
+		},
+		{
+			"is_practical": 0,
+			"name": "Toa Payoh",
+			"uid": "073325204abe1ab9f5231018",
+			"x": 11560393.09,
+			"y": 147326.35
+		},
+		{
+			"is_practical": 0,
+			"name": "Braddell",
+			"uid": "eb45c24ed2c73bb683a12e18",
+			"x": 11560301.19,
+			"y": 148240.18
+		},
+		{
+			"is_practical": 0,
+			"name": "Bishan",
+			"uid": "50b84ea0ad2e8a57f3193718",
+			"x": 11560468.63,
+			"y": 149441.12
+		},
+		{
+			"is_practical": 0,
+			"name": "Ang Mo Kio",
+			"uid": "aee61bee1cae2b60b31e3618",
+			"x": 11560612.82,
+			"y": 151501.26
+		},
+		{
+			"is_practical": 0,
+			"name": "Yio Chu Kang",
+			"uid": "3f8bb8b65073da5cea56fa18",
+			"x": 11560101.78,
+			"y": 152800.03
+		},
+		{
+			"is_practical": 0,
+			"name": "Khatib",
+			"uid": "1aed73e5af8ffcb944572618",
+			"x": 11558770.31,
+			"y": 156721.73
+		},
+		{
+			"is_practical": 0,
+			"name": "Yishun",
+			"uid": "e9af182aa31a0b2bfa221318",
+			"x": 11558997.42,
+			"y": 158058.69
+		},
+		{
+			"is_practical": 0,
+			"name": "Sembawang",
+			"uid": "f3a85b566a82e35a96031918",
+			"x": 11557318.7,
+			"y": 160245.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Admiralty",
+			"uid": "088dd0ebf91d160e6dc02c18",
+			"x": 11555194.78,
+			"y": 159308.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Woodlands",
+			"uid": "007618b09cf7cc6a1c1d1118",
+			"x": 11553714.11,
+			"y": 158959.54
+		},
+		{
+			"is_practical": 0,
+			"name": "Marsiling",
+			"uid": "7dafa95e3370194b9ce32118",
+			"x": 11552217.61,
+			"y": 158420.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Kranji",
+			"uid": "28b3fd817af77d1e8c772718",
+			"x": 11550852,
+			"y": 157603.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Yew Tee",
+			"uid": "3ce6cef94a24255432621218",
+			"x": 11549224.34,
+			"y": 154532.51
+		},
+		{
+			"is_practical": 0,
+			"name": "Choa Chu Kang",
+			"uid": "3f4ec7b00c0014f8b7147f18",
+			"x": 11548880.61,
+			"y": 153182.98
+		},
+		{
+			"is_practical": 0,
+			"name": "Bukit Gombak",
+			"uid": "811880c9bdf8bae8b7f42f18",
+			"x": 11549713.18,
+			"y": 150264.18
+		},
+		{
+			"is_practical": 0,
+			"name": "Bukit Batok",
+			"uid": "04f6ff200c19ca50a3d23018",
+			"x": 11549470.36,
+			"y": 149178.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Jurong East",
+			"uid": "81520c1895be8a4e2db17e18",
+			"x": 11548672.66,
+			"y": 147417.79
+		}]
+	},
+	{
+		"line_name": "Circle Line MRT(HarbourFront-Dhoby Ghaut)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "HarbourFront",
+			"uid": "bd28eb0b209a4f4bb15c6a18",
+			"x": 11557582.8,
+			"y": 139922.74
+		},
+		{
+			"is_practical": 0,
+			"name": "Telok Blangah",
+			"uid": "bb592ef8e73da856efdfca18",
+			"x": 11556184.84,
+			"y": 140503.79
+		},
+		{
+			"is_practical": 0,
+			"name": "Labrador Park",
+			"uid": "51aeb5332e18d696f9f0cb18",
+			"x": 11555398.6,
+			"y": 140689.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Pasir Panjang",
+			"uid": "cb657c1650d8c0b9a1acc418",
+			"x": 11554155.3,
+			"y": 141115.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Haw Par Villa",
+			"uid": "054002d646f798e550e5c518",
+			"x": 11553059.68,
+			"y": 141831.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Kent Ridge",
+			"uid": "7a8014f91eab69ac1a94c618",
+			"x": 11553353.67,
+			"y": 143009.01
+		},
+		{
+			"is_practical": 0,
+			"name": "one-north",
+			"uid": "6faf4ca5efe223dd0a1cc718",
+			"x": 11553668.51,
+			"y": 143706.43
+		},
+		{
+			"is_practical": 0,
+			"name": "Buona Vista",
+			"uid": "dee6a17eb905a6d476026918",
+			"x": 11554076.95,
+			"y": 144554.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Holland Village",
+			"uid": "36f3bdeca59333554351c018",
+			"x": 11554615.09,
+			"y": 145090
+		},
+		{
+			"is_practical": 0,
+			"name": "Farrer Road",
+			"uid": "c8baf79db51b7a184007c118",
+			"x": 11555955.53,
+			"y": 145699.43
+		},
+		{
+			"is_practical": 0,
+			"name": "Botanic Gardens",
+			"uid": "c707efe5e30ad8582ab97c18",
+			"x": 11556838.87,
+			"y": 146248.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Caldecott",
+			"uid": "83cbe715fc56794e0582c218",
+			"x": 11559506.7,
+			"y": 147914.12
+		},
+		{
+			"is_practical": 0,
+			"name": "Marymount",
+			"uid": "53a37ac3a35f3ba55c0d0218",
+			"x": 11559461.69,
+			"y": 149126.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Bishan",
+			"uid": "dbefc3b0f3703f4b9f9d6818",
+			"x": 11560468.63,
+			"y": 149441.12
+		},
+		{
+			"is_practical": 0,
+			"name": "Lorong Chuan",
+			"uid": "a7d728f9fb50b53e20022018",
+			"x": 11562146.03,
+			"y": 149444.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Serangoon",
+			"uid": "6484d9b991be753e06026f18",
+			"x": 11563301.16,
+			"y": 149258.35
+		},
+		{
+			"is_practical": 0,
+			"name": "Bartley",
+			"uid": "8ff7f4186f2a781d240bd018",
+			"x": 11564044.56,
+			"y": 148443.41
+		},
+		{
+			"is_practical": 0,
+			"name": "Tai Seng",
+			"uid": "3aafc70f7cf66173911fc918",
+			"x": 11564948.26,
+			"y": 147606.82
+		},
+		{
+			"is_practical": 0,
+			"name": "MacPherson",
+			"uid": "e2fc47f99501fab8583ac818",
+			"x": 11565141.79,
+			"y": 146688.1
+		},
+		{
+			"is_practical": 0,
+			"name": "Paya Lebar",
+			"uid": "eed667d28bb717f04c776e18",
+			"x": 11565362.44,
+			"y": 145754.79
+		},
+		{
+			"is_practical": 0,
+			"name": "Dakota",
+			"uid": "fc3680aa15f7134fc3f1cf18",
+			"x": 11564920.69,
+			"y": 144683.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Mountbatten",
+			"uid": "f5849f60d2a493b92a06ce18",
+			"x": 11564272.39,
+			"y": 144441.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Stadium",
+			"uid": "914e3d24fe531d422911d118",
+			"x": 11563491,
+			"y": 144070.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Nicoll Highway",
+			"uid": "a54e95d2cd6e54eaaaf0cd18",
+			"x": 11562157.77,
+			"y": 143713.53
+		},
+		{
+			"is_practical": 0,
+			"name": "Promenade",
+			"uid": "d965ee8035dc0df92eb96d18",
+			"x": 11561888.78,
+			"y": 142951.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Esplanade",
+			"uid": "cb0bc902961641927269d318",
+			"x": 11561319.95,
+			"y": 143004.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Bras Basah",
+			"uid": "5972ac5d9b0c105878dbd218",
+			"x": 11560713.09,
+			"y": 143398.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Dhoby Ghaut",
+			"uid": "e555d833bc8eb39234b06c18",
+			"x": 11560095.69,
+			"y": 143613.96
+		}]
+	},
+	{
+		"line_name": "East West Line(Changi Airport-Tanah Merah)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Changi Airport",
+			"uid": "a1b0da8fbaf92f819e09f718",
+			"x": 11576080.02,
+			"y": 150091.32
+		},
+		{
+			"is_practical": 0,
+			"name": "Expo",
+			"uid": "50d9e8f7a9cfa740cb09f018",
+			"x": 11573141.33,
+			"y": 147695.56
+		},
+		{
+			"is_practical": 0,
+			"name": "Tanah Merah",
+			"uid": "7aa840e792e17dabc71b7518",
+			"x": 11571392.76,
+			"y": 146772.99
+		}]
+	},
+	{
+		"line_name": "North East Line(HarbourFront-Punggol)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "HarbourFront",
+			"uid": "554a12ae21f094a72de67b1b",
+			"x": 11557582.8,
+			"y": 139922.74
+		},
+		{
+			"is_practical": 0,
+			"name": "Outram Park",
+			"uid": "fa742d742e2bce8caa059d18",
+			"x": 11559568.57,
+			"y": 141613.69
+		},
+		{
+			"is_practical": 1,
+			"name": "Chinatown",
+			"uid": "ccef5a1d40a0a7beadee7a1b",
+			"x": 11559987.36,
+			"y": 142093.1
+		},
+		{
+			"is_practical": 1,
+			"name": "Clarke Quay",
+			"uid": "0ca83abebf2e12b5b14c491b",
+			"x": 11560306.32,
+			"y": 142531.18
+		},
+		{
+			"is_practical": 1,
+			"name": "Dhoby Ghaut",
+			"uid": "a67f6b3aabceb3b597ca071b",
+			"x": 11560095.69,
+			"y": 143613.96
+		},
+		{
+			"is_practical": 1,
+			"name": "Little India",
+			"uid": "5359c0b80813c6ee9ef7791b",
+			"x": 11560576.83,
+			"y": 144476.65
+		},
+		{
+			"is_practical": 1,
+			"name": "Farrer Park",
+			"uid": "f5e75e0e92b68e5dffa7781b",
+			"x": 11561121.9,
+			"y": 145168.4
+		},
+		{
+			"is_practical": 1,
+			"name": "Boon Keng",
+			"uid": "3f4fc7b00c0014f8b7147f1b",
+			"x": 11561937.39,
+			"y": 145942.39
+		},
+		{
+			"is_practical": 1,
+			"name": "Potong Pasir",
+			"uid": "deb2b1045e1613f0b3077d1b",
+			"x": 11562780.38,
+			"y": 147206.5
+		},
+		{
+			"is_practical": 1,
+			"name": "Woodleigh",
+			"uid": "1c88230f50e300ad2cfaa718",
+			"x": 11562965.21,
+			"y": 148084.89
+		},
+		{
+			"is_practical": 1,
+			"name": "Serangoon",
+			"uid": "81530c1895be8a4e2db17e1b",
+			"x": 11563301.16,
+			"y": 149258.35
+		},
+		{
+			"is_practical": 1,
+			"name": "Kovan",
+			"uid": "4d94f151bdeb6544e111031b",
+			"x": 11564537.13,
+			"y": 150383.16
+		},
+		{
+			"is_practical": 1,
+			"name": "Hougang",
+			"uid": "53a27ac3a35f3ba55c0d021b",
+			"x": 11565414.26,
+			"y": 151702.28
+		},
+		{
+			"is_practical": 1,
+			"name": "Buangkok",
+			"uid": "cc9767f528cd251102ec011b",
+			"x": 11565447.28,
+			"y": 152935.74
+		},
+		{
+			"is_practical": 1,
+			"name": "Sengkang",
+			"uid": "516df9c035fbae831c58001b",
+			"x": 11565697.07,
+			"y": 153850.84
+		},
+		{
+			"is_practical": 1,
+			"name": "Punggol",
+			"uid": "c706efe5e30ad8582ab97c1b",
+			"x": 11566482.95,
+			"y": 155390.94
+		}]
+	},
+	{
+		"line_name": "East West Line(Tuas Link-Pasir Ris)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Tuas Link",
+			"uid": "3b8e058bde1f0ace71210bab",
+			"x": 11536925.54,
+			"y": 148189.9
+		},
+		{
+			"is_practical": 1,
+			"name": "Tuas West Road",
+			"uid": "bb3f4a2a8c804968873304ab",
+			"x": 11537247.23,
+			"y": 147049.48
+		},
+		{
+			"is_practical": 1,
+			"name": "Tuas Crescent",
+			"uid": "f79e18b5cf26bf7a15c905ab",
+			"x": 11538282.34,
+			"y": 146084.5
+		},
+		{
+			"is_practical": 1,
+			"name": "Gul Circle",
+			"uid": "a4015b1339342d808bfc06ab",
+			"x": 11539633.32,
+			"y": 145996.79
+		},
+		{
+			"is_practical": 0,
+			"name": "Joo Koon",
+			"uid": "4e9ce5a1a616e9644154d718",
+			"x": 11541539.47,
+			"y": 146815.65
+		},
+		{
+			"is_practical": 0,
+			"name": "Pioneer",
+			"uid": "896225cab7af2058d02dd618",
+			"x": 11543657.26,
+			"y": 147911.54
+		},
+		{
+			"is_practical": 0,
+			"name": "Boon Lay",
+			"uid": "8d36e13477c431e11911d518",
+			"x": 11544594.9,
+			"y": 148022.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Lakeside",
+			"uid": "76234e14238530bcea12e418",
+			"x": 11546272.38,
+			"y": 148649.7
+		},
+		{
+			"is_practical": 0,
+			"name": "Chinese Garden",
+			"uid": "be5be8751c1aa5cb09f5eb18",
+			"x": 11547585.17,
+			"y": 148446.98
+		},
+		{
+			"is_practical": 0,
+			"name": "Jurong East",
+			"uid": "fa69210dba7b9a549c82ea18",
+			"x": 11548672.66,
+			"y": 147417.79
+		},
+		{
+			"is_practical": 0,
+			"name": "Clementi",
+			"uid": "aab3663f73033c35a31de918",
+			"x": 11551225.71,
+			"y": 145421.74
+		},
+		{
+			"is_practical": 0,
+			"name": "Dover",
+			"uid": "e20a37e53431f54d057ce818",
+			"x": 11552709.66,
+			"y": 145013.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Buona Vista",
+			"uid": "0716605c65ebb27fcc04ef18",
+			"x": 11554076.95,
+			"y": 144554.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Commonwealth",
+			"uid": "4d6484403252e3a58b36ee18",
+			"x": 11554903.59,
+			"y": 144027.03
+		},
+		{
+			"is_practical": 0,
+			"name": "Queenstown",
+			"uid": "1910cd32d64eb41cdaeced18",
+			"x": 11555771.59,
+			"y": 143147.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Redhill",
+			"uid": "a05698469f3c50008d55ec18",
+			"x": 11556955.21,
+			"y": 142611.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Tiong Bahru",
+			"uid": "f4562600ca4819726949f318",
+			"x": 11558166.05,
+			"y": 142212.06
+		},
+		{
+			"is_practical": 0,
+			"name": "Outram Park",
+			"uid": "ba765e174c1e9a9b3de23118",
+			"x": 11559568.57,
+			"y": 141613.69
+		},
+		{
+			"is_practical": 0,
+			"name": "Tanjong Pagar",
+			"uid": "525cc429d139f925c8291518",
+			"x": 11560196.76,
+			"y": 141159.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Raffles Place",
+			"uid": "d742718bb6f2d35bac31e518",
+			"x": 11560821.01,
+			"y": 142024.99
+		},
+		{
+			"is_practical": 0,
+			"name": "City Hall",
+			"uid": "c29feff63ca68ebddb2f2818",
+			"x": 11560943.04,
+			"y": 142979.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Bugis",
+			"uid": "7f977300740e4c06203bf218",
+			"x": 11561341.39,
+			"y": 143796.53
+		},
+		{
+			"is_practical": 0,
+			"name": "Lavender",
+			"uid": "6da1fbc1210ef240754ff118",
+			"x": 11562114.49,
+			"y": 144561.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Kallang",
+			"uid": "584cb3ddeab8d63de315f918",
+			"x": 11563022.36,
+			"y": 145022.98
+		},
+		{
+			"is_practical": 0,
+			"name": "Aljunied",
+			"uid": "aab5d51ae1d36cf6ef74f818",
+			"x": 11564310.34,
+			"y": 145577.92
+		},
+		{
+			"is_practical": 0,
+			"name": "Paya Lebar",
+			"uid": "37e0027d5c12d31fc7effb18",
+			"x": 11565362.44,
+			"y": 145754.79
+		},
+		{
+			"is_practical": 0,
+			"name": "Eunos",
+			"uid": "4d95f151bdeb6544e1110318",
+			"x": 11566560.38,
+			"y": 145948.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Kembangan",
+			"uid": "eaa2090e1bdd32f0f6e73b18",
+			"x": 11567641.61,
+			"y": 146078.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Bedok",
+			"uid": "8f092ae688813cb716c8f618",
+			"x": 11569552.97,
+			"y": 146411.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Tanah Merah",
+			"uid": "874a075f78e80ecf05fef518",
+			"x": 11571392.76,
+			"y": 146772.99
+		},
+		{
+			"is_practical": 0,
+			"name": "Simei",
+			"uid": "0085e6b049e09ae012293518",
+			"x": 11572158.84,
+			"y": 148518.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Tampines",
+			"uid": "8c2b0e1c5551fea63786f418",
+			"x": 11571242.19,
+			"y": 149631.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Pasir Ris",
+			"uid": "9b5d71ea01afe8b63a221c18",
+			"x": 11571704.06,
+			"y": 151826.9
+		}]
+	},
+	{
+		"line_name": "Bukit Panjang LRT(Ten Mile Junction-Ten Mile Junction)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Ten Mile Junction",
+			"uid": "614bf2d78bb717f04d776ebd",
+			"x": 11550670.38,
+			"y": 152680.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Bukit Panjang",
+			"uid": "47e296bc35f607d3cbfa5f18",
+			"x": 11550980.6,
+			"y": 152367.43
+		},
+		{
+			"is_practical": 0,
+			"name": "Senja",
+			"uid": "0572cd0b06ba42fc8af15d18",
+			"x": 11550903.58,
+			"y": 152893.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Jelapang",
+			"uid": "1fb641c2de1b540ef92d6118",
+			"x": 11551141.39,
+			"y": 153336.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Segar",
+			"uid": "961814249f0580f47bb55c18",
+			"x": 11551702.48,
+			"y": 153457.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Fajar",
+			"uid": "575b0ae013cc58556d476018",
+			"x": 11551835.98,
+			"y": 153099.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Bangkit",
+			"uid": "fb514d0d58ee9582611c6718",
+			"x": 11552041.24,
+			"y": 152602.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Pending",
+			"uid": "55948c15d240c06420026218",
+			"x": 11551887.23,
+			"y": 152174.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Petir",
+			"uid": "9b43804e462a194bb9bd6318",
+			"x": 11551377.31,
+			"y": 152351.31
+		},
+		{
+			"is_practical": 0,
+			"name": "Bukit Panjang",
+			"uid": "dd5d54b4c4b2b3b83e9a5e18",
+			"x": 11550980.6,
+			"y": 152367.43
+		},
+		{
+			"is_practical": 0,
+			"name": "Ten Mile Junction",
+			"uid": "e9194cbc91be753e07026fbd",
+			"x": 11550670.38,
+			"y": 152680.67
+		}]
+	},
+	{
+		"line_name": "Bukit Panjang LRT(Choa Chu Kang-Choa Chu Kang)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Choa Chu Kang",
+			"uid": "d7bbd4ed93fd1da9c62ba118",
+			"x": 11548880.61,
+			"y": 153182.98
+		},
+		{
+			"is_practical": 1,
+			"name": "South View",
+			"uid": "d45c81294d3b1e9b9968b418",
+			"x": 11548997.95,
+			"y": 152626.47
+		},
+		{
+			"is_practical": 1,
+			"name": "Keat Hong",
+			"uid": "a513a7c5aab2fb7f4102451b",
+			"x": 11549414.86,
+			"y": 152442.78
+		},
+		{
+			"is_practical": 1,
+			"name": "Teck Whye",
+			"uid": "d763cadb266fb36677e5b618",
+			"x": 11549928.82,
+			"y": 152229.46
+		},
+		{
+			"is_practical": 1,
+			"name": "Phoenix",
+			"uid": "0929b5b2c12e63bf8405bf18",
+			"x": 11550414.3,
+			"y": 152444.67
+		},
+		{
+			"is_practical": 1,
+			"name": "Bukit Panjang",
+			"uid": "f95902ed86e315b324e0a018",
+			"x": 11550980.6,
+			"y": 152367.43
+		},
+		{
+			"is_practical": 1,
+			"name": "Petir",
+			"uid": "a117fa7fe7bc47605af6be18",
+			"x": 11551377.31,
+			"y": 152351.31
+		},
+		{
+			"is_practical": 1,
+			"name": "Pending",
+			"uid": "994a5141a87161f27e29bd18",
+			"x": 11551887.23,
+			"y": 152174.34
+		},
+		{
+			"is_practical": 1,
+			"name": "Bangkit",
+			"uid": "c841301754ffab581cf74d1b",
+			"x": 11552041.24,
+			"y": 152602.75
+		},
+		{
+			"is_practical": 1,
+			"name": "Fajar",
+			"uid": "1276c6f50e4b738515b54b1b",
+			"x": 11551835.98,
+			"y": 153099.78
+		},
+		{
+			"is_practical": 1,
+			"name": "Segar",
+			"uid": "47e49320e5f1bd4cf703b818",
+			"x": 11551702.48,
+			"y": 153457.07
+		},
+		{
+			"is_practical": 1,
+			"name": "Jelapang",
+			"uid": "38a35c45f5cb2cfcc236441b",
+			"x": 11551141.39,
+			"y": 153336.29
+		},
+		{
+			"is_practical": 1,
+			"name": "Senja",
+			"uid": "7ba9690c48045569f23cba18",
+			"x": 11550903.58,
+			"y": 152893.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Bukit Panjang",
+			"uid": "d57731e729ebc3955ebe8618",
+			"x": 11550980.6,
+			"y": 152367.43
+		},
+		{
+			"is_practical": 0,
+			"name": "Phoenix",
+			"uid": "507256b5f3703f4b9e9d68bd",
+			"x": 11550414.3,
+			"y": 152444.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Teck Whye",
+			"uid": "4b7b347bb905a6d4770269bd",
+			"x": 11549928.82,
+			"y": 152229.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Keat Hong",
+			"uid": "2ab57e0e209a4f4bb05c6abd",
+			"x": 11549414.86,
+			"y": 152442.78
+		},
+		{
+			"is_practical": 0,
+			"name": "South View",
+			"uid": "61c0e791c90588150c0e6bbd",
+			"x": 11548997.95,
+			"y": 152626.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Choa Chu Kang",
+			"uid": "f75f0e0e0e5b3447a10464bd",
+			"x": 11548880.61,
+			"y": 153182.98
+		}]
+	},
+	{
+		"line_name": "Circle Line MRT(Dhoby Ghaut-HarbourFront)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Dhoby Ghaut",
+			"uid": "5cfe37d1fee6635997f08c18",
+			"x": 11560095.69,
+			"y": 143613.96
+		},
+		{
+			"is_practical": 1,
+			"name": "Bras Basah",
+			"uid": "96961a07b10d0c730389721b",
+			"x": 11560713.09,
+			"y": 143398.6
+		},
+		{
+			"is_practical": 1,
+			"name": "Esplanade",
+			"uid": "1d50e3038a3d3ac08adb731b",
+			"x": 11561319.95,
+			"y": 143004.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Promenade",
+			"uid": "9687ace8e517aeb948fc8d18",
+			"x": 11561888.78,
+			"y": 142951.44
+		},
+		{
+			"is_practical": 1,
+			"name": "Nicoll Highway",
+			"uid": "d964ee8035dc0df92eb96d1b",
+			"x": 11562157.77,
+			"y": 143713.53
+		},
+		{
+			"is_practical": 1,
+			"name": "Stadium",
+			"uid": "2f4592c148093743353a711b",
+			"x": 11563491,
+			"y": 144070.48
+		},
+		{
+			"is_practical": 1,
+			"name": "Mountbatten",
+			"uid": "eed767d28bb717f04c776e1b",
+			"x": 11564272.39,
+			"y": 144441.04
+		},
+		{
+			"is_practical": 1,
+			"name": "Dakota",
+			"uid": "6485d9b991be753e06026f1b",
+			"x": 11564920.69,
+			"y": 144683.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Paya Lebar",
+			"uid": "0cbeb71928f771b516948e18",
+			"x": 11565362.44,
+			"y": 145754.79
+		},
+		{
+			"is_practical": 1,
+			"name": "MacPherson",
+			"uid": "dbeec3b0f3703f4b9f9d681b",
+			"x": 11565141.79,
+			"y": 146688.1
+		},
+		{
+			"is_practical": 1,
+			"name": "Tai Seng",
+			"uid": "dee7a17eb905a6d47602691b",
+			"x": 11564948.26,
+			"y": 147606.82
+		},
+		{
+			"is_practical": 1,
+			"name": "Bartley",
+			"uid": "a3bc2a12c0cfce470e0a701b",
+			"x": 11564044.56,
+			"y": 148443.41
+		},
+		{
+			"is_practical": 0,
+			"name": "Serangoon",
+			"uid": "144f7af9f7fb2fddbbdf8f18",
+			"x": 11563301.16,
+			"y": 149258.35
+		},
+		{
+			"is_practical": 1,
+			"name": "Lorong Chuan",
+			"uid": "d569ac0bf26a751cbca2401b",
+			"x": 11562146.03,
+			"y": 149444.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Bishan",
+			"uid": "d8afa5f5a993829689b98818",
+			"x": 11560468.63,
+			"y": 149441.12
+		},
+		{
+			"is_practical": 1,
+			"name": "Marymount",
+			"uid": "00bbc1f39be7ff62c07da218",
+			"x": 11559461.69,
+			"y": 149126.2
+		},
+		{
+			"is_practical": 1,
+			"name": "Caldecott",
+			"uid": "55958c15d240c0642002621b",
+			"x": 11559506.7,
+			"y": 147914.12
+		},
+		{
+			"is_practical": 1,
+			"name": "Botanic Gardens",
+			"uid": "1fbf2b227f7aa865f7c59c18",
+			"x": 11556838.87,
+			"y": 146248.76
+		},
+		{
+			"is_practical": 1,
+			"name": "Farrer Road",
+			"uid": "1fb741c2de1b540ef92d611b",
+			"x": 11555955.53,
+			"y": 145699.43
+		},
+		{
+			"is_practical": 1,
+			"name": "Holland Village",
+			"uid": "575a0ae013cc58556d47601b",
+			"x": 11554615.09,
+			"y": 145090
+		},
+		{
+			"is_practical": 0,
+			"name": "Buona Vista",
+			"uid": "18a3fb9d04d8b0f08d1a8918",
+			"x": 11554076.95,
+			"y": 144554.01
+		},
+		{
+			"is_practical": 1,
+			"name": "one-north",
+			"uid": "fb504d0d58ee9582611c671b",
+			"x": 11553668.51,
+			"y": 143706.43
+		},
+		{
+			"is_practical": 1,
+			"name": "Kent Ridge",
+			"uid": "4402e0071f03dea0accb661b",
+			"x": 11553353.67,
+			"y": 143009.01
+		},
+		{
+			"is_practical": 1,
+			"name": "Haw Par Villa",
+			"uid": "825c5c55b209994de7e9651b",
+			"x": 11553059.68,
+			"y": 141831.48
+		},
+		{
+			"is_practical": 1,
+			"name": "Pasir Panjang",
+			"uid": "6cc39b0b0e5b3447a004641b",
+			"x": 11554155.3,
+			"y": 141115.15
+		},
+		{
+			"is_practical": 1,
+			"name": "Labrador Park",
+			"uid": "f45c7294c90588150d0e6b1b",
+			"x": 11555398.6,
+			"y": 140689.44
+		},
+		{
+			"is_practical": 1,
+			"name": "Telok Blangah",
+			"uid": "bd29eb0b209a4f4bb15c6a1b",
+			"x": 11556184.84,
+			"y": 140503.79
+		},
+		{
+			"is_practical": 0,
+			"name": "HarbourFront",
+			"uid": "47cb56d636beb45380288a18",
+			"x": 11557582.8,
+			"y": 139922.74
+		}]
+	},
+	{
+		"line_name": "Circle Line MRT(Promenade-Marina Bay)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Promenade",
+			"uid": "1d51e3038a3d3ac08adb7318",
+			"x": 11561888.78,
+			"y": 142951.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Bayfront",
+			"uid": "96971a07b10d0c7303897218",
+			"x": 11561738.02,
+			"y": 141818.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Marina Bay",
+			"uid": "2f4492c148093743353a7118",
+			"x": 11561183.73,
+			"y": 141003.92
+		}]
+	},
+	{
+		"line_name": "Circle Line MRT(Marina Bay-Promenade)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Marina Bay",
+			"uid": "834497fe55192ee8dad89118",
+			"x": 11561183.73,
+			"y": 141003.92
+		},
+		{
+			"is_practical": 0,
+			"name": "Bayfront",
+			"uid": "33a80717a8a6e39141e19218",
+			"x": 11561738.02,
+			"y": 141818.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Promenade",
+			"uid": "a041faa865df78a85a109318",
+			"x": 11561888.78,
+			"y": 142951.44
+		}]
+	},
+	{
+		"line_name": "Bukit Panjang LRT(Choa Chu Kang-Choa Chu Kang)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Choa Chu Kang",
+			"uid": "1fc0c950b209994de6e965bd",
+			"x": 11548880.61,
+			"y": 153182.98
+		},
+		{
+			"is_practical": 0,
+			"name": "South View",
+			"uid": "db9e75021f03dea0adcb66bd",
+			"x": 11548997.95,
+			"y": 152626.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Keat Hong",
+			"uid": "66ccd80858ee9582601c67bd",
+			"x": 11549414.86,
+			"y": 152442.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Teck Whye",
+			"uid": "ccc69fe513cc58556c4760bd",
+			"x": 11549928.82,
+			"y": 152229.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Phoenix",
+			"uid": "8a2bd4c7de1b540ef82d61bd",
+			"x": 11550414.3,
+			"y": 152444.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Bukit Panjang",
+			"uid": "516cf9c035fbae831c580018",
+			"x": 11550980.6,
+			"y": 152367.43
+		},
+		{
+			"is_practical": 0,
+			"name": "Senja",
+			"uid": "7700388c6514af4a29201a18",
+			"x": 11550903.58,
+			"y": 152893.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Jelapang",
+			"uid": "687047fe10b5a7a510882418",
+			"x": 11551141.39,
+			"y": 153336.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Segar",
+			"uid": "857ddefe0958ecccda131818",
+			"x": 11551702.48,
+			"y": 153457.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Fajar",
+			"uid": "05ab362615f096fb9eec2b18",
+			"x": 11551835.98,
+			"y": 153099.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Bangkit",
+			"uid": "91bdab139040548902ff2d18",
+			"x": 11552041.24,
+			"y": 152602.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Pending",
+			"uid": "20bc53a16ef8036b33f71d18",
+			"x": 11551887.23,
+			"y": 152174.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Petir",
+			"uid": "03f73cf685250abeb65f1e18",
+			"x": 11551377.31,
+			"y": 152351.31
+		},
+		{
+			"is_practical": 0,
+			"name": "Bukit Panjang",
+			"uid": "4403e0071f03dea0accb6618",
+			"x": 11550980.6,
+			"y": 152367.43
+		},
+		{
+			"is_practical": 0,
+			"name": "Phoenix",
+			"uid": "6fa0d72b8cf08f16d5851f18",
+			"x": 11550414.3,
+			"y": 152444.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Teck Whye",
+			"uid": "ec7f83377f6bf160f5b91618",
+			"x": 11549928.82,
+			"y": 152229.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Keat Hong",
+			"uid": "1ea842bb21eb29c1c5f02518",
+			"x": 11549414.86,
+			"y": 152442.78
+		},
+		{
+			"is_practical": 0,
+			"name": "South View",
+			"uid": "194c7b0a96275777c06c1418",
+			"x": 11548997.95,
+			"y": 152626.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Choa Chu Kang",
+			"uid": "cc9667f528cd251102ec0118",
+			"x": 11548880.61,
+			"y": 153182.98
+		}]
+	},
+	{
+		"line_name": "Sengkang LRT(SE)(Sengkang-Sengkang)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Sengkang",
+			"uid": "5a672612c5f0d35717a19018",
+			"x": 11565697.07,
+			"y": 153850.84
+		},
+		{
+			"is_practical": 1,
+			"name": "Compassvale",
+			"uid": "145b164bb45bfb1ff80cad18",
+			"x": 11566271.35,
+			"y": 154206.4
+		},
+		{
+			"is_practical": 1,
+			"name": "Rumbia",
+			"uid": "2452c7de7101d6ad39e4a618",
+			"x": 11566888.88,
+			"y": 153872.67
+		},
+		{
+			"is_practical": 1,
+			"name": "Bakau",
+			"uid": "d451d50d44453215c256ac18",
+			"x": 11566820.59,
+			"y": 153490.73
+		},
+		{
+			"is_practical": 1,
+			"name": "Kangkar",
+			"uid": "0615df190e275909110daa18",
+			"x": 11566472.97,
+			"y": 153026.42
+		},
+		{
+			"is_practical": 1,
+			"name": "Ranggung",
+			"uid": "1cf973fe12e914af44e2741b",
+			"x": 11565925.78,
+			"y": 153043.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Sengkang",
+			"uid": "7449f031741c43beea1e9718",
+			"x": 11565697.07,
+			"y": 153850.84
+		}]
+	},
+	{
+		"line_name": "Sengkang LRT(SE)(Sengkang-Sengkang)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Sengkang",
+			"uid": "a3bd2a12c0cfce470e0a7018",
+			"x": 11565697.07,
+			"y": 153850.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Ranggung",
+			"uid": "2a52e460b33af18a08a8d418",
+			"x": 11565925.78,
+			"y": 153043.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Kangkar",
+			"uid": "561d420191be585133870a18",
+			"x": 11566472.97,
+			"y": 153026.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Bakau",
+			"uid": "3e7cf1148d65c36b82a00c18",
+			"x": 11566820.59,
+			"y": 153490.73
+		},
+		{
+			"is_practical": 0,
+			"name": "Rumbia",
+			"uid": "e6d89d2839342d808afc0618",
+			"x": 11566888.88,
+			"y": 153872.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Compassvale",
+			"uid": "d042df6b4525bbe9c5f50d18",
+			"x": 11566271.35,
+			"y": 154206.4
+		},
+		{
+			"is_practical": 0,
+			"name": "Sengkang",
+			"uid": "cbb9a9eb781c4681f70e7718",
+			"x": 11565697.07,
+			"y": 153850.84
+		}]
+	},
+	{
+		"line_name": "Punggol LRT West Loop(Sam Kee-Sam Kee)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Sam Kee",
+			"uid": "2ad2072474e4f36840d63e76",
+			"x": 11566769.65,
+			"y": 155881.13
+		},
+		{
+			"is_practical": 1,
+			"name": "Punggol",
+			"uid": "6c4790d07526799f48fd3f76",
+			"x": 11566769.65,
+			"y": 155881.13
+		},
+		{
+			"is_practical": 1,
+			"name": "Soo Teck",
+			"uid": "fab39112ffd171b4e4073876",
+			"x": 11565943.14,
+			"y": 155404.41
+		},
+		{
+			"is_practical": 1,
+			"name": "Sumang",
+			"uid": "f8711be5f7fadd4ea4da3976",
+			"x": 11566104.08,
+			"y": 155737.18
+		},
+		{
+			"is_practical": 1,
+			"name": "Nibong",
+			"uid": "738613ce5b009d930bb93a76",
+			"x": 11566243.38,
+			"y": 156077.69
+		},
+		{
+			"is_practical": 1,
+			"name": "Samudera",
+			"uid": "7cadbf341bdd32f0f6e73b76",
+			"x": 11566395.07,
+			"y": 156650.37
+		},
+		{
+			"is_practical": 0,
+			"name": "Punggol",
+			"uid": "d157ffe9b4becfaea3a93476",
+			"x": 11566769.65,
+			"y": 155881.13
+		},
+		{
+			"is_practical": 0,
+			"name": "Sam Kee",
+			"uid": "928a508a49e09ae012293576",
+			"x": 11566769.65,
+			"y": 155881.13
+		}]
+	},
+	{
+		"line_name": "Downtown Line(Expo-Bukit Panjang)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Expo",
+			"uid": "9dbb033ab10d0c730389725b",
+			"x": 11573128.66,
+			"y": 147617.07
+		},
+		{
+			"is_practical": 1,
+			"name": "Upper Changi",
+			"uid": "147dfa3e8a3d3ac08adb735b",
+			"x": 11573058.41,
+			"y": 148383.39
+		},
+		{
+			"is_practical": 1,
+			"name": "Tampines East",
+			"uid": "ea79c10ebc8eb39234b06c5b",
+			"x": 11572328.12,
+			"y": 149991.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Tampines",
+			"uid": "d049f7bd35dc0df92eb96d5b",
+			"x": 11571264.07,
+			"y": 149638.29
+		},
+		{
+			"is_practical": 1,
+			"name": "Tampines West",
+			"uid": "e5fa7eef8bb717f04c776e5b",
+			"x": 11570501.04,
+			"y": 148795.16
+		},
+		{
+			"is_practical": 1,
+			"name": "Bedok Reservoir",
+			"uid": "6da8c08491be753e06026f5b",
+			"x": 11569781.4,
+			"y": 147802.6
+		},
+		{
+			"is_practical": 1,
+			"name": "Bedok North",
+			"uid": "dcc3da8df3703f4b9f9d685b",
+			"x": 11568225.99,
+			"y": 147673.98
+		},
+		{
+			"is_practical": 1,
+			"name": "Kaki Bukit",
+			"uid": "c7cab843b905a6d47602695b",
+			"x": 11567216.73,
+			"y": 147620.54
+		},
+		{
+			"is_practical": 1,
+			"name": "Ubi",
+			"uid": "a604f236209a4f4bb15c6a5b",
+			"x": 11566115.5,
+			"y": 147035.79
+		},
+		{
+			"is_practical": 0,
+			"name": "MacPherson",
+			"uid": "ed716ba9c90588150d0e6b5b",
+			"x": 11565131.53,
+			"y": 146698.87
+		},
+		{
+			"is_practical": 1,
+			"name": "Mattar",
+			"uid": "73ee82360e5b3447a004645b",
+			"x": 11564298.4,
+			"y": 146766.15
+		},
+		{
+			"is_practical": 1,
+			"name": "Geylang Bahru",
+			"uid": "9b714568b209994de7e9655b",
+			"x": 11563048.08,
+			"y": 146101.38
+		},
+		{
+			"is_practical": 1,
+			"name": "Bendemeer",
+			"uid": "5f2ff93a1f03dea0accb665b",
+			"x": 11562092.61,
+			"y": 145227.26
+		},
+		{
+			"is_practical": 1,
+			"name": "Jalan Besar",
+			"uid": "e27d543058ee9582611c675b",
+			"x": 11561253.87,
+			"y": 144364.79
+		},
+		{
+			"is_practical": 1,
+			"name": "Bencoolen",
+			"uid": "507713dd13cc58556d47605b",
+			"x": 11560713.17,
+			"y": 143646.95
+		},
+		{
+			"is_practical": 1,
+			"name": "Fort Canning",
+			"uid": "169a58ffde1b540ef92d615b",
+			"x": 11560058.66,
+			"y": 142889.51
+		},
+		{
+			"is_practical": 0,
+			"name": "Chinatown",
+			"uid": "1cf873fe12e914af44e27418",
+			"x": 11559987.36,
+			"y": 142093.1
+		},
+		{
+			"is_practical": 0,
+			"name": "Telok Ayer",
+			"uid": "a8612d65772eccf023f01718",
+			"x": 11560515.72,
+			"y": 141773.64
+		},
+		{
+			"is_practical": 0,
+			"name": "Downtown",
+			"uid": "32fe5afd642893beafb22a18",
+			"x": 11561026.28,
+			"y": 141437.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Bayfront",
+			"uid": "475849d3b4becfaea3a93418",
+			"x": 11561738.02,
+			"y": 141818.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Promenade",
+			"uid": "af54c418c7dc4b206da3cc18",
+			"x": 11561888.78,
+			"y": 142951.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Bugis",
+			"uid": "554b12ae21f094a72de67b18",
+			"x": 11561341.39,
+			"y": 143796.53
+		},
+		{
+			"is_practical": 1,
+			"name": "Rochor",
+			"uid": "93a5f219f26a751cbca2405d",
+			"x": 11560916.23,
+			"y": 144174.72
+		},
+		{
+			"is_practical": 0,
+			"name": "Little India",
+			"uid": "b377a610d240c064210262bb",
+			"x": 11560576.83,
+			"y": 144476.65
+		},
+		{
+			"is_practical": 0,
+			"name": "Newton",
+			"uid": "41a0aa4b462a194bb8bd63bb",
+			"x": 11559414.28,
+			"y": 145189.1
+		},
+		{
+			"is_practical": 1,
+			"name": "Stevens",
+			"uid": "1391fe76f35285eb8515415d",
+			"x": 11557998.66,
+			"y": 146015.09
+		},
+		{
+			"is_practical": 0,
+			"name": "Botanic Gardens",
+			"uid": "e8a7ad01abceb3b596ca07ab",
+			"x": 11556838.87,
+			"y": 146248.73
+		},
+		{
+			"is_practical": 1,
+			"name": "Tan Kah Kee",
+			"uid": "1efeff4e03a5bc5cbc48425d",
+			"x": 11555919.14,
+			"y": 146638.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Sixth Avenue",
+			"uid": "18c60fb93a1285011776435d",
+			"x": 11554798.63,
+			"y": 147175.85
+		},
+		{
+			"is_practical": 1,
+			"name": "King Albert Park",
+			"uid": "e931360e034f2e3f59bbbca2",
+			"x": 11553319.33,
+			"y": 147741.2
+		},
+		{
+			"is_practical": 1,
+			"name": "Beauty World",
+			"uid": "d3860f53a87161f27f29bda2",
+			"x": 11552399.52,
+			"y": 148307
+		},
+		{
+			"is_practical": 1,
+			"name": "Hillview",
+			"uid": "ebdba46de7bc47605bf6bea2",
+			"x": 11551457.1,
+			"y": 150644.23
+		},
+		{
+			"is_practical": 1,
+			"name": "Cashew",
+			"uid": "4fe5eba0c12e63bf8505bfa2",
+			"x": 11551140.87,
+			"y": 151404.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Bukit Panjang",
+			"uid": "4cfb3e219f0580f47ab55cbb",
+			"x": 11550980.6,
+			"y": 152367.43
+		}]
+	},
+	{
+		"line_name": "Downtown Line(Bukit Panjang-Expo)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Bukit Panjang",
+			"uid": "db91e70e06ba42fc8bf15dbb",
+			"x": 11550980.6,
+			"y": 152367.43
+		},
+		{
+			"is_practical": 0,
+			"name": "Cashew",
+			"uid": "0128cd32e5f1bd4cf603b8a2",
+			"x": 11551140.87,
+			"y": 151404.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Hillview",
+			"uid": "24bae9ed3b02ce4a6d20b9a2",
+			"x": 11551457.1,
+			"y": 150644.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Beauty World",
+			"uid": "0165371e48045569f33cbaa2",
+			"x": 11552399.52,
+			"y": 148307
+		},
+		{
+			"is_practical": 0,
+			"name": "King Albert Park",
+			"uid": "d8964418d327cb7526d2bba2",
+			"x": 11553319.33,
+			"y": 147741.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Sixth Avenue",
+			"uid": "aa90df3b4d3b1e9b9868b4a2",
+			"x": 11554798.63,
+			"y": 147175.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Tan Kah Kee",
+			"uid": "32b3412798d5a0218b2fb5a2",
+			"x": 11555919.14,
+			"y": 146638.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Botanic Gardens",
+			"uid": "1fb53ffb35fbae831d5800ab",
+			"x": 11556838.87,
+			"y": 146248.73
+		},
+		{
+			"is_practical": 0,
+			"name": "Stevens",
+			"uid": "adaf94c9266fb36676e5b6a2",
+			"x": 11557998.66,
+			"y": 146015.09
+		},
+		{
+			"is_practical": 0,
+			"name": "Newton",
+			"uid": "03be7eb1c4b2b3b83f9a5ebb",
+			"x": 11559414.28,
+			"y": 145189.1
+		},
+		{
+			"is_practical": 0,
+			"name": "Little India",
+			"uid": "9d01bcb935f607d3cafa5fbb",
+			"x": 11560576.83,
+			"y": 144476.65
+		},
+		{
+			"is_practical": 0,
+			"name": "Rochor",
+			"uid": "47412a7335284eacd618b7a2",
+			"x": 11560916.23,
+			"y": 144174.72
+		},
+		{
+			"is_practical": 0,
+			"name": "Bugis",
+			"uid": "6b65cb67a1ee78e232169b18",
+			"x": 11561341.39,
+			"y": 143796.53
+		},
+		{
+			"is_practical": 1,
+			"name": "Promenade",
+			"uid": "e554d833bc8eb39234b06c1b",
+			"x": 11561888.78,
+			"y": 142951.44
+		},
+		{
+			"is_practical": 1,
+			"name": "Bayfront",
+			"uid": "6337a33316104a0cb44f541b",
+			"x": 11561738.02,
+			"y": 141818.29
+		},
+		{
+			"is_practical": 1,
+			"name": "Downtown",
+			"uid": "c6e8ed2094fb88054acc4a1b",
+			"x": 11561026.28,
+			"y": 141437.04
+		},
+		{
+			"is_practical": 1,
+			"name": "Telok Ayer",
+			"uid": "018d746135284eacd718b718",
+			"x": 11560515.72,
+			"y": 141773.64
+		},
+		{
+			"is_practical": 0,
+			"name": "Chinatown",
+			"uid": "6531f3e0feac0b5f1d389418",
+			"x": 11559987.36,
+			"y": 142093.1
+		},
+		{
+			"is_practical": 0,
+			"name": "Fort Canning",
+			"uid": "5eb89528d240c0642002625b",
+			"x": 11560058.66,
+			"y": 142889.51
+		},
+		{
+			"is_practical": 0,
+			"name": "Bencoolen",
+			"uid": "926f9973462a194bb9bd635b",
+			"x": 11560713.17,
+			"y": 143646.95
+		},
+		{
+			"is_practical": 0,
+			"name": "Jalan Besar",
+			"uid": "99340d199f0580f47bb55c5b",
+			"x": 11561253.87,
+			"y": 144364.79
+		},
+		{
+			"is_practical": 0,
+			"name": "Bendemeer",
+			"uid": "0c5ed43606ba42fc8af15d5b",
+			"x": 11562092.61,
+			"y": 145227.26
+		},
+		{
+			"is_practical": 0,
+			"name": "Geylang Bahru",
+			"uid": "d6714d89c4b2b3b83e9a5e5b",
+			"x": 11563048.08,
+			"y": 146101.38
+		},
+		{
+			"is_practical": 0,
+			"name": "Mattar",
+			"uid": "4ece8f8135f607d3cbfa5f5b",
+			"x": 11564298.4,
+			"y": 146766.15
+		},
+		{
+			"is_practical": 0,
+			"name": "MacPherson",
+			"uid": "83c67ec5819df2b36068585b",
+			"x": 11565131.53,
+			"y": 146698.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Ubi",
+			"uid": "7382caae74fd59214e3a595b",
+			"x": 11566115.5,
+			"y": 147035.79
+		},
+		{
+			"is_practical": 0,
+			"name": "Kaki Bukit",
+			"uid": "c4e93fcedf6f7773a9175a5b",
+			"x": 11567216.73,
+			"y": 147620.54
+		},
+		{
+			"is_practical": 0,
+			"name": "Bedok North",
+			"uid": "3089945cf13d905e73455b5b",
+			"x": 11568225.99,
+			"y": 147673.98
+		},
+		{
+			"is_practical": 0,
+			"name": "Bedok Reservoir",
+			"uid": "9c1bba0e16104a0cb44f545b",
+			"x": 11569781.4,
+			"y": 147802.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Tampines West",
+			"uid": "b3495d23cc428d06b626555b",
+			"x": 11570501.04,
+			"y": 148795.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Tampines",
+			"uid": "576487710b488f6fa6c7565b",
+			"x": 11571264.07,
+			"y": 149638.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Tampines East",
+			"uid": "8c36407b09219f8eaf04575b",
+			"x": 11572328.12,
+			"y": 149991.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Upper Changi",
+			"uid": "b43b421219c0964d9b00505b",
+			"x": 11573058.41,
+			"y": 148383.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Expo",
+			"uid": "b75252f31003a249c41e515b",
+			"x": 11573128.66,
+			"y": 147617.07
+		}]
+	},
+	{
+		"line_name": "Sengkang LRT(SW)(Sengkang-Sengkang)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Sengkang",
+			"uid": "dae660133f2fe5a796ec8418",
+			"x": 11565697.07,
+			"y": 153850.84
+		},
+		{
+			"is_practical": 1,
+			"name": "Cheng Lim",
+			"uid": "9b42804e462a194bb9bd631b",
+			"x": 11565521.02,
+			"y": 154401.56
+		},
+		{
+			"is_practical": 1,
+			"name": "Farmway",
+			"uid": "961914249f0580f47bb55c1b",
+			"x": 11565014.95,
+			"y": 154499.01
+		},
+		{
+			"is_practical": 1,
+			"name": "Kupang",
+			"uid": "dd5c54b4c4b2b3b83e9a5e1b",
+			"x": 11564136.25,
+			"y": 154614.06
+		},
+		{
+			"is_practical": 1,
+			"name": "Thanggam",
+			"uid": "47e396bc35f607d3cbfa5f1b",
+			"x": 11563503.66,
+			"y": 154528.89
+		},
+		{
+			"is_practical": 1,
+			"name": "Fernvale",
+			"uid": "0573cd0b06ba42fc8af15d1b",
+			"x": 11563579.2,
+			"y": 153911.81
+		},
+		{
+			"is_practical": 1,
+			"name": "Layar",
+			"uid": "84eb67f8819df2b36068581b",
+			"x": 11564003.72,
+			"y": 153929.5
+		},
+		{
+			"is_practical": 1,
+			"name": "Tongkang",
+			"uid": "8aaed39374fd59214e3a591b",
+			"x": 11564636.96,
+			"y": 153633.34
+		},
+		{
+			"is_practical": 1,
+			"name": "Renjong",
+			"uid": "3fc526f3df6f7773a9175a1b",
+			"x": 11565159.7,
+			"y": 153336.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Sengkang",
+			"uid": "e98064b0321db961dcee8b18",
+			"x": 11565697.07,
+			"y": 153850.84
+		}]
+	},
+	{
+		"line_name": "East West Line(Pasir Ris-Tuas Link)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Pasir Ris",
+			"uid": "a7fd681c034f2e3f58bbbc18",
+			"x": 11571704.06,
+			"y": 151826.9
+		},
+		{
+			"is_practical": 1,
+			"name": "Tampines",
+			"uid": "194d7b0a96275777c06c141b",
+			"x": 11571242.19,
+			"y": 149631.42
+		},
+		{
+			"is_practical": 1,
+			"name": "Simei",
+			"uid": "4a65441ecc428d06b626551b",
+			"x": 11572158.84,
+			"y": 148518.29
+		},
+		{
+			"is_practical": 1,
+			"name": "Tanah Merah",
+			"uid": "525dc429d139f925c829151b",
+			"x": 11571392.76,
+			"y": 146772.99
+		},
+		{
+			"is_practical": 1,
+			"name": "Bedok",
+			"uid": "ec7e83377f6bf160f5b9161b",
+			"x": 11569552.97,
+			"y": 146411.97
+		},
+		{
+			"is_practical": 1,
+			"name": "Kembangan",
+			"uid": "c9a58d61f13d905e73455b1b",
+			"x": 11567641.61,
+			"y": 146078.48
+		},
+		{
+			"is_practical": 1,
+			"name": "Eunos",
+			"uid": "16a5c9e9792cf934912ca318",
+			"x": 11566560.38,
+			"y": 145948.2
+		},
+		{
+			"is_practical": 1,
+			"name": "Paya Lebar",
+			"uid": "17db371a290410696e3e1b1b",
+			"x": 11565362.44,
+			"y": 145754.79
+		},
+		{
+			"is_practical": 1,
+			"name": "Aljunied",
+			"uid": "857cdefe0958ecccda13181b",
+			"x": 11564310.34,
+			"y": 145577.92
+		},
+		{
+			"is_practical": 1,
+			"name": "Kallang",
+			"uid": "f3a95b566a82e35a9603191b",
+			"x": 11563022.36,
+			"y": 145022.98
+		},
+		{
+			"is_practical": 1,
+			"name": "Lavender",
+			"uid": "007718b09cf7cc6a1c1d111b",
+			"x": 11562114.49,
+			"y": 144561.23
+		},
+		{
+			"is_practical": 1,
+			"name": "Bugis",
+			"uid": "3ce7cef94a2425543262121b",
+			"x": 11561341.39,
+			"y": 143796.53
+		},
+		{
+			"is_practical": 1,
+			"name": "City Hall",
+			"uid": "9d4ef1fe68b039602bfc481b",
+			"x": 11560943.04,
+			"y": 142979.66
+		},
+		{
+			"is_practical": 1,
+			"name": "Raffles Place",
+			"uid": "b546de8ecf26bf7a14c9051b",
+			"x": 11560821.01,
+			"y": 142024.99
+		},
+		{
+			"is_practical": 1,
+			"name": "Tanjong Pagar",
+			"uid": "487f1f3598d5a0218a2fb518",
+			"x": 11560196.76,
+			"y": 141159.07
+		},
+		{
+			"is_practical": 1,
+			"name": "Outram Park",
+			"uid": "be794bce1003a249c41e511b",
+			"x": 11559568.57,
+			"y": 141613.69
+		},
+		{
+			"is_practical": 1,
+			"name": "Tiong Bahru",
+			"uid": "e9ae182aa31a0b2bfa22131b",
+			"x": 11558166.05,
+			"y": 142212.06
+		},
+		{
+			"is_practical": 1,
+			"name": "Redhill",
+			"uid": "3e7df1148d65c36b82a00c1b",
+			"x": 11556955.21,
+			"y": 142611.5
+		},
+		{
+			"is_practical": 1,
+			"name": "Queenstown",
+			"uid": "d043df6b4525bbe9c5f50d1b",
+			"x": 11555771.59,
+			"y": 143147.39
+		},
+		{
+			"is_practical": 1,
+			"name": "Commonwealth",
+			"uid": "ff3c172b3da7fcbc87420e1b",
+			"x": 11554903.59,
+			"y": 144027.03
+		},
+		{
+			"is_practical": 1,
+			"name": "Buona Vista",
+			"uid": "347c6fa97af2be0baf080f1b",
+			"x": 11554076.95,
+			"y": 144554.01
+		},
+		{
+			"is_practical": 1,
+			"name": "Dover",
+			"uid": "4dfe28fc384596412eb9081b",
+			"x": 11552709.66,
+			"y": 145013.04
+		},
+		{
+			"is_practical": 1,
+			"name": "Clementi",
+			"uid": "15ab6a4b100f17f06118091b",
+			"x": 11551225.71,
+			"y": 145421.74
+		},
+		{
+			"is_practical": 1,
+			"name": "Jurong East",
+			"uid": "561c420191be585133870a1b",
+			"x": 11548672.66,
+			"y": 147417.79
+		},
+		{
+			"is_practical": 1,
+			"name": "Chinese Garden",
+			"uid": "7d56c3b0de1f0ace70210b1b",
+			"x": 11547585.17,
+			"y": 148446.98
+		},
+		{
+			"is_practical": 1,
+			"name": "Lakeside",
+			"uid": "fde78c118c8049688633041b",
+			"x": 11546272.38,
+			"y": 148649.7
+		},
+		{
+			"is_practical": 1,
+			"name": "Boon Lay",
+			"uid": "7aa940e792e17dabc71b751b",
+			"x": 11544594.9,
+			"y": 148022.76
+		},
+		{
+			"is_practical": 1,
+			"name": "Pioneer",
+			"uid": "48b0c0effbe5fe527fc8761b",
+			"x": 11543657.26,
+			"y": 147911.54
+		},
+		{
+			"is_practical": 1,
+			"name": "Joo Koon",
+			"uid": "cbb8a9eb781c4681f70e771b",
+			"x": 11541539.47,
+			"y": 146815.65
+		},
+		{
+			"is_practical": 0,
+			"name": "Gul Circle",
+			"uid": "8e4fa1ce28cd251103ec01ab",
+			"x": 11539633.32,
+			"y": 145996.79
+		},
+		{
+			"is_practical": 0,
+			"name": "Tuas Crescent",
+			"uid": "117abcf8a35f3ba55d0d02ab",
+			"x": 11538282.34,
+			"y": 146084.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Tuas West Road",
+			"uid": "0b4c376abdeb6544e01103ab",
+			"x": 11537247.23,
+			"y": 147049.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Tuas Link",
+			"uid": "81de29dee30ad8582bb97cab",
+			"x": 11536925.54,
+			"y": 148189.9
+		}]
+	},
+	{
+		"line_name": "Punggal LRT East Loop(Punggol-Punggol)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Punggol",
+			"uid": "825d5c55b209994de7e96518",
+			"x": 11566482.95,
+			"y": 155390.94
+		},
+		{
+			"is_practical": 0,
+			"name": "Damai",
+			"uid": "4dff28fc384596412eb90818",
+			"x": 11567165.68,
+			"y": 155392.99
+		},
+		{
+			"is_practical": 0,
+			"name": "Oasis",
+			"uid": "fde68c118c80496886330418",
+			"x": 11567625.94,
+			"y": 155062.94
+		},
+		{
+			"is_practical": 0,
+			"name": "Kadaloor",
+			"uid": "15aa6a4b100f17f061180918",
+			"x": 11568045.57,
+			"y": 154762.59
+		},
+		{
+			"is_practical": 0,
+			"name": "Riviera",
+			"uid": "b547de8ecf26bf7a14c90518",
+			"x": 11568008.74,
+			"y": 154206.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Coral Edge",
+			"uid": "ff3d172b3da7fcbc87420e18",
+			"x": 11567633.36,
+			"y": 154134.35
+		},
+		{
+			"is_practical": 0,
+			"name": "Meridian",
+			"uid": "7d57c3b0de1f0ace70210b18",
+			"x": 11567213.85,
+			"y": 154480.28
+		},
+		{
+			"is_practical": 0,
+			"name": "Cove",
+			"uid": "347d6fa97af2be0baf080f18",
+			"x": 11566876.37,
+			"y": 154755.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Punggol",
+			"uid": "48b1c0effbe5fe527fc87618",
+			"x": 11566482.95,
+			"y": 155390.94
+		}]
+	},
+	{
+		"line_name": "Sengkang LRT(SW)(Sengkang-Sengkang)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Sengkang",
+			"uid": "6cc29b0b0e5b3447a0046418",
+			"x": 11565697.07,
+			"y": 153850.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Renjong",
+			"uid": "e189a5f45b009d930bb93a18",
+			"x": 11565159.7,
+			"y": 153336.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Tongkang",
+			"uid": "6a7eaddff7fadd4ea4da3918",
+			"x": 11564636.96,
+			"y": 153633.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Layar",
+			"uid": "54bc2728ffd171b4e4073818",
+			"x": 11564003.72,
+			"y": 153929.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Fernvale",
+			"uid": "dc58e88be310f2aaca213d18",
+			"x": 11563579.2,
+			"y": 153911.81
+		},
+		{
+			"is_practical": 0,
+			"name": "Thanggam",
+			"uid": "c24826ea7526799f48fd3f18",
+			"x": 11563503.66,
+			"y": 154528.89
+		},
+		{
+			"is_practical": 0,
+			"name": "Kupang",
+			"uid": "98ddb11e74e4f36840d63e18",
+			"x": 11564136.25,
+			"y": 154614.06
+		},
+		{
+			"is_practical": 0,
+			"name": "Farmway",
+			"uid": "d80ead0eba85655ecbe33c18",
+			"x": 11565014.95,
+			"y": 154499.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Cheng Lim",
+			"uid": "9043ae58ff003ccb5c17c318",
+			"x": 11565521.02,
+			"y": 154401.56
+		},
+		{
+			"is_practical": 0,
+			"name": "Sengkang",
+			"uid": "f45d7294c90588150d0e6b18",
+			"x": 11565697.07,
+			"y": 153850.84
+		}]
+	},
+	{
+		"line_name": "Punggal LRT East Loop(Punggol-Punggol)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Punggol",
+			"uid": "04f4df1fa23ff2527af79618",
+			"x": 11566482.95,
+			"y": 155390.94
+		},
+		{
+			"is_practical": 1,
+			"name": "Cove",
+			"uid": "25032f5f470b0e033210af18",
+			"x": 11566876.37,
+			"y": 154755.46
+		},
+		{
+			"is_practical": 1,
+			"name": "Meridian",
+			"uid": "004f5c29df4728442ad7ab18",
+			"x": 11567213.85,
+			"y": 154480.28
+		},
+		{
+			"is_practical": 1,
+			"name": "Coral Edge",
+			"uid": "d61de6557d51c145374aae18",
+			"x": 11567633.36,
+			"y": 154134.35
+		},
+		{
+			"is_practical": 1,
+			"name": "Riviera",
+			"uid": "541ffc0495d0f74fefe4a518",
+			"x": 11568008.74,
+			"y": 154206.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Kadaloor",
+			"uid": "c853da438d1788696040a918",
+			"x": 11568045.57,
+			"y": 154762.59
+		},
+		{
+			"is_practical": 1,
+			"name": "Oasis",
+			"uid": "827f8d49ae0a139ece06a418",
+			"x": 11567625.94,
+			"y": 155062.94
+		},
+		{
+			"is_practical": 1,
+			"name": "Damai",
+			"uid": "ed091505884d0b59b120a818",
+			"x": 11567165.68,
+			"y": 155392.99
+		},
+		{
+			"is_practical": 0,
+			"name": "Punggol",
+			"uid": "d9456d2163e9afa5fadc8518",
+			"x": 11566482.95,
+			"y": 155390.94
+		}]
+	},
+	{
+		"line_name": "North South Line(Jurong East-Marina South Pier)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Jurong East",
+			"uid": "fd227c2548c2934cd3f49e18",
+			"x": 11548672.66,
+			"y": 147417.79
+		},
+		{
+			"is_practical": 1,
+			"name": "Bukit Batok",
+			"uid": "b3105b2f19c0964d9b00501b",
+			"x": 11549470.36,
+			"y": 149178.67
+		},
+		{
+			"is_practical": 1,
+			"name": "Bukit Gombak",
+			"uid": "e5a77f18a3f0eefe00294f1b",
+			"x": 11549713.18,
+			"y": 150264.18
+		},
+		{
+			"is_practical": 0,
+			"name": "Choa Chu Kang",
+			"uid": "af731acc1502eabd293a9f18",
+			"x": 11548880.61,
+			"y": 153182.98
+		},
+		{
+			"is_practical": 1,
+			"name": "Yew Tee",
+			"uid": "5eba3a114009014dfb42b218",
+			"x": 11549224.34,
+			"y": 154532.51
+		},
+		{
+			"is_practical": 1,
+			"name": "Kranji",
+			"uid": "03ea2f3ffe0574244c55471b",
+			"x": 11550852,
+			"y": 157603.07
+		},
+		{
+			"is_practical": 1,
+			"name": "Marsiling",
+			"uid": "595da064f35285eb8515411b",
+			"x": 11552217.61,
+			"y": 158420.82
+		},
+		{
+			"is_practical": 1,
+			"name": "Woodlands",
+			"uid": "a2709aec681fc6473804b118",
+			"x": 11553714.11,
+			"y": 158959.54
+		},
+		{
+			"is_practical": 1,
+			"name": "Admiralty",
+			"uid": "905f29176219d2b192114c1b",
+			"x": 11555194.78,
+			"y": 159308.76
+		},
+		{
+			"is_practical": 1,
+			"name": "Sembawang",
+			"uid": "5e76b7ff3b02ce4a6c20b918",
+			"x": 11557318.7,
+			"y": 160245.87
+		},
+		{
+			"is_practical": 1,
+			"name": "Yishun",
+			"uid": "fd4712078703c20b0b5cb318",
+			"x": 11558997.42,
+			"y": 158058.69
+		},
+		{
+			"is_practical": 1,
+			"name": "Khatib",
+			"uid": "5f93f8bc7d31784b4d6d461b",
+			"x": 11558770.31,
+			"y": 156721.73
+		},
+		{
+			"is_practical": 1,
+			"name": "Yio Chu Kang",
+			"uid": "7701388c6514af4a29201a1b",
+			"x": 11560101.78,
+			"y": 152800.03
+		},
+		{
+			"is_practical": 1,
+			"name": "Ang Mo Kio",
+			"uid": "ac489e4c0b488f6fa6c7561b",
+			"x": 11560612.82,
+			"y": 151501.26
+		},
+		{
+			"is_practical": 1,
+			"name": "Bishan",
+			"uid": "751a594609219f8eaf04571b",
+			"x": 11560468.63,
+			"y": 149441.12
+		},
+		{
+			"is_practical": 1,
+			"name": "Braddell",
+			"uid": "d04106f12d1625bed7b74e1b",
+			"x": 11560301.19,
+			"y": 148240.18
+		},
+		{
+			"is_practical": 1,
+			"name": "Toa Payoh",
+			"uid": "be376726c8e2ee51ff0eb018",
+			"x": 11560393.09,
+			"y": 147326.35
+		},
+		{
+			"is_practical": 1,
+			"name": "Novena",
+			"uid": "5432a15c03a5bc5cbc48421b",
+			"x": 11559934.14,
+			"y": 145963.81
+		},
+		{
+			"is_practical": 1,
+			"name": "Newton",
+			"uid": "af98420d2407fd57dd1e521b",
+			"x": 11559414.28,
+			"y": 145189.1
+		},
+		{
+			"is_practical": 1,
+			"name": "Orchard",
+			"uid": "560a51ab3a1285011776431b",
+			"x": 11558678.46,
+			"y": 144105.37
+		},
+		{
+			"is_practical": 1,
+			"name": "Somerset",
+			"uid": "a65a1a0ad327cb7527d2bb18",
+			"x": 11559375.13,
+			"y": 143786.1
+		},
+		{
+			"is_practical": 0,
+			"name": "Dhoby Ghaut",
+			"uid": "c89a470c6cf31073266e9818",
+			"x": 11560095.69,
+			"y": 143613.96
+		},
+		{
+			"is_practical": 0,
+			"name": "City Hall",
+			"uid": "ea5a3efd963d1f271ee99918",
+			"x": 11560943.04,
+			"y": 142979.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Raffles Place",
+			"uid": "92abc433996927a041ab9a18",
+			"x": 11560821.01,
+			"y": 142024.99
+		},
+		{
+			"is_practical": 1,
+			"name": "Marina Bay",
+			"uid": "e6d99d2839342d808afc061b",
+			"x": 11561183.73,
+			"y": 141003.92
+		},
+		{
+			"is_practical": 1,
+			"name": "Marina South Pier",
+			"uid": "a55b76097b19e457ebf8531b",
+			"x": 11562071.21,
+			"y": 140625.59
+		}]
+	},
+	{
+		"line_name": "East West Line(Tanah Merah-Changi Airport)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Tanah Merah",
+			"uid": "5ab6aca28d112471cb1b9518",
+			"x": 11571392.76,
+			"y": 146772.99
+		},
+		{
+			"is_practical": 1,
+			"name": "Expo",
+			"uid": "073225204abe1ab9f523101b",
+			"x": 11573141.33,
+			"y": 147695.56
+		},
+		{
+			"is_practical": 1,
+			"name": "Changi Airport",
+			"uid": "a8602d65772eccf023f0171b",
+			"x": 11576080.02,
+			"y": 150091.32
+		}]
+	},
+	{
+		"line_name": "North East Line(Punggol-HarbourFront)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Punggol",
+			"uid": "eb7dc50b6a2bea753717dc18",
+			"x": 11566482.95,
+			"y": 155390.94
+		},
+		{
+			"is_practical": 0,
+			"name": "Sengkang",
+			"uid": "9d4d4138fda8805e9022e018",
+			"x": 11565697.07,
+			"y": 153850.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Buangkok",
+			"uid": "d46eafa60610a96b2802e118",
+			"x": 11565447.28,
+			"y": 152935.74
+		},
+		{
+			"is_practical": 0,
+			"name": "Hougang",
+			"uid": "3bf0541e2f25114bd52ce218",
+			"x": 11565414.26,
+			"y": 151702.28
+		},
+		{
+			"is_practical": 0,
+			"name": "Kovan",
+			"uid": "c3487d2b9705ec65d33ce318",
+			"x": 11564537.13,
+			"y": 150383.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Serangoon",
+			"uid": "a8733e35881030859f95de18",
+			"x": 11563301.16,
+			"y": 149258.35
+		},
+		{
+			"is_practical": 0,
+			"name": "Woodleigh",
+			"uid": "a67e6b3aabceb3b597ca0718",
+			"x": 11562965.21,
+			"y": 148084.89
+		},
+		{
+			"is_practical": 0,
+			"name": "Potong Pasir",
+			"uid": "545d38256c3b0e5e09ccdd18",
+			"x": 11562780.38,
+			"y": 147206.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Boon Keng",
+			"uid": "ad63da1eb6cba6dc4f2fdf18",
+			"x": 11561937.39,
+			"y": 145942.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Farrer Park",
+			"uid": "4848e4c520927666a90dd818",
+			"x": 11561121.9,
+			"y": 145168.4
+		},
+		{
+			"is_practical": 0,
+			"name": "Little India",
+			"uid": "8993729cf02890440969d918",
+			"x": 11560576.83,
+			"y": 144476.65
+		},
+		{
+			"is_practical": 0,
+			"name": "Dhoby Ghaut",
+			"uid": "7faa071b13367be6b917e718",
+			"x": 11560095.69,
+			"y": 143613.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Clarke Quay",
+			"uid": "b2a06ea808f3e266aaf72918",
+			"x": 11560306.32,
+			"y": 142531.18
+		},
+		{
+			"is_practical": 0,
+			"name": "Chinatown",
+			"uid": "1ecaa226160a30200c3dda18",
+			"x": 11559987.36,
+			"y": 142093.1
+		},
+		{
+			"is_practical": 0,
+			"name": "Outram Park",
+			"uid": "deb3b1045e1613f0b3077d18",
+			"x": 11559568.57,
+			"y": 141613.69
+		},
+		{
+			"is_practical": 0,
+			"name": "HarbourFront",
+			"uid": "cd704404b66e3574c8c3db18",
+			"x": 11557582.8,
+			"y": 139922.74
+		}]
+	},
+	{
+		"line_name": "Punggol LRT West Loop(Sam Kee-Sam Kee)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Sam Kee",
+			"uid": "ceb7f89aad2e8a57f3193776",
+			"x": 11566769.65,
+			"y": 155881.13
+		},
+		{
+			"is_practical": 1,
+			"name": "Punggol Point",
+			"uid": "9af9491a0c19ca50a3d23076",
+			"x": 11566973.92,
+			"y": 156668.92
+		},
+		{
+			"is_practical": 0,
+			"name": "Samudera",
+			"uid": "2879e82d4c1e9a9b3de23176",
+			"x": 11566395.07,
+			"y": 156650.37
+		},
+		{
+			"is_practical": 0,
+			"name": "Nibong",
+			"uid": "884ea82a1cd504ab461a3276",
+			"x": 11566243.38,
+			"y": 156077.69
+		},
+		{
+			"is_practical": 0,
+			"name": "Sumang",
+			"uid": "cf49f8e182e57f532f473376",
+			"x": 11566104.08,
+			"y": 155737.18
+		},
+		{
+			"is_practical": 0,
+			"name": "Soo Teck",
+			"uid": "9e8266d1f91d160e6dc02c76",
+			"x": 11565943.14,
+			"y": 155404.41
+		},
+		{
+			"is_practical": 0,
+			"name": "Punggol Point",
+			"uid": "03b21d299040548902ff2d76",
+			"x": 11566973.92,
+			"y": 156668.92
+		},
+		{
+			"is_practical": 0,
+			"name": "Sam Kee",
+			"uid": "794a7474d2c73bb683a12e76",
+			"x": 11566769.65,
+			"y": 155881.13
+		}]
+	}],
+	"result": {
+		"ccode": "20001",
+		"qt": "bsi"
+	}
+}

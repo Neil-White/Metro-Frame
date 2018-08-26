@@ -1,0 +1,690 @@
+{
+	"content": [{
+		"line_name": "Line M2(Sofia Airport-Vitosha)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Sofia Airport",
+			"uid": "8057239aa616e9644054d7b5",
+			"x": 2606680.85,
+			"y": 5235352.27
+		},
+		{
+			"is_practical": 1,
+			"name": "Sofiyska Sveta Gora",
+			"uid": "413c32236f2a781d250bd0b5",
+			"x": 2606028.26,
+			"y": 5233598.92
+		},
+		{
+			"is_practical": 1,
+			"name": "Iskarsko shose",
+			"uid": "5385fb1ffe531d422811d1b5",
+			"x": 2605125,
+			"y": 5232415
+		},
+		{
+			"is_practical": 1,
+			"name": "Druzhba",
+			"uid": "9bb96a669b0c105879dbd2b5",
+			"x": 2604306.7,
+			"y": 5230954.34
+		},
+		{
+			"is_practical": 1,
+			"name": "Inter Expo Center Tsarigradsko shose",
+			"uid": "0dc00f39961641927369d3b5",
+			"x": 2604220.74,
+			"y": 5229602.94
+		},
+		{
+			"is_practical": 1,
+			"name": "Mladost 3",
+			"uid": "699f0223c7dc4b206ca3ccb5",
+			"x": 2603134.54,
+			"y": 5229092.9
+		},
+		{
+			"is_practical": 1,
+			"name": "Mladost 1",
+			"uid": "678553e9cd6e54eaabf0cdb5",
+			"x": 2601728.53,
+			"y": 5230312.11
+		},
+		{
+			"is_practical": 1,
+			"name": "Musagenitsa",
+			"uid": "374f595bd2a493b92b06ceb5",
+			"x": 2600943.29,
+			"y": 5230927.74
+		},
+		{
+			"is_practical": 1,
+			"name": "G.M.Dimitrov",
+			"uid": "22fd469115f7134fc2f1cfb5",
+			"x": 2600219.01,
+			"y": 5231574.75
+		},
+		{
+			"is_practical": 1,
+			"name": "Joliot Curie",
+			"uid": "3c3781c29501fab8593ac8b5",
+			"x": 2599430.56,
+			"y": 5232829.52
+		},
+		{
+			"is_practical": 1,
+			"name": "Vasil Levski Stadium",
+			"uid": "f86401347cf66173901fc9b5",
+			"x": 2597347,
+			"y": 5235075.54
+		},
+		{
+			"is_practical": 1,
+			"name": "St. Kliment Ohridski Sofia University",
+			"uid": "7992e8c3e73da856eedfcab5",
+			"x": 2597638.79,
+			"y": 5235985.47
+		},
+		{
+			"is_practical": 1,
+			"name": "Serdika",
+			"uid": "976573082e18d696f8f0cbb5",
+			"x": 2596124.06,
+			"y": 5236845.61
+		},
+		{
+			"is_practical": 1,
+			"name": "Opalchenska",
+			"uid": "0daeba2d50d8c0b9a0acc4b5",
+			"x": 2595119.12,
+			"y": 5237079.76
+		},
+		{
+			"is_practical": 1,
+			"name": "Konstantin Velichkov",
+			"uid": "c78bc4ed46f798e551e5c5b5",
+			"x": 2593620.94,
+			"y": 5237443.04
+		},
+		{
+			"is_practical": 1,
+			"name": "Vardar",
+			"uid": "b84bd2c21eab69ac1b94c6b5",
+			"x": 2592101.44,
+			"y": 5238057.53
+		},
+		{
+			"is_practical": 1,
+			"name": "Zapaden Park",
+			"uid": "a1648a9eefe223dd0b1cc7b5",
+			"x": 2590501.63,
+			"y": 5238838.41
+		},
+		{
+			"is_practical": 1,
+			"name": "Lyulin",
+			"uid": "f8387bd7a59333554251c0b5",
+			"x": 2589000.64,
+			"y": 5239953.71
+		},
+		{
+			"is_practical": 1,
+			"name": "Slivnitsa",
+			"uid": "0a7131a6b51b7a184107c1b5",
+			"x": 2589538.42,
+			"y": 5241174.34
+		},
+		{
+			"is_practical": 1,
+			"name": "Obelya",
+			"uid": "4100212efc56794e0482c2b5",
+			"x": 2591014.48,
+			"y": 5243196
+		},
+		{
+			"is_practical": 1,
+			"name": "Lomsko shose",
+			"uid": "56886863ff003ccb5d17c3b5",
+			"x": 2592361.33,
+			"y": 5243282.47
+		},
+		{
+			"is_practical": 1,
+			"name": "Beli Dunav",
+			"uid": "1ec56b35ba85655ecae33cb5",
+			"x": 2592946.99,
+			"y": 5242550.62
+		},
+		{
+			"is_practical": 1,
+			"name": "Nadezhda",
+			"uid": "1e932eb0e310f2aacb213db5",
+			"x": 2593883.04,
+			"y": 5241395.81
+		},
+		{
+			"is_practical": 1,
+			"name": "Han Kubrat",
+			"uid": "5a16772574e4f36841d63eb5",
+			"x": 2594501.44,
+			"y": 5240630.76
+		},
+		{
+			"is_practical": 1,
+			"name": "Knyaginya Maria Luiza",
+			"uid": "3c83e0d17526799f49fd3fb5",
+			"x": 2595302.91,
+			"y": 5239278.5
+		},
+		{
+			"is_practical": 1,
+			"name": "Central Railway",
+			"uid": "aa77e113ffd171b4e50738b5",
+			"x": 2596010.4,
+			"y": 5238791.71
+		},
+		{
+			"is_practical": 1,
+			"name": "Lavov Most",
+			"uid": "a8b56be4f7fadd4ea5da39b5",
+			"x": 2596422.3,
+			"y": 5237996.13
+		},
+		{
+			"is_practical": 0,
+			"name": "Serdika",
+			"uid": "234263cf5b009d930ab93ab5",
+			"x": 2596124.06,
+			"y": 5236845.61
+		},
+		{
+			"is_practical": 1,
+			"name": "National Palace of Culture",
+			"uid": "2c69cf351bdd32f0f7e73bb5",
+			"x": 2595896.31,
+			"y": 5235539.36
+		},
+		{
+			"is_practical": 1,
+			"name": "European Union",
+			"uid": "81938fe8b4becfaea2a934b5",
+			"x": 2596183.93,
+			"y": 5233980.68
+		},
+		{
+			"is_practical": 1,
+			"name": "James Bourchier",
+			"uid": "c24e208b49e09ae0132935b5",
+			"x": 2596063.5,
+			"y": 5232769.87
+		},
+		{
+			"is_practical": 1,
+			"name": "Vitosha",
+			"uid": "6c2dddd51cae2b60b21e36b5",
+			"x": 2595610.33,
+			"y": 5231028.56
+		}]
+	},
+	{
+		"line_name": "Line M1(Business Park Sofia-Slivnitsa)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Business Park Sofia",
+			"uid": "ca3d391b0c19ca50a2d230b5",
+			"x": 2601908.35,
+			"y": 5226588.22
+		},
+		{
+			"is_practical": 1,
+			"name": "Akad. Aleksandar Teodorov Balan",
+			"uid": "78bd982c4c1e9a9b3ce231b5",
+			"x": 2601845.03,
+			"y": 5228346.34
+		},
+		{
+			"is_practical": 1,
+			"name": "Aleksandar Malinov",
+			"uid": "d88ad82b1cd504ab471a32b5",
+			"x": 2602304.25,
+			"y": 5229328.18
+		},
+		{
+			"is_practical": 0,
+			"name": "Mladost 1",
+			"uid": "9f8d88e082e57f532e4733b5",
+			"x": 2601728.53,
+			"y": 5230312.11
+		},
+		{
+			"is_practical": 0,
+			"name": "Musagenitsa",
+			"uid": "ce4616d0f91d160e6cc02cb5",
+			"x": 2600943.29,
+			"y": 5230927.74
+		},
+		{
+			"is_practical": 0,
+			"name": "G.M.Dimitrov",
+			"uid": "53766d289040548903ff2db5",
+			"x": 2600219.01,
+			"y": 5231574.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Joliot Curie",
+			"uid": "298e0475d2c73bb682a12eb5",
+			"x": 2599430.56,
+			"y": 5232829.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Vasil Levski Stadium",
+			"uid": "5fd346f2bdf8bae8b6f42fb5",
+			"x": 2597347,
+			"y": 5235075.54
+		},
+		{
+			"is_practical": 0,
+			"name": "St. Kliment Ohridski Sofia University",
+			"uid": "1c5429cd3ca68ebdda2f28b5",
+			"x": 2597638.79,
+			"y": 5235985.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Serdika",
+			"uid": "706ba89308f3e266abf729b5",
+			"x": 2596124.06,
+			"y": 5236845.61
+		},
+		{
+			"is_practical": 0,
+			"name": "Opalchenska",
+			"uid": "f0359cc6642893beaeb22ab5",
+			"x": 2595119.12,
+			"y": 5237079.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Konstantin Velichkov",
+			"uid": "c360f01d15f096fb9fec2bb5",
+			"x": 2593620.94,
+			"y": 5237443.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Vardar",
+			"uid": "aebb81c510b5a7a5118824b5",
+			"x": 2592101.44,
+			"y": 5238057.53
+		},
+		{
+			"is_practical": 0,
+			"name": "Zapaden Park",
+			"uid": "dc63848021eb29c1c4f025b5",
+			"x": 2590501.63,
+			"y": 5238838.41
+		},
+		{
+			"is_practical": 0,
+			"name": "Lyulin",
+			"uid": "d826b5deaf8ffcb9455726b5",
+			"x": 2589000.64,
+			"y": 5239953.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Slivnitsa",
+			"uid": "e6783bba7af77d1e8d7727b5",
+			"x": 2589538.42,
+			"y": 5241174.34
+		}]
+	},
+	{
+		"line_name": "Line M2(Vitosha-Sofia Airport)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Vitosha",
+			"uid": "bf646f653370194b9de321b5",
+			"x": 2595610.33,
+			"y": 5231028.56
+		},
+		{
+			"is_practical": 0,
+			"name": "James Bourchier",
+			"uid": "3fc3a7459f05a5aabfa822b5",
+			"x": 2596063.5,
+			"y": 5232769.87
+		},
+		{
+			"is_practical": 0,
+			"name": "European Union",
+			"uid": "f0e30b3023e487e1d0ff23b5",
+			"x": 2596183.93,
+			"y": 5233980.68
+		},
+		{
+			"is_practical": 0,
+			"name": "National Palace of Culture",
+			"uid": "5d96b7d101afe8b63b221cb5",
+			"x": 2595896.31,
+			"y": 5235539.36
+		},
+		{
+			"is_practical": 0,
+			"name": "Serdika",
+			"uid": "e277959a6ef8036b32f71db5",
+			"x": 2596124.06,
+			"y": 5236845.61
+		},
+		{
+			"is_practical": 0,
+			"name": "Lavov Most",
+			"uid": "c13cfacd85250abeb75f1eb5",
+			"x": 2596422.3,
+			"y": 5237996.13
+		},
+		{
+			"is_practical": 0,
+			"name": "Central Railway",
+			"uid": "516b11108cf08f16d4851fb5",
+			"x": 2596010.4,
+			"y": 5238791.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Knyaginya Maria Luiza",
+			"uid": "bbb618c50958ecccdb1318b5",
+			"x": 2595302.91,
+			"y": 5239278.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Han Kubrat",
+			"uid": "b1639d6d6a82e35a970319b5",
+			"x": 2594501.44,
+			"y": 5240630.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Nadezhda",
+			"uid": "35cbfeb76514af4a28201ab5",
+			"x": 2593883.04,
+			"y": 5241395.81
+		},
+		{
+			"is_practical": 0,
+			"name": "Beli Dunav",
+			"uid": "5111f121290410696f3e1bb5",
+			"x": 2592946.99,
+			"y": 5242550.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Lomsko shose",
+			"uid": "5f87bd3196275777c16c14b5",
+			"x": 2592361.33,
+			"y": 5243282.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Obelya",
+			"uid": "10970212d139f925c92915b5",
+			"x": 2591014.48,
+			"y": 5243196
+		},
+		{
+			"is_practical": 0,
+			"name": "Slivnitsa",
+			"uid": "aeb4450c7f6bf160f4b916b5",
+			"x": 2589538.42,
+			"y": 5241174.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Lyulin",
+			"uid": "e6aaeb5e772eccf022f017b5",
+			"x": 2589000.64,
+			"y": 5239953.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Zapaden Park",
+			"uid": "49f8e31b4abe1ab9f42310b5",
+			"x": 2590501.63,
+			"y": 5238838.41
+		},
+		{
+			"is_practical": 0,
+			"name": "Vardar",
+			"uid": "42bdde8b9cf7cc6a1d1d11b5",
+			"x": 2592101.44,
+			"y": 5238057.53
+		},
+		{
+			"is_practical": 0,
+			"name": "Konstantin Velichkov",
+			"uid": "7e2d08c24a242554336212b5",
+			"x": 2593620.94,
+			"y": 5237443.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Opalchenska",
+			"uid": "af64de11a31a0b2bfb2213b5",
+			"x": 2595119.12,
+			"y": 5237079.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Serdika",
+			"uid": "78b7372f8d65c36b83a00cb5",
+			"x": 2596124.06,
+			"y": 5236845.61
+		},
+		{
+			"is_practical": 0,
+			"name": "St. Kliment Ohridski Sofia University",
+			"uid": "928919504525bbe9c4f50db5",
+			"x": 2597638.79,
+			"y": 5235985.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Vasil Levski Stadium",
+			"uid": "bdf6d1103da7fcbc86420eb5",
+			"x": 2597347,
+			"y": 5235075.54
+		},
+		{
+			"is_practical": 0,
+			"name": "Joliot Curie",
+			"uid": "6ab6a9927af2be0bae080fb5",
+			"x": 2599430.56,
+			"y": 5232829.52
+		},
+		{
+			"is_practical": 0,
+			"name": "G.M.Dimitrov",
+			"uid": "1334eec7384596412fb908b5",
+			"x": 2600219.01,
+			"y": 5231574.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Musagenitsa",
+			"uid": "5761ac70100f17f0601809b5",
+			"x": 2600943.29,
+			"y": 5230927.74
+		},
+		{
+			"is_practical": 0,
+			"name": "Mladost 1",
+			"uid": "14d6843a91be585132870ab5",
+			"x": 2601728.53,
+			"y": 5230312.11
+		},
+		{
+			"is_practical": 0,
+			"name": "Mladost 3",
+			"uid": "3b9c058bde1f0ace71210bb5",
+			"x": 2603134.54,
+			"y": 5229092.9
+		},
+		{
+			"is_practical": 0,
+			"name": "Inter Expo Center Tsarigradsko shose",
+			"uid": "bb2d4a2a8c804968873304b5",
+			"x": 2604220.74,
+			"y": 5229602.94
+		},
+		{
+			"is_practical": 0,
+			"name": "Druzhba",
+			"uid": "f78c18b5cf26bf7a15c905b5",
+			"x": 2604306.7,
+			"y": 5230954.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Iskarsko shose",
+			"uid": "a4135b1339342d808bfc06b5",
+			"x": 2605125,
+			"y": 5232415
+		},
+		{
+			"is_practical": 0,
+			"name": "Sofiyska Sveta Gora",
+			"uid": "e8b5ad01abceb3b596ca07b5",
+			"x": 2606028.26,
+			"y": 5233598.92
+		},
+		{
+			"is_practical": 0,
+			"name": "Sofia Airport",
+			"uid": "1fa73ffb35fbae831d5800b5",
+			"x": 2606680.85,
+			"y": 5235352.27
+		}]
+	},
+	{
+		"line_name": "Line M1(Slivnitsa-Business Park Sofia)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Slivnitsa",
+			"uid": "1168bcf8a35f3ba55d0d02b5",
+			"x": 2589538.42,
+			"y": 5241174.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Lyulin",
+			"uid": "0b5e376abdeb6544e01103b5",
+			"x": 2589000.64,
+			"y": 5239953.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Zapaden Park",
+			"uid": "81cc29dee30ad8582bb97cb5",
+			"x": 2590501.63,
+			"y": 5238838.41
+		},
+		{
+			"is_practical": 0,
+			"name": "Vardar",
+			"uid": "9c78773f5e1613f0b2077db5",
+			"x": 2592101.44,
+			"y": 5238057.53
+		},
+		{
+			"is_practical": 0,
+			"name": "Konstantin Velichkov",
+			"uid": "c399ca2395be8a4e2cb17eb5",
+			"x": 2593620.94,
+			"y": 5237443.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Opalchenska",
+			"uid": "4185018b0c0014f8b6147fb5",
+			"x": 2595119.12,
+			"y": 5237079.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Serdika",
+			"uid": "8b2d983592b68e5dfea778b5",
+			"x": 2596124.06,
+			"y": 5236845.61
+		},
+		{
+			"is_practical": 0,
+			"name": "St. Kliment Ohridski Sofia University",
+			"uid": "119306830813c6ee9ff779b5",
+			"x": 2597638.79,
+			"y": 5235985.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Vasil Levski Stadium",
+			"uid": "8e259c2640a0a7beacee7ab5",
+			"x": 2597347,
+			"y": 5235075.54
+		},
+		{
+			"is_practical": 0,
+			"name": "Joliot Curie",
+			"uid": "1380d49521f094a72ce67bb5",
+			"x": 2599430.56,
+			"y": 5232829.52
+		},
+		{
+			"is_practical": 0,
+			"name": "G.M.Dimitrov",
+			"uid": "5a33b5c512e914af45e274b5",
+			"x": 2600219.01,
+			"y": 5231574.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Musagenitsa",
+			"uid": "386386dc92e17dabc61b75b5",
+			"x": 2600943.29,
+			"y": 5230927.74
+		},
+		{
+			"is_practical": 0,
+			"name": "Mladost 1",
+			"uid": "0a7a06d4fbe5fe527ec876b5",
+			"x": 2601728.53,
+			"y": 5230312.11
+		},
+		{
+			"is_practical": 0,
+			"name": "Aleksandar Malinov",
+			"uid": "85726fd0781c4681f60e77b5",
+			"x": 2602304.25,
+			"y": 5229328.18
+		},
+		{
+			"is_practical": 0,
+			"name": "Akad. Aleksandar Teodorov Balan",
+			"uid": "ed76ec29c0cfce470f0a70b5",
+			"x": 2601845.03,
+			"y": 5228346.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Business Park Sofia",
+			"uid": "6d8f54fa48093743343a71b5",
+			"x": 2601908.35,
+			"y": 5226588.22
+		}]
+	}],
+	"result": {
+		"ccode": "48184",
+		"qt": "bsi"
+	}
+}

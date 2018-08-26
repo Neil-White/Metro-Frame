@@ -1,0 +1,820 @@
+{
+	"content": [{
+		"line_name": "M4(Sehitler-Ataturk Kultur Merkezi)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Sehitler",
+			"uid": "22ff469115f7134fc2f1cfbb",
+			"x": 3658190.32,
+			"y": 4837744.43
+		},
+		{
+			"is_practical": 1,
+			"name": "Dutluk",
+			"uid": "3c3581c29501fab8593ac8bb",
+			"x": 3659225.15,
+			"y": 4838190.66
+		},
+		{
+			"is_practical": 1,
+			"name": "Kuyubasi",
+			"uid": "f86601347cf66173901fc9bb",
+			"x": 3659679.12,
+			"y": 4836922.82
+		},
+		{
+			"is_practical": 1,
+			"name": "Mecidiye",
+			"uid": "7990e8c3e73da856eedfcabb",
+			"x": 3659706.61,
+			"y": 4835906.48
+		},
+		{
+			"is_practical": 1,
+			"name": "Belediye",
+			"uid": "976773082e18d696f8f0cbbb",
+			"x": 3658868.76,
+			"y": 4835021.55
+		},
+		{
+			"is_practical": 1,
+			"name": "Meteroloji",
+			"uid": "0dacba2d50d8c0b9a0acc4bb",
+			"x": 3658355.99,
+			"y": 4833207.46
+		},
+		{
+			"is_practical": 1,
+			"name": "Diskapi",
+			"uid": "c789c4ed46f798e551e5c5bb",
+			"x": 3657870.64,
+			"y": 4831761.45
+		},
+		{
+			"is_practical": 1,
+			"name": "ASKI",
+			"uid": "b849d2c21eab69ac1b94c6bb",
+			"x": 3656939.93,
+			"y": 4830672.77
+		},
+		{
+			"is_practical": 1,
+			"name": "Ataturk Kultur Merkezi",
+			"uid": "a1668a9eefe223dd0b1cc7bb",
+			"x": 3656232.51,
+			"y": 4830172.81
+		}]
+	},
+	{
+		"line_name": "M1(Batikent-Kizilay)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Batikent",
+			"uid": "1ec76b35ba85655ecae33cbb",
+			"x": 3643163.87,
+			"y": 4833662.86
+		},
+		{
+			"is_practical": 1,
+			"name": "Ostim",
+			"uid": "1e912eb0e310f2aacb213dbb",
+			"x": 3645174.01,
+			"y": 4833918.01
+		},
+		{
+			"is_practical": 1,
+			"name": "Macunkoy",
+			"uid": "5a14772574e4f36841d63ebb",
+			"x": 3647625.91,
+			"y": 4834140.23
+		},
+		{
+			"is_practical": 1,
+			"name": "Hastane",
+			"uid": "3c81e0d17526799f49fd3fbb",
+			"x": 3649450.3,
+			"y": 4833770.83
+		},
+		{
+			"is_practical": 1,
+			"name": "Demetevler",
+			"uid": "aa75e113ffd171b4e50738bb",
+			"x": 3650668.52,
+			"y": 4833209.77
+		},
+		{
+			"is_practical": 1,
+			"name": "Yenimahalle",
+			"uid": "a8b76be4f7fadd4ea5da39bb",
+			"x": 3651842.37,
+			"y": 4832712.52
+		},
+		{
+			"is_practical": 1,
+			"name": "Ivedik",
+			"uid": "234063cf5b009d930ab93abb",
+			"x": 3653206.94,
+			"y": 4832029.46
+		},
+		{
+			"is_practical": 1,
+			"name": "Akkopru",
+			"uid": "2c6bcf351bdd32f0f7e73bbb",
+			"x": 3655122.06,
+			"y": 4831250.09
+		},
+		{
+			"is_practical": 0,
+			"name": "Ataturk Kultur Merkezi",
+			"uid": "81918fe8b4becfaea2a934bb",
+			"x": 3656232.51,
+			"y": 4830172.81
+		},
+		{
+			"is_practical": 1,
+			"name": "Ulus",
+			"uid": "c24c208b49e09ae0132935bb",
+			"x": 3656955.43,
+			"y": 4829508.52
+		},
+		{
+			"is_practical": 1,
+			"name": "Sihhiye",
+			"uid": "6c2fddd51cae2b60b21e36bb",
+			"x": 3657436.74,
+			"y": 4827788.95
+		},
+		{
+			"is_practical": 1,
+			"name": "Kizilay",
+			"uid": "9e71889bad2e8a57f21937bb",
+			"x": 3657336.83,
+			"y": 4826759.95
+		}]
+	},
+	{
+		"line_name": "M1(Kizilay-Batikent)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Kizilay",
+			"uid": "78bf982c4c1e9a9b3ce231bb",
+			"x": 3657336.83,
+			"y": 4826759.95
+		},
+		{
+			"is_practical": 0,
+			"name": "Sihhiye",
+			"uid": "d888d82b1cd504ab471a32bb",
+			"x": 3657436.74,
+			"y": 4827788.95
+		},
+		{
+			"is_practical": 0,
+			"name": "Ulus",
+			"uid": "9f8f88e082e57f532e4733bb",
+			"x": 3656955.43,
+			"y": 4829508.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Ataturk Kultur Merkezi",
+			"uid": "ce4416d0f91d160e6cc02cbb",
+			"x": 3656232.51,
+			"y": 4830172.81
+		},
+		{
+			"is_practical": 0,
+			"name": "Akkopru",
+			"uid": "53746d289040548903ff2dbb",
+			"x": 3655122.06,
+			"y": 4831250.09
+		},
+		{
+			"is_practical": 0,
+			"name": "Ivedik",
+			"uid": "298c0475d2c73bb682a12ebb",
+			"x": 3653206.94,
+			"y": 4832029.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Yenimahalle",
+			"uid": "5fd146f2bdf8bae8b6f42fbb",
+			"x": 3651842.37,
+			"y": 4832712.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Demetevler",
+			"uid": "1c5629cd3ca68ebdda2f28bb",
+			"x": 3650668.52,
+			"y": 4833209.77
+		},
+		{
+			"is_practical": 0,
+			"name": "Hastane",
+			"uid": "7069a89308f3e266abf729bb",
+			"x": 3649450.3,
+			"y": 4833770.83
+		},
+		{
+			"is_practical": 0,
+			"name": "Macunkoy",
+			"uid": "f0379cc6642893beaeb22abb",
+			"x": 3647625.91,
+			"y": 4834140.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Ostim",
+			"uid": "c362f01d15f096fb9fec2bbb",
+			"x": 3645174.01,
+			"y": 4833918.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Batikent",
+			"uid": "aeb981c510b5a7a5118824bb",
+			"x": 3643163.87,
+			"y": 4833662.86
+		}]
+	},
+	{
+		"line_name": "A(Dikimevi-ASTI)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Dikimevi",
+			"uid": "d824b5deaf8ffcb9455726bb",
+			"x": 3659963.78,
+			"y": 4828435.24
+		},
+		{
+			"is_practical": 1,
+			"name": "Kurtulus",
+			"uid": "e67a3bba7af77d1e8d7727bb",
+			"x": 3658935.96,
+			"y": 4827846.1
+		},
+		{
+			"is_practical": 1,
+			"name": "Kolej",
+			"uid": "691eeec2fb50b53e210220bb",
+			"x": 3658214.85,
+			"y": 4827195.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Kizilay",
+			"uid": "bf666f653370194b9de321bb",
+			"x": 3657336.83,
+			"y": 4826759.95
+		},
+		{
+			"is_practical": 1,
+			"name": "Demirtepe",
+			"uid": "3fc1a7459f05a5aabfa822bb",
+			"x": 3656655.47,
+			"y": 4827397.04
+		},
+		{
+			"is_practical": 1,
+			"name": "Maltepe",
+			"uid": "f0e10b3023e487e1d0ff23bb",
+			"x": 3656180.38,
+			"y": 4828340.24
+		},
+		{
+			"is_practical": 1,
+			"name": "Tandogan",
+			"uid": "5d94b7d101afe8b63b221cbb",
+			"x": 3655442.51,
+			"y": 4828784.56
+		},
+		{
+			"is_practical": 1,
+			"name": "Besevler",
+			"uid": "e275959a6ef8036b32f71dbb",
+			"x": 3654528.47,
+			"y": 4828457.96
+		},
+		{
+			"is_practical": 1,
+			"name": "Bahcelievler",
+			"uid": "c13efacd85250abeb75f1ebb",
+			"x": 3653508.3,
+			"y": 4828256.36
+		},
+		{
+			"is_practical": 1,
+			"name": "Emek",
+			"uid": "516911108cf08f16d4851fbb",
+			"x": 3653000.75,
+			"y": 4827238.27
+		},
+		{
+			"is_practical": 1,
+			"name": "ASTI",
+			"uid": "bbb418c50958ecccdb1318bb",
+			"x": 3652869.62,
+			"y": 4826377.54
+		}]
+	},
+	{
+		"line_name": "A(ADTI-Dikimevi)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "ASTI",
+			"uid": "5f85bd3196275777c16c14bb",
+			"x": 3652869.62,
+			"y": 4826377.54
+		},
+		{
+			"is_practical": 0,
+			"name": "Emek",
+			"uid": "10950212d139f925c92915bb",
+			"x": 3653000.75,
+			"y": 4827238.27
+		},
+		{
+			"is_practical": 0,
+			"name": "Bahcelievler",
+			"uid": "aeb6450c7f6bf160f4b916bb",
+			"x": 3653508.3,
+			"y": 4828256.36
+		},
+		{
+			"is_practical": 0,
+			"name": "Besevler",
+			"uid": "e6a8eb5e772eccf022f017bb",
+			"x": 3654528.47,
+			"y": 4828457.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Tandogan",
+			"uid": "49fae31b4abe1ab9f42310bb",
+			"x": 3655442.51,
+			"y": 4828784.56
+		},
+		{
+			"is_practical": 0,
+			"name": "Maltepe",
+			"uid": "42bfde8b9cf7cc6a1d1d11bb",
+			"x": 3656180.38,
+			"y": 4828340.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Demirtepe",
+			"uid": "7e2f08c24a242554336212bb",
+			"x": 3656655.47,
+			"y": 4827397.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Kizilay",
+			"uid": "af66de11a31a0b2bfb2213bb",
+			"x": 3657336.83,
+			"y": 4826759.95
+		},
+		{
+			"is_practical": 0,
+			"name": "Kolej",
+			"uid": "78b5372f8d65c36b83a00cbb",
+			"x": 3658214.85,
+			"y": 4827195.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Kurtulus",
+			"uid": "928b19504525bbe9c4f50dbb",
+			"x": 3658935.96,
+			"y": 4827846.1
+		},
+		{
+			"is_practical": 0,
+			"name": "Dikimevi",
+			"uid": "bdf4d1103da7fcbc86420ebb",
+			"x": 3659963.78,
+			"y": 4828435.24
+		}]
+	},
+	{
+		"line_name": "M3(Batikent-OSB Torekentt)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Batikent",
+			"uid": "1336eec7384596412fb908bb",
+			"x": 3643163.87,
+			"y": 4833662.86
+		},
+		{
+			"is_practical": 1,
+			"name": "Bati Merkez",
+			"uid": "5763ac70100f17f0601809bb",
+			"x": 3641880.01,
+			"y": 4833550.81
+		},
+		{
+			"is_practical": 1,
+			"name": "Mesa",
+			"uid": "14d4843a91be585132870abb",
+			"x": 3640483.62,
+			"y": 4834133.08
+		},
+		{
+			"is_practical": 1,
+			"name": "Botanik",
+			"uid": "3b9e058bde1f0ace71210bbb",
+			"x": 3639570.62,
+			"y": 4835461.53
+		},
+		{
+			"is_practical": 1,
+			"name": "Istanbul Yolu",
+			"uid": "bb2f4a2a8c804968873304bb",
+			"x": 3636029,
+			"y": 4835403.37
+		},
+		{
+			"is_practical": 1,
+			"name": "Eryaman 1\/2",
+			"uid": "f78e18b5cf26bf7a15c905bb",
+			"x": 3634370.99,
+			"y": 4835400.56
+		},
+		{
+			"is_practical": 1,
+			"name": "Eryaman 5",
+			"uid": "a4115b1339342d808bfc06bb",
+			"x": 3632070.06,
+			"y": 4835502.08
+		},
+		{
+			"is_practical": 1,
+			"name": "Devlet Mah.",
+			"uid": "e8b7ad01abceb3b596ca07bb",
+			"x": 3630507.92,
+			"y": 4835555.65
+		},
+		{
+			"is_practical": 1,
+			"name": "Harikalar Diyari",
+			"uid": "1fa53ffb35fbae831d5800bb",
+			"x": 3628906.3,
+			"y": 4835675.48
+		},
+		{
+			"is_practical": 1,
+			"name": "Fatih",
+			"uid": "8e5fa1ce28cd251103ec01bb",
+			"x": 3627403.4,
+			"y": 4835904.59
+		},
+		{
+			"is_practical": 1,
+			"name": "GOP",
+			"uid": "116abcf8a35f3ba55d0d02bb",
+			"x": 3626774.57,
+			"y": 4836037.83
+		},
+		{
+			"is_practical": 1,
+			"name": "OSB Torekent",
+			"uid": "0b5c376abdeb6544e01103bb",
+			"x": 3624422.9,
+			"y": 4836496.74
+		}]
+	},
+	{
+		"line_name": "M3(OSB Torekent-Batikent)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "OSB Torekent",
+			"uid": "9c7a773f5e1613f0b2077dbb",
+			"x": 3624422.9,
+			"y": 4836496.74
+		},
+		{
+			"is_practical": 0,
+			"name": "GOP",
+			"uid": "c39bca2395be8a4e2cb17ebb",
+			"x": 3626774.57,
+			"y": 4836037.83
+		},
+		{
+			"is_practical": 0,
+			"name": "Fatih",
+			"uid": "4187018b0c0014f8b6147fbb",
+			"x": 3627403.4,
+			"y": 4835904.59
+		},
+		{
+			"is_practical": 0,
+			"name": "Harikalar Diyari",
+			"uid": "8b2f983592b68e5dfea778bb",
+			"x": 3628906.3,
+			"y": 4835675.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Devlet Mah.",
+			"uid": "119106830813c6ee9ff779bb",
+			"x": 3630507.92,
+			"y": 4835555.65
+		},
+		{
+			"is_practical": 0,
+			"name": "Eryaman 5",
+			"uid": "8e279c2640a0a7beacee7abb",
+			"x": 3632070.06,
+			"y": 4835502.08
+		},
+		{
+			"is_practical": 0,
+			"name": "Eryaman 1\/2",
+			"uid": "1382d49521f094a72ce67bbb",
+			"x": 3634370.99,
+			"y": 4835400.56
+		},
+		{
+			"is_practical": 0,
+			"name": "Istanbul Yolu",
+			"uid": "5a31b5c512e914af45e274bb",
+			"x": 3636029,
+			"y": 4835403.37
+		},
+		{
+			"is_practical": 0,
+			"name": "Botanik",
+			"uid": "386186dc92e17dabc61b75bb",
+			"x": 3639570.62,
+			"y": 4835461.53
+		},
+		{
+			"is_practical": 0,
+			"name": "Mesa",
+			"uid": "0a7806d4fbe5fe527ec876bb",
+			"x": 3640483.62,
+			"y": 4834133.08
+		},
+		{
+			"is_practical": 0,
+			"name": "Bati Merkez",
+			"uid": "85706fd0781c4681f60e77bb",
+			"x": 3641880.01,
+			"y": 4833550.81
+		},
+		{
+			"is_practical": 0,
+			"name": "Batikent",
+			"uid": "ed74ec29c0cfce470f0a70bb",
+			"x": 3643163.87,
+			"y": 4833662.86
+		}]
+	},
+	{
+		"line_name": "M2(Koru-Kizilay)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Koru",
+			"uid": "d45edc3cb10d0c73028972bb",
+			"x": 3638756.41,
+			"y": 4822012.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Cayyolu",
+			"uid": "5b9825388a3d3ac08bdb73bb",
+			"x": 3639271.66,
+			"y": 4823376.43
+		},
+		{
+			"is_practical": 1,
+			"name": "Umitkoy",
+			"uid": "a39c1e08bc8eb39235b06cbb",
+			"x": 3641203.94,
+			"y": 4824559.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Beytepe",
+			"uid": "9bac28bb35dc0df92fb96dbb",
+			"x": 3643834.77,
+			"y": 4824707.19
+		},
+		{
+			"is_practical": 1,
+			"name": "Tarim Bakanligi Danistay",
+			"uid": "ac1fa1e98bb717f04d776ebb",
+			"x": 3645731.1,
+			"y": 4824805.52
+		},
+		{
+			"is_practical": 1,
+			"name": "Bilkent",
+			"uid": "3a4d1f8291be753e07026fbb",
+			"x": 3647324.94,
+			"y": 4824883.42
+		},
+		{
+			"is_practical": 1,
+			"name": "Orta Dogu Teknik Universitesi",
+			"uid": "8526058bf3703f4b9e9d68bb",
+			"x": 3649530.7,
+			"y": 4824996.56
+		},
+		{
+			"is_practical": 1,
+			"name": "Maden Teknik ve Arama",
+			"uid": "9c2f6745b905a6d4770269bb",
+			"x": 3650460.85,
+			"y": 4825043.89
+		},
+		{
+			"is_practical": 1,
+			"name": "Sogutozu",
+			"uid": "ffe12d30209a4f4bb05c6abb",
+			"x": 3652174.19,
+			"y": 4825365.32
+		},
+		{
+			"is_practical": 1,
+			"name": "Milli Kutuphane",
+			"uid": "b294b4afc90588150c0e6bbb",
+			"x": 3654427.19,
+			"y": 4826020.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Necatibey",
+			"uid": "2a0b5d300e5b3447a10464bb",
+			"x": 3656252.95,
+			"y": 4825935.63
+		},
+		{
+			"is_practical": 0,
+			"name": "Kizilay",
+			"uid": "c0949a6eb209994de6e965bb",
+			"x": 3657336.83,
+			"y": 4826759.95
+		}]
+	},
+	{
+		"line_name": "M4(Ataturk Kultur Merkezi-Sehitler)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Ataturk Kultur Merkezi",
+			"uid": "175d4a2ed240c064210262bb",
+			"x": 3656232.51,
+			"y": 4830172.81
+		},
+		{
+			"is_practical": 0,
+			"name": "ASKI",
+			"uid": "dd8a4675462a194bb8bd63bb",
+			"x": 3656939.93,
+			"y": 4830672.77
+		},
+		{
+			"is_practical": 0,
+			"name": "Diskapi",
+			"uid": "d0d1d21f9f0580f47ab55cbb",
+			"x": 3657870.64,
+			"y": 4831761.45
+		},
+		{
+			"is_practical": 0,
+			"name": "Meteroloji",
+			"uid": "47bb0b3006ba42fc8bf15dbb",
+			"x": 3658355.99,
+			"y": 4833207.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Belediye",
+			"uid": "9f94928fc4b2b3b83f9a5ebb",
+			"x": 3658868.76,
+			"y": 4835021.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Mecidiye",
+			"uid": "792b508735f607d3cafa5fbb",
+			"x": 3659706.61,
+			"y": 4835906.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Kuyubasi",
+			"uid": "ba23a1c3819df2b3616858bb",
+			"x": 3659679.12,
+			"y": 4836922.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Dutluk",
+			"uid": "486715a874fd59214f3a59bb",
+			"x": 3659225.15,
+			"y": 4838190.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Sehitler",
+			"uid": "fd0ce0c8df6f7773a8175abb",
+			"x": 3658190.32,
+			"y": 4837744.43
+		}]
+	},
+	{
+		"line_name": "M2(Kizilay-Koru)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Kizilay",
+			"uid": "a5fe650816104a0cb54f54bb",
+			"x": 3657336.83,
+			"y": 4826759.95
+		},
+		{
+			"is_practical": 0,
+			"name": "Necatibey",
+			"uid": "88ac8225cc428d06b72655bb",
+			"x": 3656252.95,
+			"y": 4825935.63
+		},
+		{
+			"is_practical": 0,
+			"name": "Milli Kutuphane",
+			"uid": "6e8158770b488f6fa7c756bb",
+			"x": 3654427.19,
+			"y": 4826020.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Sogutozu",
+			"uid": "bbd39f7d09219f8eae0457bb",
+			"x": 3652174.19,
+			"y": 4825365.32
+		},
+		{
+			"is_practical": 0,
+			"name": "Maden Teknik ve Arama",
+			"uid": "7dd99d1419c0964d9a0050bb",
+			"x": 3650460.85,
+			"y": 4825043.89
+		},
+		{
+			"is_practical": 0,
+			"name": "Orta Dogu Teknik Universitesi",
+			"uid": "7cb08df51003a249c51e51bb",
+			"x": 3649530.7,
+			"y": 4824996.56
+		},
+		{
+			"is_practical": 0,
+			"name": "Bilkent",
+			"uid": "6d5184362407fd57dc1e52bb",
+			"x": 3647324.94,
+			"y": 4824883.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Tarim Bakanligi Danistay",
+			"uid": "6392b0327b19e457eaf853bb",
+			"x": 3645731.1,
+			"y": 4824805.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Beytepe",
+			"uid": "5696ef2c6219d2b193114cbb",
+			"x": 3643834.77,
+			"y": 4824707.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Umitkoy",
+			"uid": "0a88f62c54ffab581df74dbb",
+			"x": 3641203.94,
+			"y": 4824559.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Cayyolu",
+			"uid": "1288c0ca2d1625bed6b74ebb",
+			"x": 3639271.66,
+			"y": 4823376.43
+		},
+		{
+			"is_practical": 0,
+			"name": "Koru",
+			"uid": "3b6eb923a3f0eefe01294fbb",
+			"x": 3638756.41,
+			"y": 4822012.21
+		}]
+	}],
+	"result": {
+		"ccode": "48581",
+		"qt": "bsi"
+	}
+}

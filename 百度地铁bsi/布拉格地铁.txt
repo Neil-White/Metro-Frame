@@ -1,0 +1,878 @@
+{
+	"content": [{
+		"line_name": "Line A(Depo Hostivar-Nemocnice Motol)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Depo Hostivar",
+			"uid": "6dd85b6c0f3bd0acf02d83b4",
+			"x": 1615937.75,
+			"y": 6426194.04
+		},
+		{
+			"is_practical": 1,
+			"name": "Skalka",
+			"uid": "6dcd9b0e56e2c864f4eafcb4",
+			"x": 1615006.12,
+			"y": 6425019
+		},
+		{
+			"is_practical": 1,
+			"name": "Strasnicka",
+			"uid": "aeafc2d74e2acca33913fdb4",
+			"x": 1613167.54,
+			"y": 6425809.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Zelivskeho",
+			"uid": "f676da1f4aed015a5fd4feb4",
+			"x": 1610960.58,
+			"y": 6426802.49
+		},
+		{
+			"is_practical": 1,
+			"name": "Flora",
+			"uid": "d1beded88714679d54bfffb4",
+			"x": 1609862.04,
+			"y": 6426712.05
+		},
+		{
+			"is_practical": 1,
+			"name": "Jiriho z Podebrad",
+			"uid": "d4791321e1d36cf6ee74f8b4",
+			"x": 1608473.22,
+			"y": 6426648.74
+		},
+		{
+			"is_practical": 1,
+			"name": "Namesti Miru",
+			"uid": "1a8075e6eab8d63de215f9b4",
+			"x": 1607004.94,
+			"y": 6426199.76
+		},
+		{
+			"is_practical": 1,
+			"name": "Muzeum",
+			"uid": "7d477e8d5073da5ceb56fab4",
+			"x": 1606352.19,
+			"y": 6426908.89
+		},
+		{
+			"is_practical": 1,
+			"name": "Mustek",
+			"uid": "712cc4465c12d31fc6effbb4",
+			"x": 1605936.52,
+			"y": 6427415.08
+		},
+		{
+			"is_practical": 1,
+			"name": "Staromestska",
+			"uid": "cae7c8275551fea63686f4b4",
+			"x": 1604805.07,
+			"y": 6428557.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Malostranska",
+			"uid": "c586c16478e80ecf04fef5b4",
+			"x": 1604084.76,
+			"y": 6428946.15
+		},
+		{
+			"is_practical": 1,
+			"name": "Hradcanska",
+			"uid": "cdc5ecdd88813cb717c8f6b4",
+			"x": 1603552.76,
+			"y": 6430068.55
+		},
+		{
+			"is_practical": 1,
+			"name": "Dejvicka",
+			"uid": "ef7c1cb4baf92f819f09f7b4",
+			"x": 1602110.52,
+			"y": 6430583.29
+		},
+		{
+			"is_practical": 1,
+			"name": "Borislavka",
+			"uid": "1e152ecca9cfa740ca09f0b4",
+			"x": 1599086.23,
+			"y": 6430305.36
+		},
+		{
+			"is_practical": 1,
+			"name": "Nadrazi Veleslavin",
+			"uid": "2f6d3dfa210ef240744ff1b4",
+			"x": 1597018.17,
+			"y": 6429782.39
+		},
+		{
+			"is_practical": 1,
+			"name": "Petriny",
+			"uid": "3d5bb53b740e4c06213bf2b4",
+			"x": 1596833.99,
+			"y": 6428385.37
+		},
+		{
+			"is_practical": 1,
+			"name": "Nemocnice Motol",
+			"uid": "b29ae03bca4819726849f3b4",
+			"x": 1596440.16,
+			"y": 6426211.69
+		}]
+	},
+	{
+		"line_name": "Line C(Haje-Letnany)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Haje",
+			"uid": "5bdc0b09d64eb41cdbecedb4",
+			"x": 1617167.19,
+			"y": 6418542.3
+		},
+		{
+			"is_practical": 1,
+			"name": "Opatov",
+			"uid": "0fa8427b3252e3a58a36eeb4",
+			"x": 1615169.35,
+			"y": 6418052.87
+		},
+		{
+			"is_practical": 1,
+			"name": "Chodov",
+			"uid": "59daa66765ebb27fcd04efb4",
+			"x": 1613129.55,
+			"y": 6418709.35
+		},
+		{
+			"is_practical": 1,
+			"name": "Roztyly",
+			"uid": "bcc6f1de3431f54d047ce8b4",
+			"x": 1611595.78,
+			"y": 6419731.23
+		},
+		{
+			"is_practical": 1,
+			"name": "Kacerov",
+			"uid": "e87fa00473033c35a21de9b4",
+			"x": 1609744.49,
+			"y": 6420450.24
+		},
+		{
+			"is_practical": 1,
+			"name": "Budejovicka",
+			"uid": "b8a5e736ba7b9a549d82eab4",
+			"x": 1608365.06,
+			"y": 6420990.48
+		},
+		{
+			"is_practical": 1,
+			"name": "Pankrac",
+			"uid": "f8972e4e1c1aa5cb08f5ebb4",
+			"x": 1607461.4,
+			"y": 6422030.91
+		},
+		{
+			"is_practical": 1,
+			"name": "Prazskeho povstani",
+			"uid": "30ef882f238530bceb12e4b4",
+			"x": 1606823.47,
+			"y": 6422970.7
+		},
+		{
+			"is_practical": 1,
+			"name": "Vysehrad",
+			"uid": "958eb7b0b6f2d35bad31e5b4",
+			"x": 1606416.11,
+			"y": 6424181.13
+		},
+		{
+			"is_practical": 1,
+			"name": "I. P. Pavlova",
+			"uid": "ab1122c75515957843afe6b4",
+			"x": 1606362.37,
+			"y": 6426243.4
+		},
+		{
+			"is_practical": 0,
+			"name": "Muzeum",
+			"uid": "3166c12013367be6b817e7b4",
+			"x": 1606352.19,
+			"y": 6426908.89
+		},
+		{
+			"is_practical": 1,
+			"name": "Hlavni nadrazi",
+			"uid": "d3818703fda8805e9122e0b4",
+			"x": 1606826.4,
+			"y": 6427683.41
+		},
+		{
+			"is_practical": 1,
+			"name": "Florenc",
+			"uid": "96a2699d0610a96b2902e1b4",
+			"x": 1607360.57,
+			"y": 6428803.7
+		},
+		{
+			"is_practical": 1,
+			"name": "Vltavska",
+			"uid": "793c92252f25114bd42ce2b4",
+			"x": 1607296.77,
+			"y": 6430397.3
+		},
+		{
+			"is_practical": 1,
+			"name": "Nadrazi Holesovice",
+			"uid": "8584bb109705ec65d23ce3b4",
+			"x": 1607510.25,
+			"y": 6432079.56
+		},
+		{
+			"is_practical": 1,
+			"name": "Kobylisy",
+			"uid": "adb103306a2bea753617dcb4",
+			"x": 1608908.24,
+			"y": 6434615.68
+		},
+		{
+			"is_practical": 1,
+			"name": "Ladvi",
+			"uid": "1691fe1e6c3b0e5e08ccddb4",
+			"x": 1610868.93,
+			"y": 6435120.75
+		},
+		{
+			"is_practical": 1,
+			"name": "Strizkov",
+			"uid": "eabff80e881030859e95deb4",
+			"x": 1612959.55,
+			"y": 6435067.99
+		},
+		{
+			"is_practical": 1,
+			"name": "Prosek",
+			"uid": "93af1c25b6cba6dc4e2fdfb4",
+			"x": 1614022.43,
+			"y": 6433794.07
+		},
+		{
+			"is_practical": 1,
+			"name": "Letnany",
+			"uid": "768422fe20927666a80dd8b4",
+			"x": 1615915.71,
+			"y": 6435118.79
+		}]
+	},
+	{
+		"line_name": "Line A(Nemocnice Motol-Depo Hostivar)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Nemocnice Motol",
+			"uid": "dc06641d160a30200d3ddab4",
+			"x": 1596440.16,
+			"y": 6426211.69
+		},
+		{
+			"is_practical": 0,
+			"name": "Petriny",
+			"uid": "0bbc823fb66e3574c9c3dbb4",
+			"x": 1596833.99,
+			"y": 6428385.37
+		},
+		{
+			"is_practical": 0,
+			"name": "Nadrazi Veleslavin",
+			"uid": "ec9e225bb33af18a09a8d4b4",
+			"x": 1597018.17,
+			"y": 6429782.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Borislavka",
+			"uid": "4ffa270f77c431e11811d5b4",
+			"x": 1599086.23,
+			"y": 6430305.36
+		},
+		{
+			"is_practical": 0,
+			"name": "Dejvicka",
+			"uid": "4baee3f1b7af2058d12dd6b4",
+			"x": 1602110.52,
+			"y": 6430583.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Hradcanska",
+			"uid": "8050239aa616e9644054d7b4",
+			"x": 1603552.76,
+			"y": 6430068.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Malostranska",
+			"uid": "413b32236f2a781d250bd0b4",
+			"x": 1604084.76,
+			"y": 6428946.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Staromestska",
+			"uid": "5382fb1ffe531d422811d1b4",
+			"x": 1604805.07,
+			"y": 6428557.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Mustek",
+			"uid": "9bbe6a669b0c105879dbd2b4",
+			"x": 1605936.52,
+			"y": 6427415.08
+		},
+		{
+			"is_practical": 0,
+			"name": "Muzeum",
+			"uid": "0dc70f39961641927369d3b4",
+			"x": 1606352.19,
+			"y": 6426908.89
+		},
+		{
+			"is_practical": 0,
+			"name": "Namesti Miru",
+			"uid": "69980223c7dc4b206ca3ccb4",
+			"x": 1607004.94,
+			"y": 6426199.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Jiriho z Podebrad",
+			"uid": "678253e9cd6e54eaabf0cdb4",
+			"x": 1608473.22,
+			"y": 6426648.74
+		},
+		{
+			"is_practical": 0,
+			"name": "Flora",
+			"uid": "3748595bd2a493b92b06ceb4",
+			"x": 1609862.04,
+			"y": 6426712.05
+		},
+		{
+			"is_practical": 0,
+			"name": "Zelivskeho",
+			"uid": "22fa469115f7134fc2f1cfb4",
+			"x": 1610960.58,
+			"y": 6426802.49
+		},
+		{
+			"is_practical": 0,
+			"name": "Strasnicka",
+			"uid": "3c3081c29501fab8593ac8b4",
+			"x": 1613167.54,
+			"y": 6425809.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Skalka",
+			"uid": "f86301347cf66173901fc9b4",
+			"x": 1615006.12,
+			"y": 6425019
+		},
+		{
+			"is_practical": 0,
+			"name": "Depo Hostivar",
+			"uid": "7995e8c3e73da856eedfcab4",
+			"x": 1615937.75,
+			"y": 6426194.04
+		}]
+	},
+	{
+		"line_name": "Line B(Zlicin-Cerny Most)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Zlicin",
+			"uid": "0da9ba2d50d8c0b9a0acc4b4",
+			"x": 1590880.02,
+			"y": 6422426.56
+		},
+		{
+			"is_practical": 1,
+			"name": "Stodulky",
+			"uid": "c78cc4ed46f798e551e5c5b4",
+			"x": 1592631.67,
+			"y": 6421287.46
+		},
+		{
+			"is_practical": 1,
+			"name": "Luka",
+			"uid": "b84cd2c21eab69ac1b94c6b4",
+			"x": 1594282.66,
+			"y": 6421098.91
+		},
+		{
+			"is_practical": 1,
+			"name": "Luziny",
+			"uid": "a1638a9eefe223dd0b1cc7b4",
+			"x": 1595407.14,
+			"y": 6420936.75
+		},
+		{
+			"is_practical": 1,
+			"name": "Hurka",
+			"uid": "f83f7bd7a59333554251c0b4",
+			"x": 1596667.35,
+			"y": 6421877.54
+		},
+		{
+			"is_practical": 1,
+			"name": "Nove Butovice",
+			"uid": "0a7631a6b51b7a184107c1b4",
+			"x": 1597825.01,
+			"y": 6422072.92
+		},
+		{
+			"is_practical": 1,
+			"name": "Jinonice",
+			"uid": "4107212efc56794e0482c2b4",
+			"x": 1599798.41,
+			"y": 6422659.07
+		},
+		{
+			"is_practical": 1,
+			"name": "Radlicka",
+			"uid": "568f6863ff003ccb5d17c3b4",
+			"x": 1601817.69,
+			"y": 6423314.58
+		},
+		{
+			"is_practical": 1,
+			"name": "Smichovske nadrazi",
+			"uid": "1ec26b35ba85655ecae33cb4",
+			"x": 1604056.83,
+			"y": 6423864.6
+		},
+		{
+			"is_practical": 1,
+			"name": "Andel",
+			"uid": "1e942eb0e310f2aacb213db4",
+			"x": 1603524.38,
+			"y": 6425515.61
+		},
+		{
+			"is_practical": 1,
+			"name": "Karlovo namesti",
+			"uid": "5a11772574e4f36841d63eb4",
+			"x": 1604681.08,
+			"y": 6425899.53
+		},
+		{
+			"is_practical": 1,
+			"name": "Narodni trida",
+			"uid": "3c84e0d17526799f49fd3fb4",
+			"x": 1605238.41,
+			"y": 6427336.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Mustek",
+			"uid": "aa70e113ffd171b4e50738b4",
+			"x": 1605936.52,
+			"y": 6427415.08
+		},
+		{
+			"is_practical": 1,
+			"name": "Namesti Republiky",
+			"uid": "a8b26be4f7fadd4ea5da39b4",
+			"x": 1606647.66,
+			"y": 6428490.83
+		},
+		{
+			"is_practical": 0,
+			"name": "Florenc",
+			"uid": "234563cf5b009d930ab93ab4",
+			"x": 1607360.57,
+			"y": 6428803.7
+		},
+		{
+			"is_practical": 1,
+			"name": "Krizikova",
+			"uid": "2c6ecf351bdd32f0f7e73bb4",
+			"x": 1608820.51,
+			"y": 6429293.77
+		},
+		{
+			"is_practical": 1,
+			"name": "Invalidovna",
+			"uid": "81948fe8b4becfaea2a934b4",
+			"x": 1610198.63,
+			"y": 6430082.32
+		},
+		{
+			"is_practical": 1,
+			"name": "Palmovka",
+			"uid": "c249208b49e09ae0132935b4",
+			"x": 1611369.55,
+			"y": 6431177.58
+		},
+		{
+			"is_practical": 1,
+			"name": "Ceskomoravska",
+			"uid": "6c2addd51cae2b60b21e36b4",
+			"x": 1613274.3,
+			"y": 6431545.94
+		},
+		{
+			"is_practical": 1,
+			"name": "Vysocanska",
+			"uid": "9e74889bad2e8a57f21937b4",
+			"x": 1614282.44,
+			"y": 6432236.66
+		},
+		{
+			"is_practical": 1,
+			"name": "Kolbenova",
+			"uid": "ca3a391b0c19ca50a2d230b4",
+			"x": 1615769.12,
+			"y": 6432324.65
+		},
+		{
+			"is_practical": 1,
+			"name": "Hloubetin",
+			"uid": "78ba982c4c1e9a9b3ce231b4",
+			"x": 1618260.57,
+			"y": 6431642.16
+		},
+		{
+			"is_practical": 1,
+			"name": "Rajska zahrada",
+			"uid": "d88dd82b1cd504ab471a32b4",
+			"x": 1620847.4,
+			"y": 6431686.56
+		},
+		{
+			"is_practical": 1,
+			"name": "Cerny Most",
+			"uid": "9f8a88e082e57f532e4733b4",
+			"x": 1622598.86,
+			"y": 6432054.11
+		}]
+	},
+	{
+		"line_name": "Line C(Letnany-Haje)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Letnany",
+			"uid": "53716d289040548903ff2db4",
+			"x": 1615915.71,
+			"y": 6435118.79
+		},
+		{
+			"is_practical": 0,
+			"name": "Prosek",
+			"uid": "29890475d2c73bb682a12eb4",
+			"x": 1614022.43,
+			"y": 6433794.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Strizkov",
+			"uid": "5fd446f2bdf8bae8b6f42fb4",
+			"x": 1612959.55,
+			"y": 6435067.99
+		},
+		{
+			"is_practical": 0,
+			"name": "Ladvi",
+			"uid": "1c5329cd3ca68ebdda2f28b4",
+			"x": 1610868.93,
+			"y": 6435120.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Kobylisy",
+			"uid": "706ca89308f3e266abf729b4",
+			"x": 1608908.24,
+			"y": 6434615.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Nadrazi Holesovice",
+			"uid": "f0329cc6642893beaeb22ab4",
+			"x": 1607510.25,
+			"y": 6432079.56
+		},
+		{
+			"is_practical": 0,
+			"name": "Vltavska",
+			"uid": "c367f01d15f096fb9fec2bb4",
+			"x": 1607296.77,
+			"y": 6430397.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Florenc",
+			"uid": "aebc81c510b5a7a5118824b4",
+			"x": 1607360.57,
+			"y": 6428803.7
+		},
+		{
+			"is_practical": 0,
+			"name": "Hlavni nadrazi",
+			"uid": "dc64848021eb29c1c4f025b4",
+			"x": 1606826.4,
+			"y": 6427683.41
+		},
+		{
+			"is_practical": 0,
+			"name": "Muzeum",
+			"uid": "d821b5deaf8ffcb9455726b4",
+			"x": 1606352.19,
+			"y": 6426908.89
+		},
+		{
+			"is_practical": 0,
+			"name": "I. P. Pavlova",
+			"uid": "e67f3bba7af77d1e8d7727b4",
+			"x": 1606362.37,
+			"y": 6426243.4
+		},
+		{
+			"is_practical": 0,
+			"name": "Vysehrad",
+			"uid": "691beec2fb50b53e210220b4",
+			"x": 1606416.11,
+			"y": 6424181.13
+		},
+		{
+			"is_practical": 0,
+			"name": "Prazskeho povstani",
+			"uid": "bf636f653370194b9de321b4",
+			"x": 1606823.47,
+			"y": 6422970.7
+		},
+		{
+			"is_practical": 0,
+			"name": "Pankrac",
+			"uid": "3fc4a7459f05a5aabfa822b4",
+			"x": 1607461.4,
+			"y": 6422030.91
+		},
+		{
+			"is_practical": 0,
+			"name": "Budejovicka",
+			"uid": "f0e40b3023e487e1d0ff23b4",
+			"x": 1608365.06,
+			"y": 6420990.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Kacerov",
+			"uid": "5d91b7d101afe8b63b221cb4",
+			"x": 1609744.49,
+			"y": 6420450.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Roztyly",
+			"uid": "e270959a6ef8036b32f71db4",
+			"x": 1611595.78,
+			"y": 6419731.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Chodov",
+			"uid": "c13bfacd85250abeb75f1eb4",
+			"x": 1613129.55,
+			"y": 6418709.35
+		},
+		{
+			"is_practical": 0,
+			"name": "Opatov",
+			"uid": "516c11108cf08f16d4851fb4",
+			"x": 1615169.35,
+			"y": 6418052.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Haje",
+			"uid": "bbb118c50958ecccdb1318b4",
+			"x": 1617167.19,
+			"y": 6418542.3
+		}]
+	},
+	{
+		"line_name": "Line B(Cerny Most-Zlicin)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Cerny Most",
+			"uid": "35ccfeb76514af4a28201ab4",
+			"x": 1622598.86,
+			"y": 6432054.11
+		},
+		{
+			"is_practical": 0,
+			"name": "Rajska zahrada",
+			"uid": "5116f121290410696f3e1bb4",
+			"x": 1620847.4,
+			"y": 6431686.56
+		},
+		{
+			"is_practical": 0,
+			"name": "Hloubetin",
+			"uid": "5f80bd3196275777c16c14b4",
+			"x": 1618260.57,
+			"y": 6431642.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Kolbenova",
+			"uid": "10900212d139f925c92915b4",
+			"x": 1615769.12,
+			"y": 6432324.65
+		},
+		{
+			"is_practical": 0,
+			"name": "Vysocanska",
+			"uid": "aeb3450c7f6bf160f4b916b4",
+			"x": 1614282.44,
+			"y": 6432236.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Ceskomoravska",
+			"uid": "e6adeb5e772eccf022f017b4",
+			"x": 1613274.3,
+			"y": 6431545.94
+		},
+		{
+			"is_practical": 0,
+			"name": "Palmovka",
+			"uid": "49ffe31b4abe1ab9f42310b4",
+			"x": 1611369.55,
+			"y": 6431177.58
+		},
+		{
+			"is_practical": 0,
+			"name": "Invalidovna",
+			"uid": "42bade8b9cf7cc6a1d1d11b4",
+			"x": 1610198.63,
+			"y": 6430082.32
+		},
+		{
+			"is_practical": 0,
+			"name": "Krizikova",
+			"uid": "7e2a08c24a242554336212b4",
+			"x": 1608820.51,
+			"y": 6429293.77
+		},
+		{
+			"is_practical": 0,
+			"name": "Florenc",
+			"uid": "af63de11a31a0b2bfb2213b4",
+			"x": 1607360.57,
+			"y": 6428803.7
+		},
+		{
+			"is_practical": 0,
+			"name": "Namesti Republiky",
+			"uid": "78b0372f8d65c36b83a00cb4",
+			"x": 1606647.66,
+			"y": 6428490.83
+		},
+		{
+			"is_practical": 0,
+			"name": "Mustek",
+			"uid": "928e19504525bbe9c4f50db4",
+			"x": 1605936.52,
+			"y": 6427415.08
+		},
+		{
+			"is_practical": 0,
+			"name": "Narodni trida",
+			"uid": "bdf1d1103da7fcbc86420eb4",
+			"x": 1605238.41,
+			"y": 6427336.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Karlovo namesti",
+			"uid": "6ab1a9927af2be0bae080fb4",
+			"x": 1604681.08,
+			"y": 6425899.53
+		},
+		{
+			"is_practical": 0,
+			"name": "Andel",
+			"uid": "1333eec7384596412fb908b4",
+			"x": 1603524.38,
+			"y": 6425515.61
+		},
+		{
+			"is_practical": 0,
+			"name": "Smichovske nadrazi",
+			"uid": "5766ac70100f17f0601809b4",
+			"x": 1604056.83,
+			"y": 6423864.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Radlicka",
+			"uid": "14d1843a91be585132870ab4",
+			"x": 1601817.69,
+			"y": 6423314.58
+		},
+		{
+			"is_practical": 0,
+			"name": "Jinonice",
+			"uid": "3b9b058bde1f0ace71210bb4",
+			"x": 1599798.41,
+			"y": 6422659.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Nove Butovice",
+			"uid": "bb2a4a2a8c804968873304b4",
+			"x": 1597825.01,
+			"y": 6422072.92
+		},
+		{
+			"is_practical": 0,
+			"name": "Hurka",
+			"uid": "f78b18b5cf26bf7a15c905b4",
+			"x": 1596667.35,
+			"y": 6421877.54
+		},
+		{
+			"is_practical": 0,
+			"name": "Luziny",
+			"uid": "a4145b1339342d808bfc06b4",
+			"x": 1595407.14,
+			"y": 6420936.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Luka",
+			"uid": "e8b2ad01abceb3b596ca07b4",
+			"x": 1594282.66,
+			"y": 6421098.91
+		},
+		{
+			"is_practical": 0,
+			"name": "Stodulky",
+			"uid": "1fa03ffb35fbae831d5800b4",
+			"x": 1592631.67,
+			"y": 6421287.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Zlicin",
+			"uid": "8e5aa1ce28cd251103ec01b4",
+			"x": 1590880.02,
+			"y": 6422426.56
+		}]
+	}],
+	"result": {
+		"ccode": "46663",
+		"qt": "bsi"
+	}
+}

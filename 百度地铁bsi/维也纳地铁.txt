@@ -1,0 +1,1750 @@
+{
+	"content": [{
+		"line_name": "U6(Siebenhirten-Floridsdorf)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Siebenhirten",
+			"uid": "f7e17389c12e63bf8505bfb9",
+			"x": 1815598.19,
+			"y": 6096352.17
+		},
+		{
+			"is_practical": 1,
+			"name": "Perfektastrabe",
+			"uid": "b92c551be5f1bd4cf603b8b9",
+			"x": 1815957.63,
+			"y": 6097482.7
+		},
+		{
+			"is_practical": 1,
+			"name": "Erlaaer Strabe",
+			"uid": "9cbe71c43b02ce4a6d20b9b9",
+			"x": 1816352.97,
+			"y": 6098351.18
+		},
+		{
+			"is_practical": 1,
+			"name": "Alterlaa",
+			"uid": "b961af3748045569f33cbab9",
+			"x": 1816375.01,
+			"y": 6099797.29
+		},
+		{
+			"is_practical": 1,
+			"name": "Am Schopfwerk",
+			"uid": "6092dc31d327cb7526d2bbb9",
+			"x": 1817313.26,
+			"y": 6101608.68
+		},
+		{
+			"is_practical": 1,
+			"name": "Tscherttegasse",
+			"uid": "129447124d3b1e9b9868b4b9",
+			"x": 1817630.61,
+			"y": 6102168.96
+		},
+		{
+			"is_practical": 1,
+			"name": "Bahnhof Meidling",
+			"uid": "8ab7d90e98d5a0218b2fb5b9",
+			"x": 1818063.83,
+			"y": 6103767.82
+		},
+		{
+			"is_practical": 1,
+			"name": "Niederhofstrabe",
+			"uid": "15ab0ce0266fb36676e5b6b9",
+			"x": 1817993.78,
+			"y": 6104928.7
+		},
+		{
+			"is_practical": 1,
+			"name": "Langenfeldgasse",
+			"uid": "cf45b25a35284eacd618b7b9",
+			"x": 1818310.25,
+			"y": 6105438.57
+		},
+		{
+			"is_practical": 1,
+			"name": "Gumpendorfer Strabe",
+			"uid": "70ffa11dc8e2ee51fe0eb0b9",
+			"x": 1818709.29,
+			"y": 6106494.88
+		},
+		{
+			"is_practical": 1,
+			"name": "Westbahnhof",
+			"uid": "60b85cd7681fc6473904b1b9",
+			"x": 1818883.81,
+			"y": 6107464.39
+		},
+		{
+			"is_practical": 1,
+			"name": "Burggasse Stadthalle",
+			"uid": "9c72fc2a4009014dfa42b2b9",
+			"x": 1818700.55,
+			"y": 6108346.31
+		},
+		{
+			"is_practical": 1,
+			"name": "Thaliastrabe",
+			"uid": "3b8fd43c8703c20b0a5cb3b9",
+			"x": 1818757.82,
+			"y": 6109377.19
+		},
+		{
+			"is_practical": 1,
+			"name": "Josefstadter Strabe",
+			"uid": "1299133644453215c356acb9",
+			"x": 1818895,
+			"y": 6109992.08
+		},
+		{
+			"is_practical": 1,
+			"name": "Alser Strabe",
+			"uid": "d693d070b45bfb1ff90cadb9",
+			"x": 1819182.1,
+			"y": 6110830.91
+		},
+		{
+			"is_practical": 1,
+			"name": "Michelbeuern AKH",
+			"uid": "14d5206e7d51c145364aaeb9",
+			"x": 1819457.37,
+			"y": 6111576.28
+		},
+		{
+			"is_practical": 1,
+			"name": "Wahringer Strabe Volksoper",
+			"uid": "fbcbe964470b0e033310afb9",
+			"x": 1820051.57,
+			"y": 6112290.57
+		},
+		{
+			"is_practical": 1,
+			"name": "Nubdorfer Strabe",
+			"uid": "33c1d33e884d0b59b020a8b9",
+			"x": 1820423.11,
+			"y": 6113275.08
+		},
+		{
+			"is_practical": 1,
+			"name": "Spittelau",
+			"uid": "0a9b1c788d1788696140a9b9",
+			"x": 1821047.33,
+			"y": 6113931.82
+		},
+		{
+			"is_practical": 1,
+			"name": "Jagerstrabe",
+			"uid": "c4dd19220e275909100daab9",
+			"x": 1822146.92,
+			"y": 6113905.55
+		},
+		{
+			"is_practical": 1,
+			"name": "Dresdner Strabe",
+			"uid": "c6879a12df4728442bd7abb9",
+			"x": 1823372.83,
+			"y": 6114210.79
+		},
+		{
+			"is_practical": 1,
+			"name": "Handelskai",
+			"uid": "44b74b72ae0a139ecf06a4b9",
+			"x": 1824133.42,
+			"y": 6115046.43
+		},
+		{
+			"is_practical": 1,
+			"name": "Neue Donau",
+			"uid": "96d73a3f95d0f74feee4a5b9",
+			"x": 1825141.72,
+			"y": 6115789.5
+		},
+		{
+			"is_practical": 1,
+			"name": "Floridsdorf",
+			"uid": "e69a01e57101d6ad38e4a6b9",
+			"x": 1825511.97,
+			"y": 6117295.65
+		}]
+	},
+	{
+		"line_name": "U4(Heiligenstadt-Hutteldorf)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Heiligenstadt",
+			"uid": "3791c4d686e315b325e0a0b9",
+			"x": 1821919.25,
+			"y": 6116192.31
+		},
+		{
+			"is_practical": 0,
+			"name": "Spittelau",
+			"uid": "157312d693fd1da9c72ba1b9",
+			"x": 1821047.33,
+			"y": 6113931.82
+		},
+		{
+			"is_practical": 1,
+			"name": "Friedensbrucke",
+			"uid": "c27307c89be7ff62c17da2b9",
+			"x": 1821765.92,
+			"y": 6112529.64
+		},
+		{
+			"is_practical": 1,
+			"name": "Robauer Lande",
+			"uid": "d06d0fd2792cf934902ca3b9",
+			"x": 1822059.39,
+			"y": 6111633.83
+		},
+		{
+			"is_practical": 1,
+			"name": "Schottenring",
+			"uid": "d977ed197f7aa865f6c59cb9",
+			"x": 1822459.55,
+			"y": 6110893.19
+		},
+		{
+			"is_practical": 1,
+			"name": "Schwedenplatz",
+			"uid": "38bceb4f2e2bce8cab059db9",
+			"x": 1823225.99,
+			"y": 6109957.86
+		},
+		{
+			"is_practical": 1,
+			"name": "Wien Mitte Landstrabe",
+			"uid": "3feaba1e48c2934cd2f49eb9",
+			"x": 1823940.78,
+			"y": 6109049.36
+		},
+		{
+			"is_practical": 1,
+			"name": "Stadtpark",
+			"uid": "91b4dcf71502eabd283a9fb9",
+			"x": 1823311.79,
+			"y": 6108432.74
+		},
+		{
+			"is_practical": 1,
+			"name": "Karlsplatz",
+			"uid": "f65d81376cf31073276e98b9",
+			"x": 1822164.35,
+			"y": 6108214.2
+		},
+		{
+			"is_practical": 1,
+			"name": "Kettenbruckengasse",
+			"uid": "a89df8c6963d1f271fe999b9",
+			"x": 1820931.87,
+			"y": 6107505.56
+		},
+		{
+			"is_practical": 1,
+			"name": "Pilgramgasse",
+			"uid": "d06c0208996927a040ab9ab9",
+			"x": 1820620.56,
+			"y": 6106817.75
+		},
+		{
+			"is_practical": 1,
+			"name": "Margaretengurtel",
+			"uid": "2da20d5ca1ee78e233169bb9",
+			"x": 1819265.37,
+			"y": 6106109.38
+		},
+		{
+			"is_practical": 0,
+			"name": "Langenfeldgasse",
+			"uid": "23f635dbfeac0b5f1c3894b9",
+			"x": 1818310.25,
+			"y": 6105438.57
+		},
+		{
+			"is_practical": 1,
+			"name": "Meidling Hauptstrabe",
+			"uid": "18716a998d112471ca1b95b9",
+			"x": 1817785.03,
+			"y": 6105257.83
+		},
+		{
+			"is_practical": 1,
+			"name": "Schonbrunn",
+			"uid": "46331924a23ff2527bf796b9",
+			"x": 1816768.15,
+			"y": 6105656.75
+		},
+		{
+			"is_practical": 1,
+			"name": "Hietzing",
+			"uid": "3a8e360a741c43beeb1e97b9",
+			"x": 1814944.24,
+			"y": 6105978.12
+		},
+		{
+			"is_practical": 1,
+			"name": "Braunschweiggasse",
+			"uid": "14a0e029c5f0d35716a190b9",
+			"x": 1813964.51,
+			"y": 6106295.83
+		},
+		{
+			"is_practical": 1,
+			"name": "Unter St. Veit",
+			"uid": "c18351c555192ee8dbd891b9",
+			"x": 1813068.75,
+			"y": 6106538.69
+		},
+		{
+			"is_practical": 1,
+			"name": "Ober St. Veit",
+			"uid": "716fc12ca8a6e39140e192b9",
+			"x": 1811770.26,
+			"y": 6106766.36
+		},
+		{
+			"is_practical": 1,
+			"name": "Hutteldorf",
+			"uid": "e6863c9365df78a85b1093b9",
+			"x": 1810185.28,
+			"y": 6107630.76
+		}]
+	},
+	{
+		"line_name": "U2(Seestadt-Karlsplatz)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Seestadt",
+			"uid": "d4406ad3e517aeb949fc8db9",
+			"x": 1837721.24,
+			"y": 6112343.64
+		},
+		{
+			"is_practical": 1,
+			"name": "Aspern Nord",
+			"uid": "4e79712228f771b517948eb9",
+			"x": 1837290.23,
+			"y": 6113771.67
+		},
+		{
+			"is_practical": 1,
+			"name": "Hausfeldstrabe",
+			"uid": "4a88bcc2f7fb2fddbadf8fb9",
+			"x": 1835175.13,
+			"y": 6113606.88
+		},
+		{
+			"is_practical": 1,
+			"name": "Aspernstrabe",
+			"uid": "866863cea993829688b988b9",
+			"x": 1833998.91,
+			"y": 6111785.31
+		},
+		{
+			"is_practical": 1,
+			"name": "Donauspital",
+			"uid": "5a643da604d8b0f08c1a89b9",
+			"x": 1833087.84,
+			"y": 6111268.23
+		},
+		{
+			"is_practical": 1,
+			"name": "Hardeggasse",
+			"uid": "050c90ed36beb45381288ab9",
+			"x": 1832076.93,
+			"y": 6111509.39
+		},
+		{
+			"is_practical": 1,
+			"name": "Stadlau",
+			"uid": "af47a28b321db961ddee8bb9",
+			"x": 1831172.67,
+			"y": 6111285.25
+		},
+		{
+			"is_practical": 1,
+			"name": "Donaustadtbrucke",
+			"uid": "9c21a6283f2fe5a797ec84b9",
+			"x": 1830086.15,
+			"y": 6109990.59
+		},
+		{
+			"is_practical": 1,
+			"name": "Donaumarina",
+			"uid": "9b82ab1a63e9afa5fbdc85b9",
+			"x": 1829190.74,
+			"y": 6109105.66
+		},
+		{
+			"is_practical": 1,
+			"name": "Stadion",
+			"uid": "97b0f7dc29ebc3955fbe86b9",
+			"x": 1827913.09,
+			"y": 6109773.3
+		},
+		{
+			"is_practical": 1,
+			"name": "Krieau",
+			"uid": "c476bdde45db67f7704b87b9",
+			"x": 1827172.18,
+			"y": 6110466.43
+		},
+		{
+			"is_practical": 1,
+			"name": "Messe Prater",
+			"uid": "8f74d1eee1b94802715e80b9",
+			"x": 1826288.56,
+			"y": 6110984.82
+		},
+		{
+			"is_practical": 1,
+			"name": "Praterstern",
+			"uid": "e044758cce4c4917b13c81b9",
+			"x": 1824898.98,
+			"y": 6111149.12
+		},
+		{
+			"is_practical": 1,
+			"name": "Taborstrabe",
+			"uid": "45265a79cf598975e8e582b9",
+			"x": 1823497.66,
+			"y": 6111200.83
+		},
+		{
+			"is_practical": 0,
+			"name": "Schottenring",
+			"uid": "6dd35b6c0f3bd0acf02d83b9",
+			"x": 1822459.55,
+			"y": 6110893.19
+		},
+		{
+			"is_practical": 1,
+			"name": "Schottentor",
+			"uid": "6dc69b0e56e2c864f4eafcb9",
+			"x": 1821442.43,
+			"y": 6110304.11
+		},
+		{
+			"is_practical": 1,
+			"name": "Rathaus",
+			"uid": "aea4c2d74e2acca33913fdb9",
+			"x": 1820696.91,
+			"y": 6109598.54
+		},
+		{
+			"is_practical": 1,
+			"name": "Volkstheater",
+			"uid": "f67dda1f4aed015a5fd4feb9",
+			"x": 1820924.66,
+			"y": 6108874.96
+		},
+		{
+			"is_practical": 1,
+			"name": "Museumsquartier",
+			"uid": "d1b5ded88714679d54bfffb9",
+			"x": 1821311.51,
+			"y": 6108479.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Karlsplatz",
+			"uid": "d4721321e1d36cf6ee74f8b9",
+			"x": 1822164.35,
+			"y": 6108214.2
+		}]
+	},
+	{
+		"line_name": "S7(Flughafen Wien Bahnhof- Wien Floridsdorf Bahnhof)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Flughafen Wien Bahnhof",
+			"uid": "d86bf224cc428d06b6265577",
+			"x": 1843795.32,
+			"y": 6094867.28
+		},
+		{
+			"is_practical": 1,
+			"name": "Mannsworth Bahnhof",
+			"uid": "3e4628760b488f6fa6c75677",
+			"x": 1837605.74,
+			"y": 6097445.37
+		},
+		{
+			"is_practical": 1,
+			"name": "Schwechat Bahnhof",
+			"uid": "eb14ef7c09219f8eaf045777",
+			"x": 1834781.07,
+			"y": 6098694.02
+		},
+		{
+			"is_practical": 1,
+			"name": "Wien Kaiserebersdorf Bahnhof",
+			"uid": "2d1eed1519c0964d9b005077",
+			"x": 1832891.51,
+			"y": 6099029.23
+		},
+		{
+			"is_practical": 1,
+			"name": "Wien Zentralfriedhof S-Bahn Bahnhof",
+			"uid": "2c77fdf41003a249c41e5177",
+			"x": 1828554.1,
+			"y": 6100416.54
+		},
+		{
+			"is_practical": 1,
+			"name": "Wien Geiselbergstrabe Bahnhof",
+			"uid": "3d96f4372407fd57dd1e5277",
+			"x": 1826460.76,
+			"y": 6104006.93
+		},
+		{
+			"is_practical": 1,
+			"name": "Wien St.Marx Bahnhof",
+			"uid": "3355c0337b19e457ebf85377",
+			"x": 1825630.56,
+			"y": 6106014.08
+		},
+		{
+			"is_practical": 1,
+			"name": "Wien Rennweg Bahnhof",
+			"uid": "06519f2d6219d2b192114c77",
+			"x": 1824096.71,
+			"y": 6107350.73
+		},
+		{
+			"is_practical": 1,
+			"name": "Wien Mitte-Landstrabe Bahnhof",
+			"uid": "5a4f862d54ffab581cf74d77",
+			"x": 1823939.77,
+			"y": 6109130.39
+		},
+		{
+			"is_practical": 1,
+			"name": "Wien Praterstern Bahnhof",
+			"uid": "424fb0cb2d1625bed7b74e77",
+			"x": 1824776.83,
+			"y": 6111231.72
+		},
+		{
+			"is_practical": 1,
+			"name": "Wien Traisengasse Bahnhof",
+			"uid": "4ba9c922a3f0eefe00294f77",
+			"x": 1823804.92,
+			"y": 6113817.05
+		},
+		{
+			"is_practical": 1,
+			"name": "Wien Handelskai (Bahnsteige 1-2)",
+			"uid": "334047c468b039602bfc4877",
+			"x": 1824144.6,
+			"y": 6115054.46
+		},
+		{
+			"is_practical": 1,
+			"name": "Wien Floridsdorf Bahnhof",
+			"uid": "bea68c84bf2e12b5b14c4977",
+			"x": 1825633.2,
+			"y": 6117402.83
+		}]
+	},
+	{
+		"line_name": "U6(Floridsdorf-Siebenhirten)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Floridsdorf",
+			"uid": "7d4c7e8d5073da5ceb56fab9",
+			"x": 1825511.97,
+			"y": 6117295.65
+		},
+		{
+			"is_practical": 0,
+			"name": "Neue Donau",
+			"uid": "7127c4465c12d31fc6effbb9",
+			"x": 1825141.72,
+			"y": 6115789.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Handelskai",
+			"uid": "caecc8275551fea63686f4b9",
+			"x": 1824133.42,
+			"y": 6115046.43
+		},
+		{
+			"is_practical": 0,
+			"name": "Dresdner Strabe",
+			"uid": "c58dc16478e80ecf04fef5b9",
+			"x": 1823372.83,
+			"y": 6114210.79
+		},
+		{
+			"is_practical": 0,
+			"name": "Jagerstrabe",
+			"uid": "cdceecdd88813cb717c8f6b9",
+			"x": 1822146.92,
+			"y": 6113905.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Spittelau",
+			"uid": "ef771cb4baf92f819f09f7b9",
+			"x": 1821047.33,
+			"y": 6113931.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Nubdorfer Strabe",
+			"uid": "1e1e2ecca9cfa740ca09f0b9",
+			"x": 1820423.11,
+			"y": 6113275.08
+		},
+		{
+			"is_practical": 0,
+			"name": "Wahringer Strabe Volksoper",
+			"uid": "2f663dfa210ef240744ff1b9",
+			"x": 1820051.57,
+			"y": 6112290.57
+		},
+		{
+			"is_practical": 0,
+			"name": "Michelbeuern AKH",
+			"uid": "3d50b53b740e4c06213bf2b9",
+			"x": 1819457.37,
+			"y": 6111576.28
+		},
+		{
+			"is_practical": 0,
+			"name": "Alser Strabe",
+			"uid": "b291e03bca4819726849f3b9",
+			"x": 1819182.1,
+			"y": 6110830.91
+		},
+		{
+			"is_practical": 0,
+			"name": "Josefstadter Strabe",
+			"uid": "e6915e7d9f3c50008c55ecb9",
+			"x": 1818895,
+			"y": 6109992.08
+		},
+		{
+			"is_practical": 0,
+			"name": "Thaliastrabe",
+			"uid": "5bd70b09d64eb41cdbecedb9",
+			"x": 1818757.82,
+			"y": 6109377.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Burggasse Stadthalle",
+			"uid": "0fa3427b3252e3a58a36eeb9",
+			"x": 1818700.55,
+			"y": 6108346.31
+		},
+		{
+			"is_practical": 0,
+			"name": "Westbahnhof",
+			"uid": "59d1a66765ebb27fcd04efb9",
+			"x": 1818883.81,
+			"y": 6107464.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Gumpendorfer Strabe",
+			"uid": "bccdf1de3431f54d047ce8b9",
+			"x": 1818709.29,
+			"y": 6106494.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Langenfeldgasse",
+			"uid": "e874a00473033c35a21de9b9",
+			"x": 1818310.25,
+			"y": 6105438.57
+		},
+		{
+			"is_practical": 0,
+			"name": "Niederhofstrabe",
+			"uid": "b8aee736ba7b9a549d82eab9",
+			"x": 1817993.78,
+			"y": 6104928.7
+		},
+		{
+			"is_practical": 0,
+			"name": "Bahnhof Meidling",
+			"uid": "f89c2e4e1c1aa5cb08f5ebb9",
+			"x": 1818063.83,
+			"y": 6103767.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Tscherttegasse",
+			"uid": "30e4882f238530bceb12e4b9",
+			"x": 1817630.61,
+			"y": 6102168.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Am Schopfwerk",
+			"uid": "9585b7b0b6f2d35bad31e5b9",
+			"x": 1817313.26,
+			"y": 6101608.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Alterlaa",
+			"uid": "ab1a22c75515957843afe6b9",
+			"x": 1816375.01,
+			"y": 6099797.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Erlaaer Strabe",
+			"uid": "316dc12013367be6b817e7b9",
+			"x": 1816352.97,
+			"y": 6098351.18
+		},
+		{
+			"is_practical": 0,
+			"name": "Perfektastrabe",
+			"uid": "d38a8703fda8805e9122e0b9",
+			"x": 1815957.63,
+			"y": 6097482.7
+		},
+		{
+			"is_practical": 0,
+			"name": "Siebenhirten",
+			"uid": "96a9699d0610a96b2902e1b9",
+			"x": 1815598.19,
+			"y": 6096352.17
+		}]
+	},
+	{
+		"line_name": "U3(Simmering-Ottakring)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Simmering",
+			"uid": "858fbb109705ec65d23ce3b9",
+			"x": 1827905.68,
+			"y": 6102994.74
+		},
+		{
+			"is_practical": 1,
+			"name": "Enkplatz",
+			"uid": "adba03306a2bea753617dcb9",
+			"x": 1827216.82,
+			"y": 6104015.12
+		},
+		{
+			"is_practical": 1,
+			"name": "Zippererstrabe",
+			"uid": "169afe1e6c3b0e5e08ccddb9",
+			"x": 1826928.24,
+			"y": 6104645.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Gasometer",
+			"uid": "eab4f80e881030859e95deb9",
+			"x": 1827614.05,
+			"y": 6105614.1
+		},
+		{
+			"is_practical": 1,
+			"name": "Erdberg",
+			"uid": "93a41c25b6cba6dc4e2fdfb9",
+			"x": 1827233.29,
+			"y": 6106599.99
+		},
+		{
+			"is_practical": 1,
+			"name": "Schlachthausgasse",
+			"uid": "768f22fe20927666a80dd8b9",
+			"x": 1826457.67,
+			"y": 6107057.14
+		},
+		{
+			"is_practical": 1,
+			"name": "Kardinal Nagl Platz",
+			"uid": "4b54b4a7f02890440869d9b9",
+			"x": 1825751.58,
+			"y": 6107543.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Rochusgasse",
+			"uid": "dc0d641d160a30200d3ddab9",
+			"x": 1824692.59,
+			"y": 6108487.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Wien Mitte Landstrabe",
+			"uid": "0bb7823fb66e3574c9c3dbb9",
+			"x": 1823940.78,
+			"y": 6109049.36
+		},
+		{
+			"is_practical": 1,
+			"name": "Stubentor",
+			"uid": "ec95225bb33af18a09a8d4b9",
+			"x": 1823477.94,
+			"y": 6109226.99
+		},
+		{
+			"is_practical": 1,
+			"name": "Stephansplatz",
+			"uid": "4ff1270f77c431e11811d5b9",
+			"x": 1822465.44,
+			"y": 6109374.02
+		},
+		{
+			"is_practical": 1,
+			"name": "Herrengasse",
+			"uid": "4ba5e3f1b7af2058d12dd6b9",
+			"x": 1821874.65,
+			"y": 6109621.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Volkstheater",
+			"uid": "805b239aa616e9644054d7b9",
+			"x": 1820924.66,
+			"y": 6108874.96
+		},
+		{
+			"is_practical": 1,
+			"name": "Neubaugasse",
+			"uid": "413032236f2a781d250bd0b9",
+			"x": 1820191.68,
+			"y": 6107801.53
+		},
+		{
+			"is_practical": 1,
+			"name": "Zieglergasse",
+			"uid": "5389fb1ffe531d422811d1b9",
+			"x": 1819676.91,
+			"y": 6107560.09
+		},
+		{
+			"is_practical": 0,
+			"name": "Westbahnhof",
+			"uid": "9bb56a669b0c105879dbd2b9",
+			"x": 1818883.81,
+			"y": 6107464.39
+		},
+		{
+			"is_practical": 1,
+			"name": "Schweglerstrabe",
+			"uid": "0dcc0f39961641927369d3b9",
+			"x": 1817722.91,
+			"y": 6107732.73
+		},
+		{
+			"is_practical": 1,
+			"name": "Johnstrabe",
+			"uid": "69930223c7dc4b206ca3ccb9",
+			"x": 1816952.34,
+			"y": 6107607.62
+		},
+		{
+			"is_practical": 1,
+			"name": "Hutteldorfer Strabe",
+			"uid": "678953e9cd6e54eaabf0cdb9",
+			"x": 1815726.39,
+			"y": 6108077.98
+		},
+		{
+			"is_practical": 1,
+			"name": "Kendlerstrabe",
+			"uid": "3743595bd2a493b92b06ceb9",
+			"x": 1815473.71,
+			"y": 6108703.45
+		},
+		{
+			"is_practical": 1,
+			"name": "Ottakring",
+			"uid": "22f1469115f7134fc2f1cfb9",
+			"x": 1815773.92,
+			"y": 6109884.36
+		}]
+	},
+	{
+		"line_name": "U2(Karlsplatz-Seestadt)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Karlsplatz",
+			"uid": "f86801347cf66173901fc9b9",
+			"x": 1822164.35,
+			"y": 6108214.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Museumsquartier",
+			"uid": "799ee8c3e73da856eedfcab9",
+			"x": 1821311.51,
+			"y": 6108479.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Volkstheater",
+			"uid": "976973082e18d696f8f0cbb9",
+			"x": 1820924.66,
+			"y": 6108874.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Rathaus",
+			"uid": "0da2ba2d50d8c0b9a0acc4b9",
+			"x": 1820696.91,
+			"y": 6109598.54
+		},
+		{
+			"is_practical": 0,
+			"name": "Schottentor",
+			"uid": "c787c4ed46f798e551e5c5b9",
+			"x": 1821442.43,
+			"y": 6110304.11
+		},
+		{
+			"is_practical": 0,
+			"name": "Schottenring",
+			"uid": "b847d2c21eab69ac1b94c6b9",
+			"x": 1822459.55,
+			"y": 6110893.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Taborstrabe",
+			"uid": "a1688a9eefe223dd0b1cc7b9",
+			"x": 1823497.66,
+			"y": 6111200.83
+		},
+		{
+			"is_practical": 0,
+			"name": "Praterstern",
+			"uid": "f8347bd7a59333554251c0b9",
+			"x": 1824898.98,
+			"y": 6111149.12
+		},
+		{
+			"is_practical": 0,
+			"name": "Messe Prater",
+			"uid": "0a7d31a6b51b7a184107c1b9",
+			"x": 1826288.56,
+			"y": 6110984.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Krieau",
+			"uid": "410c212efc56794e0482c2b9",
+			"x": 1827172.18,
+			"y": 6110466.43
+		},
+		{
+			"is_practical": 0,
+			"name": "Stadion",
+			"uid": "56846863ff003ccb5d17c3b9",
+			"x": 1827913.09,
+			"y": 6109773.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Donaumarina",
+			"uid": "1ec96b35ba85655ecae33cb9",
+			"x": 1829190.74,
+			"y": 6109105.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Donaustadtbrucke",
+			"uid": "1e9f2eb0e310f2aacb213db9",
+			"x": 1830086.15,
+			"y": 6109990.59
+		},
+		{
+			"is_practical": 0,
+			"name": "Stadlau",
+			"uid": "5a1a772574e4f36841d63eb9",
+			"x": 1831172.67,
+			"y": 6111285.25
+		},
+		{
+			"is_practical": 0,
+			"name": "Hardeggasse",
+			"uid": "3c8fe0d17526799f49fd3fb9",
+			"x": 1832076.93,
+			"y": 6111509.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Donauspital",
+			"uid": "aa7be113ffd171b4e50738b9",
+			"x": 1833087.84,
+			"y": 6111268.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Aspernstrabe",
+			"uid": "a8b96be4f7fadd4ea5da39b9",
+			"x": 1833998.91,
+			"y": 6111785.31
+		},
+		{
+			"is_practical": 0,
+			"name": "Hausfeldstrabe",
+			"uid": "234e63cf5b009d930ab93ab9",
+			"x": 1835175.13,
+			"y": 6113606.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Aspern Nord",
+			"uid": "2c65cf351bdd32f0f7e73bb9",
+			"x": 1837290.23,
+			"y": 6113771.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Seestadt",
+			"uid": "819f8fe8b4becfaea2a934b9",
+			"x": 1837721.24,
+			"y": 6112343.64
+		}]
+	},
+	{
+		"line_name": "U3(Ottakring-Simmering)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Ottakring",
+			"uid": "6c21ddd51cae2b60b21e36b9",
+			"x": 1815773.92,
+			"y": 6109884.36
+		},
+		{
+			"is_practical": 0,
+			"name": "Kendlerstrabe",
+			"uid": "9e7f889bad2e8a57f21937b9",
+			"x": 1815473.71,
+			"y": 6108703.45
+		},
+		{
+			"is_practical": 0,
+			"name": "Hutteldorfer Strabe",
+			"uid": "ca31391b0c19ca50a2d230b9",
+			"x": 1815726.39,
+			"y": 6108077.98
+		},
+		{
+			"is_practical": 0,
+			"name": "Johnstrabe",
+			"uid": "78b1982c4c1e9a9b3ce231b9",
+			"x": 1816952.34,
+			"y": 6107607.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Schweglerstrabe",
+			"uid": "d886d82b1cd504ab471a32b9",
+			"x": 1817722.91,
+			"y": 6107732.73
+		},
+		{
+			"is_practical": 0,
+			"name": "Westbahnhof",
+			"uid": "9f8188e082e57f532e4733b9",
+			"x": 1818883.81,
+			"y": 6107464.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Zieglergasse",
+			"uid": "ce4a16d0f91d160e6cc02cb9",
+			"x": 1819676.91,
+			"y": 6107560.09
+		},
+		{
+			"is_practical": 0,
+			"name": "Neubaugasse",
+			"uid": "537a6d289040548903ff2db9",
+			"x": 1820191.68,
+			"y": 6107801.53
+		},
+		{
+			"is_practical": 0,
+			"name": "Volkstheater",
+			"uid": "29820475d2c73bb682a12eb9",
+			"x": 1820924.66,
+			"y": 6108874.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Herrengasse",
+			"uid": "5fdf46f2bdf8bae8b6f42fb9",
+			"x": 1821874.65,
+			"y": 6109621.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Stephansplatz",
+			"uid": "1c5829cd3ca68ebdda2f28b9",
+			"x": 1822465.44,
+			"y": 6109374.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Stubentor",
+			"uid": "7067a89308f3e266abf729b9",
+			"x": 1823477.94,
+			"y": 6109226.99
+		},
+		{
+			"is_practical": 0,
+			"name": "Wien Mitte Landstrabe",
+			"uid": "f0399cc6642893beaeb22ab9",
+			"x": 1823940.78,
+			"y": 6109049.36
+		},
+		{
+			"is_practical": 0,
+			"name": "Rochusgasse",
+			"uid": "c36cf01d15f096fb9fec2bb9",
+			"x": 1824692.59,
+			"y": 6108487.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Kardinal Nagl Platz",
+			"uid": "aeb781c510b5a7a5118824b9",
+			"x": 1825751.58,
+			"y": 6107543.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Schlachthausgasse",
+			"uid": "dc6f848021eb29c1c4f025b9",
+			"x": 1826457.67,
+			"y": 6107057.14
+		},
+		{
+			"is_practical": 0,
+			"name": "Erdberg",
+			"uid": "d82ab5deaf8ffcb9455726b9",
+			"x": 1827233.29,
+			"y": 6106599.99
+		},
+		{
+			"is_practical": 0,
+			"name": "Gasometer",
+			"uid": "e6743bba7af77d1e8d7727b9",
+			"x": 1827614.05,
+			"y": 6105614.1
+		},
+		{
+			"is_practical": 0,
+			"name": "Zippererstrabe",
+			"uid": "6910eec2fb50b53e210220b9",
+			"x": 1826928.24,
+			"y": 6104645.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Enkplatz",
+			"uid": "bf686f653370194b9de321b9",
+			"x": 1827216.82,
+			"y": 6104015.12
+		},
+		{
+			"is_practical": 0,
+			"name": "Simmering",
+			"uid": "3fcfa7459f05a5aabfa822b9",
+			"x": 1827905.68,
+			"y": 6102994.74
+		}]
+	},
+	{
+		"line_name": "S7( Wien Floridsdorf Bahnhof-Flughafen Wien Bahnhof)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Wien Floridsdorf Bahnhof",
+			"uid": "a47870cf0e4b738515b54b77",
+			"x": 1825633.2,
+			"y": 6117402.83
+		},
+		{
+			"is_practical": 0,
+			"name": "Wien Handelskai (Bahnsteige 1-2)",
+			"uid": "8eadea7ff5cb2cfcc2364477",
+			"x": 1824144.6,
+			"y": 6115054.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Wien Traisengasse Bahnhof",
+			"uid": "171d11ffaab2fb7f41024577",
+			"x": 1823804.92,
+			"y": 6113817.05
+		},
+		{
+			"is_practical": 0,
+			"name": "Wien Praterstern Bahnhof",
+			"uid": "ed9d4e867d31784b4d6d4677",
+			"x": 1824776.83,
+			"y": 6111231.72
+		},
+		{
+			"is_practical": 0,
+			"name": "Wien Mitte-Landstrabe Bahnhof",
+			"uid": "bde49905fe0574244c554777",
+			"x": 1823939.77,
+			"y": 6109130.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Wien Rennweg Bahnhof",
+			"uid": "6b671a31f26a751cbca24077",
+			"x": 1824096.71,
+			"y": 6107350.73
+		},
+		{
+			"is_practical": 0,
+			"name": "Wien St.Marx Bahnhof",
+			"uid": "eb53165ef35285eb85154177",
+			"x": 1825630.56,
+			"y": 6106014.08
+		},
+		{
+			"is_practical": 0,
+			"name": "Wien Geiselbergstrabe Bahnhof",
+			"uid": "e63c176603a5bc5cbc484277",
+			"x": 1826460.76,
+			"y": 6104006.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Wien Zentralfriedhof S-Bahn Bahnhof",
+			"uid": "e004e7913a12850117764377",
+			"x": 1828554.1,
+			"y": 6100416.54
+		},
+		{
+			"is_practical": 0,
+			"name": "Wien Kaiserebersdorf Bahnhof",
+			"uid": "11f3de26034f2e3f58bbbc74",
+			"x": 1832891.51,
+			"y": 6099029.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Schwechat Bahnhof",
+			"uid": "2b44e77ba87161f27e29bd74",
+			"x": 1834781.07,
+			"y": 6098694.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Mannsworth Bahnhof",
+			"uid": "13194c45e7bc47605af6be74",
+			"x": 1837605.74,
+			"y": 6097445.37
+		},
+		{
+			"is_practical": 0,
+			"name": "Flughafen Wien Bahnhof",
+			"uid": "a7270388c12e63bf8405bf74",
+			"x": 1843795.32,
+			"y": 6094867.28
+		}]
+	},
+	{
+		"line_name": "U1(Leopoldau-Oberlaa)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Leopoldau",
+			"uid": "5d9ab7d101afe8b63b221cb9",
+			"x": 1831395.89,
+			"y": 6120923.88
+		},
+		{
+			"is_practical": 1,
+			"name": "Grobfeldsiedlung",
+			"uid": "e27b959a6ef8036b32f71db9",
+			"x": 1831039.14,
+			"y": 6119729.34
+		},
+		{
+			"is_practical": 1,
+			"name": "Aderklaaer Strabe",
+			"uid": "c130facd85250abeb75f1eb9",
+			"x": 1831400.18,
+			"y": 6118574.78
+		},
+		{
+			"is_practical": 1,
+			"name": "Rennbahnweg",
+			"uid": "516711108cf08f16d4851fb9",
+			"x": 1831114.44,
+			"y": 6117474.5
+		},
+		{
+			"is_practical": 1,
+			"name": "Kagraner Platz",
+			"uid": "bbba18c50958ecccdb1318b9",
+			"x": 1830489.99,
+			"y": 6116437.71
+		},
+		{
+			"is_practical": 1,
+			"name": "Kagran",
+			"uid": "b16f9d6d6a82e35a970319b9",
+			"x": 1829417.85,
+			"y": 6115308
+		},
+		{
+			"is_practical": 1,
+			"name": "Alte Donau",
+			"uid": "35c7feb76514af4a28201ab9",
+			"x": 1828366.67,
+			"y": 6114360.23
+		},
+		{
+			"is_practical": 1,
+			"name": "Kaisermuhlen VIC",
+			"uid": "511df121290410696f3e1bb9",
+			"x": 1827438.56,
+			"y": 6113470.07
+		},
+		{
+			"is_practical": 1,
+			"name": "Donauinsel",
+			"uid": "5f8bbd3196275777c16c14b9",
+			"x": 1826820.72,
+			"y": 6112818.15
+		},
+		{
+			"is_practical": 1,
+			"name": "Vorgartenstrabe",
+			"uid": "109b0212d139f925c92915b9",
+			"x": 1825867.04,
+			"y": 6112046.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Praterstern",
+			"uid": "aeb8450c7f6bf160f4b916b9",
+			"x": 1824898.98,
+			"y": 6111149.12
+		},
+		{
+			"is_practical": 1,
+			"name": "Nestroyplatz",
+			"uid": "e6a6eb5e772eccf022f017b9",
+			"x": 1823930.28,
+			"y": 6110473.64
+		},
+		{
+			"is_practical": 0,
+			"name": "Schwedenplatz",
+			"uid": "49f4e31b4abe1ab9f42310b9",
+			"x": 1823225.99,
+			"y": 6109957.86
+		},
+		{
+			"is_practical": 0,
+			"name": "Stephansplatz",
+			"uid": "42b1de8b9cf7cc6a1d1d11b9",
+			"x": 1822465.44,
+			"y": 6109374.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Karlsplatz",
+			"uid": "7e2108c24a242554336212b9",
+			"x": 1822164.35,
+			"y": 6108214.2
+		},
+		{
+			"is_practical": 1,
+			"name": "Taubstummengasse",
+			"uid": "af68de11a31a0b2bfb2213b9",
+			"x": 1822318.84,
+			"y": 6107135.52
+		},
+		{
+			"is_practical": 1,
+			"name": "Hauptbahnhof",
+			"uid": "78bb372f8d65c36b83a00cb9",
+			"x": 1822693.19,
+			"y": 6105776.72
+		},
+		{
+			"is_practical": 1,
+			"name": "Keplerplatz",
+			"uid": "928519504525bbe9c4f50db9",
+			"x": 1822981.21,
+			"y": 6104711.16
+		},
+		{
+			"is_practical": 1,
+			"name": "Reumannplatz",
+			"uid": "bdfad1103da7fcbc86420eb9",
+			"x": 1823284.06,
+			"y": 6103648.51
+		},
+		{
+			"is_practical": 1,
+			"name": "Troststrabe",
+			"uid": "e9ea251ae5f1bd4cf703b874",
+			"x": 1823489.81,
+			"y": 6102775.42
+		},
+		{
+			"is_practical": 1,
+			"name": "Altes Landgut",
+			"uid": "cc7801c53b02ce4a6c20b974",
+			"x": 1823786.73,
+			"y": 6101680.72
+		},
+		{
+			"is_practical": 1,
+			"name": "Alaudagasse",
+			"uid": "e9a7df3648045569f23cba74",
+			"x": 1823680.57,
+			"y": 6100379.99
+		},
+		{
+			"is_practical": 1,
+			"name": "Neulaa",
+			"uid": "3054ac30d327cb7527d2bb74",
+			"x": 1824157.82,
+			"y": 6099011.97
+		},
+		{
+			"is_practical": 1,
+			"name": "Oberlaa",
+			"uid": "425237134d3b1e9b9968b474",
+			"x": 1825725.66,
+			"y": 6098415.35
+		}]
+	},
+	{
+		"line_name": "U4(Hutteldorf-Heiligenstadt)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Hutteldorf",
+			"uid": "1338eec7384596412fb908b9",
+			"x": 1810185.28,
+			"y": 6107630.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Ober St. Veit",
+			"uid": "576dac70100f17f0601809b9",
+			"x": 1811770.26,
+			"y": 6106766.36
+		},
+		{
+			"is_practical": 0,
+			"name": "Unter St. Veit",
+			"uid": "14da843a91be585132870ab9",
+			"x": 1813068.75,
+			"y": 6106538.69
+		},
+		{
+			"is_practical": 0,
+			"name": "Braunschweiggasse",
+			"uid": "3b90058bde1f0ace71210bb9",
+			"x": 1813964.51,
+			"y": 6106295.83
+		},
+		{
+			"is_practical": 0,
+			"name": "Hietzing",
+			"uid": "bb214a2a8c804968873304b9",
+			"x": 1814944.24,
+			"y": 6105978.12
+		},
+		{
+			"is_practical": 0,
+			"name": "Schonbrunn",
+			"uid": "f78018b5cf26bf7a15c905b9",
+			"x": 1816768.15,
+			"y": 6105656.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Meidling Hauptstrabe",
+			"uid": "a41f5b1339342d808bfc06b9",
+			"x": 1817785.03,
+			"y": 6105257.83
+		},
+		{
+			"is_practical": 0,
+			"name": "Langenfeldgasse",
+			"uid": "e8b9ad01abceb3b596ca07b9",
+			"x": 1818310.25,
+			"y": 6105438.57
+		},
+		{
+			"is_practical": 0,
+			"name": "Margaretengurtel",
+			"uid": "1fab3ffb35fbae831d5800b9",
+			"x": 1819265.37,
+			"y": 6106109.38
+		},
+		{
+			"is_practical": 0,
+			"name": "Pilgramgasse",
+			"uid": "8e51a1ce28cd251103ec01b9",
+			"x": 1820620.56,
+			"y": 6106817.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Kettenbruckengasse",
+			"uid": "1164bcf8a35f3ba55d0d02b9",
+			"x": 1820931.87,
+			"y": 6107505.56
+		},
+		{
+			"is_practical": 0,
+			"name": "Karlsplatz",
+			"uid": "0b52376abdeb6544e01103b9",
+			"x": 1822164.35,
+			"y": 6108214.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Stadtpark",
+			"uid": "81c029dee30ad8582bb97cb9",
+			"x": 1823311.79,
+			"y": 6108432.74
+		},
+		{
+			"is_practical": 0,
+			"name": "Wien Mitte Landstrabe",
+			"uid": "9c74773f5e1613f0b2077db9",
+			"x": 1823940.78,
+			"y": 6109049.36
+		},
+		{
+			"is_practical": 0,
+			"name": "Schwedenplatz",
+			"uid": "c395ca2395be8a4e2cb17eb9",
+			"x": 1823225.99,
+			"y": 6109957.86
+		},
+		{
+			"is_practical": 0,
+			"name": "Schottenring",
+			"uid": "4189018b0c0014f8b6147fb9",
+			"x": 1822459.55,
+			"y": 6110893.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Robauer Lande",
+			"uid": "8b21983592b68e5dfea778b9",
+			"x": 1822059.39,
+			"y": 6111633.83
+		},
+		{
+			"is_practical": 0,
+			"name": "Friedensbrucke",
+			"uid": "119f06830813c6ee9ff779b9",
+			"x": 1821765.92,
+			"y": 6112529.64
+		},
+		{
+			"is_practical": 0,
+			"name": "Spittelau",
+			"uid": "8e299c2640a0a7beacee7ab9",
+			"x": 1821047.33,
+			"y": 6113931.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Heiligenstadt",
+			"uid": "138cd49521f094a72ce67bb9",
+			"x": 1821919.25,
+			"y": 6116192.31
+		}]
+	},
+	{
+		"line_name": "U1(Oberlaa-Leopoldau)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Oberlaa",
+			"uid": "da71a90f98d5a0218a2fb574",
+			"x": 1825725.66,
+			"y": 6098415.35
+		},
+		{
+			"is_practical": 0,
+			"name": "Neulaa",
+			"uid": "456d7ce1266fb36677e5b674",
+			"x": 1824157.82,
+			"y": 6099011.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Alaudagasse",
+			"uid": "9f83c25b35284eacd718b774",
+			"x": 1823680.57,
+			"y": 6100379.99
+		},
+		{
+			"is_practical": 0,
+			"name": "Altes Landgut",
+			"uid": "2039d11cc8e2ee51ff0eb074",
+			"x": 1823786.73,
+			"y": 6101680.72
+		},
+		{
+			"is_practical": 0,
+			"name": "Troststrabe",
+			"uid": "307e2cd6681fc6473804b174",
+			"x": 1823489.81,
+			"y": 6102775.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Reumannplatz",
+			"uid": "386f86dc92e17dabc61b75b9",
+			"x": 1823284.06,
+			"y": 6103648.51
+		},
+		{
+			"is_practical": 0,
+			"name": "Keplerplatz",
+			"uid": "0a7606d4fbe5fe527ec876b9",
+			"x": 1822981.21,
+			"y": 6104711.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Hauptbahnhof",
+			"uid": "857e6fd0781c4681f60e77b9",
+			"x": 1822693.19,
+			"y": 6105776.72
+		},
+		{
+			"is_practical": 0,
+			"name": "Taubstummengasse",
+			"uid": "ed7aec29c0cfce470f0a70b9",
+			"x": 1822318.84,
+			"y": 6107135.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Karlsplatz",
+			"uid": "6d8354fa48093743343a71b9",
+			"x": 1822164.35,
+			"y": 6108214.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Stephansplatz",
+			"uid": "d450dc3cb10d0c73028972b9",
+			"x": 1822465.44,
+			"y": 6109374.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Schwedenplatz",
+			"uid": "5b9625388a3d3ac08bdb73b9",
+			"x": 1823225.99,
+			"y": 6109957.86
+		},
+		{
+			"is_practical": 0,
+			"name": "Nestroyplatz",
+			"uid": "a3921e08bc8eb39235b06cb9",
+			"x": 1823930.28,
+			"y": 6110473.64
+		},
+		{
+			"is_practical": 0,
+			"name": "Praterstern",
+			"uid": "9ba228bb35dc0df92fb96db9",
+			"x": 1824898.98,
+			"y": 6111149.12
+		},
+		{
+			"is_practical": 0,
+			"name": "Vorgartenstrabe",
+			"uid": "ac11a1e98bb717f04d776eb9",
+			"x": 1825867.04,
+			"y": 6112046.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Donauinsel",
+			"uid": "3a431f8291be753e07026fb9",
+			"x": 1826820.72,
+			"y": 6112818.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Kaisermuhlen VIC",
+			"uid": "8528058bf3703f4b9e9d68b9",
+			"x": 1827438.56,
+			"y": 6113470.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Alte Donau",
+			"uid": "9c216745b905a6d4770269b9",
+			"x": 1828366.67,
+			"y": 6114360.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Kagran",
+			"uid": "ffef2d30209a4f4bb05c6ab9",
+			"x": 1829417.85,
+			"y": 6115308
+		},
+		{
+			"is_practical": 0,
+			"name": "Kagraner Platz",
+			"uid": "b29ab4afc90588150c0e6bb9",
+			"x": 1830489.99,
+			"y": 6116437.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Rennbahnweg",
+			"uid": "2a055d300e5b3447a10464b9",
+			"x": 1831114.44,
+			"y": 6117474.5
+		},
+		{
+			"is_practical": 0,
+			"name": "Aderklaaer Strabe",
+			"uid": "c09a9a6eb209994de6e965b9",
+			"x": 1831400.18,
+			"y": 6118574.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Grobfeldsiedlung",
+			"uid": "06c4263c1f03dea0adcb66b9",
+			"x": 1831039.14,
+			"y": 6119729.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Leopoldau",
+			"uid": "b5968b3658ee9582601c67b9",
+			"x": 1831395.89,
+			"y": 6120923.88
+		}]
+	}],
+	"result": {
+		"ccode": "50242",
+		"qt": "bsi"
+	}
+}

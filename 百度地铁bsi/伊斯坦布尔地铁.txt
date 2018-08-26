@@ -1,0 +1,2168 @@
+{
+	"content": [{
+		"line_name": "F1(Kabatas-Taksim)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Kabatas",
+			"uid": "2f6b3dfa210ef240744ff1ba",
+			"x": 3227432.26,
+			"y": 4989062.92
+		},
+		{
+			"is_practical": 1,
+			"name": "Taksim",
+			"uid": "3d5db53b740e4c06213bf2ba",
+			"x": 3226723.05,
+			"y": 4989473.75
+		}]
+	},
+	{
+		"line_name": "T1(Bagcilar Meydan-Kabatas)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Bagcilar Meydan",
+			"uid": "e69c5e7d9f3c50008c55ecba",
+			"x": 3212310.95,
+			"y": 4989075.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Gunestepe",
+			"uid": "5bda0b09d64eb41cdbecedba",
+			"x": 3212818.31,
+			"y": 4988340.61
+		},
+		{
+			"is_practical": 1,
+			"name": "Yavuz Selim",
+			"uid": "0fae427b3252e3a58a36eeba",
+			"x": 3213168.25,
+			"y": 4987499.91
+		},
+		{
+			"is_practical": 1,
+			"name": "Soganli",
+			"uid": "59dca66765ebb27fcd04efba",
+			"x": 3213477.55,
+			"y": 4987158.68
+		},
+		{
+			"is_practical": 1,
+			"name": "Akincilar",
+			"uid": "bcc0f1de3431f54d047ce8ba",
+			"x": 3213945.07,
+			"y": 4986599.66
+		},
+		{
+			"is_practical": 1,
+			"name": "Gungoren",
+			"uid": "e879a00473033c35a21de9ba",
+			"x": 3214662.42,
+			"y": 4986291.81
+		},
+		{
+			"is_practical": 1,
+			"name": "Merter Tekstil Merkezi",
+			"uid": "b8a3e736ba7b9a549d82eaba",
+			"x": 3215037.01,
+			"y": 4985757.48
+		},
+		{
+			"is_practical": 1,
+			"name": "Mehmet Akif",
+			"uid": "f8912e4e1c1aa5cb08f5ebba",
+			"x": 3215115.43,
+			"y": 4984912.39
+		},
+		{
+			"is_practical": 1,
+			"name": "Zeytinburnu",
+			"uid": "30e9882f238530bceb12e4ba",
+			"x": 3216052,
+			"y": 4984297.22
+		},
+		{
+			"is_practical": 1,
+			"name": "Mithatpasa",
+			"uid": "9588b7b0b6f2d35bad31e5ba",
+			"x": 3217148.26,
+			"y": 4984535.61
+		},
+		{
+			"is_practical": 1,
+			"name": "Aksemsettin",
+			"uid": "ab1722c75515957843afe6ba",
+			"x": 3218006.4,
+			"y": 4984655.38
+		},
+		{
+			"is_practical": 1,
+			"name": "Merkezefendi",
+			"uid": "3160c12013367be6b817e7ba",
+			"x": 3218229.98,
+			"y": 4985558.55
+		},
+		{
+			"is_practical": 1,
+			"name": "Cevizlibag AOY",
+			"uid": "d3878703fda8805e9122e0ba",
+			"x": 3218420.22,
+			"y": 4986373.12
+		},
+		{
+			"is_practical": 1,
+			"name": "Topkapi",
+			"uid": "96a4699d0610a96b2902e1ba",
+			"x": 3219340.83,
+			"y": 4986871.19
+		},
+		{
+			"is_practical": 1,
+			"name": "Pazartekke",
+			"uid": "793a92252f25114bd42ce2ba",
+			"x": 3220191.71,
+			"y": 4986724.51
+		},
+		{
+			"is_practical": 1,
+			"name": "Capa Sehremini",
+			"uid": "8582bb109705ec65d23ce3ba",
+			"x": 3220730.36,
+			"y": 4986380.38
+		},
+		{
+			"is_practical": 1,
+			"name": "Findikzade",
+			"uid": "adb703306a2bea753617dcba",
+			"x": 3221530.43,
+			"y": 4985854.75
+		},
+		{
+			"is_practical": 1,
+			"name": "Haseki",
+			"uid": "1697fe1e6c3b0e5e08ccddba",
+			"x": 3222005.25,
+			"y": 4985645.66
+		},
+		{
+			"is_practical": 1,
+			"name": "Yusufpasa",
+			"uid": "eab9f80e881030859e95deba",
+			"x": 3222449.56,
+			"y": 4985500.47
+		},
+		{
+			"is_practical": 1,
+			"name": "Aksaray",
+			"uid": "93a91c25b6cba6dc4e2fdfba",
+			"x": 3223130.6,
+			"y": 4985456.91
+		},
+		{
+			"is_practical": 1,
+			"name": "Laleli Universite",
+			"uid": "768222fe20927666a80dd8ba",
+			"x": 3223837.7,
+			"y": 4985459.8
+		},
+		{
+			"is_practical": 1,
+			"name": "Beyazit",
+			"uid": "4b59b4a7f02890440869d9ba",
+			"x": 3224581.13,
+			"y": 4985387.22
+		},
+		{
+			"is_practical": 1,
+			"name": "Cemberlitas",
+			"uid": "dc00641d160a30200d3ddaba",
+			"x": 3225114.06,
+			"y": 4985282.65
+		},
+		{
+			"is_practical": 1,
+			"name": "Sultanahemt",
+			"uid": "0bba823fb66e3574c9c3dbba",
+			"x": 3225574.36,
+			"y": 4985234.76
+		},
+		{
+			"is_practical": 1,
+			"name": "Gulhane",
+			"uid": "ec98225bb33af18a09a8d4ba",
+			"x": 3225895.25,
+			"y": 4985819.91
+		},
+		{
+			"is_practical": 1,
+			"name": "Sirkeci",
+			"uid": "4ffc270f77c431e11811d5ba",
+			"x": 3225617.89,
+			"y": 4986275.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Eminonu",
+			"uid": "4ba8e3f1b7af2058d12dd6ba",
+			"x": 3225299.89,
+			"y": 4986650.45
+		},
+		{
+			"is_practical": 1,
+			"name": "Karakoy",
+			"uid": "8056239aa616e9644054d7ba",
+			"x": 3225482.31,
+			"y": 4987345.42
+		},
+		{
+			"is_practical": 1,
+			"name": "Tophane",
+			"uid": "413d32236f2a781d250bd0ba",
+			"x": 3226137.71,
+			"y": 4988003.75
+		},
+		{
+			"is_practical": 1,
+			"name": "Findikli",
+			"uid": "5384fb1ffe531d422811d1ba",
+			"x": 3227116.35,
+			"y": 4988673.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Kabatas",
+			"uid": "9bb86a669b0c105879dbd2ba",
+			"x": 3227432.26,
+			"y": 4989062.92
+		}]
+	},
+	{
+		"line_name": "M1A branch line(Otogar-Ataturk Havalimani)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Otogar",
+			"uid": "699e0223c7dc4b206ca3ccba",
+			"x": 3216562.08,
+			"y": 4989914.98
+		},
+		{
+			"is_practical": 1,
+			"name": "Terazidere",
+			"uid": "678453e9cd6e54eaabf0cdba",
+			"x": 3216941.55,
+			"y": 4988512.58
+		},
+		{
+			"is_practical": 1,
+			"name": "Davutpasa YTU",
+			"uid": "374e595bd2a493b92b06ceba",
+			"x": 3217201.68,
+			"y": 4987069.72
+		},
+		{
+			"is_practical": 1,
+			"name": "Merter",
+			"uid": "22fc469115f7134fc2f1cfba",
+			"x": 3216734.28,
+			"y": 4985145.08
+		},
+		{
+			"is_practical": 0,
+			"name": "Zeytinburnu",
+			"uid": "3c3681c29501fab8593ac8ba",
+			"x": 3216052,
+			"y": 4984297.22
+		},
+		{
+			"is_practical": 1,
+			"name": "Bakiroy Incirli",
+			"uid": "f86501347cf66173901fc9ba",
+			"x": 3214422.05,
+			"y": 4983550.96
+		},
+		{
+			"is_practical": 1,
+			"name": "Bahcelievler",
+			"uid": "7993e8c3e73da856eedfcaba",
+			"x": 3213132.7,
+			"y": 4983382.08
+		},
+		{
+			"is_practical": 1,
+			"name": "Atakoy Sirinevler",
+			"uid": "976473082e18d696f8f0cbba",
+			"x": 3211131.61,
+			"y": 4982785.61
+		},
+		{
+			"is_practical": 1,
+			"name": "Yenibosna",
+			"uid": "0dafba2d50d8c0b9a0acc4ba",
+			"x": 3210120.07,
+			"y": 4982514.57
+		},
+		{
+			"is_practical": 1,
+			"name": "DTM Istanbul Fuar Merkezi",
+			"uid": "c78ac4ed46f798e551e5c5ba",
+			"x": 3209195.33,
+			"y": 4982087.54
+		},
+		{
+			"is_practical": 1,
+			"name": "Ataturk Havalimani",
+			"uid": "b84ad2c21eab69ac1b94c6ba",
+			"x": 3208474.05,
+			"y": 4980994.85
+		}]
+	},
+	{
+		"line_name": "M6(Levent-Bogazici Universitesi)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Levent",
+			"uid": "f8397bd7a59333554251c0ba",
+			"x": 3229775.07,
+			"y": 4995466.72
+		},
+		{
+			"is_practical": 1,
+			"name": "Nispetiye",
+			"uid": "0a7031a6b51b7a184107c1ba",
+			"x": 3231022.58,
+			"y": 4995415.7
+		},
+		{
+			"is_practical": 1,
+			"name": "Etiler",
+			"uid": "4101212efc56794e0482c2ba",
+			"x": 3232490.67,
+			"y": 4996161.66
+		},
+		{
+			"is_practical": 1,
+			"name": "Bogazici Universitesi",
+			"uid": "56896863ff003ccb5d17c3ba",
+			"x": 3233401.14,
+			"y": 4996582.36
+		}]
+	},
+	{
+		"line_name": "M1B branch line(Otogar-Kirazli Bagcilar)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Otogar",
+			"uid": "1e922eb0e310f2aacb213dba",
+			"x": 3216562.08,
+			"y": 4989914.98
+		},
+		{
+			"is_practical": 1,
+			"name": "Esenler",
+			"uid": "5a17772574e4f36841d63eba",
+			"x": 3215894.22,
+			"y": 4989496.47
+		},
+		{
+			"is_practical": 1,
+			"name": "Menderes",
+			"uid": "3c82e0d17526799f49fd3fba",
+			"x": 3214774.99,
+			"y": 4990312.15
+		},
+		{
+			"is_practical": 1,
+			"name": "Ucyuzlu",
+			"uid": "aa76e113ffd171b4e50738ba",
+			"x": 3213926.43,
+			"y": 4989476.98
+		},
+		{
+			"is_practical": 0,
+			"name": "Bagcilar Meydan",
+			"uid": "a8b46be4f7fadd4ea5da39ba",
+			"x": 3212310.95,
+			"y": 4989075.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Kirazli Bagcilar",
+			"uid": "234363cf5b009d930ab93aba",
+			"x": 3210861.58,
+			"y": 4988626.57
+		}]
+	},
+	{
+		"line_name": "M3(Kirazli Bagcilar-Metrokent)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Kirazli Bagcilar",
+			"uid": "81928fe8b4becfaea2a934ba",
+			"x": 3210861.58,
+			"y": 4988626.57
+		},
+		{
+			"is_practical": 1,
+			"name": "Ikitelli Sanayi",
+			"uid": "c24f208b49e09ae0132935ba",
+			"x": 3206338.91,
+			"y": 4994650.15
+		},
+		{
+			"is_practical": 1,
+			"name": "ISTOC",
+			"uid": "6c2cddd51cae2b60b21e36ba",
+			"x": 3208908.39,
+			"y": 4993616.23
+		},
+		{
+			"is_practical": 1,
+			"name": "Mahmutey",
+			"uid": "9e72889bad2e8a57f21937ba",
+			"x": 3209429.01,
+			"y": 4991990.41
+		},
+		{
+			"is_practical": 1,
+			"name": "Yeni Mahalle",
+			"uid": "ca3c391b0c19ca50a2d230ba",
+			"x": 3210017.92,
+			"y": 4990025.01
+		},
+		{
+			"is_practical": 1,
+			"name": "Turgut Ozal",
+			"uid": "78bc982c4c1e9a9b3ce231ba",
+			"x": 3205760.98,
+			"y": 4995935.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Siteler",
+			"uid": "d88bd82b1cd504ab471a32ba",
+			"x": 3205656.1,
+			"y": 4996949.59
+		},
+		{
+			"is_practical": 1,
+			"name": "Basak Konutlari",
+			"uid": "9f8c88e082e57f532e4733ba",
+			"x": 3205012.41,
+			"y": 4998388.27
+		},
+		{
+			"is_practical": 1,
+			"name": "Metrokent",
+			"uid": "ce4716d0f91d160e6cc02cba",
+			"x": 3206185.26,
+			"y": 4999778.19
+		}]
+	},
+	{
+		"line_name": "Marmaray Line(Kazlicesme-Ayrilik Cesmesi)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Kazlicesme",
+			"uid": "59d99ec3fb50b53e20022077",
+			"x": 3218974.06,
+			"y": 4982948.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Yenikapi",
+			"uid": "8fa11f643370194b9ce32177",
+			"x": 3222812.12,
+			"y": 4984886.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Sirkeci",
+			"uid": "0f06d7449f05a5aabea82277",
+			"x": 3225617.89,
+			"y": 4986275.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Uskudar",
+			"uid": "c0267b3123e487e1d1ff2377",
+			"x": 3229960.26,
+			"y": 4987811.26
+		},
+		{
+			"is_practical": 0,
+			"name": "Ayrilik Cesmesi",
+			"uid": "6d53c7d001afe8b63a221c77",
+			"x": 3231668.84,
+			"y": 4984057.52
+		}]
+	},
+	{
+		"line_name": "M1 line(Otogar-Yenikapi)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Otogar",
+			"uid": "298f0475d2c73bb682a12eba",
+			"x": 3216562.08,
+			"y": 4989914.98
+		},
+		{
+			"is_practical": 1,
+			"name": "Kocatepe",
+			"uid": "5fd246f2bdf8bae8b6f42fba",
+			"x": 3216683.06,
+			"y": 4991157.08
+		},
+		{
+			"is_practical": 1,
+			"name": "Sagmalcilar",
+			"uid": "1c5529cd3ca68ebdda2f28ba",
+			"x": 3217962.99,
+			"y": 4990038.06
+		},
+		{
+			"is_practical": 1,
+			"name": "Bayrampasa Maltepe",
+			"uid": "706aa89308f3e266abf729ba",
+			"x": 3219413.08,
+			"y": 4989042.75
+		},
+		{
+			"is_practical": 1,
+			"name": "Topkapi Ulubatli",
+			"uid": "f0349cc6642893beaeb22aba",
+			"x": 3220565.05,
+			"y": 4987543.29
+		},
+		{
+			"is_practical": 1,
+			"name": "Emniyet Fatih",
+			"uid": "c361f01d15f096fb9fec2bba",
+			"x": 3221497.25,
+			"y": 4986677.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Aksaray",
+			"uid": "aeba81c510b5a7a5118824ba",
+			"x": 3222576.56,
+			"y": 4985755.17
+		},
+		{
+			"is_practical": 1,
+			"name": "Yenikapi",
+			"uid": "dc62848021eb29c1c4f025ba",
+			"x": 3222812.12,
+			"y": 4984886.62
+		}]
+	},
+	{
+		"line_name": "M2(Haciosman-Yenikapi)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Haciosman",
+			"uid": "e6793bba7af77d1e8d7727ba",
+			"x": 3231726.71,
+			"y": 5004613.24
+		},
+		{
+			"is_practical": 1,
+			"name": "Darussafaka",
+			"uid": "691deec2fb50b53e210220ba",
+			"x": 3231036.65,
+			"y": 5003167
+		},
+		{
+			"is_practical": 1,
+			"name": "Ataturk Oto Sanayi",
+			"uid": "bf656f653370194b9de321ba",
+			"x": 3231006.47,
+			"y": 5001509.78
+		},
+		{
+			"is_practical": 1,
+			"name": "ITU Ayazaga",
+			"uid": "3fc2a7459f05a5aabfa822ba",
+			"x": 3230632.17,
+			"y": 4999949.16
+		},
+		{
+			"is_practical": 1,
+			"name": "4. Levent",
+			"uid": "f0e20b3023e487e1d0ff23ba",
+			"x": 3229131.34,
+			"y": 4996628.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Levent",
+			"uid": "5d97b7d101afe8b63b221cba",
+			"x": 3229775.07,
+			"y": 4995466.72
+		},
+		{
+			"is_practical": 1,
+			"name": "Gayrettepe",
+			"uid": "e276959a6ef8036b32f71dba",
+			"x": 3229651.92,
+			"y": 4994229.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Sisli Mecidiyekoy",
+			"uid": "c13dfacd85250abeb75f1eba",
+			"x": 3227429.3,
+			"y": 4993470.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Osmanbey",
+			"uid": "516a11108cf08f16d4851fba",
+			"x": 3226880.26,
+			"y": 4991976.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Taksim",
+			"uid": "bbb718c50958ecccdb1318ba",
+			"x": 3226723.05,
+			"y": 4989473.75
+		},
+		{
+			"is_practical": 1,
+			"name": "Sishane",
+			"uid": "b1629d6d6a82e35a970319ba",
+			"x": 3225522.23,
+			"y": 4988277.28
+		},
+		{
+			"is_practical": 1,
+			"name": "Golden Horn",
+			"uid": "35cafeb76514af4a28201aba",
+			"x": 3224567.07,
+			"y": 4987386.17
+		},
+		{
+			"is_practical": 1,
+			"name": "Vezneciler",
+			"uid": "5110f121290410696f3e1bba",
+			"x": 3223800.14,
+			"y": 4985884.35
+		},
+		{
+			"is_practical": 1,
+			"name": "Sanayi Mahallesi",
+			"uid": "5f86bd3196275777c16c14ba",
+			"x": 3228902.11,
+			"y": 4997913.08
+		},
+		{
+			"is_practical": 0,
+			"name": "Yenikapi",
+			"uid": "10960212d139f925c92915ba",
+			"x": 3222812.12,
+			"y": 4984886.62
+		}]
+	},
+	{
+		"line_name": "M3(Olimpiyat-Ikitelli Sanayi)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Olimpiyat",
+			"uid": "e6abeb5e772eccf022f017ba",
+			"x": 3202495.31,
+			"y": 4995726.09
+		},
+		{
+			"is_practical": 1,
+			"name": "Ziya Gokalp Mahallesi",
+			"uid": "49f9e31b4abe1ab9f42310ba",
+			"x": 3204575.31,
+			"y": 4995004.33
+		},
+		{
+			"is_practical": 0,
+			"name": "Ikitelli Sanayi",
+			"uid": "42bcde8b9cf7cc6a1d1d11ba",
+			"x": 3206338.91,
+			"y": 4994650.15
+		}]
+	},
+	{
+		"line_name": "M1B branch line(Kirazli Bagcilar-Otogar)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Kirazli Bagcilar",
+			"uid": "af65de11a31a0b2bfb2213ba",
+			"x": 3210861.58,
+			"y": 4988626.57
+		},
+		{
+			"is_practical": 0,
+			"name": "Bagcilar Meydan",
+			"uid": "78b6372f8d65c36b83a00cba",
+			"x": 3212310.95,
+			"y": 4989075.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Ucyuzlu",
+			"uid": "928819504525bbe9c4f50dba",
+			"x": 3213926.43,
+			"y": 4989476.98
+		},
+		{
+			"is_practical": 0,
+			"name": "Menderes",
+			"uid": "bdf7d1103da7fcbc86420eba",
+			"x": 3214774.99,
+			"y": 4990312.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Esenler",
+			"uid": "6ab7a9927af2be0bae080fba",
+			"x": 3215894.22,
+			"y": 4989496.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Otogar",
+			"uid": "1335eec7384596412fb908ba",
+			"x": 3216562.08,
+			"y": 4989914.98
+		}]
+	},
+	{
+		"line_name": "M4(Kadikoy-Tavsantepe)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Kadikoy",
+			"uid": "14d7843a91be585132870aba",
+			"x": 3230712.64,
+			"y": 4982717.31
+		},
+		{
+			"is_practical": 1,
+			"name": "Ayrilik Cesmesi",
+			"uid": "3b9d058bde1f0ace71210bba",
+			"x": 3231668.84,
+			"y": 4984057.52
+		},
+		{
+			"is_practical": 1,
+			"name": "Acibadem",
+			"uid": "bb2c4a2a8c804968873304ba",
+			"x": 3233225.41,
+			"y": 4984382.04
+		},
+		{
+			"is_practical": 1,
+			"name": "Unalan",
+			"uid": "f78d18b5cf26bf7a15c905ba",
+			"x": 3235005.56,
+			"y": 4983687.97
+		},
+		{
+			"is_practical": 1,
+			"name": "Goztepe",
+			"uid": "a4125b1339342d808bfc06ba",
+			"x": 3236106.19,
+			"y": 4983141.3
+		},
+		{
+			"is_practical": 1,
+			"name": "Yenisahra",
+			"uid": "e8b4ad01abceb3b596ca07ba",
+			"x": 3238425.08,
+			"y": 4981781.49
+		},
+		{
+			"is_practical": 1,
+			"name": "Kozyatagi",
+			"uid": "1fa63ffb35fbae831d5800ba",
+			"x": 3239457.1,
+			"y": 4980272.82
+		},
+		{
+			"is_practical": 1,
+			"name": "Bostan",
+			"uid": "8e5ca1ce28cd251103ec01ba",
+			"x": 3239939.17,
+			"y": 4978888.34
+		},
+		{
+			"is_practical": 1,
+			"name": "Kucukyali",
+			"uid": "1169bcf8a35f3ba55d0d02ba",
+			"x": 3241938.61,
+			"y": 4976553.48
+		},
+		{
+			"is_practical": 1,
+			"name": "Maltepe",
+			"uid": "0b5f376abdeb6544e01103ba",
+			"x": 3243755.11,
+			"y": 4974619.39
+		},
+		{
+			"is_practical": 1,
+			"name": "Huzurevi",
+			"uid": "81cd29dee30ad8582bb97cba",
+			"x": 3244500,
+			"y": 4973826.57
+		},
+		{
+			"is_practical": 1,
+			"name": "Gulsuyu",
+			"uid": "9c79773f5e1613f0b2077dba",
+			"x": 3245543.24,
+			"y": 4972888.58
+		},
+		{
+			"is_practical": 1,
+			"name": "Esenkent",
+			"uid": "c398ca2395be8a4e2cb17eba",
+			"x": 3246813.75,
+			"y": 4972376
+		},
+		{
+			"is_practical": 1,
+			"name": "Hastane Adliye",
+			"uid": "4184018b0c0014f8b6147fba",
+			"x": 3247981.19,
+			"y": 4971892.49
+		},
+		{
+			"is_practical": 1,
+			"name": "Soganlik",
+			"uid": "8b2c983592b68e5dfea778ba",
+			"x": 3249815.08,
+			"y": 4971143.24
+		},
+		{
+			"is_practical": 1,
+			"name": "Kartal",
+			"uid": "119206830813c6ee9ff779ba",
+			"x": 3251760.83,
+			"y": 4970272.04
+		},
+		{
+			"is_practical": 1,
+			"name": "Yakacik",
+			"uid": "8e249c2640a0a7beacee7aba",
+			"x": 3253723.96,
+			"y": 4968613.83
+		},
+		{
+			"is_practical": 1,
+			"name": "Pendik",
+			"uid": "1381d49521f094a72ce67bba",
+			"x": 3254839.1,
+			"y": 4967652.58
+		},
+		{
+			"is_practical": 1,
+			"name": "Tavsantepe",
+			"uid": "5a32b5c512e914af45e274ba",
+			"x": 3255839.55,
+			"y": 4966762.51
+		}]
+	},
+	{
+		"line_name": "Marmaray Line(Ayrilik Cesmesi-Kazlicesme)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Ayrilik Cesmesi",
+			"uid": "f1f98acc85250abeb65f1e77",
+			"x": 3231668.84,
+			"y": 4984057.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Uskudar",
+			"uid": "81ae61118cf08f16d5851f77",
+			"x": 3229960.26,
+			"y": 4987811.26
+		},
+		{
+			"is_practical": 0,
+			"name": "Sirkeci",
+			"uid": "6b7368c40958ecccda131877",
+			"x": 3225617.89,
+			"y": 4986275.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Yenikapi",
+			"uid": "61a6ed6c6a82e35a96031977",
+			"x": 3222812.12,
+			"y": 4984886.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Kazlicesme",
+			"uid": "e50e8eb66514af4a29201a77",
+			"x": 3218974.06,
+			"y": 4982948.67
+		}]
+	},
+	{
+		"line_name": "T4(Mescid i Selam-Topkapi)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Mescid i Selam",
+			"uid": "0a7b06d4fbe5fe527ec876ba",
+			"x": 3211478.1,
+			"y": 5001415.72
+		},
+		{
+			"is_practical": 1,
+			"name": "Cebeci",
+			"uid": "85736fd0781c4681f60e77ba",
+			"x": 3212430.62,
+			"y": 5000615.65
+		},
+		{
+			"is_practical": 1,
+			"name": "Sultanciftligi",
+			"uid": "ed77ec29c0cfce470f0a70ba",
+			"x": 3212783.48,
+			"y": 4999658.78
+		},
+		{
+			"is_practical": 1,
+			"name": "Yenimahalle",
+			"uid": "6d8e54fa48093743343a71ba",
+			"x": 3213046.3,
+			"y": 4998767.24
+		},
+		{
+			"is_practical": 1,
+			"name": "Haci Sukru",
+			"uid": "d45ddc3cb10d0c73028972ba",
+			"x": 3213165.36,
+			"y": 4997688.38
+		},
+		{
+			"is_practical": 1,
+			"name": "50.Yil Bastabya",
+			"uid": "5b9b25388a3d3ac08bdb73ba",
+			"x": 3213606.79,
+			"y": 4996892.68
+		},
+		{
+			"is_practical": 1,
+			"name": "Cumhuriyet",
+			"uid": "a39f1e08bc8eb39235b06cba",
+			"x": 3214052.55,
+			"y": 4996414.94
+		},
+		{
+			"is_practical": 1,
+			"name": "Metris",
+			"uid": "9baf28bb35dc0df92fb96dba",
+			"x": 3214470.7,
+			"y": 4995815.26
+		},
+		{
+			"is_practical": 1,
+			"name": "Karadeniz",
+			"uid": "ac1ca1e98bb717f04d776eba",
+			"x": 3215350.64,
+			"y": 4995031.17
+		},
+		{
+			"is_practical": 1,
+			"name": "Taskopru",
+			"uid": "3a4e1f8291be753e07026fba",
+			"x": 3215857.39,
+			"y": 4994668.18
+		},
+		{
+			"is_practical": 1,
+			"name": "Ali Fuat Basgil",
+			"uid": "8525058bf3703f4b9e9d68ba",
+			"x": 3216804.13,
+			"y": 4993984.26
+		},
+		{
+			"is_practical": 1,
+			"name": "Bosna Cukurcesme",
+			"uid": "9c2c6745b905a6d4770269ba",
+			"x": 3217405.26,
+			"y": 4993105.79
+		},
+		{
+			"is_practical": 1,
+			"name": "Sagmalcilar",
+			"uid": "ffe22d30209a4f4bb05c6aba",
+			"x": 3217874.27,
+			"y": 4992519.18
+		},
+		{
+			"is_practical": 1,
+			"name": "Uluyo Berec",
+			"uid": "b297b4afc90588150c0e6bba",
+			"x": 3218155.96,
+			"y": 4992254.9
+		},
+		{
+			"is_practical": 1,
+			"name": "Rami",
+			"uid": "2a085d300e5b3447a10464ba",
+			"x": 3218529.14,
+			"y": 4991353.2
+		},
+		{
+			"is_practical": 1,
+			"name": "Topcular",
+			"uid": "c0979a6eb209994de6e965ba",
+			"x": 3219292.9,
+			"y": 4990210.47
+		},
+		{
+			"is_practical": 1,
+			"name": "Demirkapi",
+			"uid": "06c9263c1f03dea0adcb66ba",
+			"x": 3219801.1,
+			"y": 4989411.85
+		},
+		{
+			"is_practical": 1,
+			"name": "Sehitlik",
+			"uid": "b59b8b3658ee9582601c67ba",
+			"x": 3220348.53,
+			"y": 4989050.3
+		},
+		{
+			"is_practical": 1,
+			"name": "Edirnekapi",
+			"uid": "1991ccdb13cc58556c4760ba",
+			"x": 3220997.59,
+			"y": 4988585.66
+		},
+		{
+			"is_practical": 1,
+			"name": "Vatan",
+			"uid": "5d7c87f9de1b540ef82d61ba",
+			"x": 3220412.37,
+			"y": 4987779.77
+		},
+		{
+			"is_practical": 1,
+			"name": "Fetihkapi",
+			"uid": "175e4a2ed240c064210262ba",
+			"x": 3219991.29,
+			"y": 4987230.91
+		},
+		{
+			"is_practical": 0,
+			"name": "Topkapi",
+			"uid": "dd894675462a194bb8bd63ba",
+			"x": 3219340.83,
+			"y": 4986871.19
+		}]
+	},
+	{
+		"line_name": "T4(Topkapi-Mescid i Selam)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Topkapi",
+			"uid": "47b80b3006ba42fc8bf15dba",
+			"x": 3219340.83,
+			"y": 4986871.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Fetihkapi",
+			"uid": "9f97928fc4b2b3b83f9a5eba",
+			"x": 3219991.29,
+			"y": 4987230.91
+		},
+		{
+			"is_practical": 0,
+			"name": "Vatan",
+			"uid": "7928508735f607d3cafa5fba",
+			"x": 3220412.37,
+			"y": 4987779.77
+		},
+		{
+			"is_practical": 0,
+			"name": "Edirnekapi",
+			"uid": "ba20a1c3819df2b3616858ba",
+			"x": 3220997.59,
+			"y": 4988585.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Sehitlik",
+			"uid": "486415a874fd59214f3a59ba",
+			"x": 3220348.53,
+			"y": 4989050.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Demirkapi",
+			"uid": "fd0fe0c8df6f7773a8175aba",
+			"x": 3219801.1,
+			"y": 4989411.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Topcular",
+			"uid": "0f6f4b5af13d905e72455bba",
+			"x": 3219292.9,
+			"y": 4990210.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Rami",
+			"uid": "a5fd650816104a0cb54f54ba",
+			"x": 3218529.14,
+			"y": 4991353.2
+		},
+		{
+			"is_practical": 0,
+			"name": "Uluyo Berec",
+			"uid": "88af8225cc428d06b72655ba",
+			"x": 3218155.96,
+			"y": 4992254.9
+		},
+		{
+			"is_practical": 0,
+			"name": "Sagmalcilar",
+			"uid": "6e8258770b488f6fa7c756ba",
+			"x": 3217874.27,
+			"y": 4992519.18
+		},
+		{
+			"is_practical": 0,
+			"name": "Bosna Cukurcesme",
+			"uid": "bbd09f7d09219f8eae0457ba",
+			"x": 3217405.26,
+			"y": 4993105.79
+		},
+		{
+			"is_practical": 0,
+			"name": "Ali Fuat Basgil",
+			"uid": "7dda9d1419c0964d9a0050ba",
+			"x": 3216804.13,
+			"y": 4993984.26
+		},
+		{
+			"is_practical": 0,
+			"name": "Taskopru",
+			"uid": "7cb38df51003a249c51e51ba",
+			"x": 3215857.39,
+			"y": 4994668.18
+		},
+		{
+			"is_practical": 0,
+			"name": "Karadeniz",
+			"uid": "6d5284362407fd57dc1e52ba",
+			"x": 3215350.64,
+			"y": 4995031.17
+		},
+		{
+			"is_practical": 0,
+			"name": "Metris",
+			"uid": "6391b0327b19e457eaf853ba",
+			"x": 3214470.7,
+			"y": 4995815.26
+		},
+		{
+			"is_practical": 0,
+			"name": "Cumhuriyet",
+			"uid": "5695ef2c6219d2b193114cba",
+			"x": 3214052.55,
+			"y": 4996414.94
+		},
+		{
+			"is_practical": 0,
+			"name": "50.Yil Bastabya",
+			"uid": "0a8bf62c54ffab581df74dba",
+			"x": 3213606.79,
+			"y": 4996892.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Haci Sukru",
+			"uid": "128bc0ca2d1625bed6b74eba",
+			"x": 3213165.36,
+			"y": 4997688.38
+		},
+		{
+			"is_practical": 0,
+			"name": "Yenimahalle",
+			"uid": "3b6db923a3f0eefe01294fba",
+			"x": 3213046.3,
+			"y": 4998767.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Sultanciftligi",
+			"uid": "438437c568b039602afc48ba",
+			"x": 3212783.48,
+			"y": 4999658.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Cebeci",
+			"uid": "ce62fc85bf2e12b5b04c49ba",
+			"x": 3212430.62,
+			"y": 5000615.65
+		},
+		{
+			"is_practical": 0,
+			"name": "Mescid i Selam",
+			"uid": "04222b1b94fb88054bcc4aba",
+			"x": 3211478.1,
+			"y": 5001415.72
+		}]
+	},
+	{
+		"line_name": "M5(Uskudar-Yamanevler)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Uskudar",
+			"uid": "0b90d8ce9be7ff62c07da258",
+			"x": 3229960.26,
+			"y": 4987811.26
+		},
+		{
+			"is_practical": 1,
+			"name": "Fistikagacl",
+			"uid": "1f8ed0d4792cf934912ca358",
+			"x": 3231641.03,
+			"y": 4988131.46
+		},
+		{
+			"is_practical": 1,
+			"name": "Baglarbasi",
+			"uid": "1094321f7f7aa865f7c59c58",
+			"x": 3232276.94,
+			"y": 4987703.9
+		},
+		{
+			"is_practical": 1,
+			"name": "Altunizade",
+			"uid": "f35f34492e2bce8caa059d58",
+			"x": 3233286.32,
+			"y": 4987315.74
+		},
+		{
+			"is_practical": 1,
+			"name": "Kisikli",
+			"uid": "f609651848c2934cd3f49e58",
+			"x": 3235214.64,
+			"y": 4987384.4
+		},
+		{
+			"is_practical": 1,
+			"name": "Bulgurlu",
+			"uid": "a65803f11502eabd293a9f58",
+			"x": 3236744.15,
+			"y": 4986456.29
+		},
+		{
+			"is_practical": 1,
+			"name": "Omraniye",
+			"uid": "cfb15e316cf31073266e9858",
+			"x": 3237907.91,
+			"y": 4987670.56
+		},
+		{
+			"is_practical": 1,
+			"name": "Carsi",
+			"uid": "937127c0963d1f271ee99958",
+			"x": 3239055.15,
+			"y": 4987815.94
+		},
+		{
+			"is_practical": 1,
+			"name": "yamanevler",
+			"uid": "e980dd0e996927a041ab9a58",
+			"x": 3240053.06,
+			"y": 4987644.65
+		}]
+	},
+	{
+		"line_name": "M2(Sanayi Mahallesi-Seyrantepe)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Sanayi Mahallesi",
+			"uid": "fe699a7ef5cb2cfcc33644ba",
+			"x": 3228902.11,
+			"y": 4997913.08
+		},
+		{
+			"is_practical": 1,
+			"name": "Seyrantepe",
+			"uid": "67d961feaab2fb7f400245ba",
+			"x": 3228050.95,
+			"y": 4998883.58
+		}]
+	},
+	{
+		"line_name": "M2(Seyrantepe-Sanayi Mahallesi)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Seyrantepe",
+			"uid": "cd20e904fe0574244d5547ba",
+			"x": 3228050.95,
+			"y": 4998883.58
+		},
+		{
+			"is_practical": 0,
+			"name": "Sanayi Mahallesi",
+			"uid": "1ba36a30f26a751cbda240ba",
+			"x": 3228902.11,
+			"y": 4997913.08
+		}]
+	},
+	{
+		"line_name": "M1 line(Yenikapi-Otogar)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Yenikapi",
+			"uid": "96f8676703a5bc5cbd4842ba",
+			"x": 3222812.12,
+			"y": 4984886.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Aksaray",
+			"uid": "90c097903a128501167643ba",
+			"x": 3222576.56,
+			"y": 4985755.17
+		},
+		{
+			"is_practical": 0,
+			"name": "Emniyet Fatih",
+			"uid": "6137ae27034f2e3f59bbbcbb",
+			"x": 3221497.25,
+			"y": 4986677.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Topkapi Ulubatli",
+			"uid": "5b80977aa87161f27f29bdbb",
+			"x": 3220565.05,
+			"y": 4987543.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Bayrampasa Maltepe",
+			"uid": "63dd3c44e7bc47605bf6bebb",
+			"x": 3219413.08,
+			"y": 4989042.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Sagmalcilar",
+			"uid": "f7e37389c12e63bf8505bfbb",
+			"x": 3217962.99,
+			"y": 4990038.06
+		},
+		{
+			"is_practical": 0,
+			"name": "Kocatepe",
+			"uid": "b92e551be5f1bd4cf603b8bb",
+			"x": 3216683.06,
+			"y": 4991157.08
+		},
+		{
+			"is_practical": 0,
+			"name": "Otogar",
+			"uid": "9cbc71c43b02ce4a6d20b9bb",
+			"x": 3216562.08,
+			"y": 4989914.98
+		}]
+	},
+	{
+		"line_name": "M2(Yenikapi-Haciosman)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Yenikapi",
+			"uid": "6090dc31d327cb7526d2bbbb",
+			"x": 3222812.12,
+			"y": 4984886.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Vezneciler",
+			"uid": "129647124d3b1e9b9868b4bb",
+			"x": 3223800.14,
+			"y": 4985884.35
+		},
+		{
+			"is_practical": 0,
+			"name": "Golden Horn",
+			"uid": "8ab5d90e98d5a0218b2fb5bb",
+			"x": 3224567.07,
+			"y": 4987386.17
+		},
+		{
+			"is_practical": 0,
+			"name": "Sishane",
+			"uid": "15a90ce0266fb36676e5b6bb",
+			"x": 3225522.23,
+			"y": 4988277.28
+		},
+		{
+			"is_practical": 0,
+			"name": "Taksim",
+			"uid": "cf47b25a35284eacd618b7bb",
+			"x": 3226723.05,
+			"y": 4989473.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Osmanbey",
+			"uid": "70fda11dc8e2ee51fe0eb0bb",
+			"x": 3226880.26,
+			"y": 4991976.67
+		},
+		{
+			"is_practical": 0,
+			"name": "Sisli Mecidiyekoy",
+			"uid": "60ba5cd7681fc6473904b1bb",
+			"x": 3227429.3,
+			"y": 4993470.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Gayrettepe",
+			"uid": "9c70fc2a4009014dfa42b2bb",
+			"x": 3229651.92,
+			"y": 4994229.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Levent",
+			"uid": "3b8dd43c8703c20b0a5cb3bb",
+			"x": 3229775.07,
+			"y": 4995466.72
+		},
+		{
+			"is_practical": 0,
+			"name": "4. Levent",
+			"uid": "129b133644453215c356acbb",
+			"x": 3229131.34,
+			"y": 4996628.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Sanayi Mahallesi",
+			"uid": "d691d070b45bfb1ff90cadbb",
+			"x": 3228902.11,
+			"y": 4997913.08
+		},
+		{
+			"is_practical": 0,
+			"name": "ITU Ayazaga",
+			"uid": "14d7206e7d51c145364aaebb",
+			"x": 3230632.17,
+			"y": 4999949.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Ataturk Oto Sanayi",
+			"uid": "fbc9e964470b0e033310afbb",
+			"x": 3231006.47,
+			"y": 5001509.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Darussafaka",
+			"uid": "33c3d33e884d0b59b020a8bb",
+			"x": 3231036.65,
+			"y": 5003167
+		},
+		{
+			"is_practical": 0,
+			"name": "Haciosman",
+			"uid": "0a991c788d1788696140a9bb",
+			"x": 3231726.71,
+			"y": 5004613.24
+		}]
+	},
+	{
+		"line_name": "F1(Taksim-Kabatas)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Taksim",
+			"uid": "c6859a12df4728442bd7abbb",
+			"x": 3226723.05,
+			"y": 4989473.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Kabatas",
+			"uid": "44b54b72ae0a139ecf06a4bb",
+			"x": 3227432.26,
+			"y": 4989062.92
+		}]
+	},
+	{
+		"line_name": "Tunel(Beyoglu-Karakoy)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Beyoglu",
+			"uid": "e69801e57101d6ad38e4a6bb",
+			"x": 3225422.04,
+			"y": 4988214.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Karakoy",
+			"uid": "d242e53450e300ad2dfaa7bb",
+			"x": 3225482.31,
+			"y": 4987345.42
+		}]
+	},
+	{
+		"line_name": "Tunel(Karakoy-Beyoglu)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Karakoy",
+			"uid": "157112d693fd1da9c72ba1bb",
+			"x": 3225482.31,
+			"y": 4987345.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Beyoglu",
+			"uid": "c27107c89be7ff62c17da2bb",
+			"x": 3225422.04,
+			"y": 4988214.96
+		}]
+	},
+	{
+		"line_name": "M6(Bogazici Universitesi-Levent)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Bogazici Universitesi",
+			"uid": "d975ed197f7aa865f6c59cbb",
+			"x": 3233401.14,
+			"y": 4996582.36
+		},
+		{
+			"is_practical": 0,
+			"name": "Etiler",
+			"uid": "38beeb4f2e2bce8cab059dbb",
+			"x": 3232490.67,
+			"y": 4996161.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Nispetiye",
+			"uid": "3fe8ba1e48c2934cd2f49ebb",
+			"x": 3231022.58,
+			"y": 4995415.7
+		},
+		{
+			"is_practical": 0,
+			"name": "Levent",
+			"uid": "91badcf71502eabd283a9fbb",
+			"x": 3229775.07,
+			"y": 4995466.72
+		}]
+	},
+	{
+		"line_name": "M3(Metrokent-Kirazli Bagcilar)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Metrokent",
+			"uid": "a893f8c6963d1f271fe999bb",
+			"x": 3206185.26,
+			"y": 4999778.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Basak Konutlari",
+			"uid": "d0620208996927a040ab9abb",
+			"x": 3205012.41,
+			"y": 4998388.27
+		},
+		{
+			"is_practical": 0,
+			"name": "Siteler",
+			"uid": "2dac0d5ca1ee78e233169bbb",
+			"x": 3205656.1,
+			"y": 4996949.59
+		},
+		{
+			"is_practical": 0,
+			"name": "Turgut Ozal",
+			"uid": "23f835dbfeac0b5f1c3894bb",
+			"x": 3205760.98,
+			"y": 4995935.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Ikitelli Sanayi",
+			"uid": "187f6a998d112471ca1b95bb",
+			"x": 3206338.91,
+			"y": 4994650.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Yeni Mahalle",
+			"uid": "463d1924a23ff2527bf796bb",
+			"x": 3210017.92,
+			"y": 4990025.01
+		},
+		{
+			"is_practical": 0,
+			"name": "Mahmutey",
+			"uid": "3a80360a741c43beeb1e97bb",
+			"x": 3209429.01,
+			"y": 4991990.41
+		},
+		{
+			"is_practical": 0,
+			"name": "ISTOC",
+			"uid": "14aee029c5f0d35716a190bb",
+			"x": 3208908.39,
+			"y": 4993616.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Kirazli Bagcilar",
+			"uid": "c18d51c555192ee8dbd891bb",
+			"x": 3210861.58,
+			"y": 4988626.57
+		}]
+	},
+	{
+		"line_name": "M3(Ikitelli Sanayi-Olimpiyat)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Ikitelli Sanayi",
+			"uid": "e6883c9365df78a85b1093bb",
+			"x": 3206338.91,
+			"y": 4994650.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Ziya Gokalp Mahallesi",
+			"uid": "1a37f1eafee6635996f08cbb",
+			"x": 3204575.31,
+			"y": 4995004.33
+		},
+		{
+			"is_practical": 0,
+			"name": "Olimpiyat",
+			"uid": "d44e6ad3e517aeb949fc8dbb",
+			"x": 3202495.31,
+			"y": 4995726.09
+		}]
+	},
+	{
+		"line_name": "M4(Tavsantepe-Kadikoy)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Tavsantepe",
+			"uid": "4a86bcc2f7fb2fddbadf8fbb",
+			"x": 3255839.55,
+			"y": 4966762.51
+		},
+		{
+			"is_practical": 0,
+			"name": "Pendik",
+			"uid": "866663cea993829688b988bb",
+			"x": 3254839.1,
+			"y": 4967652.58
+		},
+		{
+			"is_practical": 0,
+			"name": "Yakacik",
+			"uid": "5a6a3da604d8b0f08c1a89bb",
+			"x": 3253723.96,
+			"y": 4968613.83
+		},
+		{
+			"is_practical": 0,
+			"name": "Kartal",
+			"uid": "050290ed36beb45381288abb",
+			"x": 3251760.83,
+			"y": 4970272.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Soganlik",
+			"uid": "af49a28b321db961ddee8bbb",
+			"x": 3249815.08,
+			"y": 4971143.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Hastane Adliye",
+			"uid": "9c2fa6283f2fe5a797ec84bb",
+			"x": 3247981.19,
+			"y": 4971892.49
+		},
+		{
+			"is_practical": 0,
+			"name": "Esenkent",
+			"uid": "9b8cab1a63e9afa5fbdc85bb",
+			"x": 3246813.75,
+			"y": 4972376
+		},
+		{
+			"is_practical": 0,
+			"name": "Gulsuyu",
+			"uid": "97bef7dc29ebc3955fbe86bb",
+			"x": 3245543.24,
+			"y": 4972888.58
+		},
+		{
+			"is_practical": 0,
+			"name": "Huzurevi",
+			"uid": "c478bdde45db67f7704b87bb",
+			"x": 3244500,
+			"y": 4973826.57
+		},
+		{
+			"is_practical": 0,
+			"name": "Maltepe",
+			"uid": "8f7ad1eee1b94802715e80bb",
+			"x": 3243755.11,
+			"y": 4974619.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Kucukyali",
+			"uid": "e04a758cce4c4917b13c81bb",
+			"x": 3241938.61,
+			"y": 4976553.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Bostan",
+			"uid": "45285a79cf598975e8e582bb",
+			"x": 3239939.17,
+			"y": 4978888.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Kozyatagi",
+			"uid": "6ddd5b6c0f3bd0acf02d83bb",
+			"x": 3239457.1,
+			"y": 4980272.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Yenisahra",
+			"uid": "6dc89b0e56e2c864f4eafcbb",
+			"x": 3238425.08,
+			"y": 4981781.49
+		},
+		{
+			"is_practical": 0,
+			"name": "Goztepe",
+			"uid": "aeaac2d74e2acca33913fdbb",
+			"x": 3236106.19,
+			"y": 4983141.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Unalan",
+			"uid": "f673da1f4aed015a5fd4febb",
+			"x": 3235005.56,
+			"y": 4983687.97
+		},
+		{
+			"is_practical": 0,
+			"name": "Acibadem",
+			"uid": "d1bbded88714679d54bfffbb",
+			"x": 3233225.41,
+			"y": 4984382.04
+		},
+		{
+			"is_practical": 0,
+			"name": "Ayrilik Cesmesi",
+			"uid": "d47c1321e1d36cf6ee74f8bb",
+			"x": 3231668.84,
+			"y": 4984057.52
+		},
+		{
+			"is_practical": 0,
+			"name": "Kadikoy",
+			"uid": "1a8575e6eab8d63de215f9bb",
+			"x": 3230712.64,
+			"y": 4982717.31
+		}]
+	},
+	{
+		"line_name": "M5(Yamanevler-Uskudar)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "yamanevler",
+			"uid": "1a1aeaddfeac0b5f1d389458",
+			"x": 3240053.06,
+			"y": 4987644.65
+		},
+		{
+			"is_practical": 0,
+			"name": "Carsi",
+			"uid": "239db59f8d112471cb1b9558",
+			"x": 3239055.23,
+			"y": 4987815.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Omraniye",
+			"uid": "7fdfc622a23ff2527af79658",
+			"x": 3237907.91,
+			"y": 4987670.56
+		},
+		{
+			"is_practical": 0,
+			"name": "Bulgurlu",
+			"uid": "0d62e90c741c43beea1e9758",
+			"x": 3236744.15,
+			"y": 4986456.29
+		},
+		{
+			"is_practical": 0,
+			"name": "Kisikli",
+			"uid": "5d4c3f2fc5f0d35717a19058",
+			"x": 3235213.71,
+			"y": 4987384.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Altunizade",
+			"uid": "8a6f8ec355192ee8dad89158",
+			"x": 3233286.32,
+			"y": 4987315.74
+		},
+		{
+			"is_practical": 0,
+			"name": "Baglarbasi",
+			"uid": "38831e2aa8a6e39141e19258",
+			"x": 3232276.94,
+			"y": 4987703.9
+		},
+		{
+			"is_practical": 0,
+			"name": "Fistikagacl",
+			"uid": "a96ae39565df78a85a109358",
+			"x": 3231641.03,
+			"y": 4988131.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Uskudar",
+			"uid": "53d52eecfee6635997f08c58",
+			"x": 3229960.26,
+			"y": 4987811.26
+		}]
+	},
+	{
+		"line_name": "T1(Kabatas-Bagcilar Meydan)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Kabatas",
+			"uid": "7129c4465c12d31fc6effbbb",
+			"x": 3227432.26,
+			"y": 4989062.92
+		},
+		{
+			"is_practical": 0,
+			"name": "Findikli",
+			"uid": "cae2c8275551fea63686f4bb",
+			"x": 3227116.35,
+			"y": 4988673.15
+		},
+		{
+			"is_practical": 0,
+			"name": "Tophane",
+			"uid": "c583c16478e80ecf04fef5bb",
+			"x": 3226137.71,
+			"y": 4988003.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Karakoy",
+			"uid": "cdc0ecdd88813cb717c8f6bb",
+			"x": 3225482.31,
+			"y": 4987345.42
+		},
+		{
+			"is_practical": 0,
+			"name": "Eminonu",
+			"uid": "ef791cb4baf92f819f09f7bb",
+			"x": 3225299.89,
+			"y": 4986650.45
+		},
+		{
+			"is_practical": 0,
+			"name": "Sirkeci",
+			"uid": "1e102ecca9cfa740ca09f0bb",
+			"x": 3225617.89,
+			"y": 4986275.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Gulhane",
+			"uid": "2f683dfa210ef240744ff1bb",
+			"x": 3225895.25,
+			"y": 4985819.91
+		},
+		{
+			"is_practical": 0,
+			"name": "Sultanahemt",
+			"uid": "3d5eb53b740e4c06213bf2bb",
+			"x": 3225574.36,
+			"y": 4985234.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Cemberlitas",
+			"uid": "b29fe03bca4819726849f3bb",
+			"x": 3225114.06,
+			"y": 4985282.65
+		},
+		{
+			"is_practical": 0,
+			"name": "Beyazit",
+			"uid": "e69f5e7d9f3c50008c55ecbb",
+			"x": 3224581.13,
+			"y": 4985387.22
+		},
+		{
+			"is_practical": 0,
+			"name": "Laleli Universite",
+			"uid": "5bd90b09d64eb41cdbecedbb",
+			"x": 3223837.7,
+			"y": 4985459.8
+		},
+		{
+			"is_practical": 0,
+			"name": "Aksaray",
+			"uid": "0fad427b3252e3a58a36eebb",
+			"x": 3223130.6,
+			"y": 4985456.91
+		},
+		{
+			"is_practical": 0,
+			"name": "Yusufpasa",
+			"uid": "59dfa66765ebb27fcd04efbb",
+			"x": 3222449.56,
+			"y": 4985500.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Haseki",
+			"uid": "bcc3f1de3431f54d047ce8bb",
+			"x": 3222005.25,
+			"y": 4985645.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Findikzade",
+			"uid": "e87aa00473033c35a21de9bb",
+			"x": 3221530.43,
+			"y": 4985854.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Capa Sehremini",
+			"uid": "b8a0e736ba7b9a549d82eabb",
+			"x": 3220730.36,
+			"y": 4986380.38
+		},
+		{
+			"is_practical": 0,
+			"name": "Pazartekke",
+			"uid": "f8922e4e1c1aa5cb08f5ebbb",
+			"x": 3220191.71,
+			"y": 4986724.51
+		},
+		{
+			"is_practical": 0,
+			"name": "Topkapi",
+			"uid": "30ea882f238530bceb12e4bb",
+			"x": 3219340.83,
+			"y": 4986871.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Cevizlibag AOY",
+			"uid": "958bb7b0b6f2d35bad31e5bb",
+			"x": 3218420.22,
+			"y": 4986373.12
+		},
+		{
+			"is_practical": 0,
+			"name": "Merkezefendi",
+			"uid": "ab1422c75515957843afe6bb",
+			"x": 3218229.98,
+			"y": 4985558.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Aksemsettin",
+			"uid": "3163c12013367be6b817e7bb",
+			"x": 3218006.4,
+			"y": 4984655.38
+		},
+		{
+			"is_practical": 0,
+			"name": "Mithatpasa",
+			"uid": "d3848703fda8805e9122e0bb",
+			"x": 3217148.26,
+			"y": 4984535.61
+		},
+		{
+			"is_practical": 0,
+			"name": "Zeytinburnu",
+			"uid": "96a7699d0610a96b2902e1bb",
+			"x": 3216052,
+			"y": 4984297.22
+		},
+		{
+			"is_practical": 0,
+			"name": "Mehmet Akif",
+			"uid": "793992252f25114bd42ce2bb",
+			"x": 3215115.43,
+			"y": 4984912.39
+		},
+		{
+			"is_practical": 0,
+			"name": "Merter Tekstil Merkezi",
+			"uid": "8581bb109705ec65d23ce3bb",
+			"x": 3215037.01,
+			"y": 4985757.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Gungoren",
+			"uid": "adb403306a2bea753617dcbb",
+			"x": 3214662.42,
+			"y": 4986291.81
+		},
+		{
+			"is_practical": 0,
+			"name": "Akincilar",
+			"uid": "1694fe1e6c3b0e5e08ccddbb",
+			"x": 3213945.07,
+			"y": 4986599.66
+		},
+		{
+			"is_practical": 0,
+			"name": "Soganli",
+			"uid": "eabaf80e881030859e95debb",
+			"x": 3213477.55,
+			"y": 4987158.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Yavuz Selim",
+			"uid": "93aa1c25b6cba6dc4e2fdfbb",
+			"x": 3213168.25,
+			"y": 4987499.91
+		},
+		{
+			"is_practical": 0,
+			"name": "Gunestepe",
+			"uid": "768122fe20927666a80dd8bb",
+			"x": 3212818.31,
+			"y": 4988340.61
+		},
+		{
+			"is_practical": 0,
+			"name": "Bagcilar Meydan",
+			"uid": "4b5ab4a7f02890440869d9bb",
+			"x": 3212310.95,
+			"y": 4989075.85
+		}]
+	},
+	{
+		"line_name": "M1A branch line(Ataturk Havalimani-Otogar)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Ataturk Havalimani",
+			"uid": "0bb9823fb66e3574c9c3dbbb",
+			"x": 3208474.05,
+			"y": 4980994.85
+		},
+		{
+			"is_practical": 0,
+			"name": "DTM Istanbul Fuar Merkezi",
+			"uid": "ec9b225bb33af18a09a8d4bb",
+			"x": 3209195.33,
+			"y": 4982087.54
+		},
+		{
+			"is_practical": 0,
+			"name": "Yenibosna",
+			"uid": "4fff270f77c431e11811d5bb",
+			"x": 3210120.07,
+			"y": 4982514.57
+		},
+		{
+			"is_practical": 0,
+			"name": "Atakoy Sirinevler",
+			"uid": "4babe3f1b7af2058d12dd6bb",
+			"x": 3211131.61,
+			"y": 4982785.61
+		},
+		{
+			"is_practical": 0,
+			"name": "Bahcelievler",
+			"uid": "8055239aa616e9644054d7bb",
+			"x": 3213132.7,
+			"y": 4983382.08
+		},
+		{
+			"is_practical": 0,
+			"name": "Bakiroy Incirli",
+			"uid": "413e32236f2a781d250bd0bb",
+			"x": 3214422.05,
+			"y": 4983550.96
+		},
+		{
+			"is_practical": 0,
+			"name": "Zeytinburnu",
+			"uid": "5387fb1ffe531d422811d1bb",
+			"x": 3216052,
+			"y": 4984297.22
+		},
+		{
+			"is_practical": 0,
+			"name": "Merter",
+			"uid": "9bbb6a669b0c105879dbd2bb",
+			"x": 3216734.28,
+			"y": 4985145.08
+		},
+		{
+			"is_practical": 0,
+			"name": "Davutpasa YTU",
+			"uid": "0dc20f39961641927369d3bb",
+			"x": 3217201.68,
+			"y": 4987069.72
+		},
+		{
+			"is_practical": 0,
+			"name": "Terazidere",
+			"uid": "699d0223c7dc4b206ca3ccbb",
+			"x": 3216941.55,
+			"y": 4988512.58
+		},
+		{
+			"is_practical": 0,
+			"name": "Otogar",
+			"uid": "678753e9cd6e54eaabf0cdbb",
+			"x": 3216562.08,
+			"y": 4989914.98
+		}]
+	}],
+	"result": {
+		"ccode": "48552",
+		"qt": "bsi"
+	}
+}

@@ -1,0 +1,2465 @@
+{
+	"content": [{
+		"line_name": "Line 1(Frognerseteren-Bergkrystallen)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Frognerseteren",
+			"uid": "06af178fce4c4917b03c8154",
+			"x": 1188462.28,
+			"y": 8357738.92
+		},
+		{
+			"is_practical": 1,
+			"name": "Voksenkollen",
+			"uid": "a3cd387acf598975e9e58254",
+			"x": 1187269.15,
+			"y": 8357944.05
+		},
+		{
+			"is_practical": 1,
+			"name": "Lillevann",
+			"uid": "8f38396f0f3bd0acf12d8354",
+			"x": 1185887.07,
+			"y": 8358050.65
+		},
+		{
+			"is_practical": 1,
+			"name": "Skogen",
+			"uid": "8f2df90d56e2c864f5eafc54",
+			"x": 1185295.88,
+			"y": 8356870.95
+		},
+		{
+			"is_practical": 1,
+			"name": "Voksenlia",
+			"uid": "b048a0d44e2acca33813fd54",
+			"x": 1186110.97,
+			"y": 8355035.16
+		},
+		{
+			"is_practical": 1,
+			"name": "Holmenkollen",
+			"uid": "e891b81c4aed015a5ed4fe54",
+			"x": 1187012.07,
+			"y": 8353545.11
+		},
+		{
+			"is_practical": 1,
+			"name": "Besserud",
+			"uid": "f359bcdb8714679d55bfff54",
+			"x": 1188201.63,
+			"y": 8352995.56
+		},
+		{
+			"is_practical": 1,
+			"name": "Midtstuen",
+			"uid": "f69e7122e1d36cf6ef74f854",
+			"x": 1189236.17,
+			"y": 8353787.84
+		},
+		{
+			"is_practical": 1,
+			"name": "Skadalen",
+			"uid": "3c6717e5eab8d63de315f954",
+			"x": 1190105.05,
+			"y": 8353894.44
+		},
+		{
+			"is_practical": 1,
+			"name": "Vettakollen",
+			"uid": "5ba01c8e5073da5cea56fa54",
+			"x": 1190653.24,
+			"y": 8353459.11
+		},
+		{
+			"is_practical": 1,
+			"name": "Grakammen",
+			"uid": "53cba6455c12d31fc7effb54",
+			"x": 1191213.06,
+			"y": 8352335.86
+		},
+		{
+			"is_practical": 1,
+			"name": "Slemdal",
+			"uid": "e800aa245551fea63786f454",
+			"x": 1190502.76,
+			"y": 8351478.65
+		},
+		{
+			"is_practical": 1,
+			"name": "Ris",
+			"uid": "eb61a36778e80ecf05fef554",
+			"x": 1191635.85,
+			"y": 8350842.68
+		},
+		{
+			"is_practical": 1,
+			"name": "Gaustad",
+			"uid": "e3228ede88813cb716c8f654",
+			"x": 1192262.87,
+			"y": 8350345.99
+		},
+		{
+			"is_practical": 1,
+			"name": "Vindern",
+			"uid": "cd9b7eb7baf92f819e09f754",
+			"x": 1191660.5,
+			"y": 8349594.46
+		},
+		{
+			"is_practical": 1,
+			"name": "Steinerud",
+			"uid": "3cf24ccfa9cfa740cb09f054",
+			"x": 1191609.88,
+			"y": 8348861.3
+		},
+		{
+			"is_practical": 1,
+			"name": "Frog",
+			"uid": "098a5ff9210ef240754ff154",
+			"x": 1192152.83,
+			"y": 8347858.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Majorstuen",
+			"uid": "1bbcd738740e4c06203bf254",
+			"x": 1192743.98,
+			"y": 8346934.24
+		},
+		{
+			"is_practical": 1,
+			"name": "Nationaltheatret",
+			"uid": "907d8238ca4819726949f354",
+			"x": 1194944.84,
+			"y": 8343487.93
+		},
+		{
+			"is_practical": 1,
+			"name": "Stortinget",
+			"uid": "c47d3c7e9f3c50008d55ec54",
+			"x": 1195673.41,
+			"y": 8343089.21
+		},
+		{
+			"is_practical": 1,
+			"name": "Jernbanetorget",
+			"uid": "653b690ad64eb41cdaeced54",
+			"x": 1196861.69,
+			"y": 8342888.68
+		},
+		{
+			"is_practical": 1,
+			"name": "Greenland",
+			"uid": "314f20783252e3a58b36ee54",
+			"x": 1197829.11,
+			"y": 8342989.88
+		},
+		{
+			"is_practical": 1,
+			"name": "Toyen",
+			"uid": "7b3dc46465ebb27fcc04ef54",
+			"x": 1199607.14,
+			"y": 8343530.02
+		},
+		{
+			"is_practical": 1,
+			"name": "A sea",
+			"uid": "9e2193dd3431f54d057ce854",
+			"x": 1200926.54,
+			"y": 8343215.62
+		},
+		{
+			"is_practical": 1,
+			"name": "Helsfyr",
+			"uid": "ce98c20773033c35a31de954",
+			"x": 1202426.45,
+			"y": 8342990.34
+		},
+		{
+			"is_practical": 1,
+			"name": "Brynseng",
+			"uid": "9e428535ba7b9a549c82ea54",
+			"x": 1203688.55,
+			"y": 8342209.72
+		},
+		{
+			"is_practical": 1,
+			"name": "Hoyenhall",
+			"uid": "da704c4d1c1aa5cb09f5eb54",
+			"x": 1204410.95,
+			"y": 8341570.6
+		},
+		{
+			"is_practical": 1,
+			"name": "Manglerud",
+			"uid": "1208ea2c238530bcea12e454",
+			"x": 1203644.18,
+			"y": 8339705.68
+		},
+		{
+			"is_practical": 1,
+			"name": "Ryen",
+			"uid": "bb69d5b3b6f2d35bac31e554",
+			"x": 1202882.83,
+			"y": 8339254.23
+		},
+		{
+			"is_practical": 1,
+			"name": "Brattlikollen",
+			"uid": "85f640c45515957842afe654",
+			"x": 1202379.4,
+			"y": 8337381.25
+		},
+		{
+			"is_practical": 1,
+			"name": "Karlsrud",
+			"uid": "1381a32313367be6b917e754",
+			"x": 1202875.65,
+			"y": 8335803.87
+		},
+		{
+			"is_practical": 1,
+			"name": "Lamberseter",
+			"uid": "f166e500fda8805e9022e054",
+			"x": 1203373.91,
+			"y": 8334263.44
+		},
+		{
+			"is_practical": 1,
+			"name": "Munkelia",
+			"uid": "b0450b9e0610a96b2802e154",
+			"x": 1203678.49,
+			"y": 8333272.75
+		},
+		{
+			"is_practical": 1,
+			"name": "Bergkrystallen",
+			"uid": "5fdbf0262f25114bd52ce254",
+			"x": 1204640.5,
+			"y": 8332923.41
+		}]
+	},
+	{
+		"line_name": "Line 4(Bergkrystallen-Vestli)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Bergkrystallen",
+			"uid": "8f5661336a2bea753717dc54",
+			"x": 1204640.5,
+			"y": 8332923.41
+		},
+		{
+			"is_practical": 0,
+			"name": "Munkelia",
+			"uid": "08769c1d6c3b0e5e09ccdd54",
+			"x": 1203678.49,
+			"y": 8333272.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Lamberseter",
+			"uid": "f4589a0d881030859f95de54",
+			"x": 1203373.91,
+			"y": 8334263.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Karlsrud",
+			"uid": "f1487e26b6cba6dc4f2fdf54",
+			"x": 1202875.65,
+			"y": 8335803.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Brattlikollen",
+			"uid": "146340fd20927666a90dd854",
+			"x": 1202379.4,
+			"y": 8337381.25
+		},
+		{
+			"is_practical": 0,
+			"name": "Ryen",
+			"uid": "2db8d6a4f02890440969d954",
+			"x": 1202882.83,
+			"y": 8339254.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Manglerud",
+			"uid": "bae1061e160a30200c3dda54",
+			"x": 1203644.18,
+			"y": 8339705.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Hoyenhall",
+			"uid": "695be03cb66e3574c8c3db54",
+			"x": 1204410.95,
+			"y": 8341570.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Brynseng",
+			"uid": "8e794058b33af18a08a8d454",
+			"x": 1203688.55,
+			"y": 8342209.72
+		},
+		{
+			"is_practical": 0,
+			"name": "Helsfyr",
+			"uid": "211d450c77c431e11911d554",
+			"x": 1202426.45,
+			"y": 8342990.34
+		},
+		{
+			"is_practical": 0,
+			"name": "A sea",
+			"uid": "254981f2b7af2058d02dd654",
+			"x": 1200926.54,
+			"y": 8343215.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Toyen",
+			"uid": "e2b74199a616e9644154d754",
+			"x": 1199607.14,
+			"y": 8343530.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Greenland",
+			"uid": "23dc50206f2a781d240bd054",
+			"x": 1197829.11,
+			"y": 8342989.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Jernbanetorget",
+			"uid": "3565991cfe531d422911d154",
+			"x": 1196861.69,
+			"y": 8342888.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Stortinget",
+			"uid": "fd5908659b0c105878dbd254",
+			"x": 1195673.41,
+			"y": 8343089.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Nationaltheatret",
+			"uid": "6f206d3a961641927269d354",
+			"x": 1194944.84,
+			"y": 8343487.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Majorstuen",
+			"uid": "0b7f6020c7dc4b206da3cc54",
+			"x": 1192743.98,
+			"y": 8346934.24
+		},
+		{
+			"is_practical": 1,
+			"name": "Blindern",
+			"uid": "196531eacd6e54eaaaf0cd54",
+			"x": 1192927.24,
+			"y": 8349099.55
+		},
+		{
+			"is_practical": 1,
+			"name": "Forskningsparken",
+			"uid": "49af3b58d2a493b92a06ce54",
+			"x": 1193435.28,
+			"y": 8349856.59
+		},
+		{
+			"is_practical": 1,
+			"name": "Ulleval stadion",
+			"uid": "401d249215f7134fc3f1cf54",
+			"x": 1194695.37,
+			"y": 8350544.76
+		},
+		{
+			"is_practical": 1,
+			"name": "Nydalen",
+			"uid": "5ed7e3c19501fab8583ac854",
+			"x": 1198607.62,
+			"y": 8351160.44
+		},
+		{
+			"is_practical": 1,
+			"name": "Storo",
+			"uid": "9e8463377cf66173911fc954",
+			"x": 1199854.81,
+			"y": 8350100.58
+		},
+		{
+			"is_practical": 1,
+			"name": "Sinsen",
+			"uid": "1f728ac0e73da856efdfca54",
+			"x": 1200276.72,
+			"y": 8348493.55
+		},
+		{
+			"is_practical": 1,
+			"name": "Loren",
+			"uid": "f585110b2e18d696f9f0cb54",
+			"x": 1201325.86,
+			"y": 8346736.89
+		},
+		{
+			"is_practical": 1,
+			"name": "Okern",
+			"uid": "6f4ed82e50d8c0b9a1acc454",
+			"x": 1202848.56,
+			"y": 8346425.46
+		},
+		{
+			"is_practical": 1,
+			"name": "Rislokka",
+			"uid": "a96ba6ee46f798e550e5c554",
+			"x": 1204784.61,
+			"y": 8347366.92
+		},
+		{
+			"is_practical": 1,
+			"name": "Vollebekk",
+			"uid": "d6abb0c11eab69ac1a94c654",
+			"x": 1205744.02,
+			"y": 8348187.84
+		},
+		{
+			"is_practical": 1,
+			"name": "Linderud",
+			"uid": "c384e89defe223dd0a1cc754",
+			"x": 1206593.61,
+			"y": 8349301.53
+		},
+		{
+			"is_practical": 1,
+			"name": "Veitvet",
+			"uid": "9ad819d4a59333554351c054",
+			"x": 1207459.04,
+			"y": 8350041.37
+		},
+		{
+			"is_practical": 1,
+			"name": "Rodtvet",
+			"uid": "6c9153a5b51b7a184007c154",
+			"x": 1208771.52,
+			"y": 8351564.8
+		},
+		{
+			"is_practical": 1,
+			"name": "Kalbakken",
+			"uid": "27e0432dfc56794e0582c254",
+			"x": 1209657.74,
+			"y": 8352194.84
+		},
+		{
+			"is_practical": 1,
+			"name": "Ammerud",
+			"uid": "34680a60ff003ccb5c17c354",
+			"x": 1210216.03,
+			"y": 8353058.82
+		},
+		{
+			"is_practical": 1,
+			"name": "Grorud",
+			"uid": "7c250936ba85655ecbe33c54",
+			"x": 1211405.07,
+			"y": 8353810.84
+		},
+		{
+			"is_practical": 1,
+			"name": "Romsas",
+			"uid": "00734cb3e310f2aaca213d54",
+			"x": 1212356.22,
+			"y": 8353982.71
+		},
+		{
+			"is_practical": 1,
+			"name": "Rommen",
+			"uid": "44f6152674e4f36840d63e54",
+			"x": 1214420.71,
+			"y": 8354004.23
+		},
+		{
+			"is_practical": 1,
+			"name": "Stovner",
+			"uid": "1e6382d27526799f48fd3f54",
+			"x": 1215982.89,
+			"y": 8353989.16
+		},
+		{
+			"is_practical": 1,
+			"name": "Vestli",
+			"uid": "88978310ffd171b4e4073854",
+			"x": 1216670.35,
+			"y": 8356154.85
+		}]
+	},
+	{
+		"line_name": "Line 5(Sognsvann-Vestli)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Sognsvann",
+			"uid": "05a201cc5b009d930bb93a54",
+			"x": 1194904.61,
+			"y": 8355153.69
+		},
+		{
+			"is_practical": 1,
+			"name": "Kringsja",
+			"uid": "0e89ad361bdd32f0f6e73b54",
+			"x": 1195001.15,
+			"y": 8354440
+		},
+		{
+			"is_practical": 1,
+			"name": "Holstein",
+			"uid": "a373edebb4becfaea3a93454",
+			"x": 1195620.64,
+			"y": 8353627.95
+		},
+		{
+			"is_practical": 1,
+			"name": "Osthorn",
+			"uid": "ecae428849e09ae012293554",
+			"x": 1196717.86,
+			"y": 8352737.82
+		},
+		{
+			"is_practical": 1,
+			"name": "Tasen",
+			"uid": "42cdbfd61cae2b60b31e3654",
+			"x": 1196954.95,
+			"y": 8352097.44
+		},
+		{
+			"is_practical": 1,
+			"name": "Berg",
+			"uid": "bc93ea98ad2e8a57f3193754",
+			"x": 1196132,
+			"y": 8351552.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Ulleval stadion",
+			"uid": "e8dd5b180c19ca50a3d23054",
+			"x": 1194695.37,
+			"y": 8350544.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Forskningsparken",
+			"uid": "5e5dfa2f4c1e9a9b3de23154",
+			"x": 1193435.28,
+			"y": 8349856.59
+		},
+		{
+			"is_practical": 0,
+			"name": "Blindern",
+			"uid": "fe6aba281cd504ab461a3254",
+			"x": 1192927.24,
+			"y": 8349099.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Majorstuen",
+			"uid": "bd6deae382e57f532f473354",
+			"x": 1192743.98,
+			"y": 8346934.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Nationaltheatret",
+			"uid": "eca674d3f91d160e6dc02c54",
+			"x": 1194944.84,
+			"y": 8343487.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Stortinget",
+			"uid": "6d960f2b9040548902ff2d54",
+			"x": 1195673.41,
+			"y": 8343089.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Jernbanetorget",
+			"uid": "176e6676d2c73bb683a12e54",
+			"x": 1196861.69,
+			"y": 8342888.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Greenland",
+			"uid": "7d3324f1bdf8bae8b7f42f54",
+			"x": 1197829.11,
+			"y": 8342989.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Toyen",
+			"uid": "3eb44bce3ca68ebddb2f2854",
+			"x": 1199607.14,
+			"y": 8343530.02
+		},
+		{
+			"is_practical": 1,
+			"name": "Carl Berners plass",
+			"uid": "568bca9008f3e266aaf72954",
+			"x": 1199971.47,
+			"y": 8345884.58
+		},
+		{
+			"is_practical": 0,
+			"name": "Sinsen",
+			"uid": "d6d5fec5642893beafb22a54",
+			"x": 1200276.72,
+			"y": 8348493.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Storo",
+			"uid": "e180921e15f096fb9eec2b54",
+			"x": 1199854.81,
+			"y": 8350100.58
+		},
+		{
+			"is_practical": 0,
+			"name": "Nydalen",
+			"uid": "8c5be3c610b5a7a510882454",
+			"x": 1198607.62,
+			"y": 8351160.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Ulleval stadion",
+			"uid": "f283e68321eb29c1c5f02554",
+			"x": 1194695.37,
+			"y": 8350544.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Forskningsparken",
+			"uid": "f6c6d7ddaf8ffcb944572654",
+			"x": 1193435.28,
+			"y": 8349856.59
+		},
+		{
+			"is_practical": 0,
+			"name": "Blindern",
+			"uid": "c49859b97af77d1e8c772754",
+			"x": 1192927.24,
+			"y": 8349099.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Majorstuen",
+			"uid": "4bfc8cc1fb50b53e20022054",
+			"x": 1192743.98,
+			"y": 8346934.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Nationaltheatret",
+			"uid": "99840d663370194b9ce32154",
+			"x": 1194944.84,
+			"y": 8343487.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Stortinget",
+			"uid": "1923c5469f05a5aabea82254",
+			"x": 1195673.41,
+			"y": 8343089.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Jernbanetorget",
+			"uid": "d203693323e487e1d1ff2354",
+			"x": 1196861.69,
+			"y": 8342888.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Greenland",
+			"uid": "7f76d5d201afe8b63a221c54",
+			"x": 1197829.11,
+			"y": 8342989.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Toyen",
+			"uid": "fc97f7996ef8036b33f71d54",
+			"x": 1199607.14,
+			"y": 8343530.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Carl Berners plass",
+			"uid": "dfdc98ce85250abeb65f1e54",
+			"x": 1199971.47,
+			"y": 8345884.58
+		},
+		{
+			"is_practical": 1,
+			"name": "Hasle",
+			"uid": "b38b73138cf08f16d5851f54",
+			"x": 1201583.22,
+			"y": 8345551.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Okern",
+			"uid": "59567ac60958ecccda131854",
+			"x": 1202848.56,
+			"y": 8346425.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Rislokka",
+			"uid": "5783ff6e6a82e35a96031954",
+			"x": 1204784.61,
+			"y": 8347366.92
+		},
+		{
+			"is_practical": 0,
+			"name": "Vollebekk",
+			"uid": "d32b9cb46514af4a29201a54",
+			"x": 1205744.02,
+			"y": 8348187.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Linderud",
+			"uid": "b3f19322290410696e3e1b54",
+			"x": 1206593.61,
+			"y": 8349301.53
+		},
+		{
+			"is_practical": 0,
+			"name": "Veitvet",
+			"uid": "bd67df3296275777c06c1454",
+			"x": 1207459.04,
+			"y": 8350041.37
+		},
+		{
+			"is_practical": 0,
+			"name": "Rodtvet",
+			"uid": "fe776011d139f925c8291554",
+			"x": 1208771.52,
+			"y": 8351564.8
+		},
+		{
+			"is_practical": 0,
+			"name": "Kalbakken",
+			"uid": "4054270f7f6bf160f5b91654",
+			"x": 1209657.74,
+			"y": 8352194.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Ammerud",
+			"uid": "044a895d772eccf023f01754",
+			"x": 1210216.03,
+			"y": 8353058.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Grorud",
+			"uid": "ab1881184abe1ab9f5231054",
+			"x": 1211405.07,
+			"y": 8353810.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Romsas",
+			"uid": "a45dbc889cf7cc6a1c1d1154",
+			"x": 1212356.22,
+			"y": 8353982.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Rommen",
+			"uid": "98cd6ac14a24255432621254",
+			"x": 1214420.71,
+			"y": 8354004.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Stovner",
+			"uid": "4d84bc12a31a0b2bfa221354",
+			"x": 1215982.89,
+			"y": 8353989.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Vestli",
+			"uid": "9a57552c8d65c36b82a00c54",
+			"x": 1216670.35,
+			"y": 8356154.85
+		}]
+	},
+	{
+		"line_name": "Line 2(Osteras-Ellingsrudasen)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Osteras",
+			"uid": "4316b3133da7fcbc87420e54",
+			"x": 1181071.32,
+			"y": 8348908.91
+		},
+		{
+			"is_practical": 1,
+			"name": "Lijordet",
+			"uid": "8856cb917af2be0baf080f54",
+			"x": 1181838.97,
+			"y": 8349265.4
+		},
+		{
+			"is_practical": 1,
+			"name": "Eiksmarka",
+			"uid": "f1d48cc4384596412eb90854",
+			"x": 1182564.49,
+			"y": 8350594.68
+		},
+		{
+			"is_practical": 1,
+			"name": "Ekraveien",
+			"uid": "b181ce73100f17f061180954",
+			"x": 1184130.24,
+			"y": 8351338.13
+		},
+		{
+			"is_practical": 1,
+			"name": "Roa",
+			"uid": "f236e63991be585133870a54",
+			"x": 1184950.75,
+			"y": 8350540.95
+		},
+		{
+			"is_practical": 1,
+			"name": "Hovseter",
+			"uid": "d97c6788de1f0ace70210b54",
+			"x": 1186042.64,
+			"y": 8350455.83
+		},
+		{
+			"is_practical": 1,
+			"name": "Holmen",
+			"uid": "59cd28298c80496886330454",
+			"x": 1187531.32,
+			"y": 8350379.71
+		},
+		{
+			"is_practical": 1,
+			"name": "Makrellbekken",
+			"uid": "196c7ab6cf26bf7a14c90554",
+			"x": 1188219.26,
+			"y": 8349440.07
+		},
+		{
+			"is_practical": 1,
+			"name": "Smestad",
+			"uid": "4af3391039342d808afc0654",
+			"x": 1189295.93,
+			"y": 8348458.35
+		},
+		{
+			"is_practical": 1,
+			"name": "Borgen",
+			"uid": "0a55cf02abceb3b597ca0754",
+			"x": 1190614.49,
+			"y": 8347865.37
+		},
+		{
+			"is_practical": 0,
+			"name": "Majorstuen",
+			"uid": "fd475df835fbae831c580054",
+			"x": 1192743.98,
+			"y": 8346934.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Nationaltheatret",
+			"uid": "68bdc3cd28cd251102ec0154",
+			"x": 1194944.84,
+			"y": 8343487.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Stortinget",
+			"uid": "f788defba35f3ba55c0d0254",
+			"x": 1195673.41,
+			"y": 8343089.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Jernbanetorget",
+			"uid": "e9be5569bdeb6544e1110354",
+			"x": 1196861.69,
+			"y": 8342888.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Greenland",
+			"uid": "632c4bdde30ad8582ab97c54",
+			"x": 1197829.11,
+			"y": 8342989.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Toyen",
+			"uid": "8298153c5e1613f0b3077d54",
+			"x": 1199607.14,
+			"y": 8343530.02
+		},
+		{
+			"is_practical": 0,
+			"name": "A sea",
+			"uid": "dd79a82095be8a4e2db17e54",
+			"x": 1200926.54,
+			"y": 8343215.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Helsfyr",
+			"uid": "636563880c0014f8b7147f54",
+			"x": 1202426.45,
+			"y": 8342990.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Brynseng",
+			"uid": "a9cdfa3692b68e5dffa77854",
+			"x": 1203688.55,
+			"y": 8342209.72
+		},
+		{
+			"is_practical": 1,
+			"name": "Hellerud",
+			"uid": "377364800813c6ee9ef77954",
+			"x": 1205678.89,
+			"y": 8342428.28
+		},
+		{
+			"is_practical": 1,
+			"name": "Tveita",
+			"uid": "a8c5fe2540a0a7beadee7a54",
+			"x": 1206902.48,
+			"y": 8343265.78
+		},
+		{
+			"is_practical": 1,
+			"name": "Haugerud",
+			"uid": "3160b69621f094a72de67b54",
+			"x": 1208390.32,
+			"y": 8345184.44
+		},
+		{
+			"is_practical": 1,
+			"name": "Trosterud",
+			"uid": "78d3d7c612e914af44e27454",
+			"x": 1209391.72,
+			"y": 8346193.94
+		},
+		{
+			"is_practical": 1,
+			"name": "Lindeberg",
+			"uid": "1683e4df92e17dabc71b7554",
+			"x": 1211468.03,
+			"y": 8347525
+		},
+		{
+			"is_practical": 1,
+			"name": "Furuset",
+			"uid": "249a64d7fbe5fe527fc87654",
+			"x": 1213054.42,
+			"y": 8349384.55
+		},
+		{
+			"is_practical": 1,
+			"name": "Ellingsrudasen",
+			"uid": "a7920dd3781c4681f70e7754",
+			"x": 1215248.31,
+			"y": 8348278.02
+		}]
+	},
+	{
+		"line_name": "Line 3(Kolsas-Mortensrud)",
+		"stops": [{
+			"is_practical": 1,
+			"name": "Kolsas",
+			"uid": "4b6f36f948093743353a7154",
+			"x": 1168959.28,
+			"y": 8343478.58
+		},
+		{
+			"is_practical": 1,
+			"name": "Hauger",
+			"uid": "f2bcbe3fb10d0c7303897254",
+			"x": 1170108.92,
+			"y": 8342603.84
+		},
+		{
+			"is_practical": 1,
+			"name": "Gjettum",
+			"uid": "797a473b8a3d3ac08adb7354",
+			"x": 1172258.57,
+			"y": 8342075.44
+		},
+		{
+			"is_practical": 1,
+			"name": "Avlos",
+			"uid": "817e7c0bbc8eb39234b06c54",
+			"x": 1174259.22,
+			"y": 8343098.71
+		},
+		{
+			"is_practical": 1,
+			"name": "Haslum",
+			"uid": "a54e4ab835dc0df92eb96d54",
+			"x": 1175741.77,
+			"y": 8343496.28
+		},
+		{
+			"is_practical": 1,
+			"name": "Gjonnes",
+			"uid": "92fdc3ea8bb717f04c776e54",
+			"x": 1177905.96,
+			"y": 8343438.86
+		},
+		{
+			"is_practical": 1,
+			"name": "Bekkestua",
+			"uid": "18af7d8191be753e06026f54",
+			"x": 1178833.79,
+			"y": 8343997.49
+		},
+		{
+			"is_practical": 1,
+			"name": "Ringstabekk",
+			"uid": "a7c46788f3703f4b9f9d6854",
+			"x": 1180140.53,
+			"y": 8344673.46
+		},
+		{
+			"is_practical": 1,
+			"name": "Jar",
+			"uid": "bacd0546b905a6d476026954",
+			"x": 1182108.15,
+			"y": 8345970.86
+		},
+		{
+			"is_practical": 1,
+			"name": "Bjornsletta",
+			"uid": "d9034f33209a4f4bb15c6a54",
+			"x": 1183745,
+			"y": 8345994.53
+		},
+		{
+			"is_practical": 1,
+			"name": "Asjordet",
+			"uid": "9076d6acc90588150d0e6b54",
+			"x": 1185172.24,
+			"y": 8346571.48
+		},
+		{
+			"is_practical": 1,
+			"name": "Ullernasen",
+			"uid": "08e93f330e5b3447a0046454",
+			"x": 1186231.44,
+			"y": 8347162.77
+		},
+		{
+			"is_practical": 1,
+			"name": "Montebello",
+			"uid": "ee76f86db209994de7e96554",
+			"x": 1187356.6,
+			"y": 8347877.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Smestad",
+			"uid": "2828443f1f03dea0accb6654",
+			"x": 1189295.93,
+			"y": 8348458.35
+		},
+		{
+			"is_practical": 0,
+			"name": "Borgen",
+			"uid": "977ae93558ee9582611c6754",
+			"x": 1190614.49,
+			"y": 8347865.37
+		},
+		{
+			"is_practical": 0,
+			"name": "Majorstuen",
+			"uid": "3b70aed813cc58556d476054",
+			"x": 1192743.98,
+			"y": 8346934.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Nationaltheatret",
+			"uid": "7b9de5fade1b540ef92d6154",
+			"x": 1194944.84,
+			"y": 8343487.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Stortinget",
+			"uid": "31bf282dd240c06420026254",
+			"x": 1195673.41,
+			"y": 8343089.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Jernbanetorget",
+			"uid": "ff682476462a194bb9bd6354",
+			"x": 1196861.69,
+			"y": 8342888.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Greenland",
+			"uid": "f233b01c9f0580f47bb55c54",
+			"x": 1197829.11,
+			"y": 8342989.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Toyen",
+			"uid": "5959693306ba42fc8af15d54",
+			"x": 1199607.14,
+			"y": 8343530.02
+		},
+		{
+			"is_practical": 0,
+			"name": "A sea",
+			"uid": "8176f08cc4b2b3b83e9a5e54",
+			"x": 1200926.54,
+			"y": 8343215.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Helsfyr",
+			"uid": "1bc9328435f607d3cbfa5f54",
+			"x": 1202426.45,
+			"y": 8342990.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Brynseng",
+			"uid": "d8c1c3c0819df2b360685854",
+			"x": 1203688.55,
+			"y": 8342209.72
+		},
+		{
+			"is_practical": 0,
+			"name": "Hellerud",
+			"uid": "2e8577ab74fd59214e3a5954",
+			"x": 1205678.89,
+			"y": 8342428.28
+		},
+		{
+			"is_practical": 1,
+			"name": "Godlia",
+			"uid": "9bee82cbdf6f7773a9175a54",
+			"x": 1206271.45,
+			"y": 8341697.63
+		},
+		{
+			"is_practical": 1,
+			"name": "Skoyenasen",
+			"uid": "6d8e2959f13d905e73455b54",
+			"x": 1206346.07,
+			"y": 8339982.6
+		},
+		{
+			"is_practical": 1,
+			"name": "Oppsal",
+			"uid": "c71c070b16104a0cb44f5454",
+			"x": 1206756.56,
+			"y": 8338571.82
+		},
+		{
+			"is_practical": 1,
+			"name": "Ulsrud",
+			"uid": "e64ee026cc428d06b6265554",
+			"x": 1207772.63,
+			"y": 8337867.16
+		},
+		{
+			"is_practical": 1,
+			"name": "Boler",
+			"uid": "00633a740b488f6fa6c75654",
+			"x": 1207304.75,
+			"y": 8336688.87
+		},
+		{
+			"is_practical": 1,
+			"name": "Bogerud",
+			"uid": "d931fd7e09219f8eaf045754",
+			"x": 1206935.22,
+			"y": 8334812.4
+		},
+		{
+			"is_practical": 1,
+			"name": "Skullerud",
+			"uid": "1f3bff1719c0964d9b005054",
+			"x": 1206711.32,
+			"y": 8332712.72
+		},
+		{
+			"is_practical": 1,
+			"name": "Mortensrud",
+			"uid": "1a52eff61003a249c41e5154",
+			"x": 1205563.19,
+			"y": 8328956.17
+		}]
+	},
+	{
+		"line_name": "Line 3(Mortensrud-Kolsas)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Mortensrud",
+			"uid": "0170d2317b19e457ebf85354",
+			"x": 1205563.19,
+			"y": 8328956.17
+		},
+		{
+			"is_practical": 0,
+			"name": "Skullerud",
+			"uid": "34748d2f6219d2b192114c54",
+			"x": 1206711.32,
+			"y": 8332712.72
+		},
+		{
+			"is_practical": 0,
+			"name": "Bogerud",
+			"uid": "746a942f54ffab581cf74d54",
+			"x": 1206935.22,
+			"y": 8334812.4
+		},
+		{
+			"is_practical": 0,
+			"name": "Boler",
+			"uid": "6c6aa2c92d1625bed7b74e54",
+			"x": 1207304.75,
+			"y": 8336688.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Ulsrud",
+			"uid": "598cdb20a3f0eefe00294f54",
+			"x": 1207772.63,
+			"y": 8337867.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Oppsal",
+			"uid": "216555c668b039602bfc4854",
+			"x": 1206756.56,
+			"y": 8338571.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Skoyenasen",
+			"uid": "a8839e86bf2e12b5b14c4954",
+			"x": 1206346.07,
+			"y": 8339982.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Godlia",
+			"uid": "62c3491894fb88054acc4a54",
+			"x": 1206271.45,
+			"y": 8341697.63
+		},
+		{
+			"is_practical": 0,
+			"name": "Hellerud",
+			"uid": "b65d62cd0e4b738515b54b54",
+			"x": 1205678.89,
+			"y": 8342428.28
+		},
+		{
+			"is_practical": 0,
+			"name": "Brynseng",
+			"uid": "9c88f87df5cb2cfcc2364454",
+			"x": 1203688.55,
+			"y": 8342209.72
+		},
+		{
+			"is_practical": 0,
+			"name": "Helsfyr",
+			"uid": "093803fdaab2fb7f41024554",
+			"x": 1202426.45,
+			"y": 8342990.34
+		},
+		{
+			"is_practical": 0,
+			"name": "A sea",
+			"uid": "f3b85c847d31784b4d6d4654",
+			"x": 1200926.54,
+			"y": 8343215.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Toyen",
+			"uid": "afc18b07fe0574244c554754",
+			"x": 1199607.14,
+			"y": 8343530.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Greenland",
+			"uid": "79420833f26a751cbca24054",
+			"x": 1197829.11,
+			"y": 8342989.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Jernbanetorget",
+			"uid": "fd76045cf35285eb85154154",
+			"x": 1196861.69,
+			"y": 8342888.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Stortinget",
+			"uid": "f019056403a5bc5cbc484254",
+			"x": 1195673.41,
+			"y": 8343089.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Nationaltheatret",
+			"uid": "f221f5933a12850117764354",
+			"x": 1194944.84,
+			"y": 8343487.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Majorstuen",
+			"uid": "03d6cc24034f2e3f58bbbc55",
+			"x": 1192743.98,
+			"y": 8346934.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Borgen",
+			"uid": "4561f579a87161f27e29bd55",
+			"x": 1190614.49,
+			"y": 8347865.37
+		},
+		{
+			"is_practical": 0,
+			"name": "Smestad",
+			"uid": "7d3c5e47e7bc47605af6be55",
+			"x": 1189295.93,
+			"y": 8348458.35
+		},
+		{
+			"is_practical": 0,
+			"name": "Montebello",
+			"uid": "d502118ac12e63bf8405bf55",
+			"x": 1187356.6,
+			"y": 8347877.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Ullernasen",
+			"uid": "9bcf3718e5f1bd4cf703b855",
+			"x": 1186231.44,
+			"y": 8347162.77
+		},
+		{
+			"is_practical": 0,
+			"name": "Asjordet",
+			"uid": "ba5d13c73b02ce4a6c20b955",
+			"x": 1185172.24,
+			"y": 8346571.48
+		},
+		{
+			"is_practical": 0,
+			"name": "Bjornsletta",
+			"uid": "9f82cd3448045569f23cba55",
+			"x": 1183745,
+			"y": 8345994.53
+		},
+		{
+			"is_practical": 0,
+			"name": "Jar",
+			"uid": "4271be32d327cb7527d2bb55",
+			"x": 1182108.15,
+			"y": 8345970.86
+		},
+		{
+			"is_practical": 0,
+			"name": "Ringstabekk",
+			"uid": "307725114d3b1e9b9968b455",
+			"x": 1180140.53,
+			"y": 8344673.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Bekkestua",
+			"uid": "a454bb0d98d5a0218a2fb555",
+			"x": 1178833.79,
+			"y": 8343997.49
+		},
+		{
+			"is_practical": 0,
+			"name": "Gjonnes",
+			"uid": "3b486ee3266fb36677e5b655",
+			"x": 1177905.96,
+			"y": 8343438.86
+		},
+		{
+			"is_practical": 0,
+			"name": "Haslum",
+			"uid": "eda6d05935284eacd718b755",
+			"x": 1175741.77,
+			"y": 8343496.28
+		},
+		{
+			"is_practical": 0,
+			"name": "Avlos",
+			"uid": "521cc31ec8e2ee51ff0eb055",
+			"x": 1174259.22,
+			"y": 8343098.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Gjettum",
+			"uid": "465b3ed4681fc6473804b155",
+			"x": 1172258.57,
+			"y": 8342075.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Hauger",
+			"uid": "ba919e294009014dfb42b255",
+			"x": 1170108.92,
+			"y": 8342603.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Kolsas",
+			"uid": "196cb63f8703c20b0b5cb355",
+			"x": 1168959.28,
+			"y": 8343478.58
+		}]
+	},
+	{
+		"line_name": "Line 5(Vestli-Sognsvann)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Vestli",
+			"uid": "e870b273b45bfb1ff80cad55",
+			"x": 1216670.35,
+			"y": 8356154.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Stovner",
+			"uid": "2a36426d7d51c145374aae55",
+			"x": 1215982.89,
+			"y": 8353989.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Rommen",
+			"uid": "d9288b67470b0e033210af55",
+			"x": 1214420.71,
+			"y": 8354004.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Romsas",
+			"uid": "1122b13d884d0b59b120a855",
+			"x": 1212356.22,
+			"y": 8353982.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Grorud",
+			"uid": "2c787e7b8d1788696040a955",
+			"x": 1211405.07,
+			"y": 8353810.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Ammerud",
+			"uid": "e23e7b210e275909110daa55",
+			"x": 1210216.03,
+			"y": 8353058.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Kalbakken",
+			"uid": "e464f811df4728442ad7ab55",
+			"x": 1209657.74,
+			"y": 8352194.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Rodtvet",
+			"uid": "66542971ae0a139ece06a455",
+			"x": 1208771.52,
+			"y": 8351564.8
+		},
+		{
+			"is_practical": 0,
+			"name": "Veitvet",
+			"uid": "b834583c95d0f74fefe4a555",
+			"x": 1207459.04,
+			"y": 8350041.37
+		},
+		{
+			"is_practical": 0,
+			"name": "Linderud",
+			"uid": "c87963e67101d6ad39e4a655",
+			"x": 1206593.61,
+			"y": 8349301.53
+		},
+		{
+			"is_practical": 0,
+			"name": "Vollebekk",
+			"uid": "f0a3873750e300ad2cfaa755",
+			"x": 1205744.02,
+			"y": 8348187.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Rislokka",
+			"uid": "1572a6d586e315b324e0a055",
+			"x": 1204784.61,
+			"y": 8347366.92
+		},
+		{
+			"is_practical": 0,
+			"name": "Okern",
+			"uid": "339070d593fd1da9c62ba155",
+			"x": 1202848.56,
+			"y": 8346425.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Hasle",
+			"uid": "e49065cb9be7ff62c07da255",
+			"x": 1201583.22,
+			"y": 8345551.19
+		},
+		{
+			"is_practical": 0,
+			"name": "Carl Berners plass",
+			"uid": "f28e6dd1792cf934912ca355",
+			"x": 1199971.47,
+			"y": 8345884.58
+		},
+		{
+			"is_practical": 0,
+			"name": "Toyen",
+			"uid": "fb948f1a7f7aa865f7c59c55",
+			"x": 1199607.14,
+			"y": 8343530.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Greenland",
+			"uid": "265f894c2e2bce8caa059d55",
+			"x": 1197829.11,
+			"y": 8342989.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Jernbanetorget",
+			"uid": "2109d81d48c2934cd3f49e55",
+			"x": 1196861.69,
+			"y": 8342888.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Stortinget",
+			"uid": "7358bef41502eabd293a9f55",
+			"x": 1195673.41,
+			"y": 8343089.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Nationaltheatret",
+			"uid": "14b1e3346cf31073266e9855",
+			"x": 1194944.84,
+			"y": 8343487.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Majorstuen",
+			"uid": "4e719ac5963d1f271ee99955",
+			"x": 1192743.98,
+			"y": 8346934.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Blindern",
+			"uid": "3680600b996927a041ab9a55",
+			"x": 1192927.24,
+			"y": 8349099.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Forskningsparken",
+			"uid": "cf4e6f5fa1ee78e232169b55",
+			"x": 1193435.28,
+			"y": 8349856.59
+		},
+		{
+			"is_practical": 0,
+			"name": "Ulleval stadion",
+			"uid": "c11a57d8feac0b5f1d389455",
+			"x": 1194695.37,
+			"y": 8350544.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Nydalen",
+			"uid": "f69d089a8d112471cb1b9555",
+			"x": 1198607.62,
+			"y": 8351160.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Storo",
+			"uid": "a8df7b27a23ff2527af79655",
+			"x": 1199854.81,
+			"y": 8350100.58
+		},
+		{
+			"is_practical": 0,
+			"name": "Sinsen",
+			"uid": "d8625409741c43beea1e9755",
+			"x": 1200276.72,
+			"y": 8348493.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Carl Berners plass",
+			"uid": "f64c822ac5f0d35717a19055",
+			"x": 1199971.47,
+			"y": 8345884.58
+		},
+		{
+			"is_practical": 0,
+			"name": "Toyen",
+			"uid": "276f33c655192ee8dad89155",
+			"x": 1199607.14,
+			"y": 8343530.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Greenland",
+			"uid": "9783a32fa8a6e39141e19255",
+			"x": 1197829.11,
+			"y": 8342989.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Jernbanetorget",
+			"uid": "046a5e9065df78a85a109355",
+			"x": 1196861.69,
+			"y": 8342888.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Stortinget",
+			"uid": "f8d593e9fee6635997f08c55",
+			"x": 1195673.41,
+			"y": 8343089.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Nationaltheatret",
+			"uid": "2aac08d0e517aeb948fc8d55",
+			"x": 1194944.84,
+			"y": 8343487.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Majorstuen",
+			"uid": "b095132128f771b516948e55",
+			"x": 1192743.98,
+			"y": 8346934.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Blindern",
+			"uid": "a864dec1f7fb2fddbbdf8f55",
+			"x": 1192927.24,
+			"y": 8349099.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Forskningsparken",
+			"uid": "648401cda993829689b98855",
+			"x": 1193435.28,
+			"y": 8349856.59
+		},
+		{
+			"is_practical": 0,
+			"name": "Ulleval stadion",
+			"uid": "bc885fa504d8b0f08d1a8955",
+			"x": 1194695.37,
+			"y": 8350544.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Berg",
+			"uid": "e3e0f2ee36beb45380288a55",
+			"x": 1196132,
+			"y": 8351552.47
+		},
+		{
+			"is_practical": 0,
+			"name": "Tasen",
+			"uid": "4dabc088321db961dcee8b55",
+			"x": 1196954.95,
+			"y": 8352097.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Osthorn",
+			"uid": "7ecdc42b3f2fe5a796ec8455",
+			"x": 1196717.86,
+			"y": 8352737.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Holstein",
+			"uid": "756ec91963e9afa5fadc8555",
+			"x": 1195620.64,
+			"y": 8353627.95
+		},
+		{
+			"is_practical": 0,
+			"name": "Kringsja",
+			"uid": "795c95df29ebc3955ebe8655",
+			"x": 1195001.15,
+			"y": 8354440
+		},
+		{
+			"is_practical": 0,
+			"name": "Sognsvann",
+			"uid": "269adfdd45db67f7714b8755",
+			"x": 1194904.61,
+			"y": 8355153.69
+		}]
+	},
+	{
+		"line_name": "Line 2(Ellingsrudasen-Osteras)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Ellingsrudasen",
+			"uid": "06a8178fce4c4917b03c8155",
+			"x": 1215248.31,
+			"y": 8348278.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Furuset",
+			"uid": "a3ca387acf598975e9e58255",
+			"x": 1213054.42,
+			"y": 8349384.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Lindeberg",
+			"uid": "8f3f396f0f3bd0acf12d8355",
+			"x": 1211468.03,
+			"y": 8347525
+		},
+		{
+			"is_practical": 0,
+			"name": "Trosterud",
+			"uid": "8f2af90d56e2c864f5eafc55",
+			"x": 1209391.72,
+			"y": 8346193.94
+		},
+		{
+			"is_practical": 0,
+			"name": "Haugerud",
+			"uid": "b049a0d44e2acca33813fd55",
+			"x": 1208390.32,
+			"y": 8345184.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Tveita",
+			"uid": "e890b81c4aed015a5ed4fe55",
+			"x": 1206902.48,
+			"y": 8343265.78
+		},
+		{
+			"is_practical": 0,
+			"name": "Hellerud",
+			"uid": "f358bcdb8714679d55bfff55",
+			"x": 1205678.89,
+			"y": 8342428.28
+		},
+		{
+			"is_practical": 0,
+			"name": "Brynseng",
+			"uid": "f69f7122e1d36cf6ef74f855",
+			"x": 1203688.55,
+			"y": 8342209.72
+		},
+		{
+			"is_practical": 0,
+			"name": "Helsfyr",
+			"uid": "3c6617e5eab8d63de315f955",
+			"x": 1202426.45,
+			"y": 8342990.34
+		},
+		{
+			"is_practical": 0,
+			"name": "A sea",
+			"uid": "5ba11c8e5073da5cea56fa55",
+			"x": 1200926.54,
+			"y": 8343215.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Toyen",
+			"uid": "53caa6455c12d31fc7effb55",
+			"x": 1199607.14,
+			"y": 8343530.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Greenland",
+			"uid": "e801aa245551fea63786f455",
+			"x": 1197829.11,
+			"y": 8342989.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Jernbanetorget",
+			"uid": "eb60a36778e80ecf05fef555",
+			"x": 1196861.69,
+			"y": 8342888.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Stortinget",
+			"uid": "e3238ede88813cb716c8f655",
+			"x": 1195673.41,
+			"y": 8343089.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Nationaltheatret",
+			"uid": "cd9a7eb7baf92f819e09f755",
+			"x": 1194944.84,
+			"y": 8343487.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Majorstuen",
+			"uid": "3cf34ccfa9cfa740cb09f055",
+			"x": 1192743.98,
+			"y": 8346934.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Borgen",
+			"uid": "098b5ff9210ef240754ff155",
+			"x": 1190614.49,
+			"y": 8347865.37
+		},
+		{
+			"is_practical": 0,
+			"name": "Smestad",
+			"uid": "1bbdd738740e4c06203bf255",
+			"x": 1189295.93,
+			"y": 8348458.35
+		},
+		{
+			"is_practical": 0,
+			"name": "Makrellbekken",
+			"uid": "907c8238ca4819726949f355",
+			"x": 1188219.26,
+			"y": 8349440.07
+		},
+		{
+			"is_practical": 0,
+			"name": "Holmen",
+			"uid": "c47c3c7e9f3c50008d55ec55",
+			"x": 1187531.32,
+			"y": 8350379.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Hovseter",
+			"uid": "653a690ad64eb41cdaeced55",
+			"x": 1186042.64,
+			"y": 8350455.83
+		},
+		{
+			"is_practical": 0,
+			"name": "Roa",
+			"uid": "314e20783252e3a58b36ee55",
+			"x": 1184950.75,
+			"y": 8350540.95
+		},
+		{
+			"is_practical": 0,
+			"name": "Ekraveien",
+			"uid": "7b3cc46465ebb27fcc04ef55",
+			"x": 1184130.24,
+			"y": 8351338.13
+		},
+		{
+			"is_practical": 0,
+			"name": "Eiksmarka",
+			"uid": "9e2093dd3431f54d057ce855",
+			"x": 1182564.49,
+			"y": 8350594.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Lijordet",
+			"uid": "ce99c20773033c35a31de955",
+			"x": 1181838.97,
+			"y": 8349265.4
+		},
+		{
+			"is_practical": 0,
+			"name": "Osteras",
+			"uid": "9e438535ba7b9a549c82ea55",
+			"x": 1181071.32,
+			"y": 8348908.91
+		}]
+	},
+	{
+		"line_name": "Line 4(Vestli-Bergkrystallen)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Vestli",
+			"uid": "1209ea2c238530bcea12e455",
+			"x": 1216670.35,
+			"y": 8356154.85
+		},
+		{
+			"is_practical": 0,
+			"name": "Stovner",
+			"uid": "bb68d5b3b6f2d35bac31e555",
+			"x": 1215982.89,
+			"y": 8353989.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Rommen",
+			"uid": "85f740c45515957842afe655",
+			"x": 1214420.71,
+			"y": 8354004.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Romsas",
+			"uid": "1380a32313367be6b917e755",
+			"x": 1212356.22,
+			"y": 8353982.71
+		},
+		{
+			"is_practical": 0,
+			"name": "Grorud",
+			"uid": "f167e500fda8805e9022e055",
+			"x": 1211405.07,
+			"y": 8353810.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Ammerud",
+			"uid": "b0440b9e0610a96b2802e155",
+			"x": 1210216.03,
+			"y": 8353058.82
+		},
+		{
+			"is_practical": 0,
+			"name": "Kalbakken",
+			"uid": "5fdaf0262f25114bd52ce255",
+			"x": 1209657.74,
+			"y": 8352194.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Rodtvet",
+			"uid": "a762d9139705ec65d33ce355",
+			"x": 1208771.52,
+			"y": 8351564.8
+		},
+		{
+			"is_practical": 0,
+			"name": "Veitvet",
+			"uid": "8f5761336a2bea753717dc55",
+			"x": 1207459.04,
+			"y": 8350041.37
+		},
+		{
+			"is_practical": 0,
+			"name": "Linderud",
+			"uid": "08779c1d6c3b0e5e09ccdd55",
+			"x": 1206593.61,
+			"y": 8349301.53
+		},
+		{
+			"is_practical": 0,
+			"name": "Vollebekk",
+			"uid": "f4599a0d881030859f95de55",
+			"x": 1205744.02,
+			"y": 8348187.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Rislokka",
+			"uid": "f1497e26b6cba6dc4f2fdf55",
+			"x": 1204784.61,
+			"y": 8347366.92
+		},
+		{
+			"is_practical": 0,
+			"name": "Okern",
+			"uid": "146240fd20927666a90dd855",
+			"x": 1202848.56,
+			"y": 8346425.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Loren",
+			"uid": "2db9d6a4f02890440969d955",
+			"x": 1201325.86,
+			"y": 8346736.89
+		},
+		{
+			"is_practical": 0,
+			"name": "Sinsen",
+			"uid": "bae0061e160a30200c3dda55",
+			"x": 1200276.72,
+			"y": 8348493.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Storo",
+			"uid": "695ae03cb66e3574c8c3db55",
+			"x": 1199854.81,
+			"y": 8350100.58
+		},
+		{
+			"is_practical": 0,
+			"name": "Nydalen",
+			"uid": "8e784058b33af18a08a8d455",
+			"x": 1198607.62,
+			"y": 8351160.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Ulleval stadion",
+			"uid": "211c450c77c431e11911d555",
+			"x": 1194695.37,
+			"y": 8350544.76
+		},
+		{
+			"is_practical": 0,
+			"name": "Forskningsparken",
+			"uid": "254881f2b7af2058d02dd655",
+			"x": 1193435.28,
+			"y": 8349856.59
+		},
+		{
+			"is_practical": 0,
+			"name": "Blindern",
+			"uid": "e2b64199a616e9644154d755",
+			"x": 1192927.24,
+			"y": 8349099.55
+		},
+		{
+			"is_practical": 0,
+			"name": "Majorstuen",
+			"uid": "23dd50206f2a781d240bd055",
+			"x": 1192743.98,
+			"y": 8346934.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Nationaltheatret",
+			"uid": "3564991cfe531d422911d155",
+			"x": 1194944.84,
+			"y": 8343487.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Stortinget",
+			"uid": "fd5808659b0c105878dbd255",
+			"x": 1195673.41,
+			"y": 8343089.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Jernbanetorget",
+			"uid": "6f216d3a961641927269d355",
+			"x": 1196861.69,
+			"y": 8342888.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Greenland",
+			"uid": "0b7e6020c7dc4b206da3cc55",
+			"x": 1197829.11,
+			"y": 8342989.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Toyen",
+			"uid": "196431eacd6e54eaaaf0cd55",
+			"x": 1199607.14,
+			"y": 8343530.02
+		},
+		{
+			"is_practical": 0,
+			"name": "A sea",
+			"uid": "49ae3b58d2a493b92a06ce55",
+			"x": 1200926.54,
+			"y": 8343215.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Helsfyr",
+			"uid": "401c249215f7134fc3f1cf55",
+			"x": 1202426.45,
+			"y": 8342990.34
+		},
+		{
+			"is_practical": 0,
+			"name": "Brynseng",
+			"uid": "5ed6e3c19501fab8583ac855",
+			"x": 1203688.55,
+			"y": 8342209.72
+		},
+		{
+			"is_practical": 0,
+			"name": "Hoyenhall",
+			"uid": "9e8563377cf66173911fc955",
+			"x": 1204410.95,
+			"y": 8341570.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Manglerud",
+			"uid": "1f738ac0e73da856efdfca55",
+			"x": 1203644.18,
+			"y": 8339705.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Ryen",
+			"uid": "f584110b2e18d696f9f0cb55",
+			"x": 1202882.83,
+			"y": 8339254.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Brattlikollen",
+			"uid": "6f4fd82e50d8c0b9a1acc455",
+			"x": 1202379.4,
+			"y": 8337381.25
+		},
+		{
+			"is_practical": 0,
+			"name": "Karlsrud",
+			"uid": "a96aa6ee46f798e550e5c555",
+			"x": 1202875.65,
+			"y": 8335803.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Lamberseter",
+			"uid": "d6aab0c11eab69ac1a94c655",
+			"x": 1203373.91,
+			"y": 8334263.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Munkelia",
+			"uid": "c385e89defe223dd0a1cc755",
+			"x": 1203678.49,
+			"y": 8333272.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Bergkrystallen",
+			"uid": "9ad919d4a59333554351c055",
+			"x": 1204640.5,
+			"y": 8332923.41
+		}]
+	},
+	{
+		"line_name": "Line 1(Bergkrystallen-Frognerseteren)",
+		"stops": [{
+			"is_practical": 0,
+			"name": "Bergkrystallen",
+			"uid": "27e1432dfc56794e0582c255",
+			"x": 1204640.5,
+			"y": 8332923.41
+		},
+		{
+			"is_practical": 0,
+			"name": "Munkelia",
+			"uid": "34690a60ff003ccb5c17c355",
+			"x": 1203678.49,
+			"y": 8333272.75
+		},
+		{
+			"is_practical": 0,
+			"name": "Lamberseter",
+			"uid": "7c240936ba85655ecbe33c55",
+			"x": 1203373.91,
+			"y": 8334263.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Karlsrud",
+			"uid": "00724cb3e310f2aaca213d55",
+			"x": 1202875.65,
+			"y": 8335803.87
+		},
+		{
+			"is_practical": 0,
+			"name": "Brattlikollen",
+			"uid": "44f7152674e4f36840d63e55",
+			"x": 1202379.4,
+			"y": 8337381.25
+		},
+		{
+			"is_practical": 0,
+			"name": "Ryen",
+			"uid": "1e6282d27526799f48fd3f55",
+			"x": 1202882.83,
+			"y": 8339254.23
+		},
+		{
+			"is_practical": 0,
+			"name": "Manglerud",
+			"uid": "88968310ffd171b4e4073855",
+			"x": 1203644.18,
+			"y": 8339705.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Hoyenhall",
+			"uid": "8e5409e7f7fadd4ea4da3955",
+			"x": 1204410.95,
+			"y": 8341570.6
+		},
+		{
+			"is_practical": 0,
+			"name": "Brynseng",
+			"uid": "05a301cc5b009d930bb93a55",
+			"x": 1203688.55,
+			"y": 8342209.72
+		},
+		{
+			"is_practical": 0,
+			"name": "Helsfyr",
+			"uid": "0e88ad361bdd32f0f6e73b55",
+			"x": 1202426.45,
+			"y": 8342990.34
+		},
+		{
+			"is_practical": 0,
+			"name": "A sea",
+			"uid": "a372edebb4becfaea3a93455",
+			"x": 1200926.54,
+			"y": 8343215.62
+		},
+		{
+			"is_practical": 0,
+			"name": "Toyen",
+			"uid": "ecaf428849e09ae012293555",
+			"x": 1199607.14,
+			"y": 8343530.02
+		},
+		{
+			"is_practical": 0,
+			"name": "Greenland",
+			"uid": "42ccbfd61cae2b60b31e3655",
+			"x": 1197829.11,
+			"y": 8342989.88
+		},
+		{
+			"is_practical": 0,
+			"name": "Jernbanetorget",
+			"uid": "bc92ea98ad2e8a57f3193755",
+			"x": 1196861.69,
+			"y": 8342888.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Stortinget",
+			"uid": "e8dc5b180c19ca50a3d23055",
+			"x": 1195673.41,
+			"y": 8343089.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Nationaltheatret",
+			"uid": "5e5cfa2f4c1e9a9b3de23155",
+			"x": 1194944.84,
+			"y": 8343487.93
+		},
+		{
+			"is_practical": 0,
+			"name": "Majorstuen",
+			"uid": "fe6bba281cd504ab461a3255",
+			"x": 1192743.98,
+			"y": 8346934.24
+		},
+		{
+			"is_practical": 0,
+			"name": "Frog",
+			"uid": "bd6ceae382e57f532f473355",
+			"x": 1192152.83,
+			"y": 8347858.21
+		},
+		{
+			"is_practical": 0,
+			"name": "Steinerud",
+			"uid": "eca774d3f91d160e6dc02c55",
+			"x": 1191609.88,
+			"y": 8348861.3
+		},
+		{
+			"is_practical": 0,
+			"name": "Vindern",
+			"uid": "6d970f2b9040548902ff2d55",
+			"x": 1191660.5,
+			"y": 8349594.46
+		},
+		{
+			"is_practical": 0,
+			"name": "Gaustad",
+			"uid": "176f6676d2c73bb683a12e55",
+			"x": 1192262.87,
+			"y": 8350345.99
+		},
+		{
+			"is_practical": 0,
+			"name": "Ris",
+			"uid": "7d3224f1bdf8bae8b7f42f55",
+			"x": 1191635.85,
+			"y": 8350842.68
+		},
+		{
+			"is_practical": 0,
+			"name": "Slemdal",
+			"uid": "3eb54bce3ca68ebddb2f2855",
+			"x": 1190502.76,
+			"y": 8351478.65
+		},
+		{
+			"is_practical": 0,
+			"name": "Grakammen",
+			"uid": "568aca9008f3e266aaf72955",
+			"x": 1191213.06,
+			"y": 8352335.86
+		},
+		{
+			"is_practical": 1,
+			"name": "Gullerasen",
+			"uid": "d6d4fec5642893beafb22a55",
+			"x": 1190744.61,
+			"y": 8352560.26
+		},
+		{
+			"is_practical": 0,
+			"name": "Vettakollen",
+			"uid": "e181921e15f096fb9eec2b55",
+			"x": 1190653.24,
+			"y": 8353459.11
+		},
+		{
+			"is_practical": 0,
+			"name": "Skadalen",
+			"uid": "8c5ae3c610b5a7a510882455",
+			"x": 1190105.05,
+			"y": 8353894.44
+		},
+		{
+			"is_practical": 0,
+			"name": "Midtstuen",
+			"uid": "f282e68321eb29c1c5f02555",
+			"x": 1189236.17,
+			"y": 8353787.84
+		},
+		{
+			"is_practical": 0,
+			"name": "Besserud",
+			"uid": "f6c7d7ddaf8ffcb944572655",
+			"x": 1188201.63,
+			"y": 8352995.56
+		},
+		{
+			"is_practical": 0,
+			"name": "Holmenkollen",
+			"uid": "c49959b97af77d1e8c772755",
+			"x": 1187012.07,
+			"y": 8353545.11
+		},
+		{
+			"is_practical": 0,
+			"name": "Voksenlia",
+			"uid": "4bfd8cc1fb50b53e20022055",
+			"x": 1186110.97,
+			"y": 8355035.16
+		},
+		{
+			"is_practical": 0,
+			"name": "Skogen",
+			"uid": "99850d663370194b9ce32155",
+			"x": 1185295.88,
+			"y": 8356870.95
+		},
+		{
+			"is_practical": 0,
+			"name": "Lillevann",
+			"uid": "1922c5469f05a5aabea82255",
+			"x": 1185887.07,
+			"y": 8358050.65
+		},
+		{
+			"is_practical": 0,
+			"name": "Voksenkollen",
+			"uid": "d202693323e487e1d1ff2355",
+			"x": 1187269.15,
+			"y": 8357944.05
+		},
+		{
+			"is_practical": 0,
+			"name": "Frognerseteren",
+			"uid": "7f77d5d201afe8b63a221c55",
+			"x": 1188462.28,
+			"y": 8357738.92
+		}]
+	}],
+	"result": {
+		"ccode": "52166",
+		"qt": "bsi"
+	}
+}
