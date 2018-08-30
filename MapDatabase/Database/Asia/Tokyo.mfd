@@ -1,4 +1,4 @@
-{"Version"="MFD0.1"}
+{"Version":"MFD0.1"}
 
 "beijing_station":{
                  "1":{
@@ -38,19 +38,19 @@
 				        "StationsSN":"1"
 						"StationsSN":"23"
 				 }
-				 
-            
+
+
 			                "Line2":{
 				        "StationsSN":"24"
 						"StationsSN":"39"
 
 				 }
-				 
-            
+
+
 			                "Line4":{
 				        "StationsSN":"40"
 						"StationsSN":"41"
 						"StationsSN":"42"
 				 }
-				 
+
             }
